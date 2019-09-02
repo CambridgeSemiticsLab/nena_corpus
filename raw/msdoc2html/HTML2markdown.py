@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# To run pipeline:
+# python HTML2markdown.py dialects/
+
 import sys
 import re
 import collections
