@@ -8,9 +8,6 @@ import sys
 import re
 from pathlib import Path
 from html_to_nena import html_todict
-# for title capitalzation with apostrophes:
-# https://stackoverflow.com/questions/8199966/python-title-with-apostrophes
-import string
 
 # first arg should be directory containing dialect subdirectories
 # ex:
@@ -20,42 +17,10 @@ import string
 dialects = list(Path(sys.argv[1]).glob('*'))
 output = '../../markdown/{dialect}' # markdown files to go here
 
-# configure dialect metadata regex patterns
-# key itself is regex pattern that should match a file name
-# file-based keys are more desireable than dialect keys
-# since regex patterns could theoretically differ from file to file
-patterns = {
-    
-    'bar text .*\.html':
-        {
-            'gp-sectionheading-western': (
-                (('text_id', 'title'),
-                 '^\s*([A-Z]\s*[0-9]+)\s+(.*?)\s*$'),
-            ),
-            'gp-subsectionheading-western': (
-                (('informant', 'place'),
-                 '^\s*Informant:\s+(.*)\s+\((.*)\)\s*$'),
-            ),
-        },
-    
-    'cu vol 4 texts.html':
-        {
-            'gp-sectionheading-western': (
-                (('text_id',),
-                 '^\s*([A-Z]\s*[0-9]+)\s*'),
-            ),
-            'gp-subsectionheading-western': (
-                (('title', 'informant', 'place'),
-                 '^\s*(.*?)\s*\(([^,]*),\s+(.*)\)\s*$'),
-                (('title',),
-                 '^\s*(.*?)\s*$'),
-            ),
-            'gp-subsubsectionheading-western': (
-                (('version', 'informant', 'place'),
-                 '^\s*(Version\s+[0-9]+):\s+(.*?)\s+\((.*)\)\s?$')
-            ),
-    }    
-}
+def is_heading(e):
+    return (e.tag == 'h2'
+            and e.text_content().strip() if e.text_content() else False
+            and e.attrib.get('class', '') == 'gp-sectionheading-western')
 
 # configure character replacements
 replace = {
@@ -75,6 +40,47 @@ replace = {
     # Will have to think of some tests to find them. -HV
 }
 
+# configure data needed to process the given file
+# includes regex patterns and args for converter
+# the key is a regex pattern that matches the file name
+configs = {
+    
+    'bar text .*\.html': {
+        'heading_patterns':
+            {
+            'gp-sectionheading-western': (
+                (('text_id', 'title'),
+                 '^\s*([A-Z]\s*[0-9]+)\s+(.*?)\s*$'),),
+            'gp-subsectionheading-western': (
+                (('informant', 'place'),
+                 '^\s*Informant:\s+(.*)\s+\((.*)\)\s*$'),),
+            },        
+        'is_heading': is_heading,
+        'text_start': is_heading,
+    },
+    
+    'cu vol 4 texts.html': {
+        'heading_patterns':
+            {
+            'gp-sectionheading-western': (
+                (('text_id',),
+                 '^\s*([A-Z]\s*[0-9]+)\s*'),),
+            
+            'gp-subsectionheading-western': (
+                (('title', 'informant', 'place'),
+                 '^\s*(.*?)\s*\(([^,]*),\s+(.*)\)\s*$'),
+                (('title',),
+                 '^\s*(.*?)\s*$'),),
+            
+            'gp-subsubsectionheading-western': (
+                (('version', 'informant', 'place'),
+                 '^\s*(Version\s+[0-9]+):\s+(.*?)\s+\((.*)\)\s?$'),),
+        },
+        'is_heading': is_heading,
+        'text_start': is_heading,
+    }
+}
+
 def exportdialect(textdict, dialect='', out_dir='{dialect}'):
     '''
     Writes texts to disk.
@@ -90,28 +96,20 @@ def exportdialect(textdict, dialect='', out_dir='{dialect}'):
         outfile = Path(outpath, file)
         with open(outfile, 'w') as out:
             out.write(markdown.strip())
-            
-def is_heading(e):
-    '''
-    Tests whether a tag is a heading tag.
-    '''
-    return e.tag == 'h2'
 
 # run the conversion
 for dialect in dialects:
     for file in dialect.glob('*.html'):
         
-        print(file.name)
+        print(f'processing {file.name}')
         
-        file_patts = next(patts for filepatt, patts in patterns.items() 
+        config = next(patts for filepatt, patts in configs.items() 
                             if re.match(filepatt, str(file.name)))
         
         texts = html_todict(
             file,
-            heading_patterns = file_patts,
-            is_heading = is_heading,
-            text_start = is_heading,
             replace = replace,
+            **config
         )
         dialect_name = dialect.name
         exportdialect(texts, dialect=dialect_name, out_dir=output)

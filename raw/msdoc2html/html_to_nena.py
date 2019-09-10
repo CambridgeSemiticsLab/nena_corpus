@@ -147,7 +147,7 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
                 # fix capitalization
                 title = string.capwords(title)
                 
-                print(f'\tprocessing [{title}]')
+                print(f'\tfound [{title}]')
                 
             # update the text fields
             if fields:
@@ -294,6 +294,7 @@ def parse_metadata(e, patterns):
     result = {}
     e_class = e.attrib.get('class', '')
     text = ' '.join(e.text_content().split())
+    
     for keys, pattern in patterns[e_class]:
         try:
             matches = re.match(pattern, text).groups()
