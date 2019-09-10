@@ -7,7 +7,7 @@ The purpose of this repository is to curate source texts that will be used for b
 ## Contents
 
 * [raw](raw) - contains raw, uncorrected source data in its diverse formats
-* [markdown](markdown) - contains processed markdown data converted from the raw formats into NENA-Markdown.
+* [nena](nena) - contains the plain text with mark-up in .nena format 
 
 
 # Markup of Standard Texts of the NENA Corpus
