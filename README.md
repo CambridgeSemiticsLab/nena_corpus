@@ -1,6 +1,6 @@
 # North Eastern Neo-Aramaic Corpus Data
 
-This repository contains raw and corrected source texts written in North Eastern Neo-Aramaic (NENA) dialects. All original source material is converted to a standard markdown format, regardless of its original format.
+This repository contains raw and corrected source texts written in North Eastern Neo-Aramaic (NENA) dialects. All original source material is converted to a standard mark-up format, regardless of its original format.
 
 The purpose of this repository is to curate source texts that will be used for building a complete text corpus in Text-Fabric. The corpus will in turn be analyzed and annotated for linguistic features.
 
