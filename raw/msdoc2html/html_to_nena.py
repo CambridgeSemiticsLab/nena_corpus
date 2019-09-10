@@ -2,6 +2,9 @@ import re
 import collections
 import unicodedata
 import lxml.html
+# for title capitalzation with apostrophes:
+# https://stackoverflow.com/questions/8199966/python-title-with-apostrophes
+import string
 
 
 class Text:
@@ -61,6 +64,7 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
                   text_start=None, text_end=None,
                   e_filter=None, is_heading=None):
     """Convert HTML file to standard NENA text format.
+    Store texts in title:markdown dictionary.
 
     Arguments:
         html_file (str or pathlib.Path): path to HTML file.
@@ -94,8 +98,8 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
         is_heading (function): Function accepting an HtmlELement,
             returning True if it is a heading, or False if not.
 
-    Yields:
-        str: string with text in standard NENA text format.
+    Returns:
+        dict: title:string with text in standard NENA text format.
     """
 
     metadata = {}
@@ -130,7 +134,20 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
             
             # set text's title to map converted markdown to
             if 'title' in fields:
+                
                 title = fields['title']
+
+                # make sure title is unique
+                # if not, assign number (num)
+                num = 1
+                while title2string.get(title, False):
+                    num += 1
+                    title = f"{fields['title']} ({num})"
+
+                # fix capitalization
+                title = string.capwords(title)
+                
+                print(f'\tprocessing [{title}]')
                 
             # update the text fields
             if fields:
@@ -140,6 +157,7 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
             # concat text header if metadata is updated
             if meta_updated:
                 title2string[title] += meta_tostring(metadata)
+                title2string[title] += '\n' # newline after metadata
                 meta_updated = False
             # concat normal paragraph
             title2string[title] += parse_element(e, replace=replace)
