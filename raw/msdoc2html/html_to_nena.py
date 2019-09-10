@@ -1,4 +1,5 @@
 import re
+from pathlib import Path
 import collections
 import unicodedata
 import lxml.html
@@ -102,7 +103,7 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
         dict: title:string with text in standard NENA text format.
     """
 
-    metadata = {}
+    metadata = {'source': Path(file).name}
     meta_updated = False
     started = True if text_start is None else False
     
