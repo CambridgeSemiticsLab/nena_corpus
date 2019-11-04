@@ -148,7 +148,7 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
                 # fix capitalization
                 title = string.capwords(title)
                 
-                print(f'\tfound [{title}]')
+                print(f'\tmade [{title}]')
                 
             # update the text fields
             if fields:
