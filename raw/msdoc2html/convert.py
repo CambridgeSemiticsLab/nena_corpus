@@ -26,7 +26,8 @@ def is_heading(e):
 replace = {
     
     # stylistic substitutions
-    '|': '\u02c8',
+    '|': '\u02c8', # pipe to superscript line
+    '+': '\u207A', # plus to superscript plus (esp. Christian Urmi) 
 
     # standardizing substutions
     '\u2011': '\u002d',  # non-breaking hyphen to normal hyphen-minus
