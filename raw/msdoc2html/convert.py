@@ -97,7 +97,7 @@ def exportdialect(textdict, dialect='', out_dir='{dialect}'):
     '''
     outpath = Path(out_dir.format(dialect=dialect))
     if not outpath.exists():
-        outpath.mkdir()
+        outpath.mkdir(parents=True)
     
     # write each text
     for title, markdown in textdict.items():
