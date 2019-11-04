@@ -24,6 +24,10 @@ def is_heading(e):
 
 # configure character replacements
 replace = {
+    
+    # stylistic substitutions
+    '|': '\u02c8',
+
     # standardizing substutions
     '\u2011': '\u002d',  # non-breaking hyphen to normal hyphen-minus
     '\u01dd': '\u0259',  # 'ǝ' "turned e" to 'ə' schwa
@@ -32,9 +36,12 @@ replace = {
     'J\u0335': '\u0248',  # 'J' + short combining stroke to 'Ɉ' J with stroke
     'J\u0336': '\u0248',  # J' + long combining stroke to 'Ɉ' J with stroke
     '<y>': '\u02b8',  # superscript small letter y
+    
     # corrections of errors
     '\u002d\u032d': '\u032d\u002d',  # Switch positions of Hyphen and Circumflex accent below
     'ʾ>': '>ʾ',  # misplaced alaph in superscript <sup>Pʾ</sup>afšɑ̄rī̀<sup>P</sup> (Urmi_C, somewhere?)
+    
+    
     
     # There may be some other stray alaph's and other anomalies out there.
     # Will have to think of some tests to find them. -HV
