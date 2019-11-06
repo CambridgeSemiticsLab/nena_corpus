@@ -446,8 +446,13 @@ def normalize_styles(t, src_default=None, src_emphasis='i', src_strong='b',
         elif style == src_strong:
             style = strong
         for c in text:
-            if can_have_emphasis(c):  # not c.isspace(): # is_letter(c):
+            if can_have_emphasis(c):  
                 # emphasize non-letters between two emphasized elements
+                # for example:
+                #     >    Lós Àngeles
+                # There is a space between Los and Angeles. Normally this
+                # space would go unemphasized. But we should now chain the
+                # the two together. 
                 if (style in (emphasis, strong)
                         and len(new_t) > 1
                         and new_t[-2][1] == style
