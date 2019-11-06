@@ -401,10 +401,9 @@ def get_style(e):
 
 def is_letter(c):
     """Return True if c is Letter or Marker, False otherwise"""
-
-    # TODO use regex?
-    # https://www.regular-expressions.info/unicode.html#category
-    return unicodedata.category(c)[0] in ('L', 'M')
+    letter = re.compile(r'\w|[\u0300-\u036F]|\u207A')
+    return bool(letter.match(c))
+    
 
 def normalize_styles(t, src_default=None, src_emphasis='i', src_strong='b',
                     default=None, emphasis='emphasis', strong='strong',
