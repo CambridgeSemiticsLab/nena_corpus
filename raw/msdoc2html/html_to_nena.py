@@ -433,6 +433,9 @@ def normalize_styles(t, src_default=None, src_emphasis='i', src_strong='b',
         emphasis (str or None): The text style to which emphasized
             text will be normalized.
 
+        can_have_emphasis: Function that returns Boolean on whether
+            to apply emphatic styles to a char.
+
     Returns:
         Text: Text object with normalized text styles.
     """
@@ -445,14 +448,20 @@ def normalize_styles(t, src_default=None, src_emphasis='i', src_strong='b',
             style = emphasis
         elif style == src_strong:
             style = strong
+
+        # apply style on character-by-char basis
         for c in text:
+
+            # add emphasis to character
             if can_have_emphasis(c):  
+
                 # emphasize non-letters between two emphasized elements
                 # for example:
                 #     >    Lós Àngeles
                 # There is a space between Los and Angeles. Normally this
                 # space would go unemphasized. But we should now chain the
-                # the two together. 
+                # the two together. So we must edit the formatting of the
+                # space to == "emphasis" 
                 if (style in (emphasis, strong)
                         and len(new_t) > 1
                         and new_t[-2][1] == style
@@ -460,9 +469,14 @@ def normalize_styles(t, src_default=None, src_emphasis='i', src_strong='b',
                         and not any(can_have_emphasis(c) for c in new_t[-1][0])):
                     last_text, _ = new_t.pop()
                     new_t.append(last_text, style)
+
+                # add the character itself
                 new_t.append(c, style)
+            
+            # add default formatting
             else:
                 new_t.append(c, default)
+
     return new_t
 
 def text_tostring(t, default=None, emphasis='emphasis', strong='strong', sup='sup',
