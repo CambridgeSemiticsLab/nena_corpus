@@ -63,7 +63,8 @@ class Text:
 def html_todict(html_file, xpath=None, ignore_empty=True,
                   heading_patterns=None, replace=None,
                   text_start=None, text_end=None,
-                  e_filter=None, is_heading=None):
+                  e_filter=None, is_heading=None,
+                  style_map={}, style_char_map={}):
     """Convert HTML file to standard NENA text format.
     Store texts in title:markdown dictionary.
 
@@ -111,7 +112,7 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
     # duplicate title checks operate on this dict as well
     # default dict means that we can simply compile in place
     # based on the title without need to reset the string each new text
-    title2string = collections.defaultdict(str)
+    title2nena = collections.defaultdict(str)
 
     for e in html_elements(html_file):
 
@@ -141,7 +142,7 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
                 # make sure title is unique
                 # if not, assign number (num)
                 num = 1
-                while title2string.get(title, False):
+                while title2nena.get(title, False):
                     num += 1
                     title = f"{fields['title']} ({num})"
 
@@ -157,89 +158,18 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
         else:
             # concat text header if metadata is updated
             if meta_updated:
-                title2string[title] += meta_tostring(metadata)
-                title2string[title] += '\n' # newline after metadata
+                title2nena[title] += meta_tostring(metadata)
+                title2nena[title] += '\n' # newline after metadata
                 meta_updated = False
             # concat normal paragraph
-            title2string[title] += parse_element(e, replace=replace)
+            title2nena[title] += parse_element(
+                e, 
+                replace=replace,
+                style_map=style_map,
+                style_char_map=style_char_map
+            )
     
-    return title2string # give dict
-    
-def html_tostring(html_file, xpath=None, ignore_empty=True,
-                  heading_patterns=None, replace=None,
-                  text_start=None, text_end=None,
-                  e_filter=None, is_heading=None):
-    """Convert HTML file to standard NENA text format.
-
-    Arguments:
-        html_file (str or pathlib.Path): path to HTML file.
-
-        xpath (str): XPath expression for elements to be processed.
-            See `html_elements()` for default and details.
-
-        ignore_empty (boolean): if True, elements which are
-            empty (i.e. apart from whitespace characters)
-            are ignored.
-
-        heading_patterns (dict): Dictionary with keys and regex
-            patterns to extract metadata from headings. See
-            `parse_metadata` for details.
-
-        replace (dict): Dictionary with substrings to be replaced
-            and the strings to replace them. See `str_replace`.
-
-        text_start (function): A function accepting an HtmlElement,
-            and returning a boolean value, deciding if the element
-            marks the start of the text.
-        
-        text_end (function): Function accepting an HtmlElement,
-            and returning a boolean value, deciding if the element
-            marks the end of the text.
-
-        e_filter (function): Function accepting an HtmlELement,
-            returning a boolean value, deciding whether to skip
-            the element or not.
-
-        is_heading (function): Function accepting an HtmlELement,
-            returning True if it is a heading, or False if not.
-
-    Yields:
-        str: string with text in standard NENA text format.
-    """
-
-    metadata = {}
-    meta_updated = False
-    started = True if text_start is None else False
-
-    for e in html_elements(html_file):
-
-        # First some checks to see whether to process the element
-        if not started and text_start(e):
-            started = True
-        if text_end is not None and text_end(e):
-            break
-        elif (not started
-              or (ignore_empty and not e.text_content().strip())):
-              #or (e_filter is not None and not e_filter(e))):
-            continue
-
-        # Process element
-        if is_heading is not None and is_heading(e):
-            # before updating, delete 'version' key if exists, as
-            # most text don't have it so it will not be updated
-            if 'version' in metadata:
-                del metadata['version']
-            fields = parse_metadata(e, patterns=heading_patterns)
-            if fields:
-                metadata.update(fields)
-                meta_updated = True
-        else:
-            # yield text header if metadata is updated
-            if meta_updated:
-                yield meta_tostring(metadata)
-                meta_updated = False
-            # yield normal paragraph
-            yield parse_element(e, replace=replace)
+    return title2nena # give dict
 
 def html_elements(html_file, xpath=None):
     """Generator yielding HtmlElements from html_file.
@@ -316,17 +246,22 @@ def meta_tostring(metadata):
 
     return '\n'.join(lines) + '\n'
 
-def parse_element(e, replace=None):
+def parse_element(e, replace=None, style_map={},
+                  style_char_map={}):
     """Parse HTML element to text string."""
 
     # Convert HTML element to Text object
     t = Text(element_totext(e))
-
+    
     # Normalize text styles
     if e.tag == 'p':
-        t = normalize_styles(t, src_default='i', src_emphasis=None)
+       t = normalize_styles(
+            t,  
+            style_map=style_map,
+            style_char_map=style_char_map
+        )
     else:
-        t = normalize_styles(t)
+        t = normalize_styles(t, style_char_map=style_char_map)
 
     # Convert Text object to string with markup for styles
     s = text_tostring(t)
@@ -401,82 +336,113 @@ def get_style(e):
 
 def is_letter(c):
     """Return True if c is Letter or Marker, False otherwise"""
-    letter = re.compile(r'\w|[\u0300-\u036F]|\u207A')
+    letter = re.compile(r'[^\W\d_]|[\u0300-\u036F]|\u207A')
     return bool(letter.match(c))
-    
 
-def normalize_styles(t, src_default=None, src_emphasis='i', src_strong='b',
-                    default=None, emphasis='emphasis', strong='strong',
-                    can_have_emphasis=is_letter):
+def normalize_styles(t, 
+                     style_map={'i': 'emphasis','b': 'strong'}, 
+                     style_char_map={}
+                    ):
     """Normalize styles of Text object.
 
-    Removes all styles applied to anything but letters.
-    Sets the style of all default (unmarked) text to `default`,
-    and that of all emphasized text to `emphasis`.
-    Other styles are left unchanged.
+    Remap document styling according to a style map. 
+    Styles not specified in the map are kept as-is.
+    Use-case: when most font in a file is formatted with 
+    italics, that style can be re-mapped to non-emphasis.
 
     Arguments:
         t (Text): Text object
-
-        src_default (str or None): The text_style that is applied
-            to default (unmarked) text in the source document. Will
-            be normalized to `default`.
-
-        src_emphasis (str or None): The text_style that is applied
-            to emphasized text in the source document. Will be
-            normalized to `emphasis`.
-
-        default (str or None): The text style to which default
-            (unmarked) text will be normalized.
-
-        emphasis (str or None): The text style to which emphasized
-            text will be normalized.
-
-        can_have_emphasis: Function that returns Boolean on whether
-            to apply emphatic styles to a char.
+        style_map (dict): mapping of a source text's style to its
+            .nena representation style. The map is used to normalize
+            formatting.
+        style_char_map (dict): mapping of style to regex pattern where
+            pattern matches valid characters for the given style.
 
     Returns:
         Text: Text object with normalized text styles.
     """
 
-    new_t = Text()
+    #new_t = Text()
+    new_t = []
+    
     for text, style in t:
-        if style == src_default:
-            style = default
-        elif style == src_emphasis:
-            style = emphasis
-        elif style == src_strong:
-            style = strong
-
-        # apply style on character-by-char basis
-        for c in text:
-
-            # add emphasis to character
-            if can_have_emphasis(c):  
-
-                # emphasize non-letters between two emphasized elements
-                # for example:
-                #     >    Lós Àngeles
-                # There is a space between Los and Angeles. Normally this
-                # space would go unemphasized. But we should now chain the
-                # the two together. So we must edit the formatting of the
-                # space to == "emphasis" 
-                if (style in (emphasis, strong)
-                        and len(new_t) > 1
-                        and new_t[-2][1] == style
-                        and new_t[-1][1] == default
-                        and not any(can_have_emphasis(c) for c in new_t[-1][0])):
-                    last_text, _ = new_t.pop()
-                    new_t.append(last_text, style)
-
-                # add the character itself
-                new_t.append(c, style)
+        
+        style = style_map.get(style, style)
+        
+        def good_c(ch, style):
+            # checks for valid style
+            # defaults to True if style unspecified 
+            ch_pat = re.escape(ch)        
+            return bool(
+                re.match(style_char_map.get(style, ch_pat), ch)
+            )
             
-            # add default formatting
+        # check the validity of char styles
+        # and update accordingly 
+        for i, c in enumerate(text):            
+                        
+            # apply style if valid char
+            if style and good_c(c, style):
+                new_t.append((c, style))
+           
+            # apply no style
             else:
-                new_t.append(c, default)
+                new_t.append((c, None))
+        
+    fill_t = fill_gaps(new_t, good_c, fill=('strong', 'emphasis'))
 
-    return new_t
+    return fill_t        
+
+def fill_gaps(elements, good_c, fill=tuple()):
+    """Fill style gaps.
+
+    Styling is removed from invalid style chars.
+    but this should not always be the case.
+    For example, emphasis will be applied as follows:
+        >> *Lós* *Àngeles*
+    There is an unemphasized space between "Los" and "Angeles". 
+    This is because spaces are not included in the style_char_map.
+    This method handles this by looking for such gaps on
+    specified styles.
+
+    Arguments:
+        elements (list): A list of Text elements to 
+            be processed. 
+        good_c (function): Function that validates
+            whether a given character belongs to a
+            given style.
+        fill (tuple): A tuple of styles that should 
+            be filled. All others remain as-is.
+
+    Returns:
+        Text object.
+    """
+    fill_t = Text()
+    
+    for i,txtstyle in enumerate(elements):
+        
+        text,style = txtstyle
+
+        # skip beginning or end
+        if (i < 1) or (i+1 == len(elements)):
+            fill_t.append(text, style)
+            continue
+                
+        # check for gaps to fill
+        before = fill_t[-1] if fill_t else ('', None)
+        after = elements[i+1] 
+        
+        if (
+            style is None
+            and before[1] in fill 
+            and before[1] == after[1] 
+            and not good_c(text, before[1])
+        ):
+            fill_t.append(text, before[1])
+        else:
+            fill_t.append(text, style)
+
+    return fill_t
 
 def text_tostring(t, default=None, emphasis='emphasis', strong='strong', sup='sup',
                fn_anc='fn_anc', fn_sym='fn_sym'):
