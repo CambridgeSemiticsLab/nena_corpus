@@ -63,7 +63,8 @@ style_char_map = {
 
 def e_filter(e):
     """Filters out unwanted elements"""
-    if e.tag in ('sdfield'):
+    ignore_tags=('sdfield',)
+    if e.tag in ignore_tags:
         return True
 
 # configure data needed to process the given file
