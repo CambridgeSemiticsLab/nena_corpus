@@ -43,11 +43,23 @@ replace = {
     '\u002d\u032d': '\u032d\u002d',  # Switch positions of Hyphen and Circumflex accent below
     'ʾ>': '>ʾ',  # misplaced alaph in superscript <sup>Pʾ</sup>afšɑ̄rī̀<sup>P</sup> (Urmi_C, somewhere?)
     
-    
-    
     # There may be some other stray alaph's and other anomalies out there.
     # Will have to think of some tests to find them. -HV
 }
+
+# Map default styles for documents
+style_map = {
+    'i': None,
+    None: 'emphasis',
+    'b': 'strong',
+}
+
+# Map acceptable characters to styles
+style_char_map = { 
+    'emphasis': r'[^\W\d_]|[\u0300-\u036F]|\u207A',
+    'strong': r'[^\W\d_]|[\u0300-\u036F]|\u207A',
+    'sup': r'[^|+\s]',
+}   
 
 # configure data needed to process the given file
 # includes regex patterns and args for converter
@@ -66,6 +78,9 @@ configs = {
             },        
         'is_heading': is_heading,
         'text_start': is_heading,
+        'replace': replace,
+        'style_map': style_map,
+        'style_char_map': style_char_map,
     },
     
     'cu vol 4 texts.html': {
@@ -87,6 +102,9 @@ configs = {
         },
         'is_heading': is_heading,
         'text_start': is_heading,
+        'replace': replace,
+        'style_map': style_map,
+        'style_char_map': style_char_map,
     }
 }
 
@@ -117,7 +135,6 @@ for dialect in dialects:
         
         texts = html_todict(
             file,
-            replace = replace,
             **config
         )
         dialect_name = dialect.name
