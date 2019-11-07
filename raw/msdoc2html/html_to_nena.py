@@ -124,7 +124,7 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
         elif (
             not started
             or (ignore_empty and not e.text_content().strip())
-            or (e_filter is not None and not e_filter(e))
+            or (e_filter is not None and e_filter(e))
         ): continue
 
         # Process element
@@ -167,7 +167,8 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
                 e, 
                 replace=replace,
                 style_map=style_map,
-                style_char_map=style_char_map
+                style_char_map=style_char_map,
+                e_filter=e_filter,
             )
     
     return title2nena # give dict
@@ -248,11 +249,11 @@ def meta_tostring(metadata):
     return '\n'.join(lines) + '\n'
 
 def parse_element(e, replace=None, style_map={},
-                  style_char_map={}):
+                  style_char_map={}, e_filter=None):
     """Parse HTML element to text string."""
 
     # Convert HTML element to Text object
-    t = Text(element_totext(e))
+    t = Text(element_totext(e, e_filter))
     
     # Normalize text styles
     if e.tag == 'p':
@@ -277,7 +278,7 @@ def parse_element(e, replace=None, style_map={},
     
     return s + '\n'
 
-def element_totext(e):
+def element_totext(e, e_filter):
     """Yield (text, style) tuples from HTML element.
     
     Recursively traverses HTML element `e` and its child elements,
@@ -285,14 +286,15 @@ def element_totext(e):
     which is provided by the function `get_style`.
     """
 
+    e_filter = e_filter or (lambda e: False)
     e_style = get_style(e)
 
-    if e.text:
+    if e.text and not e_filter(e):
         yield (e.text, e_style)
 
     for c in e.getchildren():
         # recursive call
-        for text, style in element_totext(c):
+        for text, style in element_totext(c, e_filter):
             yield (text, style)
         
         # Text following an embedded tag is the 'tail'

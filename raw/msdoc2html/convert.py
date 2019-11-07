@@ -61,6 +61,11 @@ style_char_map = {
     'sup': r'[^|+\s]',
 }   
 
+def e_filter(e):
+    """Filters out unwanted elements"""
+    if e.tag in ('sdfield'):
+        return True
+
 # configure data needed to process the given file
 # includes regex patterns and args for converter
 # the key is a regex pattern that matches the file name
@@ -81,6 +86,7 @@ configs = {
         'replace': replace,
         'style_map': style_map,
         'style_char_map': style_char_map,
+        'e_filter': e_filter,
     },
     
     'cu vol 4 texts.html': {
@@ -105,6 +111,7 @@ configs = {
         'replace': replace,
         'style_map': style_map,
         'style_char_map': style_char_map,
+        'e_filter': e_filter,
     }
 }
 
