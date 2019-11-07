@@ -121,10 +121,11 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
             started = True
         if text_end is not None and text_end(e):
             break
-        elif (not started
-              or (ignore_empty and not e.text_content().strip())):
-              #or (e_filter is not None and not e_filter(e))):
-            continue
+        elif (
+            not started
+            or (ignore_empty and not e.text_content().strip())
+            or (e_filter is not None and not e_filter(e))
+        ): continue
 
         # Process element
         if is_heading is not None and is_heading(e):
