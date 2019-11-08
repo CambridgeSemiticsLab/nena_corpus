@@ -505,7 +505,6 @@ def str_replace(s, replace, msg=None):
     """
 
     for a, b in replace.items():
-        #s = s.replace(a, b)
         s = re.sub(a, b, s)
     return s
 
