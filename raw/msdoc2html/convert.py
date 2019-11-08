@@ -51,7 +51,7 @@ replace = {
 
     # replace parentheses comments with square brackets
     # NB: \g<1> is capture group
-    '\((\*[A-Z][A-Z]\*.*)\)': '[\g<1>]',
+    '\((\*[A-Z][A-Z]\*.*?)\)': '[\g<1>]',
 
     # remove emphasis from commenter initials 
     '\[\*([A-Z]*)\*:': '[\g<1>:',
