@@ -151,7 +151,7 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
                 title = string.capwords(title)
                 fields['title'] = title                
 
-                print(f'\tmade [{title}]')
+                print(f'\tmaking [{title}]')
                 
             # update the text fields
             if fields:
@@ -172,6 +172,13 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
                 e_filter=e_filter,
             )
     
+    # add newline on tn_sym textblock
+    for title, nenatxt in title2nena.items():
+        fn_block = re.compile('(\[\^\d*\]:[\s\S]*)', re.MULTILINE)
+        title2nena[title] = '\n'.join(
+            s for s in fn_block.split(nenatxt, maxsplit=1) if s
+        ).strip()
+ 
     return title2nena # give dict
 
 def html_elements(html_file, xpath=None):
@@ -277,7 +284,9 @@ def parse_element(e, replace=None, style_map={},
     # and lines into strings with a maximum of 80 characters
     s = '\n'.join(s for line in split_lines(s) for s in split_string(line))
     
-    return s + '\n'
+
+    # return text
+    return s + '\n' 
 
 def element_totext(e, e_filter):
     """Yield (text, style) tuples from HTML element.
@@ -470,7 +479,6 @@ def text_tostring(t, default=None, emphasis='emphasis', strong='strong', sup='su
         fn_anc: '[^{}]',
         fn_sym: '[^{}]:',
     }
-    
     s = ''.join(markers[style].format(text) for text, style in t)
     return ' '.join(s.split())
 
