@@ -375,8 +375,8 @@ def normalize_styles(t,
         Text: Text object with normalized text styles.
     """
 
-    #new_t = Text()
-    new_t = []
+    new_t = Text()
+    #new_t = []
     
     for text, style in t:
         
@@ -396,17 +396,17 @@ def normalize_styles(t,
                         
             # apply style if valid char
             if style and good_c(c, style):
-                new_t.append((c, style))
+                new_t.append(c, style)
            
             # apply no style
             else:
-                new_t.append((c, None))
+                new_t.append(c, None)
         
     fill_t = fill_gaps(new_t, good_c, fill=('strong', 'emphasis'))
 
     return fill_t        
 
-def fill_gaps(elements, good_c, fill=tuple()):
+def fill_gaps(t, good_c, fill=tuple()):
     """Fill style gaps.
 
     Styling is removed from invalid style chars.
@@ -419,8 +419,7 @@ def fill_gaps(elements, good_c, fill=tuple()):
     specified styles.
 
     Arguments:
-        elements (list): A list of Text elements to 
-            be processed. 
+        t (Text): a Text object 
         good_c (function): Function that validates
             whether a given character belongs to a
             given style.
@@ -432,24 +431,24 @@ def fill_gaps(elements, good_c, fill=tuple()):
     """
     fill_t = Text()
     
-    for i,txtstyle in enumerate(elements):
+    for i,txtstyle in enumerate(t):
         
         text,style = txtstyle
 
         # skip beginning or end
-        if (i < 1) or (i+1 == len(elements)):
+        if (i < 1) or (i+1 == len(t._text)):
             fill_t.append(text, style)
             continue
                 
         # check for gaps to fill
         before = fill_t[-1] if fill_t else ('', None)
-        after = elements[i+1] 
+        after = t[i+1] 
         
         if (
             style is None
             and before[1] in fill 
             and before[1] == after[1] 
-            and not good_c(text, before[1])
+            and not any(good_c(c, before[1]) for c in text)
         ):
             fill_t.append(text, before[1])
         else:
@@ -503,7 +502,7 @@ def str_replace(s, replace, msg=None):
         >>> str_replace('spam, eggs, beans', replace)
         'spam, spam, spam'
     """
-
+    
     for a, b in replace.items():
         s = re.sub(a, b, s)
     return s
