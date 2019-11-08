@@ -130,7 +130,7 @@ def exportdialect(textdict, dialect='', out_dir='{dialect}'):
         file = f'{title}.nena'
         outfile = Path(outpath, file)
         with open(outfile, 'w') as out:
-            out.write(markdown.strip())
+            out.write(markdown)
 
 # run the conversion
 for dialect in dialects:
