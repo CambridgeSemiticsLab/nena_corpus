@@ -58,7 +58,7 @@ style_map = {
 style_char_map = { 
     'emphasis': r'[^\W\d_]|[\u0300-\u036F]|\u207A',
     'strong': r'[^\W\d_]|[\u0300-\u036F]|\u207A',
-    'sup': r'[^|+\s]',
+    'sup': r'[A-Za-z]',
 }   
 
 def e_filter(e):
