@@ -27,8 +27,8 @@ def is_heading(e):
 replace = {
     
     # stylistic substitutions
-    '|': '\u02c8', # pipe to superscript line
-    '+': '\u207A', # plus to superscript plus (esp. Christian Urmi) 
+    '\|': '\u02c8', # pipe to superscript line
+    '\+': '\u207A', # plus to superscript plus (esp. Christian Urmi) 
 
     # standardizing substutions
     '\u2011': '\u002d',  # non-breaking hyphen to normal hyphen-minus
@@ -45,6 +45,16 @@ replace = {
     
     # There may be some other stray alaph's and other anomalies out there.
     # Will have to think of some tests to find them. -HV
+
+    # fix any missing colons in comment
+    r'([([]\*[A-Z][A-Z]\*)\s': '\g<1>: ',
+
+    # replace parentheses comments with square brackets
+    # NB: \g<1> is capture group
+    '\((\*[A-Z][A-Z]\*.*)\)': '[\g<1>]',
+
+    # remove emphasis from commenter initials 
+    '\[\*([A-Z]*)\*:': '[\g<1>:',
 }
 
 # Map default styles for documents

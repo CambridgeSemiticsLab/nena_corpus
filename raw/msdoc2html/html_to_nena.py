@@ -178,7 +178,7 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
         title2nena[title] = '\n'.join(
             s for s in fn_block.split(nenatxt, maxsplit=1) if s
         ).strip()
- 
+
     return title2nena # give dict
 
 def html_elements(html_file, xpath=None):
@@ -505,7 +505,8 @@ def str_replace(s, replace, msg=None):
     """
 
     for a, b in replace.items():
-        s = s.replace(a, b)
+        #s = s.replace(a, b)
+        s = re.sub(a, b, s)
     return s
 
 def split_lines(s, pattern='\s*(\([0-9]+\)\s*)'):
