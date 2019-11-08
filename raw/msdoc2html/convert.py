@@ -83,18 +83,36 @@ def e_filter(e):
 # configure data needed to process the given file
 # includes regex patterns and args for converter
 # the key is a regex pattern that matches the file name
+
+bar_headings = {
+'gp-sectionheading-western': (
+    (('text_id', 'title'),
+     '^\s*([A-Z]\s*[0-9]+)\s+(.*?)\s*$'),),
+'gp-subsectionheading-western': (
+    (('informant', 'place'),
+     '^\s*Informant:\s+(.*)\s+\((.*)\)\s*$'),),
+}        
+
+# NB: keys matched on more specific files first
+# then more general after
 configs = {
     
+    'bar text A37-A40.html': {
+        'heading_patterns': bar_headings,
+        'is_heading': is_heading,
+        'text_start': is_heading,
+        'replace': replace,
+        'style_map': {
+            'i': None,
+            None: None,
+            'b': 'strong',
+        },
+        'style_char_map': style_char_map,
+        'e_filter': e_filter,
+    },
+
     'bar text .*\.html': {
-        'heading_patterns':
-            {
-            'gp-sectionheading-western': (
-                (('text_id', 'title'),
-                 '^\s*([A-Z]\s*[0-9]+)\s+(.*?)\s*$'),),
-            'gp-subsectionheading-western': (
-                (('informant', 'place'),
-                 '^\s*Informant:\s+(.*)\s+\((.*)\)\s*$'),),
-            },        
+        'heading_patterns': bar_headings,
         'is_heading': is_heading,
         'text_start': is_heading,
         'replace': replace,
