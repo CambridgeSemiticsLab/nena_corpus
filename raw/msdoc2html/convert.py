@@ -41,7 +41,7 @@ replace = {
     
     # corrections of errors
     '\u002d\u032d': '\u032d\u002d',  # Switch positions of Hyphen and Circumflex accent below
-    'ʾ>': '>ʾ',  # misplaced alaph in superscript <sup>Pʾ</sup>afšɑ̄rī̀<sup>P</sup> (Urmi_C, somewhere?)
+    'ʾ\*': '\*ʾ',  # misplaced alaph in superscript; should be emphasized -HV+CK 
     
     # There may be some other stray alaph's and other anomalies out there.
     # Will have to think of some tests to find them. -HV
