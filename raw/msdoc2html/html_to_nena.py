@@ -129,30 +129,25 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
 
         # Process element
         if is_heading is not None and is_heading(e):
+
             # before updating, delete 'version' key if exists, as
             # most text don't have it so it will not be updated
             if 'version' in metadata:
                 del metadata['version']
             fields = parse_metadata(e, patterns=heading_patterns)
-            
+
             # set text's title to map converted markdown to
             if 'title' in fields:
                 
                 title = fields['title']
-
-                # make sure title is unique
-                # if not, assign number (num)
-                num = 1
-                while title2nena.get(title):
-                    num += 1
-                    title = f"{fields['title']} ({num})"
+                title = make_unique_title(title, title2nena) 
 
                 # fix capitalization
                 title = string.capwords(title)
                 fields['title'] = title                
 
                 print(f'\tmaking [{title}]')
-                
+
             # update the text fields
             if fields:
                 metadata.update(fields)
@@ -160,9 +155,19 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
         else:
             # concat text header if metadata is updated
             if meta_updated:
+
+                # assign title to last title with version number
+                if 'title' not in metadata:
+                    metadata['continued_from'] = title 
+                    title = make_unique_title(title, title2nena) 
+                    metadata['title'] = title
+                    print(f'\tmaking [{title}]')
+
                 title2nena[title] += meta_tostring(metadata)
                 title2nena[title] += '\n' # newline after metadata
                 meta_updated = False
+                metadata = {'source': metadata['source']} # reset metadata
+
             # concat normal paragraph
             title2nena[title] += parse_element(
                 e, 
@@ -180,6 +185,16 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
         ).strip()
 
     return title2nena # give dict
+
+def make_unique_title(title, title_dict):
+    """Appends number to title for duplicates"""
+    num = 1
+    base_title = title
+    while title_dict.get(title):
+        num += 1
+        title = f"{base_title} ({num})"
+    return title
+
 
 def html_elements(html_file, xpath=None):
     """Generator yielding HtmlElements from html_file.
