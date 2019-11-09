@@ -4,6 +4,7 @@
 
 # principal code is thanks to Hannes Vlaardingerbroek
 
+import os
 import sys
 import re
 from pathlib import Path
@@ -180,3 +181,5 @@ for dialect in dialects:
         )
         dialect_name = dialect.name
         exportdialect(texts, dialect=dialect_name, out_dir=output)
+
+os.system("cd ../../nena/0.01/; sh corrections.sh")
