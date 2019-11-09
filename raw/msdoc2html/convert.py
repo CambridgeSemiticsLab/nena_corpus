@@ -60,7 +60,11 @@ replace = {
     '\[\*([A-Z]*)\*:': '[\g<1>:',
 
     # move punctuation outside of emphasized foreign lang tags
-    '(<\w>\*.*?\*)(.)(<\w>)': '\g<1>\g<3>\g<2>',
+    '(<\w>\*.+?\*)(.)(<\w>)': '\g<1>\g<3>\g<2>',
+    
+    # move stray terms outside of foreign tags
+    '(<\w>\*.+?\*)(\w+?)(<\w>)': '\g<1>\g<3>\g<2>',
+
 }
 
 # Map default styles for documents
