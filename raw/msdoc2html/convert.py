@@ -43,6 +43,7 @@ replace = {
     '\u002d\u032d': '\u032d\u002d',  # Switch positions of Hyphen and Circumflex accent below
     'ʾ\*': '\*ʾ',  # misplaced alaph in superscript; should be emphasized -HV+CK 
     '([\w*?])\s(-)': '\g<1>\g<2>', # remove rogue spaces between morphemes
+    '\*\*(\u0301)\*\*':'\g<1>', # remove rogue bolding of single accent
 
     # There may be some other stray alaph's and other anomalies out there.
     # Will have to think of some tests to find them. -HV
