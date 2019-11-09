@@ -143,7 +143,7 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
                 # make sure title is unique
                 # if not, assign number (num)
                 num = 1
-                while title2nena.get(title, False):
+                while title2nena.get(title):
                     num += 1
                     title = f"{fields['title']} ({num})"
 
