@@ -207,22 +207,20 @@ def paragraph_newline(paragraphs):
         if (line.match(para)
             and not line.match(next_p)
             and next_p):
-            newlined_ps.append(para + '/\n')
+            newlined_ps.append(para + ' /\n')
 
-        # 
+        # add poetic line break situation 2 
         elif (not line.match(para) 
               and line.match(next_p)
               and not line.search(next2_p) 
               and next2_p):
-            newlined_ps.append(para + '/\n')
+            newlined_ps.append(para + ' /\n')
 
-            if re.search('ʾɛ-kăfíyya', para):
-                print('hello')
-
+        # add poetic line break sit 3
         elif (not line.match(para) 
               and not line.match(next_p)
               and next_p):
-            newlined_ps.append(para + '/\n')
+            newlined_ps.append(para + ' /\n')
             
         # distinguish footnote block with double newlines
         elif footnote_line.match(para) and first_footnote:
