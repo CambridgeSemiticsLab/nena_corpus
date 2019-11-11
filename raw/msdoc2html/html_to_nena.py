@@ -177,15 +177,11 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
                 style_char_map=style_char_map,
                 e_filter=e_filter,
             ))
-    
-    # add newline on tn_sym textblock
-#    for title, nenatxt in title2nena.items():
-#        fn_block = re.compile('(\[\^\d*\]:[\s\S]*)', re.MULTILINE)
-#        title2nena[title] = '\n'.join(
-#            s for s in fn_block.split(nenatxt, maxsplit=1) if s
-#        ).strip()
 
-    # add appropriate newline styles to each text
+    # format and add paragraphs to each text
+    # all paragraphs for a text must be collected before this 
+    # stage can be done, to allow for contextual choices about 
+    # newline additions
     for title, paras in title2para.items():
         title2nena[title] += paragraph_newline(paras)
 
@@ -196,6 +192,7 @@ def paragraph_newline(paragraphs):
 
     # Put new paragraphs here; will be joined on ''
     newlined_ps = ['']
+
     first_footnote = True
     line = re.compile('\(\d\d*\)')
     poet_line = re.compile('/\n')
@@ -203,18 +200,30 @@ def paragraph_newline(paragraphs):
 
     for i, para in enumerate(paragraphs):
         prev_p = newlined_ps[-1] 
-        next_p = paragraphs[i+1] if i+1 != len(paragraphs) else '' 
-    
+        next_p = paragraphs[i+1] if i+1 < len(paragraphs) else '' 
+        next2_p = paragraphs[i+2] if i+2 < len(paragraphs) else ''
+
         # handle poetic blocks with line indicators with slash and newline
-        if (line.search(para)
-            and poet_line.search(prev_p) 
-            and not line.search(next_p)):
+        if (line.match(para)
+            and not line.match(next_p)
+            and next_p):
             newlined_ps.append(para + '/\n')
 
-        # handle poetic blocks without line indicators with slash + newline
-        elif not line.search(para) and not footnote_line.match(para):
+        # 
+        elif (not line.match(para) 
+              and line.match(next_p)
+              and not line.search(next2_p) 
+              and next2_p):
             newlined_ps.append(para + '/\n')
 
+            if re.search('ʾɛ-kăfíyya', para):
+                print('hello')
+
+        elif (not line.match(para) 
+              and not line.match(next_p)
+              and next_p):
+            newlined_ps.append(para + '/\n')
+            
         # distinguish footnote block with double newlines
         elif footnote_line.match(para) and first_footnote:
             newlined_ps.append('\n' + para + '\n')
