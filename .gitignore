@@ -1,3 +1,8 @@
+
+# development files
+dev
+parser.out
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
