@@ -206,11 +206,13 @@ def paragraph_newline(paragraphs):
         # handle poetic blocks with line indicators with slash and newline
         if (line.match(para)
             and not line.match(next_p)
+            and not footnote_line.match(next_p)
             and next_p):
             newlined_ps.append(para + ' /\n')
 
         # add poetic line break situation 2 
         elif (not line.match(para) 
+              and not footnote_line.match(para)
               and line.match(next_p)
               and not line.search(next2_p) 
               and next2_p):
@@ -218,13 +220,14 @@ def paragraph_newline(paragraphs):
 
         # add poetic line break sit 3
         elif (not line.match(para) 
+              and not footnote_line.match(para)
               and not line.match(next_p)
               and next_p):
             newlined_ps.append(para + ' /\n')
             
         # distinguish footnote block with double newlines
         elif footnote_line.match(para) and first_footnote:
-            newlined_ps.append('\n' + para + '\n')
+            newlined_ps.append(para + '\n')
             first_footnote = False
 
         # handle all other paragraphs
@@ -235,7 +238,7 @@ def paragraph_newline(paragraphs):
         else:
             newlined_ps.append(para)
 
-    return ''.join(newlined_ps)
+    return ''.join(newlined_ps).strip()
 
 def make_unique_title(title, title_dict):
     """Appends number to title for duplicates"""
