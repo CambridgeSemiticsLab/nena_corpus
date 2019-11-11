@@ -113,6 +113,7 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
     # default dict means that we can simply compile in place
     # based on the title without need to reset the string each new text
     title2nena = collections.defaultdict(str)
+    title2para = collections.defaultdict(list)
 
     for e in html_elements(html_file):
 
@@ -155,36 +156,79 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
         else:
             # concat text header if metadata is updated
             if meta_updated:
-
+                
                 # assign title to last title with version number
                 if 'title' not in metadata:
                     metadata['continued_from'] = title 
                     title = make_unique_title(title, title2nena) 
                     metadata['title'] = title
                     print(f'\tmaking [{title}]')
-
+               
                 title2nena[title] += meta_tostring(metadata)
                 title2nena[title] += '\n' # newline after metadata
                 meta_updated = False
                 metadata = {'source': metadata['source']} # reset metadata
 
-            # concat normal paragraph
-            title2nena[title] += parse_element(
+            # save paragraphs for addition of newline elements
+            title2para[title].append(parse_element(
                 e, 
                 replace=replace,
                 style_map=style_map,
                 style_char_map=style_char_map,
                 e_filter=e_filter,
-            ) 
+            ))
     
     # add newline on tn_sym textblock
-    for title, nenatxt in title2nena.items():
-        fn_block = re.compile('(\[\^\d*\]:[\s\S]*)', re.MULTILINE)
-        title2nena[title] = '\n'.join(
-            s for s in fn_block.split(nenatxt, maxsplit=1) if s
-        ).strip()
+#    for title, nenatxt in title2nena.items():
+#        fn_block = re.compile('(\[\^\d*\]:[\s\S]*)', re.MULTILINE)
+#        title2nena[title] = '\n'.join(
+#            s for s in fn_block.split(nenatxt, maxsplit=1) if s
+#        ).strip()
+
+    # add appropriate newline styles to each text
+    for title, paras in title2para.items():
+        title2nena[title] += paragraph_newline(paras)
 
     return title2nena # give dict
+
+def paragraph_newline(paragraphs):
+    """Format newlines for paragraphing"""
+
+    # Put new paragraphs here; will be joined on ''
+    newlined_ps = ['']
+    first_footnote = True
+    line = re.compile('\(\d\d*\)')
+    poet_line = re.compile('/\n')
+    footnote_line = re.compile('\[\^\d\d*\]:')
+
+    for i, para in enumerate(paragraphs):
+        prev_p = newlined_ps[-1] 
+        next_p = paragraphs[i+1] if i+1 != len(paragraphs) else '' 
+    
+        # handle poetic blocks with line indicators with slash and newline
+        if (line.search(para)
+            and poet_line.search(prev_p) 
+            and not line.search(next_p)):
+            newlined_ps.append(para + '/\n')
+
+        # handle poetic blocks without line indicators with slash + newline
+        elif not line.search(para) and not footnote_line.match(para):
+            newlined_ps.append(para + '/\n')
+
+        # distinguish footnote block with double newlines
+        elif footnote_line.match(para) and first_footnote:
+            newlined_ps.append('\n' + para + '\n')
+            first_footnote = False
+
+        # handle all other paragraphs
+        elif i+1 != len(paragraphs):
+            newlined_ps.append(para + '\n\n')
+
+        # attach last element without newlines
+        else:
+            newlined_ps.append(para)
+
+    return ''.join(newlined_ps)
 
 def make_unique_title(title, title_dict):
     """Appends number to title for duplicates"""
@@ -301,7 +345,7 @@ def parse_element(e, replace=None, style_map={},
     s = '\n'.join(split_string(s))
 
     # return text
-    return s + '\n' 
+    return s 
 
 def element_totext(e, e_filter):
     """Yield (text, style) tuples from HTML element.
