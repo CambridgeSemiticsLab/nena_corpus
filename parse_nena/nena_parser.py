@@ -10,6 +10,29 @@ Copied from the NenaParser.ipynb. -CK 2019-11-11
 
 from sly import Lexer, Parser
 
+class Morpheme:
+    
+    def __init__(self, value, trailer='',
+                 footnotes=None, speaker=None,
+                 foreign=False, lang=None):
+        self.value = value  # list of (combined) characters
+        self.trailer = trailer  # str (TODO: make this a list as well?)
+        self.footnotes = footnotes if footnotes is not None else {}  # dict
+        self.speaker = speaker  # str
+        self.foreign = foreign  # boolean
+        self.lang = lang  # str
+    
+    def __str__(self):
+        return ''.join(self.value)
+    
+    def __repr__(self):
+        sp = f' speaker {self.speaker!r}' if self.speaker else ''
+        fr = ' foreign' if self.foreign else ''
+        ln = f' lang {self.lang!r}' if self.lang else ''
+        fn = f' fn_anc {",".join(str(n) for n in self.footnotes)!r}' if self.footnotes else ''
+        fn = f' fn_anc {self.footnotes!r}' if self.footnotes else ''
+        return f'<Morpheme {str(self)!r} trailer {self.trailer!r}{sp}{fr}{ln}{fn}>'
+
 # regex for punctuation which is used 
 # to also exclude punctuation from letters categories
 # TODO: Implement char tables instead
