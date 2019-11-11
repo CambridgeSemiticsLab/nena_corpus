@@ -175,7 +175,7 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
                 style_map=style_map,
                 style_char_map=style_char_map,
                 e_filter=e_filter,
-            ) + '\n'
+            ) 
     
     # add newline on tn_sym textblock
     for title, nenatxt in title2nena.items():
@@ -297,8 +297,8 @@ def parse_element(e, replace=None, style_map={},
 
     # split string into lines,
     # and lines into strings with a maximum of 80 characters
-    #s = ' '.join(s for line in split_lines(s) for s in split_string(line))
-    s = '\n'.join(split_string(s))
+    s = '\n'.join(s for line in split_lines(s) for s in split_string(line))
+    #s = '\n'.join(split_string(s))
 
     # return text
     return s + '\n' 
