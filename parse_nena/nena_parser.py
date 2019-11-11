@@ -4,12 +4,16 @@ NENA Parser
 credit: Hannes Vlaardingerbroek
 updates/refinements added by Cody Kingham
 
-This is a work in progress, and still misses
-several edge cases. Most of this code has been
-copied from the NenaParser.ipynb. -CK 2019-11-04
+This is a work in progress.
+Copied from the NenaParser.ipynb. -CK 2019-11-11 
 """
 
 from sly import Lexer, Parser
+
+# regex for punctuation which is used 
+# to also exclude punctuation from letters categories
+# TODO: Implement char tables instead
+punct = '.,?!:;–\u02c8\u2014\u2019\u2018'
 
 class NenaLexer(Lexer):
     
@@ -22,7 +26,7 @@ class NenaLexer(Lexer):
     }
     
     # NB \u207A == superscript +
-    literals = {'\u207A', '*', '(', ')', '{', '}', '[', ']', '/', '^'}
+    literals = {'*', '(', ')', '{', '}', '[', ']', '/', '^'}
 
     # The '(?m)' part turns on multiline matching, which makes
     # it possible to use ^ and $ for the start/end of the line.
@@ -40,12 +44,17 @@ class NenaLexer(Lexer):
     
     # Footnote starts with '[^n]: ', where n is a number.
     # Returns a 2-tuple (int: fn_sym, str: footnote_text)
-    @_(r'(?m)^\[\^[1-9][0-9]*\]: .*$')
+    @_(r'(?m)^\[\^[1-9][0-9]*\]: \D*$')
     def FOOTNOTE(self, t):
         fn_sym, footnote = t.value.split(maxsplit=1)
         t.value = (int(fn_sym[2:-2]), footnote)
         return t
 
+    # Punctuation is any normal punctuation symbol and vertical bar.
+    # as well as a long hyphen (—)
+    
+    PUNCTUATION = f'[{punct}]'
+    
     # How to get combined Unicode characters to be recognized?
     # Matching only Unicode points of letters with pre-combined
     # marks can be done with the 'word' class '\w', but it
@@ -71,24 +80,31 @@ class NenaLexer(Lexer):
     # letter, and because some dialects have a '+' sign at the
     # beginning of some words, we prefix an optional '+' symbol
     # and an obligatory '[^\W\d_]' before the negative lookbehind.
-#     LETTERS = r'[+]?[^\W\d_](?!\d_)[\w\u0300-\u036F+]*'
+    
     # One letter with (or without) combining marks can be matched
     # with: [^\W\d_][\u0300-\u036F]*
+    # We also add a superscript plus (U-207A) as part of a letter, 
+    # since this char is not a letter on its own, but rather
+    # modifies the quality of a consonant
+    # PUNCTUATION is also excluded
+    LETTER = f'[\u207A]?[^\W\d_{punct}][\u0300-\u036F]*'
+    
+    # we try to make a LETTERS token:
+#     LETTERS = r'[+]?[^\W\d_](?!\d_)[\w\u0300-\u036F+]*'
     # Unfortunately, with python's `re` it seems impossible to repeat
     # a group like this. So we will group the letters in the parser.
-    LETTER = r'[^\W\d_][\u0300-\u036F]*'
+    
     # Newlines: boundaries of paragraphs and metadata are marked
     # with two newlines (meaning an empty line). The empty line
     # may contain whitespace.
     NEWLINES = r'\n\s*\n\s*'
+    
     # Space is any successive number of whitespace symbols.
     SPACE = r'\s+'
     # One or more digits, not starting with zero
     DIGITS = r'[1-9][0-9]*'
     # Line id is any number of digits surrounded by round brackets
 #     LINE_ID = r'\([0-9]+\)'  # TODO convert to int?
-    # Punctuation is any normal punctuation symbol and vertical bar.
-    PUNCTUATION = r'[.,?!:;–\u02c8]'
     # There are two different hyphens, a single one and a double one.
     # The double one is the 'equals' sign.
     HYPHEN = r'[-=]'
@@ -97,54 +113,35 @@ class NenaLexer(Lexer):
     LANG_MARKER = r'<[A-Za-z]+>'
     # A special comment starts with an opening bracket, capital initials
     # and a colon.
-    LPAREN_COMMENT = r'\([A-Za-z]+: '
-    LBRACKET_COMMENT = r'\[[A-Za-z]+: '
+    LPAREN_COMMENT = r'\([A-Za-z]+:'
+    LBRACKET_COMMENT = r'\[[A-Za-z]+:'
     # A regular comment is text (at least one character not being a digit)
     # which may not contain a colon (otherwise it becomes a special comment/interruption)
+
     COMMENT = r'\([^:)]*[^:)\d]+[^:)]*\)'
 
-"""
-To conveniently store the morpheme and its features, we prepare a small `Morpheme` class, to be used by the parser.
-"""
-    
-class Morpheme:
-    
-    def __init__(self, value, trailer='',
-                 footnotes=None, speaker=None,
-                 foreign=False, lang=None):
-        self.value = value  # list of (combined) characters
-        self.trailer = trailer  # str (TODO: make this a list as well?)
-        self.footnotes = footnotes if footnotes is not None else {}  # dict
-        self.speaker = speaker  # str
-        self.foreign = foreign  # boolean
-        self.lang = lang  # str
-    
-    def __str__(self):
-        return ''.join(self.value)
-    
-    def __repr__(self):
-        sp = f' speaker {self.speaker!r}' if self.speaker else ''
-        fr = ' foreign' if self.foreign else ''
-        ln = f' lang {self.lang!r}' if self.lang else ''
-        fn = f' fn_anc {",".join(str(n) for n in self.footnotes)!r}' if self.footnotes else ''
-        fn = f' fn_anc {self.footnotes!r}' if self.footnotes else ''
-        return f'<Morpheme {str(self)!r} trailer {self.trailer!r}{sp}{fr}{ln}{fn}>'
-    
-# dict stack to contain morphemes with footnote anchors,
+
+# dict stack to contain footnote anchors,
 # until the corresponding footnote is encountered.
 fn_anchors = {}
 
 class NenaParser(Parser):
-#     debugfile = 'parser.out'
+    
+    debugfile = 'parser.out'
 
     # Get the token list from the lexer (required)
     tokens = NenaLexer.tokens
     
-#     def error():
+    def error(self, t):
+        #print('ERROR:')
+        #print(f'\tunexpected string {repr(t.value[0])} at index {t.index}')
+        raise Exception(f'unexpected string {repr(t.value[0])} at index {t.index}')
     
     @_('heading NEWLINES paragraphs')
     def text(self, p):
         return (p.heading, p.paragraphs)
+    
+    # -- HEADING --
     
     @_('SPACE TITLE NEWLINES attributes',
        'TITLE NEWLINES attributes')
@@ -158,20 +155,23 @@ class NenaParser(Parser):
     def attributes(self, p):
         key, value = p.ATTRIBUTE
         p.attributes[key] = value
-        return p.attributes
-            
+        return p.attributes 
+    
     @_('ATTRIBUTE')
     def attributes(self, p):
         key, value = p.ATTRIBUTE
         return {key: value}
     
+    # -- PARAGRAPHS --
+    
     @_('paragraphs NEWLINES paragraph')
     def paragraphs(self, p):
+        # handle cases of null footnotes
         if p.paragraph is not None:
             return p.paragraphs + [p.paragraph]
         else:
             return p.paragraphs
-    
+        
     @_('paragraph')
     def paragraphs(self, p):
         return [p.paragraph]
@@ -181,7 +181,7 @@ class NenaParser(Parser):
     def paragraph(self, p):
         return p.paragraph + [p.line]
     
-    # paragraph
+    # paragraph from orphaned footnotes
     @_('footnotes')
     def paragraph(self, p):
         if p.footnotes:
@@ -189,13 +189,13 @@ class NenaParser(Parser):
             # unreferenced footnotes?
             return ('footnotes', p.footnotes)
     
-    # footnotes
+    # -- FOOTNOTES -- 
+    
     @_('footnotes footnote')
     def footnotes(self, p):
         p.footnotes.update(p.footnote)
         return p.footnotes
     
-    # footnotes
     @_('footnote')
     def footnotes(self, p):
         return p.footnote
@@ -219,17 +219,16 @@ class NenaParser(Parser):
             footnote = {fn_sym: fn_str}
         return footnote
 
-    # lines
+    # -- LINES --
+    
     @_('line')
     def paragraph(self, p):
         return [p.line]
     
-    # line
     @_('line_id line_elements')
     def line(self, p):
         return (p.line_id, p.line_elements)
     
-    # line_id
     @_('"(" DIGITS ")" SPACE')
     def line_id(self, p):
         return int(p.DIGITS)
@@ -243,12 +242,15 @@ class NenaParser(Parser):
             return p.line_element
     
     @_('morphemes',
+       'fn_anchor',
        'interruption',
        'morphemes_foreign',
        'morphemes_language',
        'comment')
     def line_element(self, p):
         return p[0]
+    
+    # -- MORPHEMES -- 
 
     # morphemes_language
     @_('lang morphemes_foreign morpheme_trailer lang trailer',
@@ -306,12 +308,12 @@ class NenaParser(Parser):
         return [('comment', p.COMMENT[1:-1])]
 
     # interruption
-    @_('LPAREN_COMMENT morphemes ")" trailer',
-       'LPAREN_COMMENT morphemes ")"',
-       'LBRACKET_COMMENT morphemes "]" trailer',
-       'LBRACKET_COMMENT morphemes "]"')
+    @_('LPAREN_COMMENT space morphemes ")" trailer',
+       'LPAREN_COMMENT space morphemes ")"',
+       'LBRACKET_COMMENT space morphemes "]" trailer',
+       'LBRACKET_COMMENT space morphemes "]"')
     def interruption(self, p):
-        speaker = p[0][1:-2]
+        speaker = p[0][1:-1]
         for m in p.morphemes:
             m.speaker = speaker
         try:
@@ -333,9 +335,10 @@ class NenaParser(Parser):
         else:
             return [p.morpheme_trailer]
     
+    # -- MORPHEME ATTRIBUTES --
+    
     # morpheme_trailer
     @_('letters trailer',
-#        'letters HYPHEN',
        'letters')
     def morpheme_trailer(self, p):
         if len(p) == 2:
@@ -345,8 +348,8 @@ class NenaParser(Parser):
         return Morpheme(p.letters, trailer=trailer)
 
     # morpheme_trailer with footnote anchor
-    @_('morpheme_trailer fn_anc trailer',
-       'morpheme_trailer fn_anc')
+    @_('morpheme_trailer fn_anchor trailer',
+       'morpheme_trailer fn_anchor')
     def morpheme_trailer(self, p):
         if len(p) == 3:
             if (p.morpheme_trailer.trailer.endswith(' ')
@@ -354,25 +357,25 @@ class NenaParser(Parser):
                 p.trailer = p.trailer[1:]
             p.morpheme_trailer.trailer += p.trailer
         # add dummy value {fn_anc: None} to footnote dict
-        p.morpheme_trailer.footnotes[p.fn_anc] = None
+        p.morpheme_trailer.footnotes[p.fn_anchor] = None
         # add morpheme object to fn_anchors dict,
         # for easy access when footnote text is found
-        fn_anchors[p.fn_anc] = p.morpheme_trailer
+        fn_anchors[p.fn_anchor] = p.morpheme_trailer
         return p.morpheme_trailer
     
-    # fn_anc
-    @_('"[" "^" DIGITS "]"')
-    def fn_anc(self, p):
-        return int(p.DIGITS)
+    # --VARIOUS--
     
-    @_('letters LETTER',
-       'LETTER',
-       '"\u207A"')
+    @_('"[" "^" DIGITS "]"')
+    def fn_anchor(self, p):
+        return int(p.DIGITS)
+        
+    @_('letters LETTER')
     def letters(self, p):
-        if len(p) == 2:
-            return p.letters + [p.LETTER]
-        else:
-            return [p[0]]
+        return p.letters + [p.LETTER]
+    
+    @_('LETTER')
+    def letters(self, p):
+        return [p[0]]
     
     # trailer
     @_('trailer versebreak',
@@ -381,11 +384,15 @@ class NenaParser(Parser):
        'trailer space',
        'PUNCTUATION',
        'space',
-       'HYPHEN'
+       'HYPHEN',
       )
     def trailer(self, p):
         return ''.join(p)
     
+    # -- LITERALS --
+    
+    # reduce any number of spaces (\s+)
+    # to a single space (' ')
     @_('SPACE')
     def space(self, p):
         return ' '
