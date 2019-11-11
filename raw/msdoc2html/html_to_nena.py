@@ -3,10 +3,10 @@ from pathlib import Path
 import collections
 import unicodedata
 import lxml.html
-# for title capitalzation with apostrophes:
-# https://stackoverflow.com/questions/8199966/python-title-with-apostrophes
-import string
 
+# title case does smart title capitalization
+# of articles and apostrophes
+from titlecase import titlecase
 
 class Text:
     """Text with style annotations."""
@@ -144,7 +144,7 @@ def html_todict(html_file, xpath=None, ignore_empty=True,
                 title = make_unique_title(title, title2nena) 
 
                 # fix capitalization
-                title = string.capwords(title)
+                title = titlecase(title)
                 fields['title'] = title                
 
                 print(f'\tmaking [{title}]')
