@@ -14,3 +14,8 @@ sed -i "" "s/\(ʾe-<R>\*buk̭ḗṱ\*\)/\1<R>/" "$FILE"
 FILE="Urmi_C/The Wife Who Learns How to Work (2).nena"
 echo "Renumbering lines in $FILE"
 python3 reline.py "$FILE"
+
+# add missing prosaic boundaries
+FILE="Barwar/Qaṭina Rescues His Nephew From Leliθa.nena"
+echo "Fixing missing prosody boundaries in $FILE"
+sed -i "" "22,26 s/\([ /]*$\)/ˈ\1/" "$FILE"
