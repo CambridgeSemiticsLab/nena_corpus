@@ -16,6 +16,12 @@ echo "Renumbering lines in $FILE"
 python3 reline.py "$FILE"
 
 # add missing prosaic boundaries
+SUBPROSA="s/\([ /]*$\)/ˈ\1/" 
 FILE="Barwar/Qaṭina Rescues His Nephew From Leliθa.nena"
 echo "Fixing missing prosody boundaries in $FILE"
-sed -i "" "22,26 s/\([ /]*$\)/ˈ\1/" "$FILE"
+sed -i "" "22,26 $SUBPROSA" "$FILE"
+
+FILE="Barwar/The Battle With Yuwanəs the Armenian.nena"
+echo "Fixing missing prosody boundaries in $FILE"
+sed -i "" "18,21 $SUBPROSA" "$FILE"
+
