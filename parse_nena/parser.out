@@ -68,6 +68,10 @@ Rule 64    linebreak -> / NEWLINES
 Rule 65    linebreak -> / space
 Rule 66    linebreak -> /
 
+Unused terminals:
+
+    NEWLINE
+
 Terminals, with rules where they appear:
 
 (                    : 18
@@ -83,6 +87,7 @@ LANG_MARKER          : 31
 LBRACKET_COMMENT     : 38 39
 LETTER               : 49 50
 LPAREN_COMMENT       : 40 41
+NEWLINE              : 
 NEWLINES             : 1 2 3 7 15 16 59 60 63 64
 PUNCTUATION          : 53 55
 SPACE                : 3 18 58

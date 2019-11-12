@@ -1,0 +1,406 @@
+processing bar text a15-A17.html
+<Element h2 at 0x110f4e2c0> {'text_id': 'A15', 'title': 'The Monk And The Angel'} {'source': 'bar text a15-A17.html'}
+	making [The Monk And The Angel]
+<Element h2 at 0x110f4e310> {'informant': 'Dawið ʾAdam', 'place': 'Dure'} {'source': 'bar text a15-A17.html', 'text_id': 'A15', 'title': 'The Monk And The Angel'}
+<Element h2 at 0x110f4e400> {'text_id': 'A16', 'title': 'THE MONK WHO WANTED TO KNOW WHEN HE WOULD DIE'} {'source': 'bar text a15-A17.html', 'text_id': 'A15', 'title': 'The Monk And The Angel', 'informant': 'Dawið ʾAdam', 'place': 'Dure'}
+	making [The Monk Who Wanted To Know When He Would Die]
+<Element h2 at 0x110f4e450> {'informant': 'Dawið ʾAdam', 'place': 'Dure'} {'source': 'bar text a15-A17.html', 'text_id': 'A16', 'title': 'The Monk Who Wanted To Know When He Would Die', 'informant': 'Dawið ʾAdam', 'place': 'Dure'}
+<Element h2 at 0x110f4e540> {'text_id': 'A17', 'title': 'THE WISE YOUNG MAN'} {'source': 'bar text a15-A17.html', 'text_id': 'A16', 'title': 'The Monk Who Wanted To Know When He Would Die', 'informant': 'Dawið ʾAdam', 'place': 'Dure'}
+	making [The Wise Young Man]
+<Element h2 at 0x110f4e590> {'informant': 'Dawið ʾAdam', 'place': 'Dure'} {'source': 'bar text a15-A17.html', 'text_id': 'A17', 'title': 'The Wise Young Man', 'informant': 'Dawið ʾAdam', 'place': 'Dure'}
+processing bar text A45.html
+<Element h2 at 0x110f4e400> {'text_id': 'A45', 'title': 'THE FOX AND THE STORK'} {'source': 'bar text A45.html'}
+	making [The Fox And The Stork]
+<Element h2 at 0x110f4e450> {'informant': 'Nawiya ʾOdišo', 'place': 'Dure'} {'source': 'bar text A45.html', 'text_id': 'A45', 'title': 'The Fox And The Stork'}
+processing bar text a28.html
+<Element h2 at 0x110f4e400> {'text_id': 'A28', 'title': 'THE TALE OF RUSTAM (1)'} {'source': 'bar text a28.html'}
+	making [The Tale Of Rustam (1)]
+<Element h2 at 0x110f4e450> {'informant': 'Dawið ʾAdam', 'place': 'Dure'} {'source': 'bar text a28.html', 'text_id': 'A28', 'title': 'The Tale Of Rustam (1)'}
+processing bar text A49.html
+<Element h2 at 0x110f4e450> {'text_id': 'A49', 'title': 'THE CROW AND THE CHEESE'} {'source': 'bar text A49.html'}
+	making [The Crow And The Cheese]
+<Element h2 at 0x110f4e4a0> {'informant': 'Leya ʾOraha', 'place': 'Dure'} {'source': 'bar text A49.html', 'text_id': 'A49', 'title': 'The Crow And The Cheese'}
+processing bar text a24.html
+<Element h2 at 0x110f4ec70> {'text_id': 'A24', 'title': 'THE TALE OF PARIZADA, WARDA AND NARGIS'} {'source': 'bar text a24.html'}
+	making [The Tale Of Parizada, Warda And Nargis]
+<Element h2 at 0x110f4ee50> {'informant': 'Dawið ʾAdam', 'place': 'Dure'} {'source': 'bar text a24.html', 'text_id': 'A24', 'title': 'The Tale Of Parizada, Warda And Nargis'}
+processing bar text A42-A44.html
+<Element h2 at 0x110f4ec70> {'text_id': 'A42', 'title': 'THE FOX AND THE LION'} {'source': 'bar text A42-A44.html'}
+	making [The Fox And The Lion]
+<Element h2 at 0x110f4ee50> {'informant': 'Bənyamən Bənyamən', 'place': 'ʾƐn-Nune'} {'source': 'bar text A42-A44.html', 'text_id': 'A42', 'title': 'The Fox And The Lion'}
+<Element h2 at 0x110f4ef40> {'text_id': 'A43', 'title': 'SOUR GRAPES'} {'source': 'bar text A42-A44.html', 'text_id': 'A42', 'title': 'The Fox And The Lion', 'informant': 'Bənyamən Bənyamən', 'place': 'ʾƐn-Nune'}
+	making [Sour Grapes]
+<Element h2 at 0x110f4ed60> {'informant': 'Bənyamən Bənyamən', 'place': 'ʾƐn-Nune'} {'source': 'bar text A42-A44.html', 'text_id': 'A43', 'title': 'Sour Grapes', 'informant': 'Bənyamən Bənyamən', 'place': 'ʾƐn-Nune'}
+<Element h2 at 0x110f54180> {'text_id': 'A44', 'title': 'THE CAT AND THE MICE'} {'source': 'bar text A42-A44.html', 'text_id': 'A43', 'title': 'Sour Grapes', 'informant': 'Bənyamən Bənyamən', 'place': 'ʾƐn-Nune'}
+	making [The Cat And The Mice]
+<Element h2 at 0x110f54040> {'informant': 'Bənyamən Bənyamən', 'place': 'ʾƐn-Nune'} {'source': 'bar text A42-A44.html', 'text_id': 'A44', 'title': 'The Cat And The Mice', 'informant': 'Bənyamən Bənyamən', 'place': 'ʾƐn-Nune'}
+processing bar text a25.html
+<Element h2 at 0x110f4eea0> {'text_id': 'A25', 'title': 'THE TALE OF FARXO AND SƏTTIYA'} {'source': 'bar text a25.html'}
+	making [The Tale Of Farxo And Səttiya]
+<Element h2 at 0x110f4ef40> {'informant': 'Dawið ʾAdam', 'place': 'Dure'} {'source': 'bar text a25.html', 'text_id': 'A25', 'title': 'The Tale Of Farxo And Səttiya'}
+processing bar text a48.html
+<Element h2 at 0x110f4ed60> {'text_id': 'A48', 'title': 'THE MAN WHO CRIED WOLF'} {'source': 'bar text a48.html'}
+	making [The Man Who Cried Wolf]
+<Element h2 at 0x110f4eef0> {'informant': 'Dawið ʾAdam', 'place': 'Dure'} {'source': 'bar text a48.html', 'text_id': 'A48', 'title': 'The Man Who Cried Wolf'}
+processing bar text a29.html
+<Element h2 at 0x110f54310> {'text_id': 'A29', 'title': 'THE TALE OF RUSTAM (2)'} {'source': 'bar text a29.html'}
+	making [The Tale Of Rustam (2)]
+<Element h2 at 0x110f54860> {'informant': 'Bənyamən Bənyamən', 'place': 'ʾƐn-Nune'} {'source': 'bar text a29.html', 'text_id': 'A29', 'title': 'The Tale Of Rustam (2)'}
+processing bar text A9-A13.html
+<Element h2 at 0x110f54860> {'text_id': 'A9', 'title': 'THE SCORPION AND THE SNAKE'} {'source': 'bar text A9-A13.html'}
+	making [The Scorpion And The Snake]
+<Element h2 at 0x110f54090> {'informant': 'Yuwarəš Xošăba Kena', 'place': 'Dure'} {'source': 'bar text A9-A13.html', 'text_id': 'A9', 'title': 'The Scorpion And The Snake'}
+<Element h2 at 0x110f54630> {'text_id': 'A10', 'title': 'I AM WORTH THE SAME AS A BLIND WOLF'} {'source': 'bar text A9-A13.html', 'text_id': 'A9', 'title': 'The Scorpion And The Snake', 'informant': 'Yuwarəš Xošăba Kena', 'place': 'Dure'}
+	making [I Am Worth The Same As A Blind Wolf]
+<Element h2 at 0x110f546d0> {'informant': 'Yuwarəš Xošăba Kena', 'place': 'Dure'} {'source': 'bar text A9-A13.html', 'text_id': 'A10', 'title': 'I Am Worth The Same As A Blind Wolf', 'informant': 'Yuwarəš Xošăba Kena', 'place': 'Dure'}
+<Element h2 at 0x110f54040> {'text_id': 'A11', 'title': 'DƏMDƏMA'} {'source': 'bar text A9-A13.html', 'text_id': 'A10', 'title': 'I Am Worth The Same As A Blind Wolf', 'informant': 'Yuwarəš Xošăba Kena', 'place': 'Dure'}
+	making [Dəmdəma]
+<Element h2 at 0x110f54720> {'informant': 'Yuwarəš Xošăba Kena', 'place': 'Dure'} {'source': 'bar text A9-A13.html', 'text_id': 'A11', 'title': 'Dəmdəma', 'informant': 'Yuwarəš Xošăba Kena', 'place': 'Dure'}
+<Element h2 at 0x110f54b80> {'text_id': 'A12', 'title': 'THE KING WITH FORTY SONS'} {'source': 'bar text A9-A13.html', 'text_id': 'A11', 'title': 'Dəmdəma', 'informant': 'Yuwarəš Xošăba Kena', 'place': 'Dure'}
+	making [The King With Forty Sons]
+<Element h2 at 0x110f54b30> {'informant': 'Yuwarəš Xošăba Kena', 'place': 'Dure'} {'source': 'bar text A9-A13.html', 'text_id': 'A12', 'title': 'The King With Forty Sons', 'informant': 'Yuwarəš Xošăba Kena', 'place': 'Dure'}
+<Element h2 at 0x110f54d10> {'text_id': 'A13', 'title': 'A TALE OF TWO KINGS'} {'source': 'bar text A9-A13.html', 'text_id': 'A12', 'title': 'The King With Forty Sons', 'informant': 'Yuwarəš Xošăba Kena', 'place': 'Dure'}
+	making [A Tale Of Two Kings]
+<Element h2 at 0x110f54d60> {'informant': 'Yuwarəš Xošăba Kena', 'place': 'Dure'} {'source': 'bar text A9-A13.html', 'text_id': 'A13', 'title': 'A Tale Of Two Kings', 'informant': 'Yuwarəš Xošăba Kena', 'place': 'Dure'}
+processing bar text a46-A47.html
+<Element h2 at 0x110f54860> {'text_id': 'A46', 'title': 'THE LION KING'} {'source': 'bar text a46-A47.html'}
+	making [The Lion King]
+<Element h2 at 0x110f54090> {'informant': 'Gwərgəs Dawið', 'place': 'ʾƐn-Nune'} {'source': 'bar text a46-A47.html', 'text_id': 'A46', 'title': 'The Lion King'}
+<Element h2 at 0x110f54630> {'text_id': 'A47', 'title': 'MAN IS TREACHEROUS'} {'source': 'bar text a46-A47.html', 'text_id': 'A46', 'title': 'The Lion King', 'informant': 'Gwərgəs Dawið', 'place': 'ʾƐn-Nune'}
+	making [Man Is Treacherous]
+<Element h2 at 0x110f546d0> {'informant': 'Gwərgəs Dawið', 'place': 'ʾƐn-Nune'} {'source': 'bar text a46-A47.html', 'text_id': 'A47', 'title': 'Man Is Treacherous', 'informant': 'Gwərgəs Dawið', 'place': 'ʾƐn-Nune'}
+processing bar text A37-A40.html
+<Element h2 at 0x110f4e1d0> {'text_id': 'A37', 'title': 'THE TALE OF NASIMO'} {'source': 'bar text A37-A40.html'}
+	making [The Tale Of Nasimo]
+<Element h2 at 0x110f4e180> {'informant': 'Xošebo ʾOdišo', 'place': 'ʾƐn-Nune'} {'source': 'bar text A37-A40.html', 'text_id': 'A37', 'title': 'The Tale Of Nasimo'}
+<Element h2 at 0x110f54860> {'text_id': 'A38', 'title': 'ŠOŠƏT XERE'} {'source': 'bar text A37-A40.html', 'text_id': 'A37', 'title': 'The Tale Of Nasimo', 'informant': 'Xošebo ʾOdišo', 'place': 'ʾƐn-Nune'}
+	making [Šošət Xere]
+<Element h2 at 0x110f54090> {'informant': 'Xošebo ʾOdišo', 'place': 'ʾƐn-Nune'} {'source': 'bar text A37-A40.html', 'text_id': 'A38', 'title': 'Šošət Xere', 'informant': 'Xošebo ʾOdišo', 'place': 'ʾƐn-Nune'}
+<Element h2 at 0x110f54e00> {'text_id': 'A39', 'title': 'THE BROTHER OF GIANTS'} {'source': 'bar text A37-A40.html', 'text_id': 'A38', 'title': 'Šošət Xere', 'informant': 'Xošebo ʾOdišo', 'place': 'ʾƐn-Nune'}
+	making [The Brother Of Giants]
+<Element h2 at 0x110f54040> {'informant': 'Xošebo ʾOdišo', 'place': 'ʾƐn-Nune'} {'source': 'bar text A37-A40.html', 'text_id': 'A39', 'title': 'The Brother Of Giants', 'informant': 'Xošebo ʾOdišo', 'place': 'ʾƐn-Nune'}
+<Element h2 at 0x110f54a90> {'text_id': 'A40', 'title': 'THE WISE DAUGHTER OF THE KING'} {'source': 'bar text A37-A40.html', 'text_id': 'A39', 'title': 'The Brother Of Giants', 'informant': 'Xošebo ʾOdišo', 'place': 'ʾƐn-Nune'}
+	making [The Wise Daughter Of The King]
+<Element h2 at 0x110f54a40> {'informant': 'Xošebo ʾOdišo', 'place': 'ʾƐn-Nune'} {'source': 'bar text A37-A40.html', 'text_id': 'A40', 'title': 'The Wise Daughter Of The King', 'informant': 'Xošebo ʾOdišo', 'place': 'ʾƐn-Nune'}
+processing bar text a18.html
+<Element h2 at 0x110f4e8b0> {'text_id': 'A18', 'title': 'BABY LELIΘA'} {'source': 'bar text a18.html'}
+	making [Baby Leliθa]
+<Element h2 at 0x110f4eb30> {'informant': 'Xošebo ʾOdišo', 'place': 'ʾƐn-Nune'} {'source': 'bar text a18.html', 'text_id': 'A18', 'title': 'Baby Leliθa'}
+processing bar text a1-A7.html
+<Element h2 at 0x110f4ea90> {'text_id': 'A1', 'title': 'The Wise Snake'} {'source': 'bar text a1-A7.html'}
+	making [The Wise Snake]
+<Element h2 at 0x110f4e9f0> {'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'} {'source': 'bar text a1-A7.html', 'text_id': 'A1', 'title': 'The Wise Snake'}
+<Element h2 at 0x110f4e590> {'text_id': 'A2', 'title': 'The Priest and the Mullah'} {'source': 'bar text a1-A7.html', 'text_id': 'A1', 'title': 'The Wise Snake', 'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'}
+	making [The Priest And The Mullah]
+<Element h2 at 0x110f4e270> {'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'} {'source': 'bar text a1-A7.html', 'text_id': 'A2', 'title': 'The Priest And The Mullah', 'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'}
+<Element h2 at 0x110f4eb80> {'text_id': 'A3', 'title': 'The Selfish Neighbour'} {'source': 'bar text a1-A7.html', 'text_id': 'A2', 'title': 'The Priest And The Mullah', 'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'}
+	making [The Selfish Neighbour]
+<Element h2 at 0x110f4e4a0> {'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'} {'source': 'bar text a1-A7.html', 'text_id': 'A3', 'title': 'The Selfish Neighbour', 'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'}
+<Element h2 at 0x110f4ec70> {'text_id': 'A4', 'title': 'A tale of a prince and a princess'} {'source': 'bar text a1-A7.html', 'text_id': 'A3', 'title': 'The Selfish Neighbour', 'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'}
+	making [A Tale Of A Prince And A Princess]
+<Element h2 at 0x110f4e5e0> {'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'} {'source': 'bar text a1-A7.html', 'text_id': 'A4', 'title': 'A Tale Of A Prince And A Princess', 'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'}
+<Element h2 at 0x110f4eea0> {'text_id': 'A5', 'title': 'The Cooking Pot'} {'source': 'bar text a1-A7.html', 'text_id': 'A4', 'title': 'A Tale Of A Prince And A Princess', 'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'}
+	making [The Cooking Pot]
+<Element h2 at 0x110f4ef40> {'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'} {'source': 'bar text a1-A7.html', 'text_id': 'A5', 'title': 'The Cooking Pot', 'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'}
+<Element h2 at 0x110f54cc0> {'text_id': 'A6', 'title': 'A Hundred Gold Coins'} {'source': 'bar text a1-A7.html', 'text_id': 'A5', 'title': 'The Cooking Pot', 'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'}
+	making [A Hundred Gold Coins]
+<Element h2 at 0x110f54c20> {'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'} {'source': 'bar text a1-A7.html', 'text_id': 'A6', 'title': 'A Hundred Gold Coins', 'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'}
+<Element h2 at 0x110f54ea0> {'text_id': 'A7', 'title': 'A Man Called Čuxo'} {'source': 'bar text a1-A7.html', 'text_id': 'A6', 'title': 'A Hundred Gold Coins', 'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'}
+	making [A Man Called Čuxo]
+<Element h2 at 0x110f54680> {'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'} {'source': 'bar text a1-A7.html', 'text_id': 'A7', 'title': 'A Man Called Čuxo', 'informant': 'Yuwəl Yuḥanna', 'place': 'Dure'}
+processing bar text a34.html
+<Element h2 at 0x110f4e040> {'text_id': 'A34', 'title': 'THE GIRL AND THE SEVEN BROTHERS'} {'source': 'bar text a34.html'}
+	making [The Girl And The Seven Brothers]
+<Element h2 at 0x110f4e360> {'informant': 'Blandina Barwari', 'place': 'ʾƐn-Nune'} {'source': 'bar text a34.html', 'text_id': 'A34', 'title': 'The Girl And The Seven Brothers'}
+processing bar text A14.html
+<Element h2 at 0x110f4e360> {'text_id': 'A14', 'title': 'TALES FROM THE 1001 NIGHTS'} {'source': 'bar text A14.html'}
+	making [Tales From The 1001 Nights]
+<Element h2 at 0x110f4e590> {'informant': 'Yuwarəš Xošăba Kena', 'place': 'Dure'} {'source': 'bar text A14.html', 'text_id': 'A14', 'title': 'Tales From The 1001 Nights'}
+processing bar text a35.html
+<Element h2 at 0x110f4e270> {'text_id': 'A35', 'title': 'NANNO AND JƏNDO'} {'source': 'bar text a35.html'}
+	making [Nanno And Jəndo]
+<Element h2 at 0x110f4ecc0> {'informant': 'Dawið Gwərgəs', 'place': 'ʾƐn-Nune'} {'source': 'bar text a35.html', 'text_id': 'A35', 'title': 'Nanno And Jəndo'}
+processing bar text a36.html
+<Element h2 at 0x110f4ecc0> {'text_id': 'A36', 'title': 'THE STORY WITH NO END'} {'source': 'bar text a36.html'}
+	making [The Story With No End]
+<Element h2 at 0x110f4edb0> {'informant': 'Gwərgəs Dawið', 'place': 'Ɛn Nune'} {'source': 'bar text a36.html', 'text_id': 'A36', 'title': 'The Story With No End'}
+processing bar text a41.html
+<Element h2 at 0x110f4eef0> {'text_id': 'A41', 'title': 'MEASURE FOR MEASURE'} {'source': 'bar text a41.html'}
+	making [Measure For Measure]
+<Element h2 at 0x110f4eea0> {'informant': 'Kena Kena', 'place': 'Dure'} {'source': 'bar text a41.html', 'text_id': 'A41', 'title': 'Measure For Measure'}
+processing bar text a8.html
+<Element h2 at 0x110f4eea0> {'text_id': 'A8', 'title': 'Gozali and Nozali'} {'source': 'bar text a8.html'}
+	making [Gozali And Nozali]
+<Element h2 at 0x110f4e400> {'informant': 'Nanəs Bənyamən', 'place': 'ʾƐn-Nune'} {'source': 'bar text a8.html', 'text_id': 'A8', 'title': 'Gozali And Nozali'}
+processing bar text a19-A23.html
+<Element h2 at 0x110f4e400> {'text_id': 'A19', 'title': 'THE LELIΘA FROM Č̭ĀL'} {'source': 'bar text a19-A23.html'}
+	making [The Leliθa From Č̭āl]
+<Element h2 at 0x110f54bd0> {'informant': 'Dawið ʾAdam', 'place': 'Dure'} {'source': 'bar text a19-A23.html', 'text_id': 'A19', 'title': 'The Leliθa From Č̭āl'}
+<Element h2 at 0x110f544a0> {'text_id': 'A20', 'title': 'THE BEAR AND THE FOX'} {'source': 'bar text a19-A23.html', 'text_id': 'A19', 'title': 'The Leliθa From Č̭āl', 'informant': 'Dawið ʾAdam', 'place': 'Dure'}
+	making [The Bear And The Fox]
+<Element h2 at 0x110f54680> {'informant': 'Dawið ʾAdam', 'place': 'Dure'} {'source': 'bar text a19-A23.html', 'text_id': 'A20', 'title': 'The Bear And The Fox', 'informant': 'Dawið ʾAdam', 'place': 'Dure'}
+<Element h2 at 0x110f54c20> {'text_id': 'A21', 'title': 'THE DAUGHTER OF THE KING'} {'source': 'bar text a19-A23.html', 'text_id': 'A20', 'title': 'The Bear And The Fox', 'informant': 'Dawið ʾAdam', 'place': 'Dure'}
+	making [The Daughter Of The King]
+<Element h2 at 0x110f54ea0> {'informant': 'Dawið ʾAdam', 'place': 'Dure'} {'source': 'bar text a19-A23.html', 'text_id': 'A21', 'title': 'The Daughter Of The King', 'informant': 'Dawið ʾAdam', 'place': 'Dure'}
+<Element h2 at 0x110f54770> {'text_id': 'A22', 'title': 'THE SALE OF AN OX'} {'source': 'bar text a19-A23.html', 'text_id': 'A21', 'title': 'The Daughter Of The King', 'informant': 'Dawið ʾAdam', 'place': 'Dure'}
+	making [The Sale Of An Ox]
+<Element h2 at 0x110f54810> {'informant': 'Dawið ʾAdam', 'place': 'Dure'} {'source': 'bar text a19-A23.html', 'text_id': 'A22', 'title': 'The Sale Of An Ox', 'informant': 'Dawið ʾAdam', 'place': 'Dure'}
+<Element h2 at 0x110f56e50> {'text_id': 'A23', 'title': 'THE MAN WHO WANTED TO WORK'} {'source': 'bar text a19-A23.html', 'text_id': 'A22', 'title': 'The Sale Of An Ox', 'informant': 'Dawið ʾAdam', 'place': 'Dure'}
+	making [The Man Who Wanted To Work]
+<Element h2 at 0x110f56db0> {'informant': 'Dawið ʾAdam', 'place': 'Dure'} {'source': 'bar text a19-A23.html', 'text_id': 'A23', 'title': 'The Man Who Wanted To Work', 'informant': 'Dawið ʾAdam', 'place': 'Dure'}
+processing bar text a26.html
+<Element h2 at 0x110f54ea0> {'text_id': 'A26', 'title': 'THE TALE OF MĂMO AND ZINE'} {'source': 'bar text a26.html'}
+	making [The Tale Of Mămo And Zine]
+<Element h2 at 0x110f541d0> {'informant': 'Dawið ʾAdam', 'place': 'Dure'} {'source': 'bar text a26.html', 'text_id': 'A26', 'title': 'The Tale Of Mămo And Zine'}
+processing bar text a30.html
+<Element h2 at 0x110f54ea0> {'text_id': 'A30', 'title': 'THE CRAFTY HIRELING'} {'source': 'bar text a30.html'}
+	making [The Crafty Hireling]
+<Element h2 at 0x110f541d0> {'informant': 'Mišayel Barčəm', 'place': 'ʾƐn-Nune'} {'source': 'bar text a30.html', 'text_id': 'A30', 'title': 'The Crafty Hireling'}
+processing bar text a31-A33.html
+<Element h2 at 0x110f541d0> {'text_id': 'A31', 'title': 'THE GIANT’S CAVE'} {'source': 'bar text a31-A33.html'}
+	making [The Giant’s Cave]
+<Element h2 at 0x110f54f40> {'informant': 'Awiko Sulaqa', 'place': 'ʾƐn-Nune'} {'source': 'bar text a31-A33.html', 'text_id': 'A31', 'title': 'The Giant’s Cave'}
+<Element h2 at 0x110f54360> {'text_id': 'A32', 'title': 'THE FOX AND THE MILLER'} {'source': 'bar text a31-A33.html', 'text_id': 'A31', 'title': 'The Giant’s Cave', 'informant': 'Awiko Sulaqa', 'place': 'ʾƐn-Nune'}
+	making [The Fox And The Miller]
+<Element h2 at 0x110f54770> {'informant': 'Awiko Sulaqa', 'place': 'ʾƐn-Nune'} {'source': 'bar text a31-A33.html', 'text_id': 'A32', 'title': 'The Fox And The Miller', 'informant': 'Awiko Sulaqa', 'place': 'ʾƐn-Nune'}
+<Element h2 at 0x110f54e50> {'text_id': 'A33', 'title': 'THE LION WITH A SWOLLEN LEG'} {'source': 'bar text a31-A33.html', 'text_id': 'A32', 'title': 'The Fox And The Miller', 'informant': 'Awiko Sulaqa', 'place': 'ʾƐn-Nune'}
+	making [The Lion With A Swollen Leg]
+<Element h2 at 0x110f54130> {'informant': 'Awiko Sulaqa', 'place': 'ʾƐn-Nune'} {'source': 'bar text a31-A33.html', 'text_id': 'A33', 'title': 'The Lion With A Swollen Leg', 'informant': 'Awiko Sulaqa', 'place': 'ʾƐn-Nune'}
+processing bar text a50-A52.html
+<Element h2 at 0x110f541d0> {'text_id': 'A50', 'title': 'THE SISISAMBƏR PLANT'} {'source': 'bar text a50-A52.html'}
+	making [The Sisisambər Plant]
+<Element h2 at 0x110f54f40> {'informant': 'Awiko Sulaqa', 'place': 'ʾƐn-Nune'} {'source': 'bar text a50-A52.html', 'text_id': 'A50', 'title': 'The Sisisambər Plant'}
+<Element h2 at 0x110f4e9a0> {'text_id': 'A51', 'title': 'QAṬINA RESCUES HIS NEPHEW FROM LELIΘA'} {'source': 'bar text a50-A52.html', 'text_id': 'A50', 'title': 'The Sisisambər Plant', 'informant': 'Awiko Sulaqa', 'place': 'ʾƐn-Nune'}
+	making [Qaṭina Rescues His Nephew From Leliθa]
+<Element h2 at 0x110f4e4f0> {'informant': 'Dawid Adam', 'place': 'Dure'} {'source': 'bar text a50-A52.html', 'text_id': 'A51', 'title': 'Qaṭina Rescues His Nephew From Leliθa', 'informant': 'Awiko Sulaqa', 'place': 'ʾƐn-Nune'}
+<Element h2 at 0x110f5ac70> {'text_id': 'A52', 'title': 'THE BATTLE WITH YUWANƏS THE ARMENIAN'} {'source': 'bar text a50-A52.html', 'text_id': 'A51', 'title': 'Qaṭina Rescues His Nephew From Leliθa', 'informant': 'Dawid Adam', 'place': 'Dure'}
+	making [The Battle With Yuwanəs The Armenian]
+<Element h2 at 0x110f5acc0> {'informant': 'Awiko Sulaqa', 'place': 'ʾƐn-Nune'} {'source': 'bar text a50-A52.html', 'text_id': 'A52', 'title': 'The Battle With Yuwanəs The Armenian', 'informant': 'Dawid Adam', 'place': 'Dure'}
+processing bar text a27.html
+<Element h2 at 0x110f54ef0> {'text_id': 'A27', 'title': 'THE TALE OF MƏRZA PĂMƏT'} {'source': 'bar text a27.html'}
+	making [The Tale Of Mərza Pămət]
+<Element h2 at 0x110f54f90> {'informant': 'Dawið ʾAdam', 'place': 'Dure'} {'source': 'bar text a27.html', 'text_id': 'A27', 'title': 'The Tale Of Mərza Pămət'}
+processing cu vol 4 texts.html
+<Element h2 at 0x110f6c900> {} {'source': 'cu vol 4 texts.html'}
+<Element h2 at 0x110f6ca40> {'text_id': 'A 1'} {'source': 'cu vol 4 texts.html'}
+<Element h2 at 0x110f6ca90> {'title': 'The Bald Man and the King', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A 1'}
+	making [The Bald Man And The King]
+<Element h2 at 0x110f6cd60> {'text_id': 'A2'} {'source': 'cu vol 4 texts.html', 'text_id': 'A 1', 'title': 'The Bald Man And The King', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f6cd10> {'title': 'Women are Stronger than Men', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A2', 'title': 'The Bald Man And The King', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [Women Are Stronger Than Men]
+<Element h2 at 0x110f6ce50> {'text_id': 'A3'} {'source': 'cu vol 4 texts.html', 'text_id': 'A2', 'title': 'Women Are Stronger Than Men', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f6cea0> {'title': 'Axiqar', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A3', 'title': 'Women Are Stronger Than Men', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [Axiqar]
+<Element h2 at 0x110f59270> {'text_id': 'A4'} {'source': 'cu vol 4 texts.html', 'text_id': 'A3', 'title': 'Axiqar', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f592c0> {'title': 'Is there a Man with No Worries?', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A4', 'title': 'Axiqar', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [Is There A Man With No Worries?]
+<Element h2 at 0x110f59360> {'text_id': 'A5'} {'source': 'cu vol 4 texts.html', 'text_id': 'A4', 'title': 'Is There A Man With No Worries?', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f593b0> {'title': 'Women do Things Best', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A5', 'title': 'Is There A Man With No Worries?', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [Women Do Things Best]
+<Element h2 at 0x110f594f0> {'text_id': 'A6'} {'source': 'cu vol 4 texts.html', 'text_id': 'A5', 'title': 'Women Do Things Best', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f59540> {'title': 'The Dead Rise and Return', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A6', 'title': 'Women Do Things Best', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [The Dead Rise And Return]
+<Element h2 at 0x110f595e0> {'text_id': 'A7'} {'source': 'cu vol 4 texts.html', 'text_id': 'A6', 'title': 'The Dead Rise And Return', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f59630> {'title': 'A Pound of Flesh', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A7', 'title': 'The Dead Rise And Return', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [A Pound Of Flesh]
+<Element h2 at 0x110f59720> {'text_id': 'A8'} {'source': 'cu vol 4 texts.html', 'text_id': 'A7', 'title': 'A Pound Of Flesh', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f59770> {'title': 'The Loan of a Cooking Pot', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A8', 'title': 'A Pound Of Flesh', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [The Loan Of A Cooking Pot]
+<Element h2 at 0x110f59810> {'text_id': 'A9'} {'source': 'cu vol 4 texts.html', 'text_id': 'A8', 'title': 'The Loan Of A Cooking Pot', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f59860> {'title': 'Much Ado About Nothing', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A9', 'title': 'The Loan Of A Cooking Pot', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [Much Ado About Nothing]
+<Element h2 at 0x110f59900> {'text_id': 'A10'} {'source': 'cu vol 4 texts.html', 'text_id': 'A9', 'title': 'Much Ado About Nothing', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f59950> {'title': 'A Visit from Harun ar-Rashid', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A10', 'title': 'Much Ado About Nothing', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [A Visit From Harun Ar-rashid]
+<Element h2 at 0x110f59a40> {'text_id': 'A11'} {'source': 'cu vol 4 texts.html', 'text_id': 'A10', 'title': 'A Visit From Harun Ar-rashid', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f59a90> {'title': 'The Cat’s Dinner', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A11', 'title': 'A Visit From Harun Ar-rashid', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [The Cat’s Dinner]
+<Element h2 at 0x110f59b30> {'text_id': 'A12'} {'source': 'cu vol 4 texts.html', 'text_id': 'A11', 'title': 'The Cat’s Dinner', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f59b80> {'title': 'Ice for Dinner', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A12', 'title': 'The Cat’s Dinner', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [Ice For Dinner]
+<Element h2 at 0x110f59c20> {'text_id': 'A13'} {'source': 'cu vol 4 texts.html', 'text_id': 'A12', 'title': 'Ice For Dinner', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f59c70> {'title': 'Am I dead?', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A13', 'title': 'Ice For Dinner', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [Am I Dead?]
+<Element h2 at 0x110f59d60> {'text_id': 'A14'} {'source': 'cu vol 4 texts.html', 'text_id': 'A13', 'title': 'Am I Dead?', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f59db0> {'title': 'A Thousand Dinars', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A14', 'title': 'Am I Dead?', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [A Thousand Dinars]
+<Element h2 at 0x110f59e50> {'text_id': 'A15'} {'source': 'cu vol 4 texts.html', 'text_id': 'A14', 'title': 'A Thousand Dinars', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f59ea0> {'title': 'Kindness to a Donkey', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A15', 'title': 'A Thousand Dinars', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [Kindness To A Donkey]
+<Element h2 at 0x110f59f90> {'text_id': 'A16'} {'source': 'cu vol 4 texts.html', 'text_id': 'A15', 'title': 'Kindness To A Donkey', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5d040> {'title': 'The Stupid Carpenter', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A16', 'title': 'Kindness To A Donkey', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [The Stupid Carpenter]
+<Element h2 at 0x110f5d0e0> {'text_id': 'A17'} {'source': 'cu vol 4 texts.html', 'text_id': 'A16', 'title': 'The Stupid Carpenter', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5d130> {'title': 'A Close Shave', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A17', 'title': 'The Stupid Carpenter', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [A Close Shave]
+<Element h2 at 0x110f5d1d0> {'text_id': 'A18'} {'source': 'cu vol 4 texts.html', 'text_id': 'A17', 'title': 'A Close Shave', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5d220> {'title': 'A Sweater to Pay Off a Debt', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A18', 'title': 'A Close Shave', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [A Sweater To Pay Off A Debt]
+<Element h2 at 0x110f5d2c0> {'text_id': 'A19'} {'source': 'cu vol 4 texts.html', 'text_id': 'A18', 'title': 'A Sweater To Pay Off A Debt', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5d310> {'title': 'No Bread Today', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A19', 'title': 'A Sweater To Pay Off A Debt', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [No Bread Today]
+<Element h2 at 0x110f5d400> {'text_id': 'A20'} {'source': 'cu vol 4 texts.html', 'text_id': 'A19', 'title': 'No Bread Today', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5d450> {'title': 'An Orphan Duckling', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A20', 'title': 'No Bread Today', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [An Orphan Duckling]
+<Element h2 at 0x110f5d4f0> {'text_id': 'A21'} {'source': 'cu vol 4 texts.html', 'text_id': 'A20', 'title': 'An Orphan Duckling', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5d540> {'title': 'Mistaken Identity', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A21', 'title': 'An Orphan Duckling', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [Mistaken Identity]
+<Element h2 at 0x110f5d5e0> {'text_id': 'A22'} {'source': 'cu vol 4 texts.html', 'text_id': 'A21', 'title': 'Mistaken Identity', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5d630> {'title': 'Trickster', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A22', 'title': 'Mistaken Identity', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [Trickster]
+<Element h2 at 0x110f5d6d0> {'text_id': 'A23'} {'source': 'cu vol 4 texts.html', 'text_id': 'A22', 'title': 'Trickster', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5d720> {'title': 'Problems Lighting a Fire', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A23', 'title': 'Trickster', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [Problems Lighting A Fire]
+<Element h2 at 0x110f5d7c0> {'text_id': 'A24'} {'source': 'cu vol 4 texts.html', 'text_id': 'A23', 'title': 'Problems Lighting A Fire', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5d810> {'title': 'The Angel of Death', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A24', 'title': 'Problems Lighting A Fire', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [The Angel Of Death]
+<Element h2 at 0x110f5d8b0> {'text_id': 'A25'} {'source': 'cu vol 4 texts.html', 'text_id': 'A24', 'title': 'The Angel Of Death', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5d900> {'title': 'Stomach Trouble', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A25', 'title': 'The Angel Of Death', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [Stomach Trouble]
+<Element h2 at 0x110f5d9a0> {'text_id': 'A26'} {'source': 'cu vol 4 texts.html', 'text_id': 'A25', 'title': 'Stomach Trouble', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5d9f0> {'title': 'A Lost Donkey', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A26', 'title': 'Stomach Trouble', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [A Lost Donkey]
+<Element h2 at 0x110f5dae0> {'text_id': 'A27'} {'source': 'cu vol 4 texts.html', 'text_id': 'A26', 'title': 'A Lost Donkey', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5db30> {'title': 'A Lost Ring', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A27', 'title': 'A Lost Donkey', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [A Lost Ring]
+<Element h2 at 0x110f5dbd0> {'text_id': 'A28'} {'source': 'cu vol 4 texts.html', 'text_id': 'A27', 'title': 'A Lost Ring', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5dc20> {'title': 'The Purchase of a Donkey', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A28', 'title': 'A Lost Ring', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [The Purchase Of A Donkey]
+<Element h2 at 0x110f5dcc0> {'text_id': 'A29'} {'source': 'cu vol 4 texts.html', 'text_id': 'A28', 'title': 'The Purchase Of A Donkey', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5dd10> {'title': 'Lost Money', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A29', 'title': 'The Purchase Of A Donkey', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [Lost Money]
+<Element h2 at 0x110f5ddb0> {'text_id': 'A30'} {'source': 'cu vol 4 texts.html', 'text_id': 'A29', 'title': 'Lost Money', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5de00> {'title': 'The Wife’s Condition', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A30', 'title': 'Lost Money', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [The Wife’s Condition]
+<Element h2 at 0x110f5dea0> {'text_id': 'A31'} {'source': 'cu vol 4 texts.html', 'text_id': 'A30', 'title': 'The Wife’s Condition', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5def0> {'title': 'A Donkey Knows Best', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A31', 'title': 'The Wife’s Condition', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [A Donkey Knows Best]
+<Element h2 at 0x110f5df90> {'text_id': 'A32'} {'source': 'cu vol 4 texts.html', 'text_id': 'A31', 'title': 'A Donkey Knows Best', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5b040> {'title': 'When Shall I Die?', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A32', 'title': 'A Donkey Knows Best', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [When Shall I Die?]
+<Element h2 at 0x110f5b0e0> {'text_id': 'A33'} {'source': 'cu vol 4 texts.html', 'text_id': 'A32', 'title': 'When Shall I Die?', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5b130> {'title': 'I Have Died', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A33', 'title': 'When Shall I Die?', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [I Have Died]
+<Element h2 at 0x110f5b1d0> {'text_id': 'A34'} {'source': 'cu vol 4 texts.html', 'text_id': 'A33', 'title': 'I Have Died', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f5b220> {'title': 'The Fisherman and the Princess', 'informant': 'Nancy George', 'place': 'Babari, S'} {'source': 'cu vol 4 texts.html', 'text_id': 'A34', 'title': 'I Have Died', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [The Fisherman And The Princess]
+<Element h2 at 0x110f5b2c0> {'text_id': 'A35'} {'source': 'cu vol 4 texts.html', 'text_id': 'A34', 'title': 'The Fisherman And The Princess', 'informant': 'Nancy George', 'place': 'Babari, S'}
+<Element h2 at 0x110f5b310> {'title': 'The Wife who Learns How to Work'} {'source': 'cu vol 4 texts.html', 'text_id': 'A35', 'title': 'The Fisherman And The Princess', 'informant': 'Nancy George', 'place': 'Babari, S'}
+	making [The Wife Who Learns How To Work]
+<Element h2 at 0x110f5b360> {'version': 'Version 1', 'informant': 'Nancy George', 'place': 'Babari, S'} {'source': 'cu vol 4 texts.html', 'text_id': 'A35', 'title': 'The Wife Who Learns How To Work', 'informant': 'Nancy George', 'place': 'Babari, S'}
+<Element h2 at 0x110f5b400> {'version': 'Version 2', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-canɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A35', 'title': 'The Wife Who Learns How To Work', 'informant': 'Nancy George', 'place': 'Babari, S'}
+<Element h2 at 0x110f5b4a0> {'text_id': 'A36'} {'source': 'cu vol 4 texts.html', 'text_id': 'A35', 'title': 'The Wife Who Learns How To Work', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-canɟa, N'}
+<Element h2 at 0x110f5b4f0> {'title': 'A Cure for a Husband’s Madness', 'informant': 'Nancy George', 'place': 'Babari, S'} {'source': 'cu vol 4 texts.html', 'text_id': 'A36', 'title': 'The Wife Who Learns How To Work', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-canɟa, N'}
+	making [A Cure For A Husband’s Madness]
+<Element h2 at 0x110f5b590> {'text_id': 'A37'} {'source': 'cu vol 4 texts.html', 'text_id': 'A36', 'title': 'A Cure For A Husband’s Madness', 'informant': 'Nancy George', 'place': 'Babari, S'}
+<Element h2 at 0x110f5b5e0> {'title': 'The Bald Child and the Monsters', 'informant': 'Yosəp bet Yosəp', 'place': 'Zumallan, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A37', 'title': 'A Cure For A Husband’s Madness', 'informant': 'Nancy George', 'place': 'Babari, S'}
+	making [The Bald Child And The Monsters]
+<Element h2 at 0x110f5b680> {'text_id': 'A38'} {'source': 'cu vol 4 texts.html', 'text_id': 'A37', 'title': 'The Bald Child And The Monsters', 'informant': 'Yosəp bet Yosəp', 'place': 'Zumallan, N'}
+<Element h2 at 0x110f5b6d0> {'title': 'The Wise Young Daughter', 'informant': 'Yosəp bet Yosəp', 'place': 'Zumallan, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A38', 'title': 'The Bald Child And The Monsters', 'informant': 'Yosəp bet Yosəp', 'place': 'Zumallan, N'}
+	making [The Wise Young Daughter]
+<Element h2 at 0x110f5b810> {'text_id': 'A39'} {'source': 'cu vol 4 texts.html', 'text_id': 'A38', 'title': 'The Wise Young Daughter', 'informant': 'Yosəp bet Yosəp', 'place': 'Zumallan, N'}
+<Element h2 at 0x110f5b860> {'title': 'The Adventures of Ashur', 'informant': 'Yonan Petrus', 'place': 'Mushawa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A39', 'title': 'The Wise Young Daughter', 'informant': 'Yosəp bet Yosəp', 'place': 'Zumallan, N'}
+	making [The Adventures Of Ashur]
+<Element h2 at 0x110f5b900> {'text_id': 'A40'} {'source': 'cu vol 4 texts.html', 'text_id': 'A39', 'title': 'The Adventures Of Ashur', 'informant': 'Yonan Petrus', 'place': 'Mushawa, N'}
+<Element h2 at 0x110f5b950> {'title': 'A Dragon in the Well', 'informant': 'Frederic Ayyubkhan', 'place': 'Spurġān, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A40', 'title': 'The Adventures Of Ashur', 'informant': 'Yonan Petrus', 'place': 'Mushawa, N'}
+	making [A Dragon In The Well]
+<Element h2 at 0x110f5b9f0> {'text_id': 'A41'} {'source': 'cu vol 4 texts.html', 'text_id': 'A40', 'title': 'A Dragon In The Well', 'informant': 'Frederic Ayyubkhan', 'place': 'Spurġān, N'}
+<Element h2 at 0x110f5ba40> {'title': 'A Painting of the King Of Iran', 'informant': 'Frederic Ayyubkhan', 'place': '+Spurġān, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'A41', 'title': 'A Dragon In The Well', 'informant': 'Frederic Ayyubkhan', 'place': 'Spurġān, N'}
+	making [A Painting Of The King Of Iran]
+<Element h2 at 0x110f5bae0> {'text_id': 'A42'} {'source': 'cu vol 4 texts.html', 'text_id': 'A41', 'title': 'A Painting Of The King Of Iran', 'informant': 'Frederic Ayyubkhan', 'place': '+Spurġān, N'}
+<Element h2 at 0x110f5bb30> {'title': 'The Adventures of Two Brothers', 'informant': 'Manya Givoyev', 'place': 'Guylasar, Armenia'} {'source': 'cu vol 4 texts.html', 'text_id': 'A42', 'title': 'A Painting Of The King Of Iran', 'informant': 'Frederic Ayyubkhan', 'place': '+Spurġān, N'}
+	making [The Adventures Of Two Brothers]
+<Element h2 at 0x110f5bbd0> {'text_id': 'A43'} {'source': 'cu vol 4 texts.html', 'text_id': 'A42', 'title': 'The Adventures Of Two Brothers', 'informant': 'Manya Givoyev', 'place': 'Guylasar, Armenia'}
+<Element h2 at 0x110f5bc20> {'title': 'The Adventures of a Princess', 'informant': 'Manya Givoyev', 'place': 'Guylasar, Armenia'} {'source': 'cu vol 4 texts.html', 'text_id': 'A43', 'title': 'The Adventures Of Two Brothers', 'informant': 'Manya Givoyev', 'place': 'Guylasar, Armenia'}
+	making [The Adventures Of A Princess]
+<Element h2 at 0x110f5bcc0> {'text_id': 'A44'} {'source': 'cu vol 4 texts.html', 'text_id': 'A43', 'title': 'The Adventures Of A Princess', 'informant': 'Manya Givoyev', 'place': 'Guylasar, Armenia'}
+<Element h2 at 0x110f5bd10> {'title': 'Two Wicked Daughters-in-law', 'informant': 'Manya Givoyev', 'place': 'Guylasar, Armenia'} {'source': 'cu vol 4 texts.html', 'text_id': 'A44', 'title': 'The Adventures Of A Princess', 'informant': 'Manya Givoyev', 'place': 'Guylasar, Armenia'}
+	making [Two Wicked Daughters-in-law]
+<Element h2 at 0x110f5bdb0> {'text_id': 'A45'} {'source': 'cu vol 4 texts.html', 'text_id': 'A44', 'title': 'Two Wicked Daughters-in-law', 'informant': 'Manya Givoyev', 'place': 'Guylasar, Armenia'}
+<Element h2 at 0x110f5be00> {'title': 'A Dutiful Son', 'informant': 'Manya Givoyev', 'place': 'Guylasar, Armenia'} {'source': 'cu vol 4 texts.html', 'text_id': 'A45', 'title': 'Two Wicked Daughters-in-law', 'informant': 'Manya Givoyev', 'place': 'Guylasar, Armenia'}
+	making [A Dutiful Son]
+<Element h2 at 0x110f5bea0> {'text_id': 'A46'} {'source': 'cu vol 4 texts.html', 'text_id': 'A45', 'title': 'A Dutiful Son', 'informant': 'Manya Givoyev', 'place': 'Guylasar, Armenia'}
+<Element h2 at 0x110f5bef0> {'title': 'The Little Prince and the Snake', 'informant': 'Nadia Aloverdova', 'place': 'Guylasar, Armenia'} {'source': 'cu vol 4 texts.html', 'text_id': 'A46', 'title': 'A Dutiful Son', 'informant': 'Manya Givoyev', 'place': 'Guylasar, Armenia'}
+	making [The Little Prince And The Snake]
+<Element h2 at 0x110f5bf90> {'text_id': 'A47'} {'source': 'cu vol 4 texts.html', 'text_id': 'A46', 'title': 'The Little Prince And The Snake', 'informant': 'Nadia Aloverdova', 'place': 'Guylasar, Armenia'}
+<Element h2 at 0x110f5a040> {'title': 'The Snake’s Dilemma', 'informant': 'Arsen Mikhaylov', 'place': 'Arzni, Armenia'} {'source': 'cu vol 4 texts.html', 'text_id': 'A47', 'title': 'The Little Prince And The Snake', 'informant': 'Nadia Aloverdova', 'place': 'Guylasar, Armenia'}
+	making [The Snake’s Dilemma]
+<Element h2 at 0x110f5a180> {'text_id': 'A48'} {'source': 'cu vol 4 texts.html', 'text_id': 'A47', 'title': 'The Snake’s Dilemma', 'informant': 'Arsen Mikhaylov', 'place': 'Arzni, Armenia'}
+<Element h2 at 0x110f5a1d0> {'title': 'The Wise Brother', 'informant': 'Arsen Mikhaylov', 'place': 'Arzni, Armenia'} {'source': 'cu vol 4 texts.html', 'text_id': 'A48', 'title': 'The Snake’s Dilemma', 'informant': 'Arsen Mikhaylov', 'place': 'Arzni, Armenia'}
+	making [The Wise Brother]
+<Element h2 at 0x110f5a2c0> {'text_id': 'A49'} {'source': 'cu vol 4 texts.html', 'text_id': 'A48', 'title': 'The Wise Brother', 'informant': 'Arsen Mikhaylov', 'place': 'Arzni, Armenia'}
+<Element h2 at 0x110f5a310> {'title': 'The Man who Wanted to Complain to God', 'informant': 'Sophia Danielova', 'place': 'Arzni, Armenia'} {'source': 'cu vol 4 texts.html', 'text_id': 'A49', 'title': 'The Wise Brother', 'informant': 'Arsen Mikhaylov', 'place': 'Arzni, Armenia'}
+	making [The Man Who Wanted To Complain To God]
+<Element h2 at 0x110f5a3b0> {'text_id': 'A50'} {'source': 'cu vol 4 texts.html', 'text_id': 'A49', 'title': 'The Man Who Wanted To Complain To God', 'informant': 'Sophia Danielova', 'place': 'Arzni, Armenia'}
+<Element h2 at 0x110f5a400> {'title': 'The Giant One-Eyed Demon', 'informant': 'Sophia Danielova', 'place': 'Arzni, Armenia'} {'source': 'cu vol 4 texts.html', 'text_id': 'A50', 'title': 'The Man Who Wanted To Complain To God', 'informant': 'Sophia Danielova', 'place': 'Arzni, Armenia'}
+	making [The Giant One-eyed Demon]
+<Element h2 at 0x110f5a4a0> {'text_id': 'A51'} {'source': 'cu vol 4 texts.html', 'text_id': 'A50', 'title': 'The Giant One-eyed Demon', 'informant': 'Sophia Danielova', 'place': 'Arzni, Armenia'}
+<Element h2 at 0x110f5a4f0> {'title': 'The Cow and The Poor Girl', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'} {'source': 'cu vol 4 texts.html', 'text_id': 'A51', 'title': 'The Giant One-eyed Demon', 'informant': 'Sophia Danielova', 'place': 'Arzni, Armenia'}
+	making [The Cow And The Poor Girl]
+<Element h2 at 0x110f5a590> {'text_id': 'A52'} {'source': 'cu vol 4 texts.html', 'text_id': 'A51', 'title': 'The Cow And The Poor Girl', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'}
+<Element h2 at 0x110f5a5e0> {'title': 'A Frog Wants a Husband', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'} {'source': 'cu vol 4 texts.html', 'text_id': 'A52', 'title': 'The Cow And The Poor Girl', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'}
+	making [A Frog Wants A Husband]
+<Element h2 at 0x110f5a680> {'text_id': 'A53'} {'source': 'cu vol 4 texts.html', 'text_id': 'A52', 'title': 'A Frog Wants A Husband', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'}
+<Element h2 at 0x110f5a6d0> {'title': 'The Bird and the Fox', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'} {'source': 'cu vol 4 texts.html', 'text_id': 'A53', 'title': 'A Frog Wants A Husband', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'}
+	making [The Bird And The Fox]
+<Element h2 at 0x110f5a770> {'text_id': 'A54'} {'source': 'cu vol 4 texts.html', 'text_id': 'A53', 'title': 'The Bird And The Fox', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'}
+<Element h2 at 0x110f5a7c0> {'title': 'The Old Man and the Fish', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'} {'source': 'cu vol 4 texts.html', 'text_id': 'A54', 'title': 'The Bird And The Fox', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'}
+	making [The Old Man And The Fish]
+<Element h2 at 0x110f5a860> {'text_id': 'A55'} {'source': 'cu vol 4 texts.html', 'text_id': 'A54', 'title': 'The Old Man And The Fish', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'}
+<Element h2 at 0x110f5a8b0> {'title': 'Two Birds Fall in Love', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'} {'source': 'cu vol 4 texts.html', 'text_id': 'A55', 'title': 'The Old Man And The Fish', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'}
+	making [Two Birds Fall In Love]
+<Element h2 at 0x110f5a950> {'text_id': 'A56'} {'source': 'cu vol 4 texts.html', 'text_id': 'A55', 'title': 'Two Birds Fall In Love', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'}
+<Element h2 at 0x110f5a9a0> {'title': 'Star-Crossed Lovers', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'} {'source': 'cu vol 4 texts.html', 'text_id': 'A56', 'title': 'Two Birds Fall In Love', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'}
+	making [Star-crossed Lovers]
+<Element h2 at 0x110f5abd0> {} {'source': 'cu vol 4 texts.html', 'text_id': 'A56', 'title': 'Star-crossed Lovers', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'}
+<Element h2 at 0x110f5ac70> {'text_id': 'B1'} {'source': 'cu vol 4 texts.html', 'text_id': 'A56', 'title': 'Star-crossed Lovers', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'}
+<Element h2 at 0x110f5acc0> {'title': 'The Assyrians of Urmi', 'informant': 'Yosəp bet Yosəp', 'place': 'Zumallan, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'B1', 'title': 'Star-crossed Lovers', 'informant': 'Maryam Gwirgis', 'place': 'Canda, Georgia'}
+	making [The Assyrians Of Urmi]
+<Element h2 at 0x110f5af40> {'text_id': 'B2'} {'source': 'cu vol 4 texts.html', 'text_id': 'B1', 'title': 'The Assyrians Of Urmi', 'informant': 'Yosəp bet Yosəp', 'place': 'Zumallan, N'}
+<Element h2 at 0x110f5af90> {'title': 'Village Life', 'informant': 'Yonan Petrus', 'place': 'Mushava, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'B2', 'title': 'The Assyrians Of Urmi', 'informant': 'Yosəp bet Yosəp', 'place': 'Zumallan, N'}
+	making [Village Life]
+<Element h2 at 0x110f6e130> {'text_id': 'B3'} {'source': 'cu vol 4 texts.html', 'text_id': 'B2', 'title': 'Village Life', 'informant': 'Yonan Petrus', 'place': 'Mushava, N'}
+<Element h2 at 0x110f6e180> {'title': 'Agriculture and Village Life', 'informant': 'Natan Khoshaba', 'place': 'Zumallan, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'B3', 'title': 'Village Life', 'informant': 'Yonan Petrus', 'place': 'Mushava, N'}
+	making [Agriculture And Village Life]
+<Element h2 at 0x110f6e590> {'text_id': 'B4'} {'source': 'cu vol 4 texts.html', 'text_id': 'B3', 'title': 'Agriculture And Village Life', 'informant': 'Natan Khoshaba', 'place': 'Zumallan, N'}
+<Element h2 at 0x110f6e5e0> {'title': 'Hunting', 'informant': 'Natan Khoshaba', 'place': 'Zumallan, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'B4', 'title': 'Agriculture And Village Life', 'informant': 'Natan Khoshaba', 'place': 'Zumallan, N'}
+	making [Hunting]
+<Element h2 at 0x110f6e810> {'text_id': 'B5'} {'source': 'cu vol 4 texts.html', 'text_id': 'B4', 'title': 'Hunting', 'informant': 'Natan Khoshaba', 'place': 'Zumallan, N'}
+<Element h2 at 0x110f6e860> {'title': 'Weddings and Festivals', 'informant': 'Natan Khoshaba', 'place': 'Zumallan, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'B5', 'title': 'Hunting', 'informant': 'Natan Khoshaba', 'place': 'Zumallan, N'}
+	making [Weddings And Festivals]
+<Element h2 at 0x110f6ea40> {'text_id': 'B6'} {'source': 'cu vol 4 texts.html', 'text_id': 'B5', 'title': 'Weddings And Festivals', 'informant': 'Natan Khoshaba', 'place': 'Zumallan, N'}
+<Element h2 at 0x110f6ea90> {'title': 'Events in 1946 on the Urmi Plain', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'B6', 'title': 'Weddings And Festivals', 'informant': 'Natan Khoshaba', 'place': 'Zumallan, N'}
+	making [Events In 1946 On The Urmi Plain]
+<Element h2 at 0x110f6eb30> {'text_id': 'B7'} {'source': 'cu vol 4 texts.html', 'text_id': 'B6', 'title': 'Events In 1946 On The Urmi Plain', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f6eb80> {'title': 'Village Life', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'B7', 'title': 'Events In 1946 On The Urmi Plain', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [Village Life (2)]
+<Element h2 at 0x110f6ecc0> {'text_id': 'B8'} {'source': 'cu vol 4 texts.html', 'text_id': 'B7', 'title': 'Village Life (2)', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f6ed10> {'title': 'Weddings', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'B8', 'title': 'Village Life (2)', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [Weddings]
+<Element h2 at 0x110f6edb0> {'text_id': 'B9'} {'source': 'cu vol 4 texts.html', 'text_id': 'B8', 'title': 'Weddings', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+<Element h2 at 0x110f6ee00> {'title': 'Games', 'informant': 'Alice Bet-Yosəp', 'place': 'Zumallan, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'B9', 'title': 'Weddings', 'informant': 'Yulia Davudi', 'place': '+Hassar +Baba-čanɟa, N'}
+	making [Games]
+<Element h2 at 0x110f55180> {'text_id': 'B10'} {'source': 'cu vol 4 texts.html', 'text_id': 'B9', 'title': 'Games', 'informant': 'Alice Bet-Yosəp', 'place': 'Zumallan, N'}
+<Element h2 at 0x110f551d0> {'title': 'Village Life', 'informant': 'Alice Bet-Yosəp', 'place': 'Zumallan, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'B10', 'title': 'Games', 'informant': 'Alice Bet-Yosəp', 'place': 'Zumallan, N'}
+	making [Village Life (3)]
+<Element h2 at 0x110f554a0> {'text_id': 'B11'} {'source': 'cu vol 4 texts.html', 'text_id': 'B10', 'title': 'Village Life (3)', 'informant': 'Alice Bet-Yosəp', 'place': 'Zumallan, N'}
+<Element h2 at 0x110f554f0> {'title': 'St. Zayya’s Cake Dough', 'informant': 'Victor Orshan', 'place': 'Zumallan, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'B11', 'title': 'Village Life (3)', 'informant': 'Alice Bet-Yosəp', 'place': 'Zumallan, N'}
+	making [St. Zayya’s Cake Dough]
+<Element h2 at 0x110f55590> {'text_id': 'B12'} {'source': 'cu vol 4 texts.html', 'text_id': 'B11', 'title': 'St. Zayya’s Cake Dough', 'informant': 'Victor Orshan', 'place': 'Zumallan, N'}
+<Element h2 at 0x110f555e0> {'title': 'Nipuxta', 'informant': 'Victor Orshan', 'place': 'Zumallan, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'B12', 'title': 'St. Zayya’s Cake Dough', 'informant': 'Victor Orshan', 'place': 'Zumallan, N'}
+	making [Nipuxta]
+<Element h2 at 0x110f55680> {'text_id': 'B13'} {'source': 'cu vol 4 texts.html', 'text_id': 'B12', 'title': 'Nipuxta', 'informant': 'Victor Orshan', 'place': 'Zumallan, N'}
+<Element h2 at 0x110f556d0> {'title': 'Vineyards', 'informant': 'Victor Orshan', 'place': 'Zumallan, N'} {'source': 'cu vol 4 texts.html', 'text_id': 'B13', 'title': 'Nipuxta', 'informant': 'Victor Orshan', 'place': 'Zumallan, N'}
+	making [Vineyards]
+<Element h2 at 0x110f55770> {'text_id': 'B14'} {'source': 'cu vol 4 texts.html', 'text_id': 'B13', 'title': 'Vineyards', 'informant': 'Victor Orshan', 'place': 'Zumallan, N'}
+<Element h2 at 0x110f557c0> {'title': 'Village Life', 'informant': 'Jacob Petrus', 'place': 'Gulpashan, S'} {'source': 'cu vol 4 texts.html', 'text_id': 'B14', 'title': 'Vineyards', 'informant': 'Victor Orshan', 'place': 'Zumallan, N'}
+	making [Village Life (4)]
+<Element h2 at 0x110f55900> {'text_id': 'B15'} {'source': 'cu vol 4 texts.html', 'text_id': 'B14', 'title': 'Village Life (4)', 'informant': 'Jacob Petrus', 'place': 'Gulpashan, S'}
+<Element h2 at 0x110f55950> {'title': 'Village Life', 'informant': 'Nadia Aloverdova', 'place': 'Guylasar, Armenia'} {'source': 'cu vol 4 texts.html', 'text_id': 'B15', 'title': 'Village Life (4)', 'informant': 'Jacob Petrus', 'place': 'Gulpashan, S'}
+	making [Village Life (5)]
+<Element h2 at 0x110f559f0> {'text_id': 'B16'} {'source': 'cu vol 4 texts.html', 'text_id': 'B15', 'title': 'Village Life (5)', 'informant': 'Nadia Aloverdova', 'place': 'Guylasar, Armenia'}
+<Element h2 at 0x110f55a40> {'title': 'The Assyrians of Armenia', 'informant': 'Nadia Aloverdova', 'place': 'Guylasar, Armenia'} {'source': 'cu vol 4 texts.html', 'text_id': 'B16', 'title': 'Village Life (5)', 'informant': 'Nadia Aloverdova', 'place': 'Guylasar, Armenia'}
+	making [The Assyrians Of Armenia]
+<Element h2 at 0x110f55ae0> {'text_id': 'B17'} {'source': 'cu vol 4 texts.html', 'text_id': 'B16', 'title': 'The Assyrians Of Armenia', 'informant': 'Nadia Aloverdova', 'place': 'Guylasar, Armenia'}
+<Element h2 at 0x110f55b30> {'title': 'Village Life', 'informant': 'Merab Badalov', 'place': 'Canda, Georgia'} {'source': 'cu vol 4 texts.html', 'text_id': 'B17', 'title': 'The Assyrians Of Armenia', 'informant': 'Nadia Aloverdova', 'place': 'Guylasar, Armenia'}
+	making [Village Life (6)]
