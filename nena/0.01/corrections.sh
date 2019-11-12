@@ -24,4 +24,6 @@ sed -i "" "22,26 $SUBPROSA" "$FILE"
 FILE="Barwar/The Battle With Yuwanəs the Armenian.nena"
 echo "Fixing missing prosody boundaries in $FILE"
 sed -i "" "18,21 $SUBPROSA" "$FILE"
-
+sed -i "" "65,67 $SUBPROSA" "$FILE"
+sed -i "" "69,73 $SUBPROSA" "$FILE"
+sed -i "" "86,87 $SUBPROSA" "$FILE"
