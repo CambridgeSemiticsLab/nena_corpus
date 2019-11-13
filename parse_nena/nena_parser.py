@@ -150,8 +150,6 @@ fn_anchors = {}
 
 class NenaParser(Parser):
     
-    debugfile = 'parser.out'
-
     # Get the token list from the lexer (required)
     tokens = NenaLexer.tokens
     
