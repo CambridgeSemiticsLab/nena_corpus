@@ -323,7 +323,7 @@ def meta_tostring(metadata):
         if k != 'title':
             lines.append(f'{k}: {v}')
 
-    return '\n'.join(lines) + '\n'
+    return unicodedata.normalize('NFC', '\n'.join(lines) + '\n')
 
 def parse_element(e, replace=None, style_map={},
                   style_char_map={}, e_filter=None):
@@ -348,6 +348,9 @@ def parse_element(e, replace=None, style_map={},
     # Replace substrings provided in `replace`
     if replace:
         s = str_replace(s, replace)
+
+    # normalize style
+    s = unicodedata.normalize('NFC', s)
 
     # split string into lines,
     # and lines into strings with a maximum of 80 characters
