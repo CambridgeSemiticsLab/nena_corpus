@@ -1,5 +1,7 @@
 # Northeastern Neo-Aramaic Corpus Data [![DOI](https://zenodo.org/badge/204971841.svg)](https://zenodo.org/badge/latestdoi/204971841)
 
+<a href="https://www.ames.cam.ac.uk"><img src="https://github.com/CambridgeSemiticsLab/nena_tf/blob/master/docs/images/CambridgeU_color.jpg?raw=true" width="236" height="4    9"></a>
+
 This repository contains raw and corrected source texts written in North Eastern Neo-Aramaic (NENA) dialects. All original source material is converted to a standard mark-up format, regardless of its original format.
 
 The purpose of this repository is to curate source texts that will be used for building a complete text corpus in Text-Fabric. The corpus will in turn be analyzed and annotated for linguistic features.
