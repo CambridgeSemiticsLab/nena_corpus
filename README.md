@@ -1,4 +1,4 @@
-# North Eastern Neo-Aramaic Corpus Data
+# Northeastern Neo-Aramaic Corpus Data [![DOI](https://zenodo.org/badge/204971841.svg)](https://zenodo.org/badge/latestdoi/204971841)
 
 This repository contains raw and corrected source texts written in North Eastern Neo-Aramaic (NENA) dialects. All original source material is converted to a standard mark-up format, regardless of its original format.
 
