@@ -3,9 +3,9 @@
 NENA texts are transcribed stories or dialogues derived from audio recordings in 
 the field. These transcriptions have traditionally taken the form of publications 
 or files stored on a personal computer. In the NENA text-corpus project we normalize 
-these various formats into a simple plain-text format. That format is intended 
-to be both human- and machine-readable and include annotations. Markup formats like 
-[Markdown](https://daringfireball.net/projects/markdown/syntax) are examples
+these various formats into a simple plain-text version. This version is intended 
+to be both human- and machine-readable and include annotations. Markup languages 
+like [Markdown](https://daringfireball.net/projects/markdown/syntax) are examples
 of hybrid formats which are easy for people to use and can be read by machines 
 with some basic parsing. 
 
