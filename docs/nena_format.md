@@ -17,6 +17,9 @@ used for Aramaic and Hebrew corpora.
 
 **Contents**
 * [Example of NENA Markup](#Example-of-NENA-Markup-Text)
+* [Structure](#Structure)
+    * [Metadata Block](#Metadata-block)
+    
 
 ## Example of NENA Markup Text
 
