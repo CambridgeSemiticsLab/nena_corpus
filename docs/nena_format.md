@@ -1,4 +1,4 @@
-# Nena Markup Format 
+# Nena Markup Format
 
 NENA texts are transcribed stories or dialogues derived from audio recordings in 
 the field. These transcriptions have traditionally taken the form of publications 
@@ -16,13 +16,14 @@ more distantly, by the Eep Talstra Centre for Bible and Computer's
 used for Aramaic and Hebrew corpora.
 
 **Contents**
+
 * [Example of NENA Markup](#Example-of-NENA-Markup-Text)
 * [Structure](#Structure)
-    * [Metadata Block](#Metadata-block)
-    * [Text Block](#text-block)
-      * [Canonical Letters](#Canonical-letters)
-      * [Punctuation](#Punctuation)
-      * [Markup Strings](#Markup-strings)
+  * [Metadata Block](#Metadata-block)
+  * [Text Block](#text-block)
+    * [Canonical Letters](#Canonical-letters)
+    * [Punctuation](#Punctuation)
+    * [Markup Strings](#Markup-strings)
 
 ## Example of NENA Markup Text
 
@@ -39,24 +40,26 @@ place: +Hassar +Baba-čanɟa, N
 transcriber: Geoffrey Khan
 text_id: A32 
 
-(1@0:00) xá-yuma ⁺malla ⁺Nasrádən váyələ tíva ⁺ʾal-k̭èsa.ˈ xá mən-nášə ⁺vàrəva,ˈ 
-mə́rrə ⁺màllaˈ ʾátən ʾo-k̭ésa pràmut,ˈ bət-nàplət.ˈ mə́rrə <P>bŏ́ro<P> bàbaˈ ʾàtən=daˈ
-⁺šúla lə̀tluxˈ tíyyət b-dìyyi k̭ítət.ˈ ⁺šúk̭ si-⁺bar-⁺šùlux.ˈ ʾána ⁺šūl-ɟànilə.ˈ
-náplən nàplən.ˈ (2@0:08) ⁺hàlaˈ ʾo-náša léva xíša xá ⁺ʾəsrá ⁺pasulyày,ˈ ⁺málla
-bitáyələ drúm ⁺ʾal-⁺ʾàrra.ˈ bək̭yámələ ⁺bərxáṱələ ⁺bàru.ˈ màraˈ ⁺maxlèta,ˈ ʾátən
-⁺dílux ʾána bət-náplənva m-⁺al-ʾilàna.ˈ bas-tánili xázən ʾána ʾíman bət-mètən.ˈ
-ʾo-náša xzílə k̭at-ʾá ⁺màllaˈ hónu xáč̭č̭a ... ⁺basùrələˈ mə́rrə k̭àtuˈ ⁺maxlèta,ˈ
-mə̀drə,ˈ <<Geoffrey Khan: maxlèta?>> ⁺rába ⁺maxlèta, <E>yes<E>.ˈ mə́rrə k̭at-ʾíman 
-xmártux ⁺ṱlá ɟáhə ⁺ʾarṱàla,ˈ ʾó-yuma mètət.ˈ ʾó-yumət xmártux ⁺ṱlá ɟáhə ⁺ʾarṱàla,ˈ 
+(1@0:00) xá-yuma ⁺malla ⁺Nasrádən váyələ tíva ⁺ʾal-k̭èsa.ˈ xá mən-nášə 
+⁺vàrəva,ˈ mə́rrə ⁺màllaˈ ʾátən ʾo-k̭ésa pràmut,ˈ bət-nàplət.ˈ mə́rrə <P>bŏ́ro<P> 
+bàbaˈ ʾàtən=daˈ ⁺šúla lə̀tluxˈ tíyyət b-dìyyi k̭ítət.ˈ ⁺šúk̭ si-⁺bar-⁺šùlux.ˈ 
+ʾána ⁺šūl-ɟànilə.ˈ náplən nàplən.ˈ (2@0:08) ⁺hàlaˈ ʾo-náša léva xíša xá 
+⁺ʾəsrá ⁺pasulyày,ˈ ⁺málla bitáyələ drúm ⁺ʾal-⁺ʾàrra.ˈ bək̭yámələ ⁺bərxáṱələ 
+⁺bàru.ˈ màraˈ ⁺maxlèta,ˈ ʾátən ⁺dílux ʾána bət-náplənva m-⁺al-ʾilàna.ˈ 
+bas-tánili xázən ʾána ʾíman bət-mètən.ˈ ʾo-náša xzílə k̭at-ʾá ⁺màllaˈ hónu 
+xáč̭č̭a ... ⁺basùrələˈ mə́rrə k̭àtuˈ ⁺maxlèta,ˈ mə̀drə,ˈ 
+<<Geoffrey Khan: maxlèta?>> ⁺rába ⁺maxlèta.ˈ mə́rrə k̭at-ʾíman xmártux 
+⁺ṱlá ɟáhə ⁺ʾarṱàla,ˈ ʾó-yuma mètət.ˈ ʾó-yumət xmártux ⁺ṱlá ɟáhə ⁺ʾarṱàla,ˈ 
 ʾó-yuma mètət.ˈ 
 
-(3@0:16) ⁺málla múttəva ... ⁺ṱànaˈ ⁺yak̭úyra ⁺ʾal-xmàrta.ˈ ⁺ṱànaˈ mə́ndi ⁺rába múttəva 
-⁺ʾal-xmàrtaˈ ʾu-xmàrtaˈ ⁺báyyava ʾask̭áva ⁺ʾùllul.ˈ ʾu-bas-pòxa ⁺plə́ṱlə mənnó.ˈ ṱə̀r,ˈ
-⁺riṱàla.ˈ ⁺málla mə́rrə ʾàha,ˈ ʾána dū́n k̭arbúnə k̭a-myàta.ˈ (4@0:20) xáč̭č̭a=da sə̀k̭laˈ
-xa-xìta.ˈ ɟánu mudməxxálə ⁺ʾal-⁺ʾàrra.ˈ mə̀rrəˈ xína ⁺dā́n mòtila.ˈ ʾē=t-d-⁺ṱlàˈ
-⁺málla mə̀tlə.ˈ nàšə,ˈ xuyravàtuˈ xə́šlun tílun mə̀rrunˈ ʾa mù-vadət? k̭a-mú=ivət
-⁺tàmma?ˈ mə́rrə xob-ʾána mìtən.ˈ lá bəxzáyətun k̭at-mìtən!ˈ lá mə́rrun ʾat-xàya!ˈ
-hamzùməvət.ˈ bəšvák̭una ⁺tàmaˈ màraˈ xmàrələ,ˈ lélə ⁺p̂armùyə.ˈ
+(3@0:16) ⁺málla múttəva ... ⁺ṱànaˈ ⁺yak̭úyra ⁺ʾal-xmàrta.ˈ ⁺ṱànaˈ mə́ndi 
+⁺rába múttəva ⁺ʾal-xmàrtaˈ ʾu-xmàrtaˈ ⁺báyyava ʾask̭áva ⁺ʾùllul.ˈ
+ʾu-bas-pòxa ⁺plə́ṱlə mənnó.ˈ ṱə̀r,ˈ ⁺riṱàla.ˈ ⁺málla mə́rrə ʾàha,ˈ ʾána dū́n
+k̭arbúnə k̭a-myàta.ˈ (4@0:20) xáč̭č̭a=da sə̀k̭laˈ xa-xìta.ˈ ɟánu mudməxxálə
+⁺ʾal-⁺ʾàrra.ˈ mə̀rrəˈ xína ⁺dā́n mòtila.ˈ ʾē=t-d-⁺ṱlàˈ ⁺málla mə̀tlə.ˈ nàšə,ˈ
+ xuyravàtuˈ xə́šlun tílun mə̀rrunˈ ʾa mù-vadət? k̭a-mú=ivət ⁺tàmma?ˈ mə́rrə 
+ xob-ʾána mìtən.ˈ lá bəxzáyətun k̭at-mìtən!ˈ lá mə́rrun ʾat-xàya!ˈ 
+ hamzùməvət.ˈ bəšvák̭una ⁺tàmaˈ màraˈ xmàrələ,ˈ lélə ⁺p̂armùyə.ˈ
 ```
 
 # Structure
@@ -71,11 +74,12 @@ by a single line break. The format for a feature and value is as follows:
 
 ```
 feature: value
-``` 
+```
 
 The metadata block is ended by a blank line (i.e. two adjacent newline characters).
 
 Obligatory features are: 
+
 * `dialect` - a [valid dialect code](#Metadata-Block) for this text
 * `title` - a unique title for this text
 * `encoding` - either `UTF8` or `ASCII` (one-to-one transcription)
@@ -106,7 +110,7 @@ Canonical letters exist in one of two encodings: UTF8 or ASCII.
 Any one of the letters contained in the [UTF8 Canonical Letters](#UTF8). UTF8 
 letters can be written in composed or non-composed form. 
 
-#### ASCII 
+#### ASCII
 
 Any one of the letters contained in the [ASCII Canonical Letters](#ASCII). 
 
@@ -118,7 +122,7 @@ are delineated by a single blank line (two newline characters). For example:
 ```
 This is
 one paragraph.
-    
+
 This is another paragraph.
 ```
 
@@ -127,18 +131,18 @@ This is another paragraph.
 Any one of the [punctuation characters](#Punctuation). For ease-of-input, 
 the following substituted values are allowed:
 
-| punctuation | substitution | 
-|    -----    |   -----      |
-| ⁺ | + | 
-| ˈ | \| | 
+| punctuation | substitution |
+| ----------- | ------------ |
+| ⁺           | +            |
+| ˈ           | \|           |
 
 ### Markup Strings
 
 #### Line & Timestamp Tag
 
 Texts are divided into numbered lines (or "verses") that facilitate referencing.
-Lines are also optionally connected with timestamps which point back to the audio
-source used for the transcription.
+Lines are optionally connected with timestamps pointing back to the audio source 
+used for the transcription.
 
 A line number without timestamp information is indicated by a number
 surrounded by parentheses:
