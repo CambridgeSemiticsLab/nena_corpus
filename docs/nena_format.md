@@ -76,7 +76,7 @@ feature: value
 The metadata block is ended by a blank line (i.e. two adjacent newline characters).
 
 Obligatory features are: 
-* `dialect` - a [valid dialect code](Metadata-Block) for this text
+* `dialect` - a [valid dialect code](#Metadata-Block) for this text
 * `title` - a unique title for this text
 * `encoding` - either `UTF8` or `ASCII` (one-to-one transcription)
 
