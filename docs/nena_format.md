@@ -163,3 +163,13 @@ This is some NENA. <Du>Dit is niet NENA<Du>
 
 The closing bracket must match the opening bracket. Any number of words are 
 allowed inside the foreign language tags.
+
+#### Speaker Tag
+
+Many NENA texts are conversational and consist of multiple conversants. An additional speaker may
+be indicated by wrapping their words with a double angle brackets tag followed by the speaker's
+name and then the speaker's text: 
+
+```
+<<Geoffrey Khan: clarifing question goes here.>>
+```
