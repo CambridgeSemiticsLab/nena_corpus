@@ -19,7 +19,10 @@ used for Aramaic and Hebrew corpora.
 * [Example of NENA Markup](#Example-of-NENA-Markup-Text)
 * [Structure](#Structure)
     * [Metadata Block](#Metadata-block)
-    
+    * [Text Block](#text-block)
+      * [Canonical Letters](#Canonical-letters)
+      * [Punctuation](#Punctuation)
+      * [Markup Strings](#Markup-strings)
 
 ## Example of NENA Markup Text
 
