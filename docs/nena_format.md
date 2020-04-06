@@ -13,7 +13,7 @@ The NENA Markup Format is a simple plain-text format for inputting and annotatin
 NENA transcriptions. The format outlined below is inspired both by Markdown and, 
 more distantly, by the Eep Talstra Centre for Bible and Computer's 
 [PIL text format](https://github.com/ETCBC/data_creation/blob/master/documentation/pil_format.pdf)
-used for Aramaic and Hebrew corpora. This document describes that format in depth.
+used for Aramaic and Hebrew corpora.
 
 **Contents**
 * [Example of NENA Markup](#Example-of-NENA-Markup-Text)
