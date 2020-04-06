@@ -39,15 +39,16 @@ place: +Hassar +Baba-čanɟa, N
 transcriber: Geoffrey Khan
 text_id: A32 
 
-(1@0:00) xá-yuma ⁺malla ⁺Nasrádən váyələ tíva ⁺ʾal-k̭èsa.ˈ xá mən-nášə ⁺vàrəva,ˈ mə́rrə
-⁺màllaˈ ʾátən ʾo-k̭ésa pràmut,ˈ bət-nàplət.ˈ mə́rrə <P>bŏ́ro<P> bàbaˈ ʾàtən=daˈ
+(1@0:00) xá-yuma ⁺malla ⁺Nasrádən váyələ tíva ⁺ʾal-k̭èsa.ˈ xá mən-nášə ⁺vàrəva,ˈ 
+mə́rrə ⁺màllaˈ ʾátən ʾo-k̭ésa pràmut,ˈ bət-nàplət.ˈ mə́rrə <P>bŏ́ro<P> bàbaˈ ʾàtən=daˈ
 ⁺šúla lə̀tluxˈ tíyyət b-dìyyi k̭ítət.ˈ ⁺šúk̭ si-⁺bar-⁺šùlux.ˈ ʾána ⁺šūl-ɟànilə.ˈ
 náplən nàplən.ˈ (2@0:08) ⁺hàlaˈ ʾo-náša léva xíša xá ⁺ʾəsrá ⁺pasulyày,ˈ ⁺málla
 bitáyələ drúm ⁺ʾal-⁺ʾàrra.ˈ bək̭yámələ ⁺bərxáṱələ ⁺bàru.ˈ màraˈ ⁺maxlèta,ˈ ʾátən
 ⁺dílux ʾána bət-náplənva m-⁺al-ʾilàna.ˈ bas-tánili xázən ʾána ʾíman bət-mètən.ˈ
 ʾo-náša xzílə k̭at-ʾá ⁺màllaˈ hónu xáč̭č̭a ... ⁺basùrələˈ mə́rrə k̭àtuˈ ⁺maxlèta,ˈ
-mə̀drə,ˈ <<Geoffrey Khan: maxlèta?>> ⁺rába ⁺maxlèta, <E>yes<E>.ˈ mə́rrə k̭at-ʾíman xmártux ⁺ṱlá ɟáhə 
-⁺ʾarṱàla,ˈ ʾó-yuma mètət.ˈ ʾó-yumət xmártux ⁺ṱlá ɟáhə ⁺ʾarṱàla,ˈ ʾó-yuma mètət.ˈ 
+mə̀drə,ˈ <<Geoffrey Khan: maxlèta?>> ⁺rába ⁺maxlèta, <E>yes<E>.ˈ mə́rrə k̭at-ʾíman 
+xmártux ⁺ṱlá ɟáhə ⁺ʾarṱàla,ˈ ʾó-yuma mètət.ˈ ʾó-yumət xmártux ⁺ṱlá ɟáhə ⁺ʾarṱàla,ˈ 
+ʾó-yuma mètət.ˈ 
 
 (3@0:16) ⁺málla múttəva ... ⁺ṱànaˈ ⁺yak̭úyra ⁺ʾal-xmàrta.ˈ ⁺ṱànaˈ mə́ndi ⁺rába múttəva 
 ⁺ʾal-xmàrtaˈ ʾu-xmàrtaˈ ⁺báyyava ʾask̭áva ⁺ʾùllul.ˈ ʾu-bas-pòxa ⁺plə́ṱlə mənnó.ˈ ṱə̀r,ˈ
@@ -84,10 +85,10 @@ or transcriber.
 
 ## Text Block
 
-The text block contains the body of the transcribed text. The text must be written
-in one of two encodings: `UTF8` or `ASCII`. Either encodings must be written using 
-valid [canonical letters](#Canonical-Letters), valid punctuation, and valid 
-markup strings (as defined in this document). 
+The text block contains the body of the transcribed text. The text must be 
+written in one of two encodings: `UTF8` or `ASCII`. Either encodings must 
+be written using valid [canonical letters](#Canonical-Letters), valid punctuation, 
+and valid markup strings (as defined in this document). 
 
 ### Canonical Letters
 
@@ -123,8 +124,8 @@ This is another paragraph.
 
 ### Punctuation
 
-Any one of the [punctuation characters](#Punctuation). For ease-of-input, the following 
-substituted values are allowed:
+Any one of the [punctuation characters](#Punctuation). For ease-of-input, 
+the following substituted values are allowed:
 
 | punctuation | substitution | 
 |    -----    |   -----      |
@@ -159,9 +160,9 @@ A line cannot cross a paragraph.
 
 NENA texts occasionally contain words or stretches of words spoken in a language
 foreign to NENA (e.g. English words like "OK", place names). These words are 
-are wrapped in two foreign language tags. The tag consists of an open angle bracket,
-a [valid language code](#Foreign-Language-Tag) and a closing angle bracket on either side of the 
-foreign string. For example:
+are wrapped in identical foreign language tags. The tags consist of an open 
+angle bracket, a [valid language code](#Foreign-Language-Tag),and a closing 
+angle bracket on either side of the foreign string. For example:
 
 ```
 This is some NENA. <Du>Dit is niet NENA<Du>
@@ -172,9 +173,9 @@ allowed inside the foreign language tags.
 
 #### Speaker Tag
 
-Many NENA texts are conversational and consist of multiple conversants. An additional speaker may
-be indicated by wrapping their words with a double angle brackets tag followed by the speaker's
-name and then the speaker's text: 
+Many NENA texts are conversational and consist of multiple conversants. An additional 
+speaker may be indicated by wrapping their words with a double angle brackets tag 
+followed by the speaker's name, a colon, and then the speaker's text: 
 
 ```
 <<Geoffrey Khan: clarifing question goes here.>>
