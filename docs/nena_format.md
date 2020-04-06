@@ -161,7 +161,7 @@ A line cannot cross a paragraph.
 NENA texts occasionally contain words or stretches of words spoken in a language
 foreign to NENA (e.g. English words like "OK", place names). These words are 
 are wrapped in identical foreign language tags. The tags consist of an open 
-angle bracket, a [valid language code](#Foreign-Language-Tag),and a closing 
+angle bracket, a [valid language code](#Foreign-Language-Tag), and a closing 
 angle bracket on either side of the foreign string. For example:
 
 ```
