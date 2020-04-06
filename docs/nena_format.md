@@ -69,7 +69,7 @@ feature: value
 The metadata block is ended by a blank line (i.e. two adjacent newline characters).
 
 Obligatory features are: 
-* `dialect` - the dialect of NENA this text is
+* `dialect` - a [valid dialect code](Metadata-Block) for this text
 * `title` - a unique title for this text
 * `encoding` - either `UTF8` or `ASCII` (one-to-one transcription)
 
@@ -96,12 +96,12 @@ Canonical letters exist in one of two encodings: UTF8 or ASCII.
 
 #### UTF8
 
-Any one of the letters contained in the [UTF8 Canonical Letters](#). UTF8 
+Any one of the letters contained in the [UTF8 Canonical Letters](#UTF8). UTF8 
 letters can be written in composed or non-composed form. 
 
 #### ASCII 
 
-Any one of the letters contained in the [ASCII Canonical Letters](#). 
+Any one of the letters contained in the [ASCII Canonical Letters](#ASCII). 
 
 ### Paragraph Structure
 
@@ -117,7 +117,7 @@ This is another paragraph.
 
 ### Punctuation
 
-Any one of the [punctuation characters](#). For ease-of-input, the following 
+Any one of the [punctuation characters](#Punctuation). For ease-of-input, the following 
 substituted values are allowed:
 
 | punctuation | substitution | 
@@ -154,7 +154,7 @@ A line cannot cross a paragraph.
 NENA texts occasionally contain words or stretches of words spoken in a language
 foreign to NENA (e.g. English words like "OK", place names). These words are 
 are wrapped in two foreign language tags. The tag consists of an open angle bracket,
-a [valid language code](#) and a closing angle bracket on either side of the 
+a [valid language code](#Foreign-Language-Tag) and a closing angle bracket on either side of the 
 foreign string. For example:
 
 ```
