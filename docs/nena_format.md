@@ -172,7 +172,7 @@ angle bracket on either side of the foreign string. For example:
 This is some NENA. <Du>Dit is niet NENA<Du>
 ```
 
-The closing bracket must match the opening bracket. Any number of words are 
+The language codes in the first and last tag must match. Any number of words are 
 allowed inside the foreign language tags.
 
 #### Speaker Tag
