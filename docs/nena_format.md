@@ -179,7 +179,7 @@ allowed inside the foreign language tags.
 #### Speaker Tag
 
 Many NENA texts are conversational and consist of multiple conversants. An additional 
-speaker may be indicated by wrapping their words with a double angle brackets tag 
+speaker from the main informant may be indicated by wrapping their words with a double angle brackets tag 
 followed by the speaker's name, a colon, and then the speaker's text: 
 
 ```
