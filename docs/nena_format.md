@@ -22,6 +22,7 @@ used for Aramaic and Hebrew corpora.
   * [Metadata Block](#Metadata-block)
   * [Text Block](#text-block)
     * [Canonical Letters](#Canonical-letters)
+    * [Paragraph Structure](#Paragraph-structure)
     * [Punctuation](#Punctuation)
     * [Markup Strings](#Markup-strings)
 
