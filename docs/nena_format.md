@@ -84,8 +84,9 @@ Obligatory features are:
 * `dialect` - a [valid dialect code](#Metadata-Block) for this text
 * `title` - a unique title for this text
 * `encoding` - either `UTF8` or `ASCII` (one-to-one transcription)
+* `informant` - the primary speaker in the text
 
-Other valuable features include data about the informant, interviewer, place, 
+Other valuable features include data about the interviewer, place, 
 or transcriber. 
 
 ## Text Block
