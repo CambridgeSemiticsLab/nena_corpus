@@ -22,6 +22,7 @@ used for Aramaic and Hebrew corpora.
   * [Metadata Block](#Metadata-block)
   * [Text Block](#text-block)
     * [Canonical Letters](#Canonical-letters)
+    * [Paragraph Structure](#Paragraph-structure)
     * [Punctuation](#Punctuation)
     * [Markup Strings](#Markup-strings)
 
@@ -83,8 +84,9 @@ Obligatory features are:
 * `dialect` - a [valid dialect code](#Metadata-Block) for this text
 * `title` - a unique title for this text
 * `encoding` - either `UTF8` or `ASCII` (one-to-one transcription)
+* `informant` - the primary speaker in the text
 
-Other valuable features include data about the informant, interviewer, place, 
+Other valuable features include data about the interviewer, place, 
 or transcriber. 
 
 ## Text Block
@@ -163,7 +165,7 @@ A line cannot cross a paragraph.
 #### Foreign Language Tag
 
 NENA texts occasionally contain words or stretches of words spoken in a language
-foreign to NENA (e.g. English words like "OK", place names). These words are 
+foreign to NENA (e.g. English words like "OK", but also place names). These words are 
 are wrapped in identical foreign language tags. The tags consist of an open 
 angle bracket, a [valid language code](#Foreign-Language-Tag), and a closing 
 angle bracket on either side of the foreign string. For example:
@@ -178,7 +180,7 @@ allowed inside the foreign language tags.
 #### Speaker Tag
 
 Many NENA texts are conversational and consist of multiple conversants. An additional 
-speaker may be indicated by wrapping their words with a double angle brackets tag 
+speaker from the main informant may be indicated by wrapping their words with a double angle brackets tag 
 followed by the speaker's name, a colon, and then the speaker's text: 
 
 ```
