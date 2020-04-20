@@ -184,5 +184,5 @@ speaker from the main informant may be indicated by wrapping their words with a 
 followed by the speaker's name, a colon, and then the speaker's text: 
 
 ```
-<<Geoffrey Khan: clarifing question goes here.>>
+<<Geoffrey Khan: clarifying question goes here.>>
 ```
