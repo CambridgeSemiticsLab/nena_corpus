@@ -22,7 +22,7 @@ def normalize_char(char):
 
 # Regex for foreign letters wrapped with a language tag
 #   e.g. <P>Some foreign letters<P>
-# CAUTION: does not yet exclude puntuators
+# CAUTION: does not yet exclude punctuators
 foreign_chars = '.[\u0300-\u036F]*'
 
 # Regex for NENA letters
