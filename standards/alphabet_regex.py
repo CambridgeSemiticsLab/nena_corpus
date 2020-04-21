@@ -20,6 +20,10 @@ def normalize_char(char):
     """
     return unicodedata.normalize('NFD', char).lower()
 
+# Regex for foreign characters wrapped with <Lang>Some foreign chars<Lang>
+foreign_chars = '.[\u0300-\u036F]*'
+
+# Regex for NENA Characters
 base_chars = '[a-zðɟəɛʾʿθ]'
 unaccented = base_chars + '(?![\u0300-\u036F])'
 cons_accented = '[dhlmprstzð]\u0323|[ckpt]\u032d|[csz]\u030c|c[\u0323\u032d]\u030c|g\u0307'
