@@ -1,4 +1,4 @@
-# version 0.02 beta
+# version 0.03 beta
 
 import unicodedata
 
@@ -22,12 +22,11 @@ def normalize_char(char):
 
 # Regex for foreign letters wrapped with a language tag
 #   e.g. <P>Some foreign letters<P>
-# CAUTION: does not yet exclude punctuators
-foreign_chars = '.[\u0300-\u036F]*'
+foreign_letters = '[a-zðɟəɛʾʿθ][\u0300-\u036F]*'
 
 # Regex for NENA letters
 base_chars = '[a-zðɟəɛʾʿθ]'
 unaccented = base_chars + '(?![\u0300-\u036F])'
 cons_accented = '[dhlmprstzð]\u0323|[ckpt]\u032d|[csz]\u030c|c[\u0323\u032d]\u030c|g\u0307'
 vowel_accented = '[aeiouəɛ][\u0300\u0301]|[aeiouɛ]\u0304|[aeiou]\u0304[\u0300\u0301]|[au]\u0306[\u0300\u0301]?'
-one_regex = '|'.join([unaccented, cons_accented, vowel_accented])
+nena_letters = '|'.join([unaccented, cons_accented, vowel_accented]) # i.e. "One Regex to Rule Them All"
