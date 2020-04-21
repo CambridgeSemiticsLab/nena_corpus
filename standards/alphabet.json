@@ -9,7 +9,7 @@
         "base_code_upper": 66,
         "accent_codes": [],
         "class": "consonant",
-        "place": "labial",
+        "point": "labial",
         "manner": "affricative",
         "phonation": "voiced"
     },
@@ -23,7 +23,7 @@
         "base_code_upper": 67,
         "accent_codes": [],
         "class": "consonant",
-        "place": "palatal",
+        "point": "palatal",
         "manner": "affricative",
         "phonation": "unvoiced_aspirated"
     },
@@ -40,7 +40,7 @@
             780
         ],
         "class": "consonant",
-        "place": "palatal-alveolar",
+        "point": "palatal-alveolar",
         "manner": "affricative",
         "phonation": "unvoiced_aspirated"
     },
@@ -57,7 +57,7 @@
             813
         ],
         "class": "consonant",
-        "place": "palatal",
+        "point": "palatal",
         "manner": "affricative",
         "phonation": "unvoiced_unaspirated"
     },
@@ -76,7 +76,7 @@
             780
         ],
         "class": "consonant",
-        "place": "palatal-alveolar",
+        "point": "palatal-alveolar",
         "manner": "affricative",
         "phonation": "emphatic"
     },
@@ -95,7 +95,7 @@
             780
         ],
         "class": "consonant",
-        "place": "palatal-alveolar",
+        "point": "palatal-alveolar",
         "manner": "affricative",
         "phonation": "unvoiced_unaspirated"
     },
@@ -109,7 +109,7 @@
         "base_code_upper": 68,
         "accent_codes": [],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "affricative",
         "phonation": "voiced"
     },
@@ -126,7 +126,7 @@
             803
         ],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "affricative",
         "phonation": "emphatic"
     },
@@ -140,7 +140,7 @@
         "base_code_upper": 70,
         "accent_codes": [],
         "class": "consonant",
-        "place": "labial",
+        "point": "labial",
         "manner": "fricative",
         "phonation": "unvoiced"
     },
@@ -154,7 +154,7 @@
         "base_code_upper": 71,
         "accent_codes": [],
         "class": "consonant",
-        "place": "velar",
+        "point": "velar",
         "manner": "affricative",
         "phonation": "voiced"
     },
@@ -171,7 +171,7 @@
             775
         ],
         "class": "consonant",
-        "place": "velar",
+        "point": "velar",
         "manner": "fricative",
         "phonation": "voiced"
     },
@@ -185,7 +185,7 @@
         "base_code_upper": 72,
         "accent_codes": [],
         "class": "consonant",
-        "place": "laryngeal",
+        "point": "laryngeal",
         "manner": "fricative",
         "phonation": "unvoiced"
     },
@@ -202,7 +202,7 @@
             803
         ],
         "class": "consonant",
-        "place": "pharyngeal",
+        "point": "pharyngeal",
         "manner": "fricative",
         "phonation": "unvoiced"
     },
@@ -216,7 +216,7 @@
         "base_code_upper": 74,
         "accent_codes": [],
         "class": "consonant",
-        "place": "palatal-alveolar",
+        "point": "palatal-alveolar",
         "manner": "affricative",
         "phonation": "voiced"
     },
@@ -230,7 +230,7 @@
         "base_code_upper": 75,
         "accent_codes": [],
         "class": "consonant",
-        "place": "velar",
+        "point": "velar",
         "manner": "affricative",
         "phonation": "unvoiced_aspirated"
     },
@@ -247,7 +247,7 @@
             813
         ],
         "class": "consonant",
-        "place": "velar",
+        "point": "velar",
         "manner": "affricative",
         "phonation": "unvoiced_unaspirated"
     },
@@ -261,7 +261,7 @@
         "base_code_upper": 76,
         "accent_codes": [],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "lateral",
         "phonation": "plain"
     },
@@ -278,7 +278,7 @@
             803
         ],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "lateral",
         "phonation": "emphatic"
     },
@@ -292,7 +292,7 @@
         "base_code_upper": 77,
         "accent_codes": [],
         "class": "consonant",
-        "place": "labial",
+        "point": "labial",
         "manner": "nasal",
         "phonation": "plain"
     },
@@ -309,7 +309,7 @@
             803
         ],
         "class": "consonant",
-        "place": "labial",
+        "point": "labial",
         "manner": "nasal",
         "phonation": "emphatic"
     },
@@ -323,7 +323,7 @@
         "base_code_upper": 78,
         "accent_codes": [],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "nasal",
         "phonation": "plain"
     },
@@ -337,7 +337,7 @@
         "base_code_upper": 80,
         "accent_codes": [],
         "class": "consonant",
-        "place": "labial",
+        "point": "labial",
         "manner": "affricative",
         "phonation": "unvoiced_aspirated"
     },
@@ -354,7 +354,7 @@
             803
         ],
         "class": "consonant",
-        "place": "labial",
+        "point": "labial",
         "manner": "affricative",
         "phonation": "emphatic"
     },
@@ -371,7 +371,7 @@
             813
         ],
         "class": "consonant",
-        "place": "labial",
+        "point": "labial",
         "manner": "affricative",
         "phonation": "unvoiced_unaspirated"
     },
@@ -385,7 +385,7 @@
         "base_code_upper": 81,
         "accent_codes": [],
         "class": "consonant",
-        "place": "uvular",
+        "point": "uvular",
         "manner": "affricative"
     },
     "r": {
@@ -398,7 +398,7 @@
         "base_code_upper": 82,
         "accent_codes": [],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "other",
         "phonation": "plain"
     },
@@ -415,7 +415,7 @@
             803
         ],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "other",
         "phonation": "emphatic"
     },
@@ -429,7 +429,7 @@
         "base_code_upper": 83,
         "accent_codes": [],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "sibilant",
         "phonation": "unvoiced"
     },
@@ -446,7 +446,7 @@
             780
         ],
         "class": "consonant",
-        "place": "palatal-alveolar",
+        "point": "palatal-alveolar",
         "manner": "sibilant",
         "phonation": "unvoiced"
     },
@@ -463,7 +463,7 @@
             803
         ],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "sibilant",
         "phonation": "emphatic"
     },
@@ -477,7 +477,7 @@
         "base_code_upper": 84,
         "accent_codes": [],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "affricative",
         "phonation": "unvoiced_aspirated"
     },
@@ -494,7 +494,7 @@
             803
         ],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "affricative",
         "phonation": "emphatic"
     },
@@ -511,7 +511,7 @@
             813
         ],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "affricative",
         "phonation": "unvoiced_unaspirated"
     },
@@ -525,7 +525,7 @@
         "base_code_upper": 86,
         "accent_codes": [],
         "class": "consonant",
-        "place": "labial",
+        "point": "labial",
         "manner": "fricative",
         "phonation": "voiced"
     },
@@ -539,7 +539,7 @@
         "base_code_upper": 87,
         "accent_codes": [],
         "class": "consonant",
-        "place": "labial",
+        "point": "labial",
         "manner": "other",
         "phonation": "plain"
     },
@@ -553,7 +553,7 @@
         "base_code_upper": 88,
         "accent_codes": [],
         "class": "consonant",
-        "place": "velar",
+        "point": "velar",
         "manner": "fricative",
         "phonation": "unvoiced"
     },
@@ -567,7 +567,7 @@
         "base_code_upper": 89,
         "accent_codes": [],
         "class": "consonant",
-        "place": "palatal",
+        "point": "palatal",
         "manner": "other",
         "phonation": "plain"
     },
@@ -581,7 +581,7 @@
         "base_code_upper": 90,
         "accent_codes": [],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "sibilant",
         "phonation": "voiced"
     },
@@ -598,7 +598,7 @@
             780
         ],
         "class": "consonant",
-        "place": "palatal-alveolar",
+        "point": "palatal-alveolar",
         "manner": "sibilant",
         "phonation": "voiced"
     },
@@ -615,7 +615,7 @@
             803
         ],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "sibilant",
         "phonation": "emphatic"
     },
@@ -629,7 +629,7 @@
         "base_code_upper": 208,
         "accent_codes": [],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "fricative",
         "phonation": "voiced"
     },
@@ -646,7 +646,7 @@
             803
         ],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "fricative",
         "phonation": "emphatic"
     },
@@ -660,7 +660,7 @@
         "base_code_upper": 607,
         "accent_codes": [],
         "class": "consonant",
-        "place": "palatal",
+        "point": "palatal",
         "manner": "affricative",
         "phonation": "voiced"
     },
@@ -674,7 +674,7 @@
         "base_code_upper": 702,
         "accent_codes": [],
         "class": "consonant",
-        "place": "laryngeal",
+        "point": "laryngeal",
         "manner": "affricative",
         "phonation": "unvoiced_aspirated"
     },
@@ -688,7 +688,7 @@
         "base_code_upper": 703,
         "accent_codes": [],
         "class": "consonant",
-        "place": "pharyngeal",
+        "point": "pharyngeal",
         "manner": "fricative",
         "phonation": "emphatic"
     },
@@ -702,7 +702,7 @@
         "base_code_upper": 920,
         "accent_codes": [],
         "class": "consonant",
-        "place": "dental-alveolar",
+        "point": "dental-alveolar",
         "manner": "fricative",
         "phonation": "unvoiced"
     },
