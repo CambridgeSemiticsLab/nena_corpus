@@ -1,3 +1,5 @@
+# version 0.01 beta
+
 import unicodedata
 
 def normalize_char(char):
