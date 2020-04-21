@@ -1,0 +1,1318 @@
+{
+    "b": {
+        "composed_utf8": "b",
+        "codepoints": [
+            98
+        ],
+        "base": "b",
+        "base_code": 98,
+        "base_code_upper": 66,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "labial",
+        "manner": "affricative",
+        "phonation": "voiced"
+    },
+    "c": {
+        "composed_utf8": "c",
+        "codepoints": [
+            99
+        ],
+        "base": "c",
+        "base_code": 99,
+        "base_code_upper": 67,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "palatal",
+        "manner": "affricative",
+        "phonation": "unvoiced_aspirated"
+    },
+    "č": {
+        "composed_utf8": "č",
+        "codepoints": [
+            99,
+            780
+        ],
+        "base": "c",
+        "base_code": 99,
+        "base_code_upper": 67,
+        "accent_codes": [
+            780
+        ],
+        "class": "consonant",
+        "place": "palatal-alveolar",
+        "manner": "affricative",
+        "phonation": "unvoiced_aspirated"
+    },
+    "c̭": {
+        "composed_utf8": "c̭",
+        "codepoints": [
+            99,
+            813
+        ],
+        "base": "c",
+        "base_code": 99,
+        "base_code_upper": 67,
+        "accent_codes": [
+            813
+        ],
+        "class": "consonant",
+        "place": "palatal",
+        "manner": "affricative",
+        "phonation": "unvoiced_unaspirated"
+    },
+    "č̣": {
+        "composed_utf8": "č̣",
+        "codepoints": [
+            99,
+            803,
+            780
+        ],
+        "base": "c",
+        "base_code": 99,
+        "base_code_upper": 67,
+        "accent_codes": [
+            803,
+            780
+        ],
+        "class": "consonant",
+        "place": "palatal-alveolar",
+        "manner": "affricative",
+        "phonation": "emphatic"
+    },
+    "č̭": {
+        "composed_utf8": "č̭",
+        "codepoints": [
+            99,
+            813,
+            780
+        ],
+        "base": "c",
+        "base_code": 99,
+        "base_code_upper": 67,
+        "accent_codes": [
+            813,
+            780
+        ],
+        "class": "consonant",
+        "place": "palatal-alveolar",
+        "manner": "affricative",
+        "phonation": "unvoiced_unaspirated"
+    },
+    "d": {
+        "composed_utf8": "d",
+        "codepoints": [
+            100
+        ],
+        "base": "d",
+        "base_code": 100,
+        "base_code_upper": 68,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "affricative",
+        "phonation": "voiced"
+    },
+    "ḍ": {
+        "composed_utf8": "ḍ",
+        "codepoints": [
+            100,
+            803
+        ],
+        "base": "d",
+        "base_code": 100,
+        "base_code_upper": 68,
+        "accent_codes": [
+            803
+        ],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "affricative",
+        "phonation": "emphatic"
+    },
+    "f": {
+        "composed_utf8": "f",
+        "codepoints": [
+            102
+        ],
+        "base": "f",
+        "base_code": 102,
+        "base_code_upper": 70,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "labial",
+        "manner": "fricative",
+        "phonation": "unvoiced"
+    },
+    "g": {
+        "composed_utf8": "g",
+        "codepoints": [
+            103
+        ],
+        "base": "g",
+        "base_code": 103,
+        "base_code_upper": 71,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "velar",
+        "manner": "affricative",
+        "phonation": "voiced"
+    },
+    "ġ": {
+        "composed_utf8": "ġ",
+        "codepoints": [
+            103,
+            775
+        ],
+        "base": "g",
+        "base_code": 103,
+        "base_code_upper": 71,
+        "accent_codes": [
+            775
+        ],
+        "class": "consonant",
+        "place": "velar",
+        "manner": "fricative",
+        "phonation": "voiced"
+    },
+    "h": {
+        "composed_utf8": "h",
+        "codepoints": [
+            104
+        ],
+        "base": "h",
+        "base_code": 104,
+        "base_code_upper": 72,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "laryngeal",
+        "manner": "fricative",
+        "phonation": "unvoiced"
+    },
+    "ḥ": {
+        "composed_utf8": "ḥ",
+        "codepoints": [
+            104,
+            803
+        ],
+        "base": "h",
+        "base_code": 104,
+        "base_code_upper": 72,
+        "accent_codes": [
+            803
+        ],
+        "class": "consonant",
+        "place": "pharyngeal",
+        "manner": "fricative",
+        "phonation": "unvoiced"
+    },
+    "j": {
+        "composed_utf8": "j",
+        "codepoints": [
+            106
+        ],
+        "base": "j",
+        "base_code": 106,
+        "base_code_upper": 74,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "palatal-alveolar",
+        "manner": "affricative",
+        "phonation": "voiced"
+    },
+    "k": {
+        "composed_utf8": "k",
+        "codepoints": [
+            107
+        ],
+        "base": "k",
+        "base_code": 107,
+        "base_code_upper": 75,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "velar",
+        "manner": "affricative",
+        "phonation": "unvoiced_aspirated"
+    },
+    "k̭": {
+        "composed_utf8": "k̭",
+        "codepoints": [
+            107,
+            813
+        ],
+        "base": "k",
+        "base_code": 107,
+        "base_code_upper": 75,
+        "accent_codes": [
+            813
+        ],
+        "class": "consonant",
+        "place": "velar",
+        "manner": "affricative",
+        "phonation": "unvoiced_unaspirated"
+    },
+    "l": {
+        "composed_utf8": "l",
+        "codepoints": [
+            108
+        ],
+        "base": "l",
+        "base_code": 108,
+        "base_code_upper": 76,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "lateral",
+        "phonation": "plain"
+    },
+    "ḷ": {
+        "composed_utf8": "ḷ",
+        "codepoints": [
+            108,
+            803
+        ],
+        "base": "l",
+        "base_code": 108,
+        "base_code_upper": 76,
+        "accent_codes": [
+            803
+        ],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "lateral",
+        "phonation": "emphatic"
+    },
+    "m": {
+        "composed_utf8": "m",
+        "codepoints": [
+            109
+        ],
+        "base": "m",
+        "base_code": 109,
+        "base_code_upper": 77,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "labial",
+        "manner": "nasal",
+        "phonation": "plain"
+    },
+    "ṃ": {
+        "composed_utf8": "ṃ",
+        "codepoints": [
+            109,
+            803
+        ],
+        "base": "m",
+        "base_code": 109,
+        "base_code_upper": 77,
+        "accent_codes": [
+            803
+        ],
+        "class": "consonant",
+        "place": "labial",
+        "manner": "nasal",
+        "phonation": "emphatic"
+    },
+    "n": {
+        "composed_utf8": "n",
+        "codepoints": [
+            110
+        ],
+        "base": "n",
+        "base_code": 110,
+        "base_code_upper": 78,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "nasal",
+        "phonation": "plain"
+    },
+    "p": {
+        "composed_utf8": "p",
+        "codepoints": [
+            112
+        ],
+        "base": "p",
+        "base_code": 112,
+        "base_code_upper": 80,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "labial",
+        "manner": "affricative",
+        "phonation": "unvoiced_aspirated"
+    },
+    "p̣": {
+        "composed_utf8": "p̣",
+        "codepoints": [
+            112,
+            803
+        ],
+        "base": "p",
+        "base_code": 112,
+        "base_code_upper": 80,
+        "accent_codes": [
+            803
+        ],
+        "class": "consonant",
+        "place": "labial",
+        "manner": "affricative",
+        "phonation": "emphatic"
+    },
+    "p̭": {
+        "composed_utf8": "p̭",
+        "codepoints": [
+            112,
+            813
+        ],
+        "base": "p",
+        "base_code": 112,
+        "base_code_upper": 80,
+        "accent_codes": [
+            813
+        ],
+        "class": "consonant",
+        "place": "labial",
+        "manner": "affricative",
+        "phonation": "unvoiced_unaspirated"
+    },
+    "q": {
+        "composed_utf8": "q",
+        "codepoints": [
+            113
+        ],
+        "base": "q",
+        "base_code": 113,
+        "base_code_upper": 81,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "uvular",
+        "manner": "affricative"
+    },
+    "r": {
+        "composed_utf8": "r",
+        "codepoints": [
+            114
+        ],
+        "base": "r",
+        "base_code": 114,
+        "base_code_upper": 82,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "other",
+        "phonation": "plain"
+    },
+    "ṛ": {
+        "composed_utf8": "ṛ",
+        "codepoints": [
+            114,
+            803
+        ],
+        "base": "r",
+        "base_code": 114,
+        "base_code_upper": 82,
+        "accent_codes": [
+            803
+        ],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "other",
+        "phonation": "emphatic"
+    },
+    "s": {
+        "composed_utf8": "s",
+        "codepoints": [
+            115
+        ],
+        "base": "s",
+        "base_code": 115,
+        "base_code_upper": 83,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "sibilant",
+        "phonation": "unvoiced"
+    },
+    "š": {
+        "composed_utf8": "š",
+        "codepoints": [
+            115,
+            780
+        ],
+        "base": "s",
+        "base_code": 115,
+        "base_code_upper": 83,
+        "accent_codes": [
+            780
+        ],
+        "class": "consonant",
+        "place": "palatal-alveolar",
+        "manner": "sibilant",
+        "phonation": "unvoiced"
+    },
+    "ṣ": {
+        "composed_utf8": "ṣ",
+        "codepoints": [
+            115,
+            803
+        ],
+        "base": "s",
+        "base_code": 115,
+        "base_code_upper": 83,
+        "accent_codes": [
+            803
+        ],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "sibilant",
+        "phonation": "emphatic"
+    },
+    "t": {
+        "composed_utf8": "t",
+        "codepoints": [
+            116
+        ],
+        "base": "t",
+        "base_code": 116,
+        "base_code_upper": 84,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "affricative",
+        "phonation": "unvoiced_aspirated"
+    },
+    "ṭ": {
+        "composed_utf8": "ṭ",
+        "codepoints": [
+            116,
+            803
+        ],
+        "base": "t",
+        "base_code": 116,
+        "base_code_upper": 84,
+        "accent_codes": [
+            803
+        ],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "affricative",
+        "phonation": "emphatic"
+    },
+    "ṱ": {
+        "composed_utf8": "ṱ",
+        "codepoints": [
+            116,
+            813
+        ],
+        "base": "t",
+        "base_code": 116,
+        "base_code_upper": 84,
+        "accent_codes": [
+            813
+        ],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "affricative",
+        "phonation": "unvoiced_unaspirated"
+    },
+    "v": {
+        "composed_utf8": "v",
+        "codepoints": [
+            118
+        ],
+        "base": "v",
+        "base_code": 118,
+        "base_code_upper": 86,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "labial",
+        "manner": "fricative",
+        "phonation": "voiced"
+    },
+    "w": {
+        "composed_utf8": "w",
+        "codepoints": [
+            119
+        ],
+        "base": "w",
+        "base_code": 119,
+        "base_code_upper": 87,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "labial",
+        "manner": "other",
+        "phonation": "plain"
+    },
+    "x": {
+        "composed_utf8": "x",
+        "codepoints": [
+            120
+        ],
+        "base": "x",
+        "base_code": 120,
+        "base_code_upper": 88,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "velar",
+        "manner": "fricative",
+        "phonation": "unvoiced"
+    },
+    "y": {
+        "composed_utf8": "y",
+        "codepoints": [
+            121
+        ],
+        "base": "y",
+        "base_code": 121,
+        "base_code_upper": 89,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "palatal",
+        "manner": "other",
+        "phonation": "plain"
+    },
+    "z": {
+        "composed_utf8": "z",
+        "codepoints": [
+            122
+        ],
+        "base": "z",
+        "base_code": 122,
+        "base_code_upper": 90,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "sibilant",
+        "phonation": "voiced"
+    },
+    "ž": {
+        "composed_utf8": "ž",
+        "codepoints": [
+            122,
+            780
+        ],
+        "base": "z",
+        "base_code": 122,
+        "base_code_upper": 90,
+        "accent_codes": [
+            780
+        ],
+        "class": "consonant",
+        "place": "palatal-alveolar",
+        "manner": "sibilant",
+        "phonation": "voiced"
+    },
+    "ẓ": {
+        "composed_utf8": "ẓ",
+        "codepoints": [
+            122,
+            803
+        ],
+        "base": "z",
+        "base_code": 122,
+        "base_code_upper": 90,
+        "accent_codes": [
+            803
+        ],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "sibilant",
+        "phonation": "emphatic"
+    },
+    "ð": {
+        "composed_utf8": "ð",
+        "codepoints": [
+            240
+        ],
+        "base": "ð",
+        "base_code": 240,
+        "base_code_upper": 208,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "fricative",
+        "phonation": "voiced"
+    },
+    "ð̣": {
+        "composed_utf8": "ð̣",
+        "codepoints": [
+            240,
+            803
+        ],
+        "base": "ð",
+        "base_code": 240,
+        "base_code_upper": 208,
+        "accent_codes": [
+            803
+        ],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "fricative",
+        "phonation": "emphatic"
+    },
+    "ɟ": {
+        "composed_utf8": "ɟ",
+        "codepoints": [
+            607
+        ],
+        "base": "ɟ",
+        "base_code": 607,
+        "base_code_upper": 607,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "palatal",
+        "manner": "affricative",
+        "phonation": "voiced"
+    },
+    "ʾ": {
+        "composed_utf8": "ʾ",
+        "codepoints": [
+            702
+        ],
+        "base": "ʾ",
+        "base_code": 702,
+        "base_code_upper": 702,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "laryngeal",
+        "manner": "affricative",
+        "phonation": "unvoiced_aspirated"
+    },
+    "ʿ": {
+        "composed_utf8": "ʿ",
+        "codepoints": [
+            703
+        ],
+        "base": "ʿ",
+        "base_code": 703,
+        "base_code_upper": 703,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "pharyngeal",
+        "manner": "fricative",
+        "phonation": "emphatic"
+    },
+    "θ": {
+        "composed_utf8": "θ",
+        "codepoints": [
+            952
+        ],
+        "base": "θ",
+        "base_code": 952,
+        "base_code_upper": 920,
+        "accent_codes": [],
+        "class": "consonant",
+        "place": "dental-alveolar",
+        "manner": "fricative",
+        "phonation": "unvoiced"
+    },
+    "a": {
+        "composed_utf8": "a",
+        "codepoints": [
+            97
+        ],
+        "base": "a",
+        "base_code": 97,
+        "base_code_upper": 65,
+        "accent_codes": [],
+        "class": "vowel"
+    },
+    "à": {
+        "composed_utf8": "à",
+        "codepoints": [
+            97,
+            768
+        ],
+        "base": "a",
+        "base_code": 97,
+        "base_code_upper": 65,
+        "accent_codes": [
+            768
+        ],
+        "class": "vowel"
+    },
+    "á": {
+        "composed_utf8": "á",
+        "codepoints": [
+            97,
+            769
+        ],
+        "base": "a",
+        "base_code": 97,
+        "base_code_upper": 65,
+        "accent_codes": [
+            769
+        ],
+        "class": "vowel"
+    },
+    "ā": {
+        "composed_utf8": "ā",
+        "codepoints": [
+            97,
+            772
+        ],
+        "base": "a",
+        "base_code": 97,
+        "base_code_upper": 65,
+        "accent_codes": [
+            772
+        ],
+        "class": "vowel"
+    },
+    "ă": {
+        "composed_utf8": "ă",
+        "codepoints": [
+            97,
+            774
+        ],
+        "base": "a",
+        "base_code": 97,
+        "base_code_upper": 65,
+        "accent_codes": [
+            774
+        ],
+        "class": "vowel"
+    },
+    "ā̀": {
+        "composed_utf8": "ā̀",
+        "codepoints": [
+            97,
+            772,
+            768
+        ],
+        "base": "a",
+        "base_code": 97,
+        "base_code_upper": 65,
+        "accent_codes": [
+            772,
+            768
+        ],
+        "class": "vowel"
+    },
+    "ā́": {
+        "composed_utf8": "ā́",
+        "codepoints": [
+            97,
+            772,
+            769
+        ],
+        "base": "a",
+        "base_code": 97,
+        "base_code_upper": 65,
+        "accent_codes": [
+            772,
+            769
+        ],
+        "class": "vowel"
+    },
+    "ằ": {
+        "composed_utf8": "ằ",
+        "codepoints": [
+            97,
+            774,
+            768
+        ],
+        "base": "a",
+        "base_code": 97,
+        "base_code_upper": 65,
+        "accent_codes": [
+            774,
+            768
+        ],
+        "class": "vowel"
+    },
+    "ắ": {
+        "composed_utf8": "ắ",
+        "codepoints": [
+            97,
+            774,
+            769
+        ],
+        "base": "a",
+        "base_code": 97,
+        "base_code_upper": 65,
+        "accent_codes": [
+            774,
+            769
+        ],
+        "class": "vowel"
+    },
+    "e": {
+        "composed_utf8": "e",
+        "codepoints": [
+            101
+        ],
+        "base": "e",
+        "base_code": 101,
+        "base_code_upper": 69,
+        "accent_codes": [],
+        "class": "vowel"
+    },
+    "è": {
+        "composed_utf8": "è",
+        "codepoints": [
+            101,
+            768
+        ],
+        "base": "e",
+        "base_code": 101,
+        "base_code_upper": 69,
+        "accent_codes": [
+            768
+        ],
+        "class": "vowel"
+    },
+    "é": {
+        "composed_utf8": "é",
+        "codepoints": [
+            101,
+            769
+        ],
+        "base": "e",
+        "base_code": 101,
+        "base_code_upper": 69,
+        "accent_codes": [
+            769
+        ],
+        "class": "vowel"
+    },
+    "ē": {
+        "composed_utf8": "ē",
+        "codepoints": [
+            101,
+            772
+        ],
+        "base": "e",
+        "base_code": 101,
+        "base_code_upper": 69,
+        "accent_codes": [
+            772
+        ],
+        "class": "vowel"
+    },
+    "ḕ": {
+        "composed_utf8": "ḕ",
+        "codepoints": [
+            101,
+            772,
+            768
+        ],
+        "base": "e",
+        "base_code": 101,
+        "base_code_upper": 69,
+        "accent_codes": [
+            772,
+            768
+        ],
+        "class": "vowel"
+    },
+    "ḗ": {
+        "composed_utf8": "ḗ",
+        "codepoints": [
+            101,
+            772,
+            769
+        ],
+        "base": "e",
+        "base_code": 101,
+        "base_code_upper": 69,
+        "accent_codes": [
+            772,
+            769
+        ],
+        "class": "vowel"
+    },
+    "i": {
+        "composed_utf8": "i",
+        "codepoints": [
+            105
+        ],
+        "base": "i",
+        "base_code": 105,
+        "base_code_upper": 73,
+        "accent_codes": [],
+        "class": "vowel"
+    },
+    "ì": {
+        "composed_utf8": "ì",
+        "codepoints": [
+            105,
+            768
+        ],
+        "base": "i",
+        "base_code": 105,
+        "base_code_upper": 73,
+        "accent_codes": [
+            768
+        ],
+        "class": "vowel"
+    },
+    "í": {
+        "composed_utf8": "í",
+        "codepoints": [
+            105,
+            769
+        ],
+        "base": "i",
+        "base_code": 105,
+        "base_code_upper": 73,
+        "accent_codes": [
+            769
+        ],
+        "class": "vowel"
+    },
+    "ī": {
+        "composed_utf8": "ī",
+        "codepoints": [
+            105,
+            772
+        ],
+        "base": "i",
+        "base_code": 105,
+        "base_code_upper": 73,
+        "accent_codes": [
+            772
+        ],
+        "class": "vowel"
+    },
+    "ī̀": {
+        "composed_utf8": "ī̀",
+        "codepoints": [
+            105,
+            772,
+            768
+        ],
+        "base": "i",
+        "base_code": 105,
+        "base_code_upper": 73,
+        "accent_codes": [
+            772,
+            768
+        ],
+        "class": "vowel"
+    },
+    "ī́": {
+        "composed_utf8": "ī́",
+        "codepoints": [
+            105,
+            772,
+            769
+        ],
+        "base": "i",
+        "base_code": 105,
+        "base_code_upper": 73,
+        "accent_codes": [
+            772,
+            769
+        ],
+        "class": "vowel"
+    },
+    "o": {
+        "composed_utf8": "o",
+        "codepoints": [
+            111
+        ],
+        "base": "o",
+        "base_code": 111,
+        "base_code_upper": 79,
+        "accent_codes": [],
+        "class": "vowel"
+    },
+    "ò": {
+        "composed_utf8": "ò",
+        "codepoints": [
+            111,
+            768
+        ],
+        "base": "o",
+        "base_code": 111,
+        "base_code_upper": 79,
+        "accent_codes": [
+            768
+        ],
+        "class": "vowel"
+    },
+    "ó": {
+        "composed_utf8": "ó",
+        "codepoints": [
+            111,
+            769
+        ],
+        "base": "o",
+        "base_code": 111,
+        "base_code_upper": 79,
+        "accent_codes": [
+            769
+        ],
+        "class": "vowel"
+    },
+    "ō": {
+        "composed_utf8": "ō",
+        "codepoints": [
+            111,
+            772
+        ],
+        "base": "o",
+        "base_code": 111,
+        "base_code_upper": 79,
+        "accent_codes": [
+            772
+        ],
+        "class": "vowel"
+    },
+    "ṑ": {
+        "composed_utf8": "ṑ",
+        "codepoints": [
+            111,
+            772,
+            768
+        ],
+        "base": "o",
+        "base_code": 111,
+        "base_code_upper": 79,
+        "accent_codes": [
+            772,
+            768
+        ],
+        "class": "vowel"
+    },
+    "ṓ": {
+        "composed_utf8": "ṓ",
+        "codepoints": [
+            111,
+            772,
+            769
+        ],
+        "base": "o",
+        "base_code": 111,
+        "base_code_upper": 79,
+        "accent_codes": [
+            772,
+            769
+        ],
+        "class": "vowel"
+    },
+    "u": {
+        "composed_utf8": "u",
+        "codepoints": [
+            117
+        ],
+        "base": "u",
+        "base_code": 117,
+        "base_code_upper": 85,
+        "accent_codes": [],
+        "class": "vowel"
+    },
+    "ù": {
+        "composed_utf8": "ù",
+        "codepoints": [
+            117,
+            768
+        ],
+        "base": "u",
+        "base_code": 117,
+        "base_code_upper": 85,
+        "accent_codes": [
+            768
+        ],
+        "class": "vowel"
+    },
+    "ú": {
+        "composed_utf8": "ú",
+        "codepoints": [
+            117,
+            769
+        ],
+        "base": "u",
+        "base_code": 117,
+        "base_code_upper": 85,
+        "accent_codes": [
+            769
+        ],
+        "class": "vowel"
+    },
+    "ū": {
+        "composed_utf8": "ū",
+        "codepoints": [
+            117,
+            772
+        ],
+        "base": "u",
+        "base_code": 117,
+        "base_code_upper": 85,
+        "accent_codes": [
+            772
+        ],
+        "class": "vowel"
+    },
+    "ŭ": {
+        "composed_utf8": "ŭ",
+        "codepoints": [
+            117,
+            774
+        ],
+        "base": "u",
+        "base_code": 117,
+        "base_code_upper": 85,
+        "accent_codes": [
+            774
+        ],
+        "class": "vowel"
+    },
+    "ū̀": {
+        "composed_utf8": "ū̀",
+        "codepoints": [
+            117,
+            772,
+            768
+        ],
+        "base": "u",
+        "base_code": 117,
+        "base_code_upper": 85,
+        "accent_codes": [
+            772,
+            768
+        ],
+        "class": "vowel"
+    },
+    "ū́": {
+        "composed_utf8": "ū́",
+        "codepoints": [
+            117,
+            772,
+            769
+        ],
+        "base": "u",
+        "base_code": 117,
+        "base_code_upper": 85,
+        "accent_codes": [
+            772,
+            769
+        ],
+        "class": "vowel"
+    },
+    "ŭ̀": {
+        "composed_utf8": "ŭ̀",
+        "codepoints": [
+            117,
+            774,
+            768
+        ],
+        "base": "u",
+        "base_code": 117,
+        "base_code_upper": 85,
+        "accent_codes": [
+            774,
+            768
+        ],
+        "class": "vowel"
+    },
+    "ŭ́": {
+        "composed_utf8": "ŭ́",
+        "codepoints": [
+            117,
+            774,
+            769
+        ],
+        "base": "u",
+        "base_code": 117,
+        "base_code_upper": 85,
+        "accent_codes": [
+            774,
+            769
+        ],
+        "class": "vowel"
+    },
+    "ə": {
+        "composed_utf8": "ə",
+        "codepoints": [
+            601
+        ],
+        "base": "ə",
+        "base_code": 601,
+        "base_code_upper": 399,
+        "accent_codes": [],
+        "class": "vowel"
+    },
+    "ə̀": {
+        "composed_utf8": "ə̀",
+        "codepoints": [
+            601,
+            768
+        ],
+        "base": "ə",
+        "base_code": 601,
+        "base_code_upper": 399,
+        "accent_codes": [
+            768
+        ],
+        "class": "vowel"
+    },
+    "ə́": {
+        "composed_utf8": "ə́",
+        "codepoints": [
+            601,
+            769
+        ],
+        "base": "ə",
+        "base_code": 601,
+        "base_code_upper": 399,
+        "accent_codes": [
+            769
+        ],
+        "class": "vowel"
+    },
+    "ɛ": {
+        "composed_utf8": "ɛ",
+        "codepoints": [
+            603
+        ],
+        "base": "ɛ",
+        "base_code": 603,
+        "base_code_upper": 400,
+        "accent_codes": [],
+        "class": "vowel"
+    },
+    "ɛ̀": {
+        "composed_utf8": "ɛ̀",
+        "codepoints": [
+            603,
+            768
+        ],
+        "base": "ɛ",
+        "base_code": 603,
+        "base_code_upper": 400,
+        "accent_codes": [
+            768
+        ],
+        "class": "vowel"
+    },
+    "ɛ́": {
+        "composed_utf8": "ɛ́",
+        "codepoints": [
+            603,
+            769
+        ],
+        "base": "ɛ",
+        "base_code": 603,
+        "base_code_upper": 400,
+        "accent_codes": [
+            769
+        ],
+        "class": "vowel"
+    },
+    "ɛ̄": {
+        "composed_utf8": "ɛ̄",
+        "codepoints": [
+            603,
+            772
+        ],
+        "base": "ɛ",
+        "base_code": 603,
+        "base_code_upper": 400,
+        "accent_codes": [
+            772
+        ],
+        "class": "vowel"
+    }
+}
