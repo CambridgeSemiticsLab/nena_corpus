@@ -9,15 +9,6 @@
         ]
     },
     "2": {
-        "regex": "(?<= )\"",
-        "string": "\"",
-        "class": "quotation start",
-        "position": "begin",
-        "codepoints": [
-            34
-        ]
-    },
-    "3": {
         "regex": " ",
         "string": " ",
         "class": "space",
@@ -26,7 +17,7 @@
             32
         ]
     },
-    "4": {
+    "3": {
         "regex": "-",
         "string": "-",
         "class": "stress-group connector",
@@ -35,7 +26,7 @@
             45
         ]
     },
-    "5": {
+    "4": {
         "regex": "=",
         "string": "=",
         "class": "stress-group connector",
@@ -44,7 +35,7 @@
             61
         ]
     },
-    "6": {
+    "5": {
         "regex": "ˈ",
         "string": "ˈ",
         "class": "intonation-group boundary",
@@ -53,7 +44,7 @@
             712
         ]
     },
-    "7": {
+    "6": {
         "regex": ",",
         "string": ",",
         "class": "subsentence boundary",
@@ -62,7 +53,7 @@
             44
         ]
     },
-    "8": {
+    "7": {
         "regex": "\\.\\.\\.",
         "string": "...",
         "class": "subsentence boundary",
@@ -73,7 +64,7 @@
             46
         ]
     },
-    "9": {
+    "8": {
         "regex": ":",
         "string": ":",
         "class": "subsentence boundary",
@@ -82,7 +73,7 @@
             58
         ]
     },
-    "10": {
+    "9": {
         "regex": "—",
         "string": "—",
         "class": "subsentence boundary",
@@ -91,7 +82,7 @@
             8212
         ]
     },
-    "11": {
+    "10": {
         "regex": ";",
         "string": ";",
         "class": "subsentence boundary",
@@ -100,7 +91,7 @@
             59
         ]
     },
-    "12": {
+    "11": {
         "regex": "(?<!\\.)\\.(?!\\.)",
         "string": ".",
         "class": "sentence boundary",
@@ -109,7 +100,7 @@
             46
         ]
     },
-    "13": {
+    "12": {
         "regex": "\\?",
         "string": "?",
         "class": "sentence boundary",
@@ -118,7 +109,7 @@
             63
         ]
     },
-    "14": {
+    "13": {
         "regex": "!",
         "string": "!",
         "class": "sentence boundary",
@@ -127,11 +118,11 @@
             33
         ]
     },
-    "15": {
-        "regex": "(?<! )\"",
+    "14": {
+        "regex": "\"",
         "string": "\"",
-        "class": "quotation end",
-        "position": "end",
+        "class": "quotation boundary",
+        "position": "either",
         "codepoints": [
             34
         ]

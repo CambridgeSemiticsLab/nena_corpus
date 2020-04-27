@@ -46,6 +46,11 @@ Use `tokenize_string` to split the string into analyzable characters
 that can be identified with the regex below.
 """
     
+# Regex for punctuation (includes spaces)
+# NB: ellipsis (...) requires a separate pattern
+# as defined in punctuation.json
+punctuation = '[ .⁺\-=ˈ,.:—;?!"]'
+    
 # Regex for foreign letters wrapped with a language tag
 #   e.g. <P>Some foreign letters<P>
 foreign_letters = '[a-zðɟəɛʾʿθ][\u0300-\u033d]*'
