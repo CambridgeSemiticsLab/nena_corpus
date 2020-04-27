@@ -22,6 +22,7 @@ used for Aramaic and Hebrew corpora.
   * [Metadata Block](#Metadata-block)
   * [Text Block](#text-block)
     * [Canonical Letters](#Canonical-letters)
+    * [Foreign Letters](#Foreign-letters)
     * [Paragraph Structure](#Paragraph-structure)
     * [Punctuation](#Punctuation)
     * [Markup Strings](#Markup-strings)
@@ -102,19 +103,26 @@ We draw a distinction between "characters" and "letters". A "character" is a
 technical term for a unique unicode codepoint with very many combination
 possibilities (e.g. diacritics). A "letter" is a semantic entity that links
 a given combination of characters with a single phonological value. NENA canonical 
-letters are thus a select subset of all possible character combinations. Only 
-this subset is allowed in the text portions of a text block.
+letters are thus a select subset of all possible character combinations. With 
+the exception of foreign words, only this subset is allowed in the text portions 
+of a text block. 
 
-Canonical letters exist in one of two encodings: UTF8 or ASCII.
+Canonical letters exist in one of two encodings: UTF8 or ASCII. 
 
-#### UTF8
+**UTF8 encoding** consists of anyone of the canonical letters contained in the 
+[NENA Alphabet](../standards/alphabet.json). UTF8 letters can be written 
+in composed or non-composed form.
 
-Any one of the canonical letters contained in the [NENA Alphabet](../standards/alphabet.json). 
-UTF8 letters can be written in composed or non-composed form.
+**ASCII encoding** consists of one of the letters contained in the 
+NENA Alphabet ASCII transcription.
 
-#### ASCII
+### Foreign Letters
 
-Any one of the letters contained in the NENA Alphabet ASCII transcription.
+Letters in words [marked as foreign](#Foreign-Language-Tag) are considered
+non-canonical and need not match the canonical encodings. They may consist of 
+any combination of non-numeric base characters + zero or more diacritics.
+Non-canonical foreign letters in ASCII encoded documents are limited to any
+combination of transcribable characters.
 
 ### Paragraph Structure
 
