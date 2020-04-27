@@ -1,0 +1,139 @@
+{
+    "1": {
+        "regex": "⁺",
+        "string": "⁺",
+        "class": "character quality",
+        "position": "begin",
+        "codepoints": [
+            8314
+        ]
+    },
+    "2": {
+        "regex": "(?<= )\"",
+        "string": "\"",
+        "class": "quotation start",
+        "position": "begin",
+        "codepoints": [
+            34
+        ]
+    },
+    "3": {
+        "regex": " ",
+        "string": " ",
+        "class": "space",
+        "position": "end",
+        "codepoints": [
+            32
+        ]
+    },
+    "4": {
+        "regex": "-",
+        "string": "-",
+        "class": "stress-group connector",
+        "position": "end",
+        "codepoints": [
+            45
+        ]
+    },
+    "5": {
+        "regex": "=",
+        "string": "=",
+        "class": "stress-group connector",
+        "position": "end",
+        "codepoints": [
+            61
+        ]
+    },
+    "6": {
+        "regex": "ˈ",
+        "string": "ˈ",
+        "class": "intonation-group boundary",
+        "position": "end",
+        "codepoints": [
+            712
+        ]
+    },
+    "7": {
+        "regex": ",",
+        "string": ",",
+        "class": "subsentence boundary",
+        "position": "end",
+        "codepoints": [
+            44
+        ]
+    },
+    "8": {
+        "regex": "\\.\\.\\.",
+        "string": "...",
+        "class": "subsentence boundary",
+        "position": "end",
+        "codepoints": [
+            46,
+            46,
+            46
+        ]
+    },
+    "9": {
+        "regex": ":",
+        "string": ":",
+        "class": "subsentence boundary",
+        "position": "end",
+        "codepoints": [
+            58
+        ]
+    },
+    "10": {
+        "regex": "—",
+        "string": "—",
+        "class": "subsentence boundary",
+        "position": "end",
+        "codepoints": [
+            8212
+        ]
+    },
+    "11": {
+        "regex": ";",
+        "string": ";",
+        "class": "subsentence boundary",
+        "position": "end",
+        "codepoints": [
+            59
+        ]
+    },
+    "12": {
+        "regex": "(?<!\\.)\\.(?!\\.)",
+        "string": ".",
+        "class": "sentence boundary",
+        "position": "end",
+        "codepoints": [
+            46
+        ]
+    },
+    "13": {
+        "regex": "\\?",
+        "string": "?",
+        "class": "sentence boundary",
+        "position": "end",
+        "codepoints": [
+            63
+        ]
+    },
+    "14": {
+        "regex": "!",
+        "string": "!",
+        "class": "sentence boundary",
+        "position": "end",
+        "codepoints": [
+            33
+        ]
+    },
+    "15": {
+        "regex": "(?<! )\"",
+        "string": "\"",
+        "class": "quotation end",
+        "position": "end",
+        "codepoints": [
+            34
+        ]
+    }
+}
