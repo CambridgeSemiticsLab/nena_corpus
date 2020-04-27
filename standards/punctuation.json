@@ -2,10 +2,19 @@
     {
         "regex": "⁺",
         "string": "⁺",
-        "class": "character quality",
+        "class": "letter quality",
         "position": "begin",
         "codepoints": [
             8314
+        ]
+    },
+    {
+        "regex": "(?<= )\"",
+        "string": "\"",
+        "class": "quotation",
+        "position": "begin",
+        "codepoints": [
+            34
         ]
     },
     {
@@ -119,10 +128,10 @@
         ]
     },
     {
-        "regex": "\"",
+        "regex": "(?<! )\"",
         "string": "\"",
-        "class": "quotation boundary",
-        "position": "either",
+        "class": "quotation",
+        "position": "end",
         "codepoints": [
             34
         ]
