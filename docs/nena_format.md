@@ -93,8 +93,9 @@ or transcriber.
 
 The text block contains the body of the transcribed text. The text must be 
 written in one of two encodings: `UTF8` or `ASCII`. Either encodings must 
-be written using valid [canonical letters](#Canonical-Letters), valid punctuation, 
-and valid markup strings (as defined in this document). 
+be written using [valid canonical letters](../standards/alphabet.json), 
+[valid punctuation](../standards/punctuation.json), and valid markup strings 
+(as defined in this document). 
 
 ### Canonical Letters
 
@@ -109,12 +110,12 @@ Canonical letters exist in one of two encodings: UTF8 or ASCII.
 
 #### UTF8
 
-Any one of the letters contained in the [UTF8 Canonical Letters](#UTF8). UTF8 
-letters can be written in composed or non-composed form. 
+Any one of the canonical letters contained in the [NENA Alphabet](../standards/alphabet). 
+UTF8 letters can be written in composed or non-composed form.
 
 #### ASCII
 
-Any one of the letters contained in the [ASCII Canonical Letters](#ASCII). 
+Any one of the letters contained in the NENA Alphabet ASCII transcription.
 
 ### Paragraph Structure
 
@@ -130,7 +131,7 @@ This is another paragraph.
 
 ### Punctuation
 
-Any one of the [punctuation characters](#Punctuation). For ease-of-input, 
+Any one of the [punctuation characters](../standards/punctuation.json). For ease-of-input, 
 the following substituted values are allowed:
 
 | punctuation | substitution |
