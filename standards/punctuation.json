@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "regex": "⁺",
         "string": "⁺",
         "class": "character quality",
@@ -8,7 +8,7 @@
             8314
         ]
     },
-    "2": {
+    {
         "regex": " ",
         "string": " ",
         "class": "space",
@@ -17,7 +17,7 @@
             32
         ]
     },
-    "3": {
+    {
         "regex": "-",
         "string": "-",
         "class": "stress-group connector",
@@ -26,7 +26,7 @@
             45
         ]
     },
-    "4": {
+    {
         "regex": "=",
         "string": "=",
         "class": "stress-group connector",
@@ -35,7 +35,7 @@
             61
         ]
     },
-    "5": {
+    {
         "regex": "ˈ",
         "string": "ˈ",
         "class": "intonation-group boundary",
@@ -44,7 +44,7 @@
             712
         ]
     },
-    "6": {
+    {
         "regex": ",",
         "string": ",",
         "class": "subsentence boundary",
@@ -53,7 +53,7 @@
             44
         ]
     },
-    "7": {
+    {
         "regex": "\\.\\.\\.",
         "string": "...",
         "class": "subsentence boundary",
@@ -64,7 +64,7 @@
             46
         ]
     },
-    "8": {
+    {
         "regex": ":",
         "string": ":",
         "class": "subsentence boundary",
@@ -73,7 +73,7 @@
             58
         ]
     },
-    "9": {
+    {
         "regex": "—",
         "string": "—",
         "class": "subsentence boundary",
@@ -82,7 +82,7 @@
             8212
         ]
     },
-    "10": {
+    {
         "regex": ";",
         "string": ";",
         "class": "subsentence boundary",
@@ -91,7 +91,7 @@
             59
         ]
     },
-    "11": {
+    {
         "regex": "(?<!\\.)\\.(?!\\.)",
         "string": ".",
         "class": "sentence boundary",
@@ -100,7 +100,7 @@
             46
         ]
     },
-    "12": {
+    {
         "regex": "\\?",
         "string": "?",
         "class": "sentence boundary",
@@ -109,7 +109,7 @@
             63
         ]
     },
-    "13": {
+    {
         "regex": "!",
         "string": "!",
         "class": "sentence boundary",
@@ -118,7 +118,7 @@
             33
         ]
     },
-    "14": {
+    {
         "regex": "\"",
         "string": "\"",
         "class": "quotation boundary",
@@ -127,4 +127,4 @@
             34
         ]
     }
-}
+]
