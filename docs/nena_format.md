@@ -165,23 +165,23 @@ A line cannot cross a paragraph.
 #### Foreign Language Tag
 
 NENA texts occasionally contain words or stretches of words spoken in a language
-foreign to NENA (e.g. English words like "OK", but also place names). These words are 
-are wrapped in identical foreign language tags. The tags consist of an open 
-angle bracket, a [valid language code](../standards/foreign_languages.json) and a closing 
-angle bracket on either side of the foreign string. For example:
+foreign to NENA. These words should be indicated with an opening single angle 
+bracket (<), a [valid language code](../standards/foreign_languages.json), a colon, 
+the foreign words, and a single closing bracket:
 
 ```
-This is some NENA. <Du>Dit is niet NENA<Du>
+This is some NENA. <Du: Dit is niet NENA>
 ```
 
-The language codes in the first and last tag must match. Any number of words are 
-allowed inside the foreign language tags.
+Any number of words are allowed in a foreign language tag, but the tag should
+not take up a substantial portion of the NENA text.
 
 #### Speaker Tag
 
 Many NENA texts are conversational and consist of multiple conversants. An additional 
 speaker from the main informant may be indicated with an opening guillemet («) followed
-by the speaker's name or initials, a colon, the speaker's words, and a closing guillemet (»): 
+by the speaker's name or initials, a colon, the speaker's words, and a closing 
+guillemet (»): 
 
 ```
 «GK: maxlèta?»
