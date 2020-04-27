@@ -48,10 +48,9 @@ bàbaˈ ʾàtən=daˈ ⁺šúla lə̀tluxˈ tíyyət b-dìyyi k̭ítət.ˈ ⁺š
 ⁺ʾəsrá ⁺pasulyày,ˈ ⁺málla bitáyələ drúm ⁺ʾal-⁺ʾàrra.ˈ bək̭yámələ ⁺bərxáṱələ 
 ⁺bàru.ˈ màraˈ ⁺maxlèta,ˈ ʾátən ⁺dílux ʾána bət-náplənva m-⁺al-ʾilàna.ˈ 
 bas-tánili xázən ʾána ʾíman bət-mètən.ˈ ʾo-náša xzílə k̭at-ʾá ⁺màllaˈ hónu 
-xáč̭č̭a ... ⁺basùrələˈ mə́rrə k̭àtuˈ ⁺maxlèta,ˈ mə̀drə,ˈ 
-<<Geoffrey Khan: maxlèta?>> ⁺rába ⁺maxlèta.ˈ mə́rrə k̭at-ʾíman xmártux 
-⁺ṱlá ɟáhə ⁺ʾarṱàla,ˈ ʾó-yuma mètət.ˈ ʾó-yumət xmártux ⁺ṱlá ɟáhə ⁺ʾarṱàla,ˈ 
-ʾó-yuma mètət.ˈ 
+xáč̭č̭a ... ⁺basùrələˈ mə́rrə k̭àtuˈ ⁺maxlèta,ˈ mə̀drə,ˈ «GK: maxlèta?» ⁺rába 
+⁺maxlèta.ˈ mə́rrə k̭at-ʾíman xmártux ⁺ṱlá ɟáhə ⁺ʾarṱàla,ˈ ʾó-yuma mètət.ˈ 
+ʾó-yumət xmártux ⁺ṱlá ɟáhə ⁺ʾarṱàla,ˈ ʾó-yuma mètət.ˈ 
 
 (3@0:16) ⁺málla múttəva ... ⁺ṱànaˈ ⁺yak̭úyra ⁺ʾal-xmàrta.ˈ ⁺ṱànaˈ mə́ndi 
 ⁺rába múttəva ⁺ʾal-xmàrtaˈ ʾu-xmàrtaˈ ⁺báyyava ʾask̭áva ⁺ʾùllul.ˈ
@@ -185,7 +184,7 @@ speaker from the main informant may be indicated with an opening guillemet («) 
 by the speaker's name or initials, a colon, the speaker's words, and a closing guillemet (»): 
 
 ```
-«GK: clarifying question goes here.»
+«GK: maxlèta?»
 ```
 
 An acceptable substitution for the guillemets are the double angle brackets `<<`
