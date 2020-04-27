@@ -110,7 +110,7 @@ Canonical letters exist in one of two encodings: UTF8 or ASCII.
 
 #### UTF8
 
-Any one of the canonical letters contained in the [NENA Alphabet](../standards/alphabet). 
+Any one of the canonical letters contained in the [NENA Alphabet](../standards/alphabet.json). 
 UTF8 letters can be written in composed or non-composed form.
 
 #### ASCII
