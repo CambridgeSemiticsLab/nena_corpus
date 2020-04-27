@@ -182,10 +182,10 @@ allowed inside the foreign language tags.
 
 Many NENA texts are conversational and consist of multiple conversants. An additional 
 speaker from the main informant may be indicated with an opening guillemet («) followed
-by the speaker's name, a colon, the speaker's words, and a closing guillemet (»): 
+by the speaker's name or initials, a colon, the speaker's words, and a closing guillemet (»): 
 
 ```
-«Geoffrey Khan: clarifying question goes here.»
+«GK: clarifying question goes here.»
 ```
 
 An acceptable substitution for the guillemets are the double angle brackets `<<`
