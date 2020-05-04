@@ -53,7 +53,7 @@ punctuation = '[ .⁺\-=ˈ,.:—;?!"]'
     
 # Regex for foreign letters wrapped with a language tag
 #   e.g. <P>Some foreign letters<P>
-foreign_letters = '[a-zðɟəɛʾʿθ][\u0300-\u033d]*'
+foreign_letters = '[a-zA-ZðÐɟəƏɛƐʾʿθΘ][\u0300-\u033d]*'
 
 # Regex for NENA letters
 base_chars = '[a-zðɟəɛʾʿθ]'
