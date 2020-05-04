@@ -1,0 +1,102 @@
+Grammar:
+
+Rule 0     S' -> text
+Rule 1     text -> word
+Rule 2     text -> text word
+Rule 3     word -> letters
+Rule 4     word -> letters SPACE
+Rule 5     letters -> LETTER
+Rule 6     letters -> letters LETTER
+
+Terminals, with rules where they appear:
+
+LETTER               : 5 6
+SPACE                : 4
+error                : 
+
+Nonterminals, with rules where they appear:
+
+letters              : 3 4 6
+text                 : 2 0
+word                 : 1 2
+
+
+state 0
+
+    (0) S' -> . text
+    (1) text -> . word
+    (2) text -> . text word
+    (3) word -> . letters
+    (4) word -> . letters SPACE
+    (5) letters -> . LETTER
+    (6) letters -> . letters LETTER
+    LETTER          shift and go to state 4
+
+    text                           shift and go to state 1
+    word                           shift and go to state 2
+    letters                        shift and go to state 3
+
+state 1
+
+    (0) S' -> text .
+    (2) text -> text . word
+    (3) word -> . letters
+    (4) word -> . letters SPACE
+    (5) letters -> . LETTER
+    (6) letters -> . letters LETTER
+    LETTER          shift and go to state 4
+
+    word                           shift and go to state 5
+    letters                        shift and go to state 3
+
+state 2
+
+    (1) text -> word .
+    LETTER          reduce using rule 1 (text -> word .)
+    $end            reduce using rule 1 (text -> word .)
+
+
+state 3
+
+    (3) word -> letters .
+    (4) word -> letters . SPACE
+    (6) letters -> letters . LETTER
+  ! shift/reduce conflict for LETTER resolved as shift
+    $end            reduce using rule 3 (word -> letters .)
+    SPACE           shift and go to state 6
+    LETTER          shift and go to state 7
+
+
+state 4
+
+    (5) letters -> LETTER .
+    SPACE           reduce using rule 5 (letters -> LETTER .)
+    LETTER          reduce using rule 5 (letters -> LETTER .)
+    $end            reduce using rule 5 (letters -> LETTER .)
+
+
+state 5
+
+    (2) text -> text word .
+    LETTER          reduce using rule 2 (text -> text word .)
+    $end            reduce using rule 2 (text -> text word .)
+
+
+state 6
+
+    (4) word -> letters SPACE .
+    LETTER          reduce using rule 4 (word -> letters SPACE .)
+    $end            reduce using rule 4 (word -> letters SPACE .)
+
+
+state 7
+
+    (6) letters -> letters LETTER .
+    SPACE           reduce using rule 6 (letters -> letters LETTER .)
+    LETTER          reduce using rule 6 (letters -> letters LETTER .)
+    $end            reduce using rule 6 (letters -> letters LETTER .)
+
+
+Conflicts:
+
+shift/reduce conflict for LETTER in state 3 resolved as shift
