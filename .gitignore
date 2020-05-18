@@ -4,6 +4,7 @@ dev
 parser.out
 out.txt
 .DS_Store
+.out
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
