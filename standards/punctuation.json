@@ -2,8 +2,9 @@
     {
         "regex": "⁺",
         "string": "⁺",
-        "class": "letter quality",
+        "class": "phonetic",
         "position": "begin",
+        "modifies": "stress group",
         "codepoints": [
             8314
         ]
@@ -11,7 +12,8 @@
     {
         "regex": "(?<= )\"",
         "string": "\"",
-        "class": "quotation",
+        "class": "separator",
+        "modifies": "text",
         "position": "begin",
         "codepoints": [
             34
@@ -20,7 +22,8 @@
     {
         "regex": " ",
         "string": " ",
-        "class": "space",
+        "class": "separator",
+        "modifies": "word",
         "position": "end",
         "codepoints": [
             32
@@ -29,7 +32,8 @@
     {
         "regex": "-",
         "string": "-",
-        "class": "stress-group connector",
+        "class": "connector",
+        "modifies": "stress group",
         "position": "end",
         "codepoints": [
             45
@@ -38,7 +42,8 @@
     {
         "regex": "=",
         "string": "=",
-        "class": "stress-group connector",
+        "class": "connector",
+        "modifies": "stress group",
         "position": "end",
         "codepoints": [
             61
@@ -47,7 +52,8 @@
     {
         "regex": "ˈ",
         "string": "ˈ",
-        "class": "intonation-group boundary",
+        "class": "separator",
+        "modifies": "intonation group",
         "position": "end",
         "codepoints": [
             712
@@ -56,7 +62,8 @@
     {
         "regex": ",",
         "string": ",",
-        "class": "subsentence boundary",
+        "class": "separator",
+        "modifies": "subsentence",
         "position": "end",
         "codepoints": [
             44
@@ -65,7 +72,8 @@
     {
         "regex": "\\.\\.\\.",
         "string": "...",
-        "class": "subsentence boundary",
+        "class": "separator",
+        "modifies": "subsentence",
         "position": "end",
         "codepoints": [
             46,
@@ -76,7 +84,8 @@
     {
         "regex": ":",
         "string": ":",
-        "class": "subsentence boundary",
+        "class": "separator",
+        "modifies": "subsentence",
         "position": "end",
         "codepoints": [
             58
@@ -85,7 +94,8 @@
     {
         "regex": "—",
         "string": "—",
-        "class": "subsentence boundary",
+        "class": "separator",
+        "modifies": "subsentence",
         "position": "end",
         "codepoints": [
             8212
@@ -94,7 +104,8 @@
     {
         "regex": ";",
         "string": ";",
-        "class": "subsentence boundary",
+        "class": "separator",
+        "modifies": "subsentence",
         "position": "end",
         "codepoints": [
             59
@@ -103,7 +114,8 @@
     {
         "regex": "(?<!\\.)\\.(?!\\.)",
         "string": ".",
-        "class": "sentence boundary",
+        "class": "separator",
+        "modifies": "sentence",
         "position": "end",
         "codepoints": [
             46
@@ -112,7 +124,8 @@
     {
         "regex": "\\?",
         "string": "?",
-        "class": "sentence boundary",
+        "class": "separator",
+        "modifies": "sentence",
         "position": "end",
         "codepoints": [
             63
@@ -121,7 +134,8 @@
     {
         "regex": "!",
         "string": "!",
-        "class": "sentence boundary",
+        "class": "separator",
+        "modifies": "sentence",
         "position": "end",
         "codepoints": [
             33
@@ -130,7 +144,8 @@
     {
         "regex": "(?<! )\"",
         "string": "\"",
-        "class": "quotation",
+        "class": "separator",
+        "modifies": "text",
         "position": "end",
         "codepoints": [
             34
