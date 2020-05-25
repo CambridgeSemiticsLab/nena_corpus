@@ -10,6 +10,9 @@ The purpose of this repository is to curate source texts that will be used for b
 
 ## Contents
 
-* [raw](raw) - contains raw, uncorrected source data in its diverse formats
-* [nena](nena) - contains the plain text with mark-up in .nena format 
-* [nena_format](docs/nena_format.md) - description of the `.nena` mark-up format
+### [nena_format](docs/nena_format.md) - description of the NENA mark-up format
+### [standards](standards) - standards for NENA alphabet, linguistic codes, including regex patterns
+### [texts](texts) - contains the NENA texts by version and dialect in NENA mark-up
+### [parsed_texts](parsed_texts) - contains all NENA texts parsed into JSON hierarchies
+### [text_parser](text_parser) - a SLY parser for producing the NENA JSON parsings from NENA mark-up
+### [sources](sources) - original source material used for generating NENA texts
