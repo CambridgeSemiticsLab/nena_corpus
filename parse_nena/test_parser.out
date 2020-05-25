@@ -1,0 +1,93 @@
+Grammar:
+
+Rule 0     S' -> words
+Rule 1     words -> word
+Rule 2     words -> word SPACE words
+Rule 3     word -> letters
+Rule 4     letters -> LETTER
+Rule 5     letters -> LETTER letters
+
+Terminals, with rules where they appear:
+
+LETTER               : 4 5
+SPACE                : 2
+error                : 
+
+Nonterminals, with rules where they appear:
+
+letters              : 3 5
+word                 : 1 2
+words                : 2 0
+
+
+state 0
+
+    (0) S' -> . words
+    (1) words -> . word
+    (2) words -> . word SPACE words
+    (3) word -> . letters
+    (4) letters -> . LETTER
+    (5) letters -> . LETTER letters
+    LETTER          shift and go to state 4
+
+    words                          shift and go to state 1
+    word                           shift and go to state 2
+    letters                        shift and go to state 3
+
+state 1
+
+    (0) S' -> words .
+
+
+state 2
+
+    (1) words -> word .
+    (2) words -> word . SPACE words
+    $end            reduce using rule 1 (words -> word .)
+    SPACE           shift and go to state 5
+
+
+state 3
+
+    (3) word -> letters .
+    SPACE           reduce using rule 3 (word -> letters .)
+    $end            reduce using rule 3 (word -> letters .)
+
+
+state 4
+
+    (4) letters -> LETTER .
+    (5) letters -> LETTER . letters
+    (4) letters -> . LETTER
+    (5) letters -> . LETTER letters
+    SPACE           reduce using rule 4 (letters -> LETTER .)
+    $end            reduce using rule 4 (letters -> LETTER .)
+    LETTER          shift and go to state 4
+
+    letters                        shift and go to state 6
+
+state 5
+
+    (2) words -> word SPACE . words
+    (1) words -> . word
+    (2) words -> . word SPACE words
+    (3) word -> . letters
+    (4) letters -> . LETTER
+    (5) letters -> . LETTER letters
+    LETTER          shift and go to state 4
+
+    word                           shift and go to state 2
+    words                          shift and go to state 7
+    letters                        shift and go to state 3
+
+state 6
+
+    (5) letters -> LETTER letters .
+    SPACE           reduce using rule 5 (letters -> LETTER letters .)
+    $end            reduce using rule 5 (letters -> LETTER letters .)
+
+
+state 7
+
+    (2) words -> word SPACE words .
+    $end            reduce using rule 2 (words -> word SPACE words .)
