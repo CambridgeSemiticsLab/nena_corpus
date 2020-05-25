@@ -43,13 +43,13 @@ transcriber = Geoffrey Khan
 text_id = A32 
 
 (1@0:00) xá-yuma ⁺malla ⁺Nasrádən váyələ tíva ⁺ʾal-k̭èsa.ˈ xá mən-nášə 
-⁺vàrəva,ˈ mə́rrə ⁺màllaˈ ʾátən ʾo-k̭ésa pràmut,ˈ bət-nàplət.ˈ mə́rrə <P: bŏ́ro> 
+⁺vàrəva,ˈ mə́rrə ⁺màllaˈ ʾátən ʾo-k̭ésa pràmut,ˈ bət-nàplət.ˈ mə́rrə <P:bŏ́ro> 
 bàbaˈ ʾàtən=daˈ ⁺šúla lə̀tluxˈ tíyyət b-dìyyi k̭ítət.ˈ ⁺šúk̭ si-⁺bar-⁺šùlux.ˈ 
 ʾána ⁺šūl-ɟànilə.ˈ náplən nàplən.ˈ (2@0:08) ⁺hàlaˈ ʾo-náša léva xíša xá 
 ⁺ʾəsrá ⁺pasulyày,ˈ ⁺málla bitáyələ drúm ⁺ʾal-⁺ʾàrra.ˈ bək̭yámələ ⁺bərxáṱələ 
 ⁺bàru.ˈ màraˈ ⁺maxlèta,ˈ ʾátən ⁺dílux ʾána bət-náplənva m-⁺al-ʾilàna.ˈ 
 bas-tánili xázən ʾána ʾíman bət-mètən.ˈ ʾo-náša xzílə k̭at-ʾá ⁺màllaˈ hónu 
-xáč̭č̭a ... ⁺basùrələˈ mə́rrə k̭àtuˈ ⁺maxlèta,ˈ mə̀drə,ˈ «GK: maxlèta?» ⁺rába 
+xáč̭č̭a ... ⁺basùrələˈ mə́rrə k̭àtuˈ ⁺maxlèta,ˈ mə̀drə,ˈ «GK:maxlèta?» ⁺rába 
 ⁺maxlèta.ˈ mə́rrə k̭at-ʾíman xmártux ⁺ṱlá ɟáhə ⁺ʾarṱàla,ˈ ʾó-yuma mètət.ˈ 
 ʾó-yumət xmártux ⁺ṱlá ɟáhə ⁺ʾarṱàla,ˈ ʾó-yuma mètət.ˈ 
 
@@ -181,7 +181,7 @@ bracket (<), a [valid language code](../standards/foreign_languages.json), a col
 the foreign words, and a single closing bracket:
 
 ```
-This is some NENA. <Du: Dit is niet NENA>
+This is some NENA. <Du:Dit is niet NENA>
 ```
 
 Any number of words are allowed in a foreign language tag, but the tag should
@@ -195,7 +195,7 @@ by the speaker's name or initials, a colon, the speaker's words, and a closing
 guillemet (»): 
 
 ```
-«GK: maxlèta?»
+«GK:maxlèta?»
 ```
 
 An acceptable substitution for the guillemets are the double angle brackets `<<`
