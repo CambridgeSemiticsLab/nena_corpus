@@ -1,10 +1,8 @@
 
 # development files
 dev
-parser.out
-out.txt
 .DS_Store
-.out
+*.out
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
