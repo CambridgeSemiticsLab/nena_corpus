@@ -33,14 +33,14 @@ Below is an example of a text annotated with NENA Markup. The markup is mainly
 hypothetical for illustrative purposes and contains all possible markup patterns.
 
 ```
-dialect: Urmi_C
-title: When Shall I Die?
-encoding: UTF8
-informant: Yulia Davudi
-interviewer: Geoffrey Khan
-place: +Hassar +Baba-čanɟa, N
-transcriber: Geoffrey Khan
-text_id: A32 
+dialect = Urmi_C
+title = When Shall I Die?
+encoding = UTF8
+informant = Yulia Davudi
+interviewer = Geoffrey Khan
+place = +Hassar +Baba-čanɟa, N
+transcriber = Geoffrey Khan
+text_id = A32 
 
 (1@0:00) xá-yuma ⁺malla ⁺Nasrádən váyələ tíva ⁺ʾal-k̭èsa.ˈ xá mən-nášə 
 ⁺vàrəva,ˈ mə́rrə ⁺màllaˈ ʾátən ʾo-k̭ésa pràmut,ˈ bət-nàplət.ˈ mə́rrə <P: bŏ́ro> 
@@ -71,10 +71,13 @@ NENA Markup texts consist of two blocks: 1) metadata block, 2) text block.
 
 The metadata block contains metadata features and values. Each unique feature
 and value is contained on its own line and separated from other feature/values 
-by a single line break. The format for a feature and value is as follows:
+by a single line break. 
+
+A single feature/value pair consists of a feature name string, a space, an =
+sign, another space, and the value string. **NB: The spaces around = are mandatory**.
 
 ```
-feature: value
+feature = value
 ```
 
 The metadata block is ended by a blank line (i.e. two adjacent newline characters).
