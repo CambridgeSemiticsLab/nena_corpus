@@ -1,6 +1,6 @@
 # Corrections to Source Data
 
-VERS="../0.01"
+VERS="../0.01'
 
 # Add missing line number 
 FILE="$VERS/Barwar/Measure for Measure.nena"
