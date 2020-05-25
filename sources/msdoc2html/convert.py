@@ -17,7 +17,7 @@ from html_to_nena import html_todict
 #     Urmi_C
 dialects = list(Path(sys.argv[1]).glob('*'))
 version = '0.02'
-output = f'../../nena/{version}/{{dialect}}' # markdown files to go here
+output = f'../../texts/{version}/{{dialect}}' # markdown files to go here
 
 def is_heading(e):
     return (e.tag == 'h2'
