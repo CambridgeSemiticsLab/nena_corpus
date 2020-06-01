@@ -23,7 +23,8 @@
     "st": {
         "desc": "state",
         "tags": {
-            "C": "construct"
+            "C": "construct",
+            "A": "absolute"
         }
     },
     "gn": {
@@ -31,6 +32,7 @@
         "tags": {
             "F": "feminine",
             "M": "masculine",
+            "MF": "either masculine or feminine",
             "C": "common"
         }
     },
@@ -51,7 +53,7 @@
         "desc": "transitivity",
         "tags": {
             "TR": "transitive",
-            "INTR": "intransitive"
+            "ITR": "intransitive"
         }
     },
     "syn": {
