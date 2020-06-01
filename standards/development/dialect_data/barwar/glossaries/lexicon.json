@@ -69,8 +69,9 @@
         "entry": "xzéli xá-məndit ʾajəbùθa |  I have found something amazing (A8:16); xzélən ʾajəbùθa! |  We have seen a miracle! (B9:21)."
     },
     "ʾajib": {
-        "form": "INVAR",
+        "form": "ʾajib",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "amazing",
         "entry": "ʾàjib! |  It was amazing! (A4:28).",
         "lang": "A."
@@ -82,8 +83,9 @@
         "gloss": "farmer"
     },
     "ʾăkīd": {
-        "form": "INVAR",
+        "form": "ʾăkīd",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "sure, certain",
         "lang": "A."
     },
@@ -317,8 +319,9 @@
         "entry": "ʾilanət ʾapṣe oak tree (mɛša) bearing such gallnuts; hot-píša ʾápṣa milàna |  You have become a green gallnut (i.e. you have not been seen for a long time) (D1:4)."
     },
     "ʾaqall": {
-        "form": "INVAR",
+        "form": "ʾaqall",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "less",
         "lang": "A."
     },
@@ -519,8 +522,9 @@
         "gloss": "lion"
     },
     "ʾarzən": {
-        "form": "INVAR",
+        "form": "ʾarzən",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "cheap",
         "lang": "K."
     },
@@ -560,8 +564,9 @@
         "entry": "ʾaṣə́rta θìθɛla |  bắyi ṱ-áxli xa-ràmša |  The evening came and they wanted to eat dinner (A2:2); y-oðíwa ʾaṣràre |  They would hold evening celebrations (B5:18)."
     },
     "ʾaṣi": {
-        "form": "INVAR",
+        "form": "ʾaṣi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "rebellious, rebel; difficult (terrain)",
         "entry": "ʾánna hóla ʾàṣi ʾə́lle díye |  They are rebelling against him (A12:58); ṭúra ʾàṣile |  The mountain is difficult.",
         "lang": "A."
@@ -611,8 +616,9 @@
         "lang": "A."
     },
     "ʾaṣli": {
-        "form": "INVAR",
+        "form": "ʾaṣli",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "original",
         "lang": "A."
     },
@@ -704,8 +710,9 @@
         "gloss": "letter (of the alphabet)"
     },
     "ʾavi": {
-        "form": "INVAR",
+        "form": "ʾavi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "irrigated",
         "entry": "zruta avi irrigated cultivation, xəṭṭe ʾavi irrigated wheat (opposite of dēm, demi, dema unirrigated)",
         "lang": "K."
@@ -800,8 +807,9 @@
         "entry": "(1) just, only | xúwwe ʾáxčile múdwa rìqa |  The snake just managed to escape (A1:15); ʾáxči ʾáp ʾayya-béna múrri mòdile |  Just one more time tell me what it is (A1:18); malàxe yắði, |  ʾàxči |  Only the angels know (A4:9); ʾáxči xoš-qàyəm |  xazyánne xàmša daqíqe, |  ʾan-xéne kúlla ṭla-d-àw |  Just let him rise for me to see him for five minutes, and all the other (sixty years) be for him (A4:49).; (2) but | ʾə́č̣č̣i-u ʾə̀č̣č̣a, |  ʾáxči ʾána max-xšàwti, |  ʾáyya kìsta |  hóle mxožə́bnəlla max-xà |  (There are) ninety-nine (coins), but according my opinion, he has reckoned this bag as one (A6:3)"
     },
     "ʾaxḍar": {
-        "form": "INVAR",
+        "form": "ʾaxḍar",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "green",
         "lang": "A."
     },
@@ -1648,8 +1656,9 @@
         "lang": "A."
     },
     "ʿadi": {
-        "form": "INVAR",
+        "form": "ʿadi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "ordinary",
         "lang": "A."
     },
@@ -1703,8 +1712,9 @@
         "lang": "A."
     },
     "ʿăṣăbi": {
-        "form": "INVAR",
+        "form": "ʿăṣăbi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "nervous, angry",
         "lang": "A."
     },
@@ -1861,8 +1871,9 @@
         "gloss": "boat"
     },
     "bălāš": {
-        "form": "INVAR",
+        "form": "bălāš",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "free, without charge",
         "lang": "A."
     },
@@ -2677,8 +2688,9 @@
         "entry": "ʾó-t šawə́rra šáwwa sə̀kke, |  ða-qɛ́θa gu-be-tə̀kke |  He who jumps seven stakes, (one) will hit him in his waist (D2:1). → təkθa trouser cord"
     },
     "be-təlmən": {
-        "form": "INVAR",
+        "form": "be-təlmən",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "without discipline, unruly",
         "entry": "brónux be-tə̀lmənile |  Your son is unruly → tlm"
     },
@@ -2953,13 +2965,15 @@
         "entry": "boyət bərzoma hatch giving access to storage room"
     },
     "bəṛ-ʿăqəl": {
-        "form": "INVAR",
+        "form": "bəṛ-ʿăqəl",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "wise"
     },
     "be-saruber": {
-        "form": "INVAR",
+        "form": "be-saruber",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "smashed, mutilated",
         "lang": "K."
     },
@@ -3229,8 +3243,9 @@
         "lang": "K."
     },
     "boš": {
-        "form": "INVAR",
+        "form": "boš",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "empty, vain",
         "entry": "qála qamáya zílle bòš |  The first cry was in vain (A7:74)",
         "lang": "K."
@@ -3317,8 +3332,9 @@
         "entry": "ʾánna ma-brinànela gu-réšux? |  What wounds are these on your head? (A29:6)."
     },
     "brindar": {
-        "form": "INVAR",
+        "form": "brindar",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "injured",
         "entry": "qəm-maxíli brìndar They injured me; mə́xyɛwən brìndar |  I am injured; Rústam píšle brìndar |  Rustam was injured (A28:28)."
     },
@@ -3618,8 +3634,9 @@
         "lang": "K."
     },
     "čallaq": {
-        "form": "INVAR",
+        "form": "čallaq",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "fast, agile",
         "lang": "K."
     },
@@ -4589,8 +4606,9 @@
         "lang": "K."
     },
     "dēm": {
-        "form": "INVAR",
+        "form": "dēm",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "unirrigated",
         "entry": "zruta dēm unirrigated cultivation, xəṭṭe dema unirrigated wheat (as opposed to ʾavi irrigated)."
     },
@@ -5585,8 +5603,9 @@
         "lang": "K."
     },
     "gărən": {
-        "form": "INVAR",
+        "form": "gărən",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "expensive",
         "lang": "K."
     },
@@ -6411,8 +6430,9 @@
         "gloss": "torso (of an animal)"
     },
     "gurj": {
-        "form": "INVAR",
+        "form": "gurj",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "tight; too short (rope)",
         "lang": "K."
     },
@@ -6660,8 +6680,9 @@
         "lang": "K."
     },
     "ḥaqiqi": {
-        "form": "INVAR",
+        "form": "ḥaqiqi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "true",
         "lang": "A."
     },
@@ -6831,8 +6852,9 @@
         "gloss": "faith"
     },
     "hazər": {
-        "form": "INVAR",
+        "form": "hazər",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "ready, prepared",
         "entry": "hazər qa-štaya ready for drinking; ʾánna məndiyáne ṱ-it-ṭlábəlla kúlla hàzərila |  All the things that you request are ready (A8:38); simàrxa |  wíðtɛla gána hàzər |  The simarxa bird prepared herself (A27:13).",
         "lang": "K./A."
@@ -6930,8 +6952,9 @@
         "lang": "K./A."
     },
     "həšyər": {
-        "form": "INVAR",
+        "form": "həšyər",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "careful",
         "entry": "wi-hə̀šyər! Be careful!; háwət hə́šyər t-là-ʾaθi ʾə́llux |  Be careful they do not accost you (A22:26); háwət hə́šyər ʾína ʾáyya sústa là marpə́tla |  Be careful not to let that horse go (A12:29); daréle gu-yáma hə̀šyər |  He put it in the sea carefully (A12:30).",
         "lang": "K."
@@ -7151,8 +7174,9 @@
         "lang": "A."
     },
     "ḥărām": {
-        "form": "INVAR",
+        "form": "ḥărām",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "forbidden",
         "entry": "ḥărā́m-ile gáwṛa ʾə̀lli |  šúq mən-dìyux |  Any man is forbidden to me except you (A12:35); n.pl. hăramāt | ʾu-zílle hăramā̀t |  It was sold for nothing (A22:9).",
         "lang": "A."
@@ -7200,8 +7224,9 @@
         "lang": "A."
     },
     "ḥăšīm": {
-        "form": "INVAR",
+        "form": "ḥăšīm",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "foolish, timid",
         "lang": "A."
     },
@@ -7233,8 +7258,9 @@
         "lang": "A."
     },
     "ḥur": {
-        "form": "INVAR",
+        "form": "ḥur",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "pure",
         "entry": "mə́šxa ḥùr |  pure butter (B5:31)",
         "lang": "A."
@@ -7584,12 +7610,13 @@
         "lang": "K."
     },
     "jŭda": {
-        "form": "INVAR",
+        "form": "jŭda",
         "pos": "ADJV",
         "pos_context": [
             "ADJV",
             "ADVB"
         ],
+        "variable": "INVAR",
         "gloss": "separate",
         "entry": "ʾáwwa glās máttule jŭ̀da |  Put this glass aside; ʾánna məndiyáne jŭ̀dela |  These things are different.",
         "lang": "K."
@@ -8954,8 +8981,9 @@
         "lang": "K."
     },
     "kuvi": {
-        "form": "INVAR",
+        "form": "kuvi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "wild; shy (of company)",
         "entry": "ʾaw-yalúnka zòra |  kùvi-wewa |  The young child was shy (B17:3).",
         "lang": "K."
@@ -9672,8 +9700,9 @@
         "lang": "A."
     },
     "majbur": {
-        "form": "INVAR",
+        "form": "majbur",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "obliged; forced",
         "entry": "páyəš májbur béna xaráya šàte |  In the end it will be forced to drink (A12:47); píšɛle májbur ṣə̀lyɛle |  He had to dismount (A28:33); ʾáti májbur t-yàtli rə́sqi |  You will be obliged to give me my sustenance (A10:3).",
         "lang": "A."
@@ -9725,8 +9754,9 @@
         "entry": "Literally: the one that angers the magpies"
     },
     "makšūf": {
-        "form": "INVAR",
+        "form": "makšūf",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "uncovered",
         "lang": "A."
     },
@@ -9958,8 +9988,9 @@
         "lang": "K./A."
     },
     "maqlūb": {
-        "form": "INVAR",
+        "form": "maqlūb",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "reversed",
         "entry": "nále l-koðənyaθéy mə́xyəlla bə̀-l-maqlūb |  They put on the shoes of their mules back to front (B4:13)",
         "lang": "A."
@@ -9985,8 +10016,9 @@
         "gloss": "teacher"
     },
     "maqul": {
-        "form": "INVAR",
+        "form": "maqul",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "acceptable, respectable; fine",
         "entry": "wéləx hawnànta, |  b-ʾiqárət ṣáwθa basìmta, |  ʾu-màqul |  You have been clever, with the gift of sweet and fine words (A40:16)",
         "lang": "A."
@@ -10261,14 +10293,16 @@
         "gloss": "metal poker for fire; branding iron; frying pan"
     },
     "mašhūr": {
-        "form": "INVAR",
+        "form": "mašhūr",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "famous",
         "lang": "A."
     },
     "maši": {
-        "form": "INVAR",
+        "form": "maši",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "walking, on foot",
         "entry": "mášila zála də̀bba |  The bear was walking (A27:13)",
         "lang": "A."
@@ -10395,8 +10429,9 @@
         "lang": "K."
     },
     "mawjūd": {
-        "form": "INVAR",
+        "form": "mawjūd",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "existing, available",
         "lang": "A."
     },
@@ -11371,8 +11406,9 @@
         "lang": "A."
     },
     "muḥkəm": {
-        "form": "INVAR",
+        "form": "muḥkəm",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "solid, strong",
         "lang": "A."
     },
@@ -11411,8 +11447,9 @@
         "lang": "A."
     },
     "muntăð̣am": {
-        "form": "INVAR",
+        "form": "muntăð̣am",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "controlled",
         "lang": "A."
     },
@@ -11493,14 +11530,16 @@
         "lang": "A."
     },
     "muštărək": {
-        "form": "INVAR",
+        "form": "muštărək",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "participating",
         "lang": "A."
     },
     "muxtăləf": {
-        "form": "INVAR",
+        "form": "muxtăləf",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "different",
         "lang": "A."
     },
@@ -11670,8 +11709,9 @@
         "gloss": "ostrich"
     },
     "na-mumkən": {
-        "form": "INVAR",
+        "form": "na-mumkən",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "impossible",
         "entry": "ʾo-t-là páləx |  na-múmkən ṱ-áxəl gu-bɛ̀θi |  Whoever does not work cannot eat in my house (A21:40).",
         "lang": "K./A."
@@ -12893,8 +12933,9 @@
         "gloss": "thurible"
     },
     "p̭ərruš": {
-        "form": "INVAR",
+        "form": "p̭ərruš",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "treacherous, unfaithful",
         "entry": "m-o-kalbət p̭ərruš wele ṣlele rəš-kalləš klele xəmyanət Dalle bxele On account of that dog which was treacherous, which went down and stood over carrion, the father-in-law of Dalle wept (C8:9).",
         "lang": "K."
@@ -13465,8 +13506,9 @@
         "lang": "A."
     },
     "qahwayi": {
-        "form": "INVAR",
+        "form": "qahwayi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "brown"
     },
     "qala": {
@@ -13506,8 +13548,9 @@
         "gloss": "peal; rind"
     },
     "qăləs": {
-        "form": "INVAR",
+        "form": "qăləs",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "miserly",
         "lang": "K."
     },
@@ -14956,8 +14999,9 @@
         "lang": "A."
     },
     "raḥat": {
-        "form": "INVAR",
+        "form": "raḥat",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "comfortable, at ease, content",
         "entry": "ʾə́θyət ràḥat, |  ʾən-là? |  Have you had a comfortable journey? (A17:6); kúlla heywáne píšla ràḥat |  All the animals were content (A46:4); bàbi |  ràhat! |  My dear, be quiet, calm down (C7:6).",
         "lang": "K./A."
@@ -15111,8 +15155,9 @@
         "lang": "A."
     },
     "rasmi": {
-        "form": "INVAR",
+        "form": "rasmi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "official",
         "lang": "A."
     },
@@ -15859,8 +15904,9 @@
         "lang": "K."
     },
     "šărīf": {
-        "form": "INVAR",
+        "form": "šărīf",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "honourable, noble",
         "entry": "ʾáti rába šărīf-nàšət |  You are a very honourable person (A26:5).",
         "lang": "A."
@@ -15975,8 +16021,9 @@
         "entry": "used for gərðo stew"
     },
     "saxlam": {
-        "form": "INVAR",
+        "form": "saxlam",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "fit, healthy",
         "lang": "K."
     },
@@ -16244,8 +16291,9 @@
         "lang": "K."
     },
     "sərri": {
-        "form": "INVAR",
+        "form": "sərri",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "secret",
         "lang": "A."
     },
@@ -16429,8 +16477,9 @@
         "gloss": "quince"
     },
     "spay": {
-        "form": "INVAR",
+        "form": "spay",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "good, well.",
         "entry": "(1) good | hálli xa-súsa spày |  Give me a good horse (A12:62); bábux spày-našɛle, |  xàwrən-ile |  Your father is a good man, he is our friend (A14:61).; (2) well | ʾɛ́ne dìye |  píšela spày |  His eyes became well (A24:21); dàx-it? |  spày-in |  How are you? I am well. adv. well | qa-t-xáyən spáy ʾàxxa |  so that I can live well here (A3:3); qəm-awə́dle rába spày |  He did it very well.",
         "lang": "K."
@@ -17133,8 +17182,9 @@
         "gloss": "deacon"
     },
     "šambəs": {
-        "form": "INVAR",
+        "form": "šambəs",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "recalcitrant, frisky (mule)",
         "entry": "ʾáyya koðə́nta šàmbusila |  This mule is frisky."
     },
@@ -17343,8 +17393,9 @@
         "entry": "píšli bēl-šáta l-šəndùxta |  I have come between the plaster and the polishing stone (D2:24), i.e. I am done for."
     },
     "šaṭər": {
-        "form": "INVAR",
+        "form": "šaṭər",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "beautiful, handsome",
         "entry": "xa-bróna šàṭər |  a handsome son (A8:22)"
     },
@@ -17736,8 +17787,9 @@
         "entry": "This is a component of vegetables such as maše, faṣuliye, lubye, gasose."
     },
     "šənxurri": {
-        "form": "INVAR",
+        "form": "šənxurri",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "grey"
     },
     "šənθa": {
@@ -17920,8 +17972,9 @@
         "gloss": "sesame"
     },
     "škăra": {
-        "form": "INVAR",
+        "form": "škăra",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "clear, revealed; actual, real",
         "entry": "xə́zwa škằra wéwa |  It was a clear vision (A2:6); mṣáwəθ škằra! |  Speak clearly!; gu-lə́bbət gàne márəlla |  lɛ́le-marəlla škằra |  He says it to himself, he does not say it openly; lɛ̀le xə́lma, |  škằrɛla |  It is not a dream, it is real (A4:8); mə́ndi ṭə́šwa bət-páyəš škằra |  any hidden thing will be uncovered (A38:15).",
         "lang": "K."
@@ -17966,8 +18019,9 @@
         "entry": " šə́myəx b-šămáθə šə̀mmux |  We have heard about you (A12:12)."
     },
     "šor": {
-        "form": "INVAR",
+        "form": "šor",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "loose, haning down",
         "lang": "K."
     },
@@ -18382,8 +18436,9 @@
         "entry": "ʾu-xá-kepa muttɛ́θəlle tămàʾha |  She put a stone far away over there (A25:17); tu-tămàʾha! |  Sit way over there! (A25:17)."
     },
     "tăməz": {
-        "form": "INVAR",
+        "form": "tăməz",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "clean; clear",
         "entry": "ʾíθ dukáne tắməz y-áwa ṭla-zrùta |  There are places that are clear for sowing (B5:94).",
         "lang": "K."
@@ -18407,8 +18462,9 @@
         "gloss": "July"
     },
     "tăna": {
-        "form": "INVAR",
+        "form": "tăna",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "calm",
         "entry": "lə́bbi píšle tằna |  I was relieved",
         "lang": "K."
@@ -19692,8 +19748,9 @@
         "lang": "A."
     },
     "vərra": {
-        "form": "INVAR",
+        "form": "vərra",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "squint-eyed",
         "entry": "və̀rra píšle |  He became squint-eyed (A24:28)",
         "lang": "K."
@@ -19798,8 +19855,9 @@
         "lang": "K."
     },
     "wardi": {
-        "form": "INVAR",
+        "form": "wardi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "pink",
         "lang": "A."
     },
@@ -19936,8 +19994,9 @@
         "entry": "lɛ-ʾáθya mtanòye, |  xā́f náše šmàʾəllɛni |  It cannot be told, lest people hear us (A35:11)."
     },
     "xăfīf": {
-        "form": "INVAR",
+        "form": "xăfīf",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "light (in weight)",
         "lang": "A."
     },
@@ -19955,8 +20014,9 @@
         "entry": "xáli! Uncle! (vocative used to address men of an older generation irrespective of family relationship)"
     },
     "xălala": {
-        "form": "INVAR",
+        "form": "xălala",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "lawful, pure",
         "entry": "ʾáwwa bɛ́θa xălàla-wewa |  This house was pure (A15:18).",
         "lang": "A."
@@ -20188,8 +20248,9 @@
         "lang": "A."
     },
     "xărama": {
-        "form": "INVAR",
+        "form": "xărama",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "unlawful, villainous",
         "entry": "ʾáti xa-náša xăràmət |  You are a villainous person (A16:11)",
         "lang": "A."
@@ -20294,8 +20355,9 @@
         "gloss": "cover put over mouth of small animals when they are weaned to prevent them from sucking"
     },
     "xāṣ": {
-        "form": "INVAR",
+        "form": "xāṣ",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "special",
         "entry": "y-áwe mtúrṣa xāṣ-d-ó-məndi |  It is made specially for that thing (B5:193)",
         "lang": "A."
@@ -20454,8 +20516,9 @@
         "entry": "b-xàyele |  He is alive; kúlla záwni b-xáye ṱ-àwyən |  all the time I am alive (A4:43); bróni mìθɛle. |  šwíqəlla xáye bìyəx. |  My son is dead. He has left his life (which remained to him) to you. (A4:42)"
     },
     "xayən": {
-        "form": "INVAR",
+        "form": "xayən",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "treacherous",
         "lang": "A."
     },
@@ -20746,8 +20809,9 @@
         "gloss": "barefoot"
     },
     "xərba": {
-        "form": "INVAR",
+        "form": "xərba",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "bad"
     },
     "xərbayuθa": {
@@ -21214,8 +21278,9 @@
         "gloss": "step-daughter"
     },
     "xurət": {
-        "form": "INVAR",
+        "form": "xurət",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "strong, valiant",
         "entry": "ʾan-díyən wéla biš-xùrət |  Our (men) were stronger (B8:5).",
         "lang": "K."
@@ -21303,8 +21368,9 @@
         "gloss": "whitish"
     },
     "xwār-paθa": {
-        "form": "INVAR",
+        "form": "xwār-paθa",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "white-faced, innocent"
     },
     "xwār-paθuθa": {
@@ -21663,8 +21729,9 @@
         "gloss": "weight"
     },
     "zăbun": {
-        "form": "INVAR",
+        "form": "zăbun",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "weak; thin",
         "entry": "báxta xáčča zàbbun-ila |  a woman is rather weak (A10:12).",
         "lang": "K."
@@ -21713,8 +21780,9 @@
         "entry": "rába zamàra-wewa |  He was a fine singer (A25:43)."
     },
     "zamət": {
-        "form": "INVAR",
+        "form": "zamət",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "difficult",
         "entry": "zámətila wàðəlle |  It is difficult to do it; ʾə́n zámət lá-hawya ʾə̀llux |  hálli kθàwa |  If it is not difficult for you, give me the book (= Please give me the book).",
         "lang": "K."
@@ -21778,8 +21846,9 @@
         "lang": "K."
     },
     "žare.2": {
-        "form": "INVAR",
+        "form": "žare",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "poor, wretched",
         "entry": "ʾo-yála zóra žàre |  The young boy, poor thing (A14:12); žɛ́re Fàrxo |  ṱ-íwən ʾána b-hìwi díya |  Poor (me), Farxo, who am waiting in hope for her (A25:18)."
     },
@@ -21809,8 +21878,9 @@
         "gloss": "sheep skin boots (worn in Winter)"
     },
     "zărin": {
-        "form": "INVAR",
+        "form": "zărin",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "yellow",
         "lang": "K."
     },
@@ -22177,8 +22247,9 @@
         "entry": "truq ziqux! Wrap up well (literally: Button up the neck of your shirt); xóne b-zìqa |  his brother (who was as close to him as) the neck of his shirt (A32:26)."
     },
     "zirək": {
-        "form": "INVAR",
+        "form": "zirək",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "strong, courageous",
         "entry": "xákma doqíwale xúwwa qaṭlìwale. |  rába zirə̀k-wɛwa. |  Some grasped the snake and killed it. They were very courageous (B5:78).",
         "lang": "K."
@@ -22348,8 +22419,9 @@
         "entry": "zyáttət mìya |  increase in water, flood (B6:19)"
     },
     "ẓaləm": {
-        "form": "INVAR",
+        "form": "ẓaləm",
         "pos": "ADJV",
+        "variable": "INVAR",
         "gloss": "unjust, cruel",
         "lang": "A."
     },

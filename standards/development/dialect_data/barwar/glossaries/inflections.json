@@ -184,8 +184,9 @@
         "lex": "ʾajəbuθa"
     },
     {
-        "form": "INVAR",
+        "form": "ʾajib",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "ʾajib"
     },
     {
@@ -202,12 +203,13 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "ʾăkīd",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "ʾăkīd"
     },
     {
-        "form": "ʾal-",
+        "form": "ʾal",
         "pos": "PREP",
         "lex": "ʾal"
     },
@@ -605,8 +607,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "ʾaqall",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "ʾaqall"
     },
     {
@@ -850,7 +853,7 @@
         "lex": "ʾarbassər"
     },
     {
-        "form": "ʾarbaθn–",
+        "form": "ʾarbaθn",
         "pos": "NUMR",
         "lex": "ʾarbaθn"
     },
@@ -1083,8 +1086,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "ʾarzən",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "ʾarzən"
     },
     {
@@ -1146,8 +1150,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "ʾaṣi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "ʾaṣi"
     },
     {
@@ -1250,8 +1255,9 @@
         "lex": "ʾaṣl"
     },
     {
-        "form": "INVAR",
+        "form": "ʾaṣli",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "ʾaṣli"
     },
     {
@@ -1428,8 +1434,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "ʾavi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "ʾavi"
     },
     {
@@ -1615,8 +1622,9 @@
         "lex": "ʾaxči"
     },
     {
-        "form": "INVAR",
+        "form": "ʾaxḍar",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "ʾaxḍar"
     },
     {
@@ -2025,7 +2033,7 @@
         "lex": "ʾəč̣č̣assər"
     },
     {
-        "form": "ʾəč̣č̣aθn–",
+        "form": "ʾəč̣č̣aθn",
         "pos": "NUMR",
         "lex": "ʾəč̣č̣aθn"
     },
@@ -2380,7 +2388,7 @@
         "nu": "PL"
     },
     {
-        "form": "ʾəṣraθn–",
+        "form": "ʾəṣraθn",
         "pos": "NUMR",
         "lex": "ʾəṣraθn"
     },
@@ -2429,7 +2437,7 @@
         "lex": "ʾəštassər"
     },
     {
-        "form": "ʾəštaθn–",
+        "form": "ʾəštaθn",
         "pos": "NUMR",
         "lex": "ʾəštaθn"
     },
@@ -3064,8 +3072,9 @@
         "lex": "ʿabīd"
     },
     {
-        "form": "INVAR",
+        "form": "ʿadi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "ʿadi"
     },
     {
@@ -3122,8 +3131,9 @@
         "lex": "ʿărăbi"
     },
     {
-        "form": "INVAR",
+        "form": "ʿăṣăbi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "ʿăṣăbi"
     },
     {
@@ -3429,8 +3439,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "bălāš",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "bălāš"
     },
     {
@@ -4808,8 +4819,9 @@
         "lex": "be-təkke"
     },
     {
-        "form": "INVAR",
+        "form": "be-təlmən",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "be-təlmən"
     },
     {
@@ -4931,7 +4943,7 @@
         "nu": "PL"
     },
     {
-        "form": "be-",
+        "form": "be",
         "pos": "NOUN",
         "gn": "M",
         "lex": "bɛθa",
@@ -5431,13 +5443,15 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "bəṛ-ʿăqəl",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "bəṛ-ʿăqəl"
     },
     {
-        "form": "INVAR",
+        "form": "be-saruber",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "be-saruber"
     },
     {
@@ -5875,8 +5889,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "boš",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "boš"
     },
     {
@@ -6087,8 +6102,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "brindar",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "brindar"
     },
     {
@@ -6635,8 +6651,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "čallaq",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "čallaq"
     },
     {
@@ -7299,12 +7316,12 @@
         "nu": "PL"
     },
     {
-        "form": "č̭ənnək̭ɛr-",
+        "form": "č̭ənnək̭ɛr",
         "pos": "PREP",
         "lex": "č̭ənnək̭ɛr"
     },
     {
-        "form": "č̭ənnək̭ar-",
+        "form": "č̭ənnək̭ar",
         "pos": "PREP",
         "lex": "č̭ənnək̭ɛr"
     },
@@ -8386,18 +8403,21 @@
         "lex": "dekonta"
     },
     {
-        "form": "INVAR",
+        "form": "dēm",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "dēm"
     },
     {
-        "form": "INVAR",
+        "form": "demi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "dēm"
     },
     {
-        "form": "INVAR",
+        "form": "dema",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "dēm"
     },
     {
@@ -8563,12 +8583,12 @@
         "nu": "PL"
     },
     {
-        "form": "də-",
+        "form": "də",
         "pos": "PART",
         "lex": "də"
     },
     {
-        "form": "de-",
+        "form": "de",
         "pos": "PART",
         "lex": "də"
     },
@@ -8991,7 +9011,7 @@
         "lex": "diwənxana"
     },
     {
-        "form": "diy–",
+        "form": "diy",
         "pos": "PART",
         "lex": "diy"
     },
@@ -10381,8 +10401,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "gărən",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "gărən"
     },
     {
@@ -12083,8 +12104,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "gurj",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "gurj"
     },
     {
@@ -12467,8 +12489,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "ḥaqiqi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "ḥaqiqi"
     },
     {
@@ -12777,18 +12800,21 @@
         "lex": "haymanuθa"
     },
     {
-        "form": "INVAR",
+        "form": "hazər",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "hazər"
     },
     {
-        "form": "INVAR",
+        "form": "haẓər",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "hazər"
     },
     {
-        "form": "INVAR",
+        "form": "hað̣ər",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "hazər"
     },
     {
@@ -12891,8 +12917,9 @@
         "lex": "həšše"
     },
     {
-        "form": "INVAR",
+        "form": "həšyər",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "həšyər"
     },
     {
@@ -13252,13 +13279,15 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "ḥărām",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "ḥărām"
     },
     {
-        "form": "INVAR",
+        "form": "hărām",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "ḥărām"
     },
     {
@@ -13305,8 +13334,9 @@
         "lex": "ḥaṣəl"
     },
     {
-        "form": "INVAR",
+        "form": "ḥăšīm",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "ḥăšīm"
     },
     {
@@ -13345,8 +13375,9 @@
         "lex": "ḥukma"
     },
     {
-        "form": "INVAR",
+        "form": "ḥur",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "ḥur"
     },
     {
@@ -13948,12 +13979,13 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "jŭda",
         "pos": "ADJV",
         "pos_context": [
             "ADJV",
             "ADVB"
         ],
+        "variable": "INVAR",
         "lex": "jŭda"
     },
     {
@@ -14131,7 +14163,7 @@
         "nu": "PL"
     },
     {
-        "form": "ka-",
+        "form": "ka",
         "pos": "PART",
         "lex": "ka"
     },
@@ -16470,8 +16502,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "kuvi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "kuvi"
     },
     {
@@ -17716,8 +17749,9 @@
         "lex": "măjāl"
     },
     {
-        "form": "INVAR",
+        "form": "majbur",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "majbur"
     },
     {
@@ -17841,8 +17875,9 @@
         "lex": "makrəb č̭uč̭ane"
     },
     {
-        "form": "INVAR",
+        "form": "makšūf",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "makšūf"
     },
     {
@@ -18271,8 +18306,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "maqlūb",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "maqlūb"
     },
     {
@@ -18342,8 +18378,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "maqul",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "maqul"
     },
     {
@@ -18884,12 +18921,12 @@
         "nu": "PL"
     },
     {
-        "form": "marzaban–",
+        "form": "marzaban",
         "pos": "PREP",
         "lex": "marzaban"
     },
     {
-        "form": "marzavan-",
+        "form": "marzavan",
         "pos": "PREP",
         "lex": "marzaban"
     },
@@ -18989,13 +19026,15 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "mašhūr",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "mašhūr"
     },
     {
-        "form": "INVAR",
+        "form": "maši",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "maši"
     },
     {
@@ -19178,8 +19217,9 @@
         "lex": "mawəlka"
     },
     {
-        "form": "INVAR",
+        "form": "mawjūd",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "mawjūd"
     },
     {
@@ -21031,8 +21071,9 @@
         "lex": "muhəmma"
     },
     {
-        "form": "INVAR",
+        "form": "muḥkəm",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "muḥkəm"
     },
     {
@@ -21072,8 +21113,9 @@
         "lex": "mŭnawăra"
     },
     {
-        "form": "INVAR",
+        "form": "muntăð̣am",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "muntăð̣am"
     },
     {
@@ -21192,13 +21234,15 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "muštărək",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "muštărək"
     },
     {
-        "form": "INVAR",
+        "form": "muxtăləf",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "muxtăləf"
     },
     {
@@ -21489,8 +21533,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "na-mumkən",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "na-mumkən"
     },
     {
@@ -24000,8 +24045,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "p̭ərruš",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "p̭ərruš"
     },
     {
@@ -25087,8 +25133,9 @@
         "lex": "qăhər"
     },
     {
-        "form": "INVAR",
+        "form": "qahwayi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "qahwayi"
     },
     {
@@ -25149,8 +25196,9 @@
         "lex": "qaləpθa"
     },
     {
-        "form": "INVAR",
+        "form": "qăləs",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "qăləs"
     },
     {
@@ -25316,7 +25364,7 @@
         "lex": "qa-mó"
     },
     {
-        "form": "qamoθ-",
+        "form": "qamoθ",
         "pos": "PREP",
         "lex": "qamoθ"
     },
@@ -26683,7 +26731,7 @@
         "nu": "PL"
     },
     {
-        "form": "qəm-",
+        "form": "qəm",
         "pos": "PART",
         "lex": "qəm"
     },
@@ -28125,13 +28173,15 @@
         "lex": "răhan"
     },
     {
-        "form": "INVAR",
+        "form": "raḥat",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "raḥat"
     },
     {
-        "form": "INVAR",
+        "form": "rahat",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "raḥat"
     },
     {
@@ -28489,8 +28539,9 @@
         "lex": "rasən"
     },
     {
-        "form": "INVAR",
+        "form": "rasmi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "rasmi"
     },
     {
@@ -29952,8 +30003,9 @@
         "lex": "sar-gera"
     },
     {
-        "form": "INVAR",
+        "form": "šărīf",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "šărīf"
     },
     {
@@ -30179,8 +30231,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "saxlam",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "saxlam"
     },
     {
@@ -30630,8 +30683,9 @@
         "lex": "sərra"
     },
     {
-        "form": "INVAR",
+        "form": "sərri",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "sərri"
     },
     {
@@ -30961,8 +31015,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "spay",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "spay"
     },
     {
@@ -32329,8 +32384,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "šambəs",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "šambəs"
     },
     {
@@ -32763,8 +32819,9 @@
         "lex": "šata"
     },
     {
-        "form": "INVAR",
+        "form": "šaṭər",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "šaṭər"
     },
     {
@@ -32860,7 +32917,7 @@
         "gn": "F"
     },
     {
-        "form": "šawwaθn–",
+        "form": "šawwaθn",
         "pos": "NUMR",
         "lex": "šawwaθn"
     },
@@ -33557,8 +33614,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "šənxurri",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "šənxurri"
     },
     {
@@ -33831,13 +33889,15 @@
         "lex": "šišme"
     },
     {
-        "form": "INVAR",
+        "form": "škăra",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "škăra"
     },
     {
-        "form": "INVAR",
+        "form": "ʾəškăra",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "škăra"
     },
     {
@@ -33923,8 +33983,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "šor",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "šor"
     },
     {
@@ -34742,8 +34803,9 @@
         "lex": "tămaʾha"
     },
     {
-        "form": "INVAR",
+        "form": "tăməz",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "tăməz"
     },
     {
@@ -34764,8 +34826,9 @@
         "lex": "tamuz"
     },
     {
-        "form": "INVAR",
+        "form": "tăna",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "tăna"
     },
     {
@@ -35452,7 +35515,7 @@
         "lex": "tərða"
     },
     {
-        "form": "tərwəθ–",
+        "form": "tərwəθ",
         "pos": "NUMR",
         "lex": "tərwəθ"
     },
@@ -35593,7 +35656,7 @@
         "gn": "F"
     },
     {
-        "form": "tmanyaθn–",
+        "form": "tmanyaθn",
         "pos": "NUMR",
         "lex": "tmanyaθn"
     },
@@ -35677,7 +35740,7 @@
         "lex": "trapθa"
     },
     {
-        "form": "traθn–",
+        "form": "traθn",
         "pos": "NUMR",
         "lex": "traθn"
     },
@@ -35988,7 +36051,7 @@
         "nu": "PL"
     },
     {
-        "form": "txo-",
+        "form": "txo",
         "pos": "PREP",
         "lex": "txo"
     },
@@ -37023,7 +37086,7 @@
         "lex": "ṭḷaθi"
     },
     {
-        "form": "ṭḷaθn–",
+        "form": "ṭḷaθn",
         "pos": "NUMR",
         "lex": "ṭḷaθn"
     },
@@ -37302,8 +37365,9 @@
         "lex": "θlaθa"
     },
     {
-        "form": "INVAR",
+        "form": "vərra",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "vərra"
     },
     {
@@ -37312,7 +37376,7 @@
         "lex": "w"
     },
     {
-        "form": "ʾu-",
+        "form": "ʾu",
         "pos": "PART",
         "lex": "w"
     },
@@ -37460,8 +37524,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "wardi",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "wardi"
     },
     {
@@ -37747,8 +37812,9 @@
         "lex": "xāf"
     },
     {
-        "form": "INVAR",
+        "form": "xăfīf",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "xăfīf"
     },
     {
@@ -37775,13 +37841,15 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "xălala",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "xălala"
     },
     {
-        "form": "INVAR",
+        "form": "ḥălāl",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "xălala"
     },
     {
@@ -37981,7 +38049,7 @@
         "lex": "xamšassər"
     },
     {
-        "form": "xamšaθn–",
+        "form": "xamšaθn",
         "pos": "NUMR",
         "lex": "xamšaθn"
     },
@@ -38211,8 +38279,9 @@
         "lex": "xăraba"
     },
     {
-        "form": "INVAR",
+        "form": "xărama",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "xărama"
     },
     {
@@ -38401,8 +38470,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "xāṣ",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "xāṣ"
     },
     {
@@ -38700,8 +38770,9 @@
         "lex": "xaye"
     },
     {
-        "form": "INVAR",
+        "form": "xayən",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "xayən"
     },
     {
@@ -39293,8 +39364,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "xərba",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "xərba"
     },
     {
@@ -39740,17 +39812,17 @@
         "lex": "xmira"
     },
     {
-        "form": "xo-",
+        "form": "xo",
         "pos": "PART",
         "lex": "xo"
     },
     {
-        "form": "xu-",
+        "form": "xu",
         "pos": "PART",
         "lex": "xo"
     },
     {
-        "form": "xoð-",
+        "form": "xoð",
         "pos": "PRON",
         "lex": "xoð"
     },
@@ -40088,8 +40160,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "xurət",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "xurət"
     },
     {
@@ -40336,8 +40409,9 @@
         "nu": "PL"
     },
     {
-        "form": "INVAR",
+        "form": "xwār-paθa",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "xwār-paθa"
     },
     {
@@ -41135,13 +41209,15 @@
         "lex": "yuqra"
     },
     {
-        "form": "INVAR",
+        "form": "zăbun",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "zăbun"
     },
     {
-        "form": "INVAR",
+        "form": "zabbun",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "zăbun"
     },
     {
@@ -41208,8 +41284,9 @@
         "lex": "zamara"
     },
     {
-        "form": "INVAR",
+        "form": "zamət",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "zamət"
     },
     {
@@ -41309,13 +41386,15 @@
         "lex": "žare"
     },
     {
-        "form": "INVAR",
+        "form": "žare",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "žare.2"
     },
     {
-        "form": "INVAR",
+        "form": "žɛre",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "žare.2"
     },
     {
@@ -41363,8 +41442,9 @@
         "lex": "zargule"
     },
     {
-        "form": "INVAR",
+        "form": "zărin",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "zărin"
     },
     {
@@ -41987,8 +42067,9 @@
         "lex": "ziqa"
     },
     {
-        "form": "INVAR",
+        "form": "zirək",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "zirək"
     },
     {
@@ -42262,8 +42343,9 @@
         "lex": "zyatta"
     },
     {
-        "form": "INVAR",
+        "form": "ẓaləm",
         "pos": "ADJV",
+        "variable": "INVAR",
         "lex": "ẓaləm"
     },
     {
