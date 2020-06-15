@@ -1,6 +1,6 @@
 # Corrections to Source Data
 
-VERS="../0.01'
+VERS="/Users/cody/github/CambridgeSemiticsLab/nena_corpus/texts/0.01'
 
 # Add missing line number 
 FILE="$VERS/Barwar/Measure for Measure.nena"
