@@ -1,0 +1,4635 @@
+[
+  {
+    "dialect": "Barwar",
+    "title": "The Leliθa From č̭āl",
+    "encoding": "UTF8",
+    "source": "bar text a19-A23.html",
+    "text_id": "A19",
+    "place": "Dure",
+    "speakers": {
+      "Dʾ": "Dawið ʾAdam"
+    }
+  },
+  [
+    [
+      {
+        "number": "1",
+        "speaker": "Dawið ʾAdam",
+        "words": [
+          {
+            "word": "hadìya",
+            "letters": [
+              "h",
+              "a",
+              "d",
+              "ì",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾíθwa",
+            "letters": [
+              "ʾ",
+              "í",
+              "θ",
+              "w",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "xa",
+            "letters": [
+              "x",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "Lelíθa",
+            "letters": [
+              "L",
+              "e",
+              "l",
+              "í",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "θíθa",
+            "letters": [
+              "θ",
+              "í",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "mən",
+            "letters": [
+              "m",
+              "ə",
+              "n"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "Č̭ā̀l",
+            "letters": [
+              "Č̭",
+              "ā̀",
+              "l"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "θéla",
+            "letters": [
+              "θ",
+              "é",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ṣlèla",
+            "letters": [
+              "ṣ",
+              "l",
+              "è",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "l",
+            "letters": [
+              "l"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "ʾárxət",
+            "letters": [
+              "ʾ",
+              "á",
+              "r",
+              "x",
+              "ə",
+              "t"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "be",
+            "letters": [
+              "b",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "Xàmmo",
+            "letters": [
+              "X",
+              "à",
+              "m",
+              "m",
+              "o"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "xa",
+            "letters": [
+              "x",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "náša",
+            "letters": [
+              "n",
+              "á",
+              "š",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ʾíθwale",
+            "letters": [
+              "ʾ",
+              "í",
+              "θ",
+              "w",
+              "a",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ʾàrxe",
+            "letters": [
+              "ʾ",
+              "à",
+              "r",
+              "x",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "šə́mme",
+            "letters": [
+              "š",
+              "ə́",
+              "m",
+              "m",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "díye",
+            "letters": [
+              "d",
+              "í",
+              "y",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "Xàmmo",
+            "letters": [
+              "X",
+              "à",
+              "m",
+              "m",
+              "o"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "wewa",
+            "letters": [
+              "w",
+              "e",
+              "w",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾíθwale",
+            "letters": [
+              "ʾ",
+              "í",
+              "θ",
+              "w",
+              "a",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "kàlθa",
+            "letters": [
+              "k",
+              "à",
+              "l",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾíθwale",
+            "letters": [
+              "ʾ",
+              "í",
+              "θ",
+              "w",
+              "a",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "bnòne",
+            "letters": [
+              "b",
+              "n",
+              "ò",
+              "n",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾáyya",
+            "letters": [
+              "ʾ",
+              "á",
+              "y",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ṣlèla",
+            "letters": [
+              "ṣ",
+              "l",
+              "è",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "dréla",
+            "letters": [
+              "d",
+              "r",
+              "é",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "šláma",
+            "letters": [
+              "š",
+              "l",
+              "á",
+              "m",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ʾəllèy",
+            "letters": [
+              "ʾ",
+              "ə",
+              "l",
+              "l",
+              "è",
+              "y"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "mə́ra",
+            "letters": [
+              "m",
+              "ə́",
+              "r",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "šlàma",
+            "letters": [
+              "š",
+              "l",
+              "à",
+              "m",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ʾəllɛ́xu",
+            "letters": [
+              "ʾ",
+              "ə",
+              "l",
+              "l",
+              "ɛ́",
+              "x",
+              "u"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾax",
+            "letters": [
+              "ʾ",
+              "a",
+              "x"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "nàša",
+            "letters": [
+              "n",
+              "à",
+              "š",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ṣléla",
+            "letters": [
+              "ṣ",
+              "l",
+              "é",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "dréla",
+            "letters": [
+              "d",
+              "r",
+              "é",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "šlàma",
+            "letters": [
+              "š",
+              "l",
+              "à",
+              "m",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "mə́re",
+            "letters": [
+              "m",
+              "ə́",
+              "r",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "b",
+            "letters": [
+              "b"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "šɛ́na",
+            "letters": [
+              "š",
+              "ɛ́",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "b",
+            "letters": [
+              "b"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "ṭawàθa",
+            "letters": [
+              "ṭ",
+              "a",
+              "w",
+              "à",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "words": [
+          {
+            "word": "dríθa",
+            "letters": [
+              "d",
+              "r",
+              "í",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "xə̀ppo",
+            "letters": [
+              "x",
+              "ə̀",
+              "p",
+              "p",
+              "o"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "b",
+            "letters": [
+              "b"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "réša",
+            "letters": [
+              "r",
+              "é",
+              "š",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "bás",
+            "letters": [
+              "b",
+              "á",
+              "s"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ṭəppəryáθa",
+            "letters": [
+              "ṭ",
+              "ə",
+              "p",
+              "p",
+              "ə",
+              "r",
+              "y",
+              "á",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "qəm",
+            "letters": [
+              "q",
+              "ə",
+              "m"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "xazyàla",
+            "letters": [
+              "x",
+              "a",
+              "z",
+              "y",
+              "à",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "kálθa",
+            "letters": [
+              "k",
+              "á",
+              "l",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ṭəppəryáθət",
+            "letters": [
+              "ṭ",
+              "ə",
+              "p",
+              "p",
+              "ə",
+              "r",
+              "y",
+              "á",
+              "θ",
+              "ə",
+              "t"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "heywàne",
+            "letters": [
+              "h",
+              "e",
+              "y",
+              "w",
+              "à",
+              "n",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "də̀bba",
+            "letters": [
+              "d",
+              "ə̀",
+              "b",
+              "b",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "qəm",
+            "letters": [
+              "q",
+              "ə",
+              "m"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "xazyàla",
+            "letters": [
+              "x",
+              "a",
+              "z",
+              "y",
+              "à",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "šuréla",
+            "letters": [
+              "š",
+              "u",
+              "r",
+              "é",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "mṣawòθe",
+            "letters": [
+              "m",
+              "ṣ",
+              "a",
+              "w",
+              "ò",
+              "θ",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "hátxa",
+            "letters": [
+              "h",
+              "á",
+              "t",
+              "x",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ṱ",
+            "letters": [
+              "ṱ"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "ix",
+            "letters": [
+              "i",
+              "x"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "mṣawóθe",
+            "letters": [
+              "m",
+              "ṣ",
+              "a",
+              "w",
+              "ó",
+              "θ",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ʾàxni",
+            "letters": [
+              "ʾ",
+              "à",
+              "x",
+              "n",
+              "i"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "mə́ra",
+            "letters": [
+              "m",
+              "ə́",
+              "r",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ʾána",
+            "letters": [
+              "ʾ",
+              "á",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "báxtət",
+            "letters": [
+              "b",
+              "á",
+              "x",
+              "t",
+              "ə",
+              "t"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ʾáġət",
+            "letters": [
+              "ʾ",
+              "á",
+              "ġ",
+              "ə",
+              "t"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "Č̭ā̀l",
+            "letters": [
+              "Č̭",
+              "ā̀",
+              "l"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "iwən",
+            "letters": [
+              "i",
+              "w",
+              "ə",
+              "n"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾáyya",
+            "letters": [
+              "ʾ",
+              "á",
+              "y",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "xmáθa",
+            "letters": [
+              "x",
+              "m",
+              "á",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "díya",
+            "letters": [
+              "d",
+              "í",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "homə̀nna",
+            "letters": [
+              "h",
+              "o",
+              "m",
+              "ə̀",
+              "n",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "xəmyána",
+            "letters": [
+              "x",
+              "ə",
+              "m",
+              "y",
+              "á",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "homə̀nne",
+            "letters": [
+              "h",
+              "o",
+              "m",
+              "ə̀",
+              "n",
+              "n",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "bróna",
+            "letters": [
+              "b",
+              "r",
+              "ó",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "homə̀nne",
+            "letters": [
+              "h",
+              "o",
+              "m",
+              "ə̀",
+              "n",
+              "n",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "kúlla",
+            "letters": [
+              "k",
+              "ú",
+              "l",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "homə̀nna",
+            "letters": [
+              "h",
+              "o",
+              "m",
+              "ə̀",
+              "n",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "kálθa",
+            "letters": [
+              "k",
+              "á",
+              "l",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "là",
+            "letters": [
+              "l",
+              "à"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "homə́nna",
+            "letters": [
+              "h",
+              "o",
+              "m",
+              "ə́",
+              "n",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾítla",
+            "letters": [
+              "ʾ",
+              "í",
+              "t",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ṭḷà",
+            "letters": [
+              "ṭ",
+              "ḷ",
+              "à"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "bnone",
+            "letters": [
+              "b",
+              "n",
+              "o",
+              "n",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          }
+        ],
+        "speaker": "Dawið ʾAdam"
+      },
+      {
+        "number": "3",
+        "words": [
+          {
+            "word": "wítɛla",
+            "letters": [
+              "w",
+              "í",
+              "t",
+              "ɛ",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "b",
+            "letters": [
+              "b"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "lɛ̀le",
+            "letters": [
+              "l",
+              "ɛ̀",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "dána",
+            "letters": [
+              "d",
+              "á",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "t",
+            "letters": [
+              "t"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "dmàxa",
+            "letters": [
+              "d",
+              "m",
+              "à",
+              "x",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "xílela",
+            "letters": [
+              "x",
+              "í",
+              "l",
+              "e",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "mə̀ndi",
+            "letters": [
+              "m",
+              "ə̀",
+              "n",
+              "d",
+              "i"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "wítɛla",
+            "letters": [
+              "w",
+              "í",
+              "t",
+              "ɛ",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "dána",
+            "letters": [
+              "d",
+              "á",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "t",
+            "letters": [
+              "t"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "dmàxa",
+            "letters": [
+              "d",
+              "m",
+              "à",
+              "x",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "xəmmə̀rθa",
+            "letters": [
+              "x",
+              "ə",
+              "m",
+              "m",
+              "ə̀",
+              "r",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "xəmmə́rθə",
+            "letters": [
+              "x",
+              "ə",
+              "m",
+              "m",
+              "ə́",
+              "r",
+              "θ",
+              "ə"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "šə̀nθa",
+            "letters": [
+              "š",
+              "ə̀",
+              "n",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "šqìltəlla",
+            "letters": [
+              "š",
+              "q",
+              "ì",
+              "l",
+              "t",
+              "ə",
+              "l",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "muttɛ́θəlla",
+            "letters": [
+              "m",
+              "u",
+              "t",
+              "t",
+              "ɛ́",
+              "θ",
+              "ə",
+              "l",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "rəš",
+            "letters": [
+              "r",
+              "ə",
+              "š"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "ṣádrət",
+            "letters": [
+              "ṣ",
+              "á",
+              "d",
+              "r",
+              "ə",
+              "t"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "xmáθa",
+            "letters": [
+              "x",
+              "m",
+              "á",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "dìya",
+            "letters": [
+              "d",
+              "ì",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾu",
+            "letters": [
+              "ʾ",
+              "u"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "kálθa",
+            "letters": [
+              "k",
+              "á",
+              "l",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "díya",
+            "letters": [
+              "d",
+              "í",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ðìla",
+            "letters": [
+              "ð",
+              "ì",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "kálθa",
+            "letters": [
+              "k",
+              "á",
+              "l",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "díya",
+            "letters": [
+              "d",
+              "í",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ðìla",
+            "letters": [
+              "ð",
+              "ì",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "gu",
+            "letters": [
+              "g",
+              "u"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "šwìθa",
+            "letters": [
+              "š",
+              "w",
+              "ì",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ðìla",
+            "letters": [
+              "ð",
+              "ì",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "bíya",
+            "letters": [
+              "b",
+              "í",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "díya",
+            "letters": [
+              "d",
+              "í",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "qímtɛla",
+            "letters": [
+              "q",
+              "í",
+              "m",
+              "t",
+              "ɛ",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "šqíltɛla",
+            "letters": [
+              "š",
+              "q",
+              "í",
+              "l",
+              "t",
+              "ɛ",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "xa",
+            "letters": [
+              "x",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "bròna",
+            "letters": [
+              "b",
+              "r",
+              "ò",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾu",
+            "letters": [
+              "ʾ",
+              "u"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "nobàltəlle",
+            "letters": [
+              "n",
+              "o",
+              "b",
+              "à",
+              "l",
+              "t",
+              "ə",
+              "l",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ta",
+            "letters": [
+              "t",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "ṱ",
+            "letters": [
+              "ṱ"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "axlàle",
+            "letters": [
+              "a",
+              "x",
+              "l",
+              "à",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "muttɛ́θəlle",
+            "letters": [
+              "m",
+              "u",
+              "t",
+              "t",
+              "ɛ́",
+              "θ",
+              "ə",
+              "l",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "rə̀ḥqa",
+            "letters": [
+              "r",
+              "ə̀",
+              "ḥ",
+              "q",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "mən",
+            "letters": [
+              "m",
+              "ə",
+              "n"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "màθa",
+            "letters": [
+              "m",
+              "à",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          }
+        ],
+        "speaker": "Dawið ʾAdam"
+      },
+      {
+        "number": "4",
+        "words": [
+          {
+            "word": "ʾu",
+            "letters": [
+              "ʾ",
+              "u"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "ʾáyya",
+            "letters": [
+              "ʾ",
+              "á",
+              "y",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "gu",
+            "letters": [
+              "g",
+              "u"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "dyàṛta",
+            "letters": [
+              "d",
+              "y",
+              "à",
+              "ṛ",
+              "t",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "mòdi",
+            "letters": [
+              "m",
+              "ò",
+              "d",
+              "i"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "wídla",
+            "letters": [
+              "w",
+              "í",
+              "d",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "?",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "qìmla",
+            "letters": [
+              "q",
+              "ì",
+              "m",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "qəm",
+            "letters": [
+              "q",
+              "ə",
+              "m"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "ʾač̣màle",
+            "letters": [
+              "ʾ",
+              "a",
+              "č̣",
+              "m",
+              "à",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "tắra",
+            "letters": [
+              "t",
+              "ắ",
+              "r",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾu",
+            "letters": [
+              "ʾ",
+              "u"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "b",
+            "letters": [
+              "b"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "pálgət",
+            "letters": [
+              "p",
+              "á",
+              "l",
+              "g",
+              "ə",
+              "t"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "bɛ́θa",
+            "letters": [
+              "b",
+              "ɛ́",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "wídla",
+            "letters": [
+              "w",
+              "í",
+              "d",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "nùra",
+            "letters": [
+              "n",
+              "ù",
+              "r",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾánna",
+            "letters": [
+              "ʾ",
+              "á",
+              "n",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "t",
+            "letters": [
+              "t"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ʾárxe",
+            "letters": [
+              "ʾ",
+              "á",
+              "r",
+              "x",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "har",
+            "letters": [
+              "h",
+              "a",
+              "r"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "y",
+            "letters": [
+              "y"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "oðíwa",
+            "letters": [
+              "o",
+              "ð",
+              "í",
+              "w",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "nùra",
+            "letters": [
+              "n",
+              "ù",
+              "r",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "gu",
+            "letters": [
+              "g",
+              "u"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "bɛ́θa",
+            "letters": [
+              "b",
+              "ɛ́",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "šíšət",
+            "letters": [
+              "š",
+              "í",
+              "š",
+              "ə",
+              "t"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "prə̀zla",
+            "letters": [
+              "p",
+              "r",
+              "ə̀",
+              "z",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "t",
+            "letters": [
+              "t"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "ʾə̀rxe",
+            "letters": [
+              "ʾ",
+              "ə̀",
+              "r",
+              "x",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "qəm",
+            "letters": [
+              "q",
+              "ə",
+              "m"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "mattála",
+            "letters": [
+              "m",
+              "a",
+              "t",
+              "t",
+              "á",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "kúlla",
+            "letters": [
+              "k",
+              "ú",
+              "l",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "gu",
+            "letters": [
+              "g",
+              "u"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "nùra",
+            "letters": [
+              "n",
+              "ù",
+              "r",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾu",
+            "letters": [
+              "ʾ",
+              "u"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "ʾɛ",
+            "letters": [
+              "ʾ",
+              "ɛ"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "Lelíθa",
+            "letters": [
+              "L",
+              "e",
+              "l",
+              "í",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "θèla",
+            "letters": [
+              "θ",
+              "è",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾáy",
+            "letters": [
+              "ʾ",
+              "á",
+              "y"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "kúlla",
+            "letters": [
+              "k",
+              "ú",
+              "l",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "dònɛla",
+            "letters": [
+              "d",
+              "ò",
+              "n",
+              "ɛ",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "dòna",
+            "letters": [
+              "d",
+              "ò",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "mə̀šxa",
+            "letters": [
+              "m",
+              "ə̀",
+              "š",
+              "x",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾína",
+            "letters": [
+              "ʾ",
+              "í",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "θéla",
+            "letters": [
+              "θ",
+              "é",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "l",
+            "letters": [
+              "l"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "tằra",
+            "letters": [
+              "t",
+              "ằ",
+              "r",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          }
+        ],
+        "speaker": "Dawið ʾAdam"
+      },
+      {
+        "number": "5",
+        "words": [
+          {
+            "word": "mattóyəlla",
+            "letters": [
+              "m",
+              "a",
+              "t",
+              "t",
+              "ó",
+              "y",
+              "ə",
+              "l",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ʾíða",
+            "letters": [
+              "ʾ",
+              "í",
+              "ð",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "pθáxa",
+            "letters": [
+              "p",
+              "θ",
+              "á",
+              "x",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "tằra",
+            "letters": [
+              "t",
+              "ằ",
+              "r",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "qəm",
+            "letters": [
+              "q",
+              "ə",
+              "m"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "maxyála",
+            "letters": [
+              "m",
+              "a",
+              "x",
+              "y",
+              "á",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ʾáyya",
+            "letters": [
+              "ʾ",
+              "á",
+              "y",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "prə̀zla",
+            "letters": [
+              "p",
+              "r",
+              "ə̀",
+              "z",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "l",
+            "letters": [
+              "l"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "ʾíða",
+            "letters": [
+              "ʾ",
+              "í",
+              "ð",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "díya",
+            "letters": [
+              "d",
+              "í",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "qəm",
+            "letters": [
+              "q",
+              "ə",
+              "m"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "maqðàla",
+            "letters": [
+              "m",
+              "a",
+              "q",
+              "ð",
+              "à",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "kúlla",
+            "letters": [
+              "k",
+              "ú",
+              "l",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "mə́šxa",
+            "letters": [
+              "m",
+              "ə́",
+              "š",
+              "x",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ṣléle",
+            "letters": [
+              "ṣ",
+              "l",
+              "é",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "m",
+            "letters": [
+              "m"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "tàma",
+            "letters": [
+              "t",
+              "à",
+              "m",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "šuréla",
+            "letters": [
+              "š",
+              "u",
+              "r",
+              "é",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "šmáṭa",
+            "letters": [
+              "š",
+              "m",
+              "á",
+              "ṭ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "tằra",
+            "letters": [
+              "t",
+              "ằ",
+              "r",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "là",
+            "letters": [
+              "l",
+              "à"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "mṣéla",
+            "letters": [
+              "m",
+              "ṣ",
+              "é",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          }
+        ],
+        "speaker": "Dawið ʾAdam"
+      },
+      {
+        "number": "6",
+        "words": [
+          {
+            "word": "síqla",
+            "letters": [
+              "s",
+              "í",
+              "q",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "l",
+            "letters": [
+              "l"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "gàre",
+            "letters": [
+              "g",
+              "à",
+              "r",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾíθwa",
+            "letters": [
+              "ʾ",
+              "í",
+              "θ",
+              "w",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "bòya",
+            "letters": [
+              "b",
+              "ò",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "šuréla",
+            "letters": [
+              "š",
+              "u",
+              "r",
+              "é",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "xrìṭla",
+            "letters": [
+              "x",
+              "r",
+              "ì",
+              "ṭ",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ṣlèla",
+            "letters": [
+              "ṣ",
+              "l",
+              "è",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "pálga",
+            "letters": [
+              "p",
+              "á",
+              "l",
+              "g",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ṣlèla",
+            "letters": [
+              "ṣ",
+              "l",
+              "è",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "pálga",
+            "letters": [
+              "p",
+              "á",
+              "l",
+              "g",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "pìšla",
+            "letters": [
+              "p",
+              "ì",
+              "š",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾu",
+            "letters": [
+              "ʾ",
+              "u"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "ʾáyya",
+            "letters": [
+              "ʾ",
+              "á",
+              "y",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "har",
+            "letters": [
+              "h",
+              "a",
+              "r"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "šaqláwa",
+            "letters": [
+              "š",
+              "a",
+              "q",
+              "l",
+              "á",
+              "w",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "mən",
+            "letters": [
+              "m",
+              "ə",
+              "n"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "d",
+            "letters": [
+              "d"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "àn",
+            "letters": [
+              "à",
+              "n"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "šíše",
+            "letters": [
+              "š",
+              "í",
+              "š",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "mattàwa",
+            "letters": [
+              "m",
+              "a",
+              "t",
+              "t",
+              "à",
+              "w",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾə́lla",
+            "letters": [
+              "ʾ",
+              "ə́",
+              "l",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "dìya",
+            "letters": [
+              "d",
+              "ì",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "hál",
+            "letters": [
+              "h",
+              "á",
+              "l"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ʾɛ́",
+            "letters": [
+              "ʾ",
+              "ɛ́"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "gət",
+            "letters": [
+              "g",
+              "ə",
+              "t"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "qəm",
+            "letters": [
+              "q",
+              "ə",
+              "m"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "qaṭlàla",
+            "letters": [
+              "q",
+              "a",
+              "ṭ",
+              "l",
+              "à",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "qəm",
+            "letters": [
+              "q",
+              "ə",
+              "m"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "qaṭlàla",
+            "letters": [
+              "q",
+              "a",
+              "ṭ",
+              "l",
+              "à",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾáy",
+            "letters": [
+              "ʾ",
+              "á",
+              "y"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "píšla",
+            "letters": [
+              "p",
+              "í",
+              "š",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "tàma",
+            "letters": [
+              "t",
+              "à",
+              "m",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          }
+        ],
+        "speaker": "Dawið ʾAdam"
+      },
+      {
+        "number": "7",
+        "words": [
+          {
+            "word": "qìmtɛla",
+            "letters": [
+              "q",
+              "ì",
+              "m",
+              "t",
+              "ɛ",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "qèdamta",
+            "letters": [
+              "q",
+              "è",
+              "d",
+              "a",
+              "m",
+              "t",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "lɛ́la",
+            "letters": [
+              "l",
+              "ɛ́",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "mírta",
+            "letters": [
+              "m",
+              "í",
+              "r",
+              "t",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ṭla",
+            "letters": [
+              "ṭ",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "xmáθa",
+            "letters": [
+              "x",
+              "m",
+              "á",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "w",
+            "letters": [
+              "w"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "xəmyána",
+            "letters": [
+              "x",
+              "ə",
+              "m",
+              "y",
+              "á",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "w",
+            "letters": [
+              "w"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ʾáxxa",
+            "letters": [
+              "ʾ",
+              "á",
+              "x",
+              "x",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "w",
+            "letters": [
+              "w"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "tàmma",
+            "letters": [
+              "t",
+              "à",
+              "m",
+              "m",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "zíltɛla",
+            "letters": [
+              "z",
+              "í",
+              "l",
+              "t",
+              "ɛ",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "θíθa",
+            "letters": [
+              "θ",
+              "í",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "l",
+            "letters": [
+              "l"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "bróna",
+            "letters": [
+              "b",
+              "r",
+              "ó",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "dìya",
+            "letters": [
+              "d",
+              "ì",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "muθɛ̀θəlle",
+            "letters": [
+              "m",
+              "u",
+              "θ",
+              "ɛ̀",
+              "θ",
+              "ə",
+              "l",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾína",
+            "letters": [
+              "ʾ",
+              "í",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "bróna",
+            "letters": [
+              "b",
+              "r",
+              "ó",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "lɛ̀la",
+            "letters": [
+              "l",
+              "ɛ̀",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "xíltəlle",
+            "letters": [
+              "x",
+              "í",
+              "l",
+              "t",
+              "ə",
+              "l",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "har",
+            "letters": [
+              "h",
+              "a",
+              "r"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "nobáltəlle",
+            "letters": [
+              "n",
+              "o",
+              "b",
+              "á",
+              "l",
+              "t",
+              "ə",
+              "l",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "muttɛ́θəlle",
+            "letters": [
+              "m",
+              "u",
+              "t",
+              "t",
+              "ɛ́",
+              "θ",
+              "ə",
+              "l",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "mattòye",
+            "letters": [
+              "m",
+              "a",
+              "t",
+              "t",
+              "ò",
+              "y",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "muθɛ́θəlle",
+            "letters": [
+              "m",
+              "u",
+              "θ",
+              "ɛ́",
+              "θ",
+              "ə",
+              "l",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "bróna",
+            "letters": [
+              "b",
+              "r",
+              "ó",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "dìya",
+            "letters": [
+              "d",
+              "ì",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "muwártəlle",
+            "letters": [
+              "m",
+              "u",
+              "w",
+              "á",
+              "r",
+              "t",
+              "ə",
+              "l",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "pθíxtəlle",
+            "letters": [
+              "p",
+              "θ",
+              "í",
+              "x",
+              "t",
+              "ə",
+              "l",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "tằra",
+            "letters": [
+              "t",
+              "ằ",
+              "r",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          }
+        ],
+        "speaker": "Dawið ʾAdam"
+      },
+      {
+        "number": "8",
+        "words": [
+          {
+            "word": "mə́ra",
+            "letters": [
+              "m",
+              "ə́",
+              "r",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ṭla",
+            "letters": [
+              "ṭ",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "xmáθa",
+            "letters": [
+              "x",
+              "m",
+              "á",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "xmàθi",
+            "letters": [
+              "x",
+              "m",
+              "à",
+              "θ",
+              "i"
+            ],
+            "beginnings": [],
+            "endings": [
+              "!",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "mə́ra",
+            "letters": [
+              "m",
+              "ə́",
+              "r",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "mòdile",
+            "letters": [
+              "m",
+              "ò",
+              "d",
+              "i",
+              "l",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "bábi",
+            "letters": [
+              "b",
+              "á",
+              "b",
+              "i"
+            ],
+            "beginnings": [],
+            "endings": [
+              "?",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "mə́ra",
+            "letters": [
+              "m",
+              "ə́",
+              "r",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "háyyo",
+            "letters": [
+              "h",
+              "á",
+              "y",
+              "y",
+              "o"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "xzɛ́gən",
+            "letters": [
+              "x",
+              "z",
+              "ɛ́",
+              "g",
+              "ə",
+              "n"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "báxtət",
+            "letters": [
+              "b",
+              "á",
+              "x",
+              "t",
+              "ə",
+              "t"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ʾáġa",
+            "letters": [
+              "ʾ",
+              "á",
+              "ġ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "Č̭ā̀l",
+            "letters": [
+              "Č̭",
+              "ā̀",
+              "l"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "háyyo",
+            "letters": [
+              "h",
+              "á",
+              "y",
+              "y",
+              "o"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "xzɛ̀la",
+            "letters": [
+              "x",
+              "z",
+              "ɛ̀",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "mára",
+            "letters": [
+              "m",
+              "á",
+              "r",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ʾáθya",
+            "letters": [
+              "ʾ",
+              "á",
+              "θ",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "gàšqa",
+            "letters": [
+              "g",
+              "à",
+              "š",
+              "q",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾína",
+            "letters": [
+              "ʾ",
+              "í",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "xazyála",
+            "letters": [
+              "x",
+              "a",
+              "z",
+              "y",
+              "á",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "Lelìθa",
+            "letters": [
+              "L",
+              "e",
+              "l",
+              "ì",
+              "θ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "hóla",
+            "letters": [
+              "h",
+              "ó",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "qṭìltəlla",
+            "letters": [
+              "q",
+              "ṭ",
+              "ì",
+              "l",
+              "t",
+              "ə",
+              "l",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "táma",
+            "letters": [
+              "t",
+              "á",
+              "m",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          }
+        ],
+        "speaker": "Dawið ʾAdam"
+      },
+      {
+        "number": "9",
+        "words": [
+          {
+            "word": "ʾɛ̀",
+            "letters": [
+              "ʾ",
+              "ɛ̀"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "ga",
+            "letters": [
+              "g",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ʾánna",
+            "letters": [
+              "ʾ",
+              "á",
+              "n",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "məndiyáne",
+            "letters": [
+              "m",
+              "ə",
+              "n",
+              "d",
+              "i",
+              "y",
+              "á",
+              "n",
+              "e"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "wìyela",
+            "letters": [
+              "w",
+              "ì",
+              "y",
+              "e",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "ḥaqìqi",
+            "letters": [
+              "ḥ",
+              "a",
+              "q",
+              "ì",
+              "q",
+              "i"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "béna",
+            "letters": [
+              "b",
+              "é",
+              "n",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "θíθɛla",
+            "letters": [
+              "θ",
+              "í",
+              "θ",
+              "ɛ",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "wíðtəlla",
+            "letters": [
+              "w",
+              "í",
+              "ð",
+              "t",
+              "ə",
+              "l",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "gān",
+            "letters": [
+              "g",
+              "ā",
+              "n"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "díya",
+            "letters": [
+              "d",
+              "í",
+              "y",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "báxtət",
+            "letters": [
+              "b",
+              "á",
+              "x",
+              "t",
+              "ə",
+              "t"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ʾáġa",
+            "letters": [
+              "ʾ",
+              "á",
+              "ġ",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "Č̭ā̀l",
+            "letters": [
+              "Č̭",
+              "ā̀",
+              "l"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "bas",
+            "letters": [
+              "b",
+              "a",
+              "s"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "mjárrad",
+            "letters": [
+              "m",
+              "j",
+              "á",
+              "r",
+              "r",
+              "a",
+              "d"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "mṣawθàwa",
+            "letters": [
+              "m",
+              "ṣ",
+              "a",
+              "w",
+              "θ",
+              "à",
+              "w",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "xzí",
+            "letters": [
+              "x",
+              "z",
+              "í"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "hambišàyɛla",
+            "letters": [
+              "h",
+              "a",
+              "m",
+              "b",
+              "i",
+              "š",
+              "à",
+              "y",
+              "ɛ",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ",",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "xzi",
+            "letters": [
+              "x",
+              "z",
+              "i"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "mù",
+            "letters": [
+              "m",
+              "ù"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "tăhər",
+            "letters": [
+              "t",
+              "ă",
+              "h",
+              "ə",
+              "r"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "ila",
+            "letters": [
+              "i",
+              "l",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "hàdəx",
+            "letters": [
+              "h",
+              "à",
+              "d",
+              "ə",
+              "x"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "wawa",
+            "letters": [
+              "w",
+              "a",
+              "w",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ",
+              " "
+            ]
+          },
+          {
+            "word": "šwiqáli",
+            "letters": [
+              "š",
+              "w",
+              "i",
+              "q",
+              "á",
+              "l",
+              "i"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "táma",
+            "letters": [
+              "t",
+              "á",
+              "m",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "ʾu",
+            "letters": [
+              "ʾ",
+              "u"
+            ],
+            "beginnings": [],
+            "endings": [
+              "-"
+            ]
+          },
+          {
+            "word": "θéli",
+            "letters": [
+              "θ",
+              "é",
+              "l",
+              "i"
+            ],
+            "beginnings": [],
+            "endings": [
+              " "
+            ]
+          },
+          {
+            "word": "làxxa",
+            "letters": [
+              "l",
+              "à",
+              "x",
+              "x",
+              "a"
+            ],
+            "beginnings": [],
+            "endings": [
+              ".",
+              "ˈ"
+            ]
+          }
+        ],
+        "speaker": "Dawið ʾAdam"
+      }
+    ]
+  ]
+]
