@@ -186,4 +186,4 @@ for dialect in dialects:
         dialect_name = dialect.name
         exportdialect(texts, dialect=dialect_name, out_dir=output)
 
-os.system("cd ../../texts/scripts/; sh corrections.sh")
+os.system("cd ~/github/CambridgeSemiticsLab/nena_corpus/sources/scripts/; sh corrections.sh")
