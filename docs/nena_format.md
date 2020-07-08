@@ -25,7 +25,8 @@ used for Aramaic and Hebrew corpora.
     * [Foreign Letters](#Foreign-letters)
     * [Paragraph Structure](#Paragraph-structure)
     * [Punctuation](#Punctuation)
-    * [Markup Strings](#Markup-strings)
+    * [Span Tag](#Span-Tag)
+    * [Foreign Language Tag](#Foreign-Language-Tag)
 
 ## Example of NENA Markup Text
 
@@ -149,31 +150,36 @@ the following substituted values are allowed:
 | ⁺           | +            |
 | ˈ           | \|           |
 
-### Markup Strings
+### Span Tags
 
-#### Line & Timestamp Tag
+A span is simply a stretch of text with associated metadata. The metadata
+indicated by a span remains "active" for all words which follow it until
+a given metadata value is updated by a subsequent span. 
 
-Texts are divided into numbered lines (or "verses") that facilitate referencing.
-Lines are optionally connected with timestamps pointing back to the audio source 
-used for the transcription.
+There are currently 3 types of spans:
 
-A line number without timestamp information is indicated by a number
-surrounded by parentheses:
+    * line numbers - verse-like reference numbers, from publications if applicable, or made new if not
+    * time stamp - indicates time position of spoken text in an audio file, indicated by at minimum 2 numbers separated with a colon: 0:05
+    * speaker - name or initials of a speaker; if initials, should match initials in "speakers" document metadata
 
-```
-(1) This is the first line.
-```
-
-A line number with timestamp data is indicated in the same way, but 
-with an extra `@` symbol followed by a `m:ss` time string:
+Some examples:
 
 ```
-(2@0:13) This is line with timestamp.
+(2, 0:05, GK)
+
+# Geoffrey Khan is speaking at 5 seconds in the audio within publication number 2
 ```
 
-A line cannot cross a paragraph.
+or 
 
-#### Foreign Language Tag
+```
+
+(1, 0:00) Here is some text (GK) But here is some more.
+
+# Geoffrey Khan starts speaking within a span of text beginning at 0 seconds in publication line 1.
+```
+
+### Foreign Language Tag
 
 NENA texts occasionally contain words or stretches of words spoken in a language
 foreign to NENA. These words should be indicated with an opening single angle 
@@ -186,17 +192,3 @@ This is some NENA. <Du:Dit is niet NENA>
 
 Any number of words are allowed in a foreign language tag, but the tag should
 not take up a substantial portion of the NENA text.
-
-#### Speaker Tag
-
-Many NENA texts are conversational and consist of multiple conversants. An additional 
-speaker from the main informant may be indicated with an opening guillemet («) followed
-by the speaker's name or initials, a colon, the speaker's words, and a closing 
-guillemet (»): 
-
-```
-«GK:maxlèta?»
-```
-
-An acceptable substitution for the guillemets are the double angle brackets `<<`
-and `>>`.
