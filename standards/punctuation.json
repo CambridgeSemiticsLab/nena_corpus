@@ -70,12 +70,11 @@
         ]
     },
     {
-        "decomposed_regex": "...",
+        "decomposed_regex": "\\.\\.\\.",
         "string": "...",
         "class": "separator",
         "modifies": "subsentence",
         "position": "end",
-        "regex": "\\.\\.\\.",
         "codepoints": [
             46,
             46,
@@ -113,23 +112,21 @@
         ]
     },
     {
-        "decomposed_regex": ".",
+        "decomposed_regex": "(?<!\\.)\\.(?!\\.)",
         "string": ".",
         "class": "separator",
         "modifies": "sentence",
-        "regex": "(?<!\\.)\\.(?!\\.)",
         "position": "end",
         "codepoints": [
             46
         ]
     },
     {
-        "decomposed_regex": "?",
+        "decomposed_regex": "\\?",
         "string": "?",
         "class": "separator",
         "modifies": "sentence",
         "position": "end",
-        "regex": "\\?",
         "codepoints": [
             63
         ]
