@@ -1,7 +1,7 @@
 [
     {
         "decomposed_regex": "⁺",
-        "string": "⁺",
+        "decomposed_string": "⁺",
         "class": "phonetic",
         "position": "begin",
         "modifies": "stress group",
@@ -11,7 +11,7 @@
     },
     {
         "decomposed_regex": "(?<= )\"",
-        "string": "\"",
+        "decomposed_string": "\"",
         "class": "separator",
         "modifies": "text",
         "position": "begin",
@@ -21,7 +21,7 @@
     },
     {
         "decomposed_regex": " ",
-        "string": " ",
+        "decomposed_string": " ",
         "class": "separator",
         "modifies": "word",
         "position": "end",
@@ -31,7 +31,7 @@
     },
     {
         "decomposed_regex": "-",
-        "string": "-",
+        "decomposed_string": "-",
         "class": "connector",
         "modifies": "stress group",
         "position": "end",
@@ -41,7 +41,7 @@
     },
     {
         "decomposed_regex": "=",
-        "string": "=",
+        "decomposed_string": "=",
         "class": "connector",
         "modifies": "stress group",
         "position": "end",
@@ -51,7 +51,7 @@
     },
     {
         "decomposed_regex": "ˈ",
-        "string": "ˈ",
+        "decomposed_string": "ˈ",
         "class": "separator",
         "modifies": "intonation group",
         "position": "end",
@@ -61,7 +61,7 @@
     },
     {
         "decomposed_regex": ",",
-        "string": ",",
+        "decomposed_string": ",",
         "class": "separator",
         "modifies": "subsentence",
         "position": "end",
@@ -71,7 +71,7 @@
     },
     {
         "decomposed_regex": "\\.\\.\\.",
-        "string": "...",
+        "decomposed_string": "...",
         "class": "separator",
         "modifies": "subsentence",
         "position": "end",
@@ -83,7 +83,7 @@
     },
     {
         "decomposed_regex": ":",
-        "string": ":",
+        "decomposed_string": ":",
         "class": "separator",
         "modifies": "subsentence",
         "position": "end",
@@ -93,7 +93,7 @@
     },
     {
         "decomposed_regex": "—",
-        "string": "—",
+        "decomposed_string": "—",
         "class": "separator",
         "modifies": "subsentence",
         "position": "end",
@@ -103,7 +103,7 @@
     },
     {
         "decomposed_regex": ";",
-        "string": ";",
+        "decomposed_string": ";",
         "class": "separator",
         "modifies": "subsentence",
         "position": "end",
@@ -113,7 +113,7 @@
     },
     {
         "decomposed_regex": "(?<!\\.)\\.(?!\\.)",
-        "string": ".",
+        "decomposed_string": ".",
         "class": "separator",
         "modifies": "sentence",
         "position": "end",
@@ -123,7 +123,7 @@
     },
     {
         "decomposed_regex": "\\?",
-        "string": "?",
+        "decomposed_string": "?",
         "class": "separator",
         "modifies": "sentence",
         "position": "end",
@@ -133,7 +133,7 @@
     },
     {
         "decomposed_regex": "!",
-        "string": "!",
+        "decomposed_string": "!",
         "class": "separator",
         "modifies": "sentence",
         "position": "end",
@@ -143,7 +143,7 @@
     },
     {
         "decomposed_regex": "(?<! )\"",
-        "string": "\"",
+        "decomposed_string": "\"",
         "class": "separator",
         "modifies": "text",
         "position": "end",
