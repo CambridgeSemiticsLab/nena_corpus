@@ -14,7 +14,7 @@
             "NUMR": "numeral"
         }
     },
-    "form": {
+    "variable": {
         "desc": "variability of word form",
         "tags": {
             "INVAR": "lexeme is invariable"
