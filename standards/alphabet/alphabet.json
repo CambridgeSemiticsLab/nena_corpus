@@ -58,9 +58,9 @@
         "phonation": "unvoiced_aspirated"
     },
     {
-        "decomposed_regex": "č(?![̀-ͯ])|Č(?![̀-ͯ])",
-        "decomposed_string": "č",
-        "decomposed_upper_string": "Č",
+        "decomposed_regex": "č(?![̀-ͯ])|Č(?![̀-ͯ])",
+        "decomposed_string": "č",
+        "decomposed_upper_string": "Č",
         "decomposed_codepoints": [
             99,
             780
@@ -126,9 +126,9 @@
         "phonation": "unvoiced_unaspirated"
     },
     {
-        "decomposed_regex": "č̣(?![̀-ͯ])|Č̣(?![̀-ͯ])",
-        "decomposed_string": "č̣",
-        "decomposed_upper_string": "Č̣",
+        "decomposed_regex": "č̣(?![̀-ͯ])|Č̣(?![̀-ͯ])",
+        "decomposed_string": "č̣",
+        "decomposed_upper_string": "Č̣",
         "decomposed_codepoints": [
             99,
             803,
@@ -164,9 +164,9 @@
         "phonation": "emphatic"
     },
     {
-        "decomposed_regex": "č̭(?![̀-ͯ])|Č̭(?![̀-ͯ])",
-        "decomposed_string": "č̭",
-        "decomposed_upper_string": "Č̭",
+        "decomposed_regex": "č̭(?![̀-ͯ])|Č̭(?![̀-ͯ])",
+        "decomposed_string": "č̭",
+        "decomposed_upper_string": "Č̭",
         "decomposed_codepoints": [
             99,
             813,
@@ -231,9 +231,9 @@
         "phonation": "voiced"
     },
     {
-        "decomposed_regex": "ḍ(?![̀-ͯ])|Ḍ(?![̀-ͯ])",
-        "decomposed_string": "ḍ",
-        "decomposed_upper_string": "Ḍ",
+        "decomposed_regex": "ḍ(?![̀-ͯ])|Ḍ(?![̀-ͯ])",
+        "decomposed_string": "ḍ",
+        "decomposed_upper_string": "Ḍ",
         "decomposed_codepoints": [
             100,
             803
@@ -322,9 +322,9 @@
         "phonation": "voiced"
     },
     {
-        "decomposed_regex": "ġ(?![̀-ͯ])|Ġ(?![̀-ͯ])",
-        "decomposed_string": "ġ",
-        "decomposed_upper_string": "Ġ",
+        "decomposed_regex": "ġ(?![̀-ͯ])|Ġ(?![̀-ͯ])",
+        "decomposed_string": "ġ",
+        "decomposed_upper_string": "Ġ",
         "decomposed_codepoints": [
             103,
             775
@@ -384,9 +384,9 @@
         "phonation": "unvoiced"
     },
     {
-        "decomposed_regex": "ḥ(?![̀-ͯ])|Ḥ(?![̀-ͯ])",
-        "decomposed_string": "ḥ",
-        "decomposed_upper_string": "Ḥ",
+        "decomposed_regex": "ḥ(?![̀-ͯ])|Ḥ(?![̀-ͯ])",
+        "decomposed_string": "ḥ",
+        "decomposed_upper_string": "Ḥ",
         "decomposed_codepoints": [
             104,
             803
@@ -539,9 +539,9 @@
         "phonation": "plain"
     },
     {
-        "decomposed_regex": "ḷ(?![̀-ͯ])|Ḷ(?![̀-ͯ])",
-        "decomposed_string": "ḷ",
-        "decomposed_upper_string": "Ḷ",
+        "decomposed_regex": "ḷ(?![̀-ͯ])|Ḷ(?![̀-ͯ])",
+        "decomposed_string": "ḷ",
+        "decomposed_upper_string": "Ḷ",
         "decomposed_codepoints": [
             108,
             803
@@ -601,9 +601,9 @@
         "phonation": "plain"
     },
     {
-        "decomposed_regex": "ṃ(?![̀-ͯ])|Ṃ(?![̀-ͯ])",
-        "decomposed_string": "ṃ",
-        "decomposed_upper_string": "Ṃ",
+        "decomposed_regex": "ṃ(?![̀-ͯ])|Ṃ(?![̀-ͯ])",
+        "decomposed_string": "ṃ",
+        "decomposed_upper_string": "Ṃ",
         "decomposed_codepoints": [
             109,
             803
@@ -819,9 +819,9 @@
         "phonation": "plain"
     },
     {
-        "decomposed_regex": "ṛ(?![̀-ͯ])|Ṛ(?![̀-ͯ])",
-        "decomposed_string": "ṛ",
-        "decomposed_upper_string": "Ṛ",
+        "decomposed_regex": "ṛ(?![̀-ͯ])|Ṛ(?![̀-ͯ])",
+        "decomposed_string": "ṛ",
+        "decomposed_upper_string": "Ṛ",
         "decomposed_codepoints": [
             114,
             803
@@ -881,9 +881,9 @@
         "phonation": "unvoiced"
     },
     {
-        "decomposed_regex": "š(?![̀-ͯ])|Š(?![̀-ͯ])",
-        "decomposed_string": "š",
-        "decomposed_upper_string": "Š",
+        "decomposed_regex": "š(?![̀-ͯ])|Š(?![̀-ͯ])",
+        "decomposed_string": "š",
+        "decomposed_upper_string": "Š",
         "decomposed_codepoints": [
             115,
             780
@@ -914,9 +914,9 @@
         "phonation": "unvoiced"
     },
     {
-        "decomposed_regex": "ṣ(?![̀-ͯ])|Ṣ(?![̀-ͯ])",
-        "decomposed_string": "ṣ",
-        "decomposed_upper_string": "Ṣ",
+        "decomposed_regex": "ṣ(?![̀-ͯ])|Ṣ(?![̀-ͯ])",
+        "decomposed_string": "ṣ",
+        "decomposed_upper_string": "Ṣ",
         "decomposed_codepoints": [
             115,
             803
@@ -976,9 +976,9 @@
         "phonation": "unvoiced_aspirated"
     },
     {
-        "decomposed_regex": "ṭ(?![̀-ͯ])|Ṭ(?![̀-ͯ])",
-        "decomposed_string": "ṭ",
-        "decomposed_upper_string": "Ṭ",
+        "decomposed_regex": "ṭ(?![̀-ͯ])|Ṭ(?![̀-ͯ])",
+        "decomposed_string": "ṭ",
+        "decomposed_upper_string": "Ṭ",
         "decomposed_codepoints": [
             116,
             803
@@ -1009,9 +1009,9 @@
         "phonation": "emphatic"
     },
     {
-        "decomposed_regex": "ṱ(?![̀-ͯ])|Ṱ(?![̀-ͯ])",
-        "decomposed_string": "ṱ",
-        "decomposed_upper_string": "Ṱ",
+        "decomposed_regex": "ṱ(?![̀-ͯ])|Ṱ(?![̀-ͯ])",
+        "decomposed_string": "ṱ",
+        "decomposed_upper_string": "Ṱ",
         "decomposed_codepoints": [
             116,
             813
@@ -1187,9 +1187,9 @@
         "phonation": "voiced"
     },
     {
-        "decomposed_regex": "ž(?![̀-ͯ])|Ž(?![̀-ͯ])",
-        "decomposed_string": "ž",
-        "decomposed_upper_string": "Ž",
+        "decomposed_regex": "ž(?![̀-ͯ])|Ž(?![̀-ͯ])",
+        "decomposed_string": "ž",
+        "decomposed_upper_string": "Ž",
         "decomposed_codepoints": [
             122,
             780
@@ -1220,9 +1220,9 @@
         "phonation": "voiced"
     },
     {
-        "decomposed_regex": "ẓ(?![̀-ͯ])|Ẓ(?![̀-ͯ])",
-        "decomposed_string": "ẓ",
-        "decomposed_upper_string": "Ẓ",
+        "decomposed_regex": "ẓ(?![̀-ͯ])|Ẓ(?![̀-ͯ])",
+        "decomposed_string": "ẓ",
+        "decomposed_upper_string": "Ẓ",
         "decomposed_codepoints": [
             122,
             803
@@ -1459,9 +1459,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
-        "decomposed_string": "à",
-        "decomposed_upper_string": "À",
+        "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
+        "decomposed_string": "à",
+        "decomposed_upper_string": "À",
         "decomposed_codepoints": [
             97,
             768
@@ -1489,9 +1489,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
-        "decomposed_string": "á",
-        "decomposed_upper_string": "Á",
+        "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
+        "decomposed_string": "á",
+        "decomposed_upper_string": "Á",
         "decomposed_codepoints": [
             97,
             769
@@ -1519,9 +1519,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ā(?![̀-ͯ])|Ā(?![̀-ͯ])",
-        "decomposed_string": "ā",
-        "decomposed_upper_string": "Ā",
+        "decomposed_regex": "ā(?![̀-ͯ])|Ā(?![̀-ͯ])",
+        "decomposed_string": "ā",
+        "decomposed_upper_string": "Ā",
         "decomposed_codepoints": [
             97,
             772
@@ -1549,9 +1549,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ă(?![̀-ͯ])|Ă(?![̀-ͯ])",
-        "decomposed_string": "ă",
-        "decomposed_upper_string": "Ă",
+        "decomposed_regex": "ă(?![̀-ͯ])|Ă(?![̀-ͯ])",
+        "decomposed_string": "ă",
+        "decomposed_upper_string": "Ă",
         "decomposed_codepoints": [
             97,
             774
@@ -1579,9 +1579,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ā̀(?![̀-ͯ])|Ā̀(?![̀-ͯ])",
-        "decomposed_string": "ā̀",
-        "decomposed_upper_string": "Ā̀",
+        "decomposed_regex": "ā̀(?![̀-ͯ])|Ā̀(?![̀-ͯ])",
+        "decomposed_string": "ā̀",
+        "decomposed_upper_string": "Ā̀",
         "decomposed_codepoints": [
             97,
             772,
@@ -1614,9 +1614,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ā́(?![̀-ͯ])|Ā́(?![̀-ͯ])",
-        "decomposed_string": "ā́",
-        "decomposed_upper_string": "Ā́",
+        "decomposed_regex": "ā́(?![̀-ͯ])|Ā́(?![̀-ͯ])",
+        "decomposed_string": "ā́",
+        "decomposed_upper_string": "Ā́",
         "decomposed_codepoints": [
             97,
             772,
@@ -1649,9 +1649,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ằ(?![̀-ͯ])|Ằ(?![̀-ͯ])",
-        "decomposed_string": "ằ",
-        "decomposed_upper_string": "Ằ",
+        "decomposed_regex": "ằ(?![̀-ͯ])|Ằ(?![̀-ͯ])",
+        "decomposed_string": "ằ",
+        "decomposed_upper_string": "Ằ",
         "decomposed_codepoints": [
             97,
             774,
@@ -1682,9 +1682,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ắ(?![̀-ͯ])|Ắ(?![̀-ͯ])",
-        "decomposed_string": "ắ",
-        "decomposed_upper_string": "Ắ",
+        "decomposed_regex": "ắ(?![̀-ͯ])|Ắ(?![̀-ͯ])",
+        "decomposed_string": "ắ",
+        "decomposed_upper_string": "Ắ",
         "decomposed_codepoints": [
             97,
             774,
@@ -1741,9 +1741,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "è(?![̀-ͯ])|È(?![̀-ͯ])",
-        "decomposed_string": "è",
-        "decomposed_upper_string": "È",
+        "decomposed_regex": "è(?![̀-ͯ])|È(?![̀-ͯ])",
+        "decomposed_string": "è",
+        "decomposed_upper_string": "È",
         "decomposed_codepoints": [
             101,
             768
@@ -1771,9 +1771,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "é(?![̀-ͯ])|É(?![̀-ͯ])",
-        "decomposed_string": "é",
-        "decomposed_upper_string": "É",
+        "decomposed_regex": "é(?![̀-ͯ])|É(?![̀-ͯ])",
+        "decomposed_string": "é",
+        "decomposed_upper_string": "É",
         "decomposed_codepoints": [
             101,
             769
@@ -1801,9 +1801,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ē(?![̀-ͯ])|Ē(?![̀-ͯ])",
-        "decomposed_string": "ē",
-        "decomposed_upper_string": "Ē",
+        "decomposed_regex": "ē(?![̀-ͯ])|Ē(?![̀-ͯ])",
+        "decomposed_string": "ē",
+        "decomposed_upper_string": "Ē",
         "decomposed_codepoints": [
             101,
             772
@@ -1831,9 +1831,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ḕ(?![̀-ͯ])|Ḕ(?![̀-ͯ])",
-        "decomposed_string": "ḕ",
-        "decomposed_upper_string": "Ḕ",
+        "decomposed_regex": "ḕ(?![̀-ͯ])|Ḕ(?![̀-ͯ])",
+        "decomposed_string": "ḕ",
+        "decomposed_upper_string": "Ḕ",
         "decomposed_codepoints": [
             101,
             772,
@@ -1864,9 +1864,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ḗ(?![̀-ͯ])|Ḗ(?![̀-ͯ])",
-        "decomposed_string": "ḗ",
-        "decomposed_upper_string": "Ḗ",
+        "decomposed_regex": "ḗ(?![̀-ͯ])|Ḗ(?![̀-ͯ])",
+        "decomposed_string": "ḗ",
+        "decomposed_upper_string": "Ḗ",
         "decomposed_codepoints": [
             101,
             772,
@@ -1923,9 +1923,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ì(?![̀-ͯ])|Ì(?![̀-ͯ])",
-        "decomposed_string": "ì",
-        "decomposed_upper_string": "Ì",
+        "decomposed_regex": "ì(?![̀-ͯ])|Ì(?![̀-ͯ])",
+        "decomposed_string": "ì",
+        "decomposed_upper_string": "Ì",
         "decomposed_codepoints": [
             105,
             768
@@ -1953,9 +1953,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "í(?![̀-ͯ])|Í(?![̀-ͯ])",
-        "decomposed_string": "í",
-        "decomposed_upper_string": "Í",
+        "decomposed_regex": "í(?![̀-ͯ])|Í(?![̀-ͯ])",
+        "decomposed_string": "í",
+        "decomposed_upper_string": "Í",
         "decomposed_codepoints": [
             105,
             769
@@ -1983,9 +1983,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ī(?![̀-ͯ])|Ī(?![̀-ͯ])",
-        "decomposed_string": "ī",
-        "decomposed_upper_string": "Ī",
+        "decomposed_regex": "ī(?![̀-ͯ])|Ī(?![̀-ͯ])",
+        "decomposed_string": "ī",
+        "decomposed_upper_string": "Ī",
         "decomposed_codepoints": [
             105,
             772
@@ -2013,9 +2013,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ī̀(?![̀-ͯ])|Ī̀(?![̀-ͯ])",
-        "decomposed_string": "ī̀",
-        "decomposed_upper_string": "Ī̀",
+        "decomposed_regex": "ī̀(?![̀-ͯ])|Ī̀(?![̀-ͯ])",
+        "decomposed_string": "ī̀",
+        "decomposed_upper_string": "Ī̀",
         "decomposed_codepoints": [
             105,
             772,
@@ -2048,9 +2048,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ī́(?![̀-ͯ])|Ī́(?![̀-ͯ])",
-        "decomposed_string": "ī́",
-        "decomposed_upper_string": "Ī́",
+        "decomposed_regex": "ī́(?![̀-ͯ])|Ī́(?![̀-ͯ])",
+        "decomposed_string": "ī́",
+        "decomposed_upper_string": "Ī́",
         "decomposed_codepoints": [
             105,
             772,
@@ -2109,9 +2109,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ò(?![̀-ͯ])|Ò(?![̀-ͯ])",
-        "decomposed_string": "ò",
-        "decomposed_upper_string": "Ò",
+        "decomposed_regex": "ò(?![̀-ͯ])|Ò(?![̀-ͯ])",
+        "decomposed_string": "ò",
+        "decomposed_upper_string": "Ò",
         "decomposed_codepoints": [
             111,
             768
@@ -2139,9 +2139,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ó(?![̀-ͯ])|Ó(?![̀-ͯ])",
-        "decomposed_string": "ó",
-        "decomposed_upper_string": "Ó",
+        "decomposed_regex": "ó(?![̀-ͯ])|Ó(?![̀-ͯ])",
+        "decomposed_string": "ó",
+        "decomposed_upper_string": "Ó",
         "decomposed_codepoints": [
             111,
             769
@@ -2169,9 +2169,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ō(?![̀-ͯ])|Ō(?![̀-ͯ])",
-        "decomposed_string": "ō",
-        "decomposed_upper_string": "Ō",
+        "decomposed_regex": "ō(?![̀-ͯ])|Ō(?![̀-ͯ])",
+        "decomposed_string": "ō",
+        "decomposed_upper_string": "Ō",
         "decomposed_codepoints": [
             111,
             772
@@ -2199,9 +2199,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ṑ(?![̀-ͯ])|Ṑ(?![̀-ͯ])",
-        "decomposed_string": "ṑ",
-        "decomposed_upper_string": "Ṑ",
+        "decomposed_regex": "ṑ(?![̀-ͯ])|Ṑ(?![̀-ͯ])",
+        "decomposed_string": "ṑ",
+        "decomposed_upper_string": "Ṑ",
         "decomposed_codepoints": [
             111,
             772,
@@ -2232,9 +2232,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ṓ(?![̀-ͯ])|Ṓ(?![̀-ͯ])",
-        "decomposed_string": "ṓ",
-        "decomposed_upper_string": "Ṓ",
+        "decomposed_regex": "ṓ(?![̀-ͯ])|Ṓ(?![̀-ͯ])",
+        "decomposed_string": "ṓ",
+        "decomposed_upper_string": "Ṓ",
         "decomposed_codepoints": [
             111,
             772,
@@ -2291,9 +2291,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ù(?![̀-ͯ])|Ù(?![̀-ͯ])",
-        "decomposed_string": "ù",
-        "decomposed_upper_string": "Ù",
+        "decomposed_regex": "ù(?![̀-ͯ])|Ù(?![̀-ͯ])",
+        "decomposed_string": "ù",
+        "decomposed_upper_string": "Ù",
         "decomposed_codepoints": [
             117,
             768
@@ -2321,9 +2321,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ú(?![̀-ͯ])|Ú(?![̀-ͯ])",
-        "decomposed_string": "ú",
-        "decomposed_upper_string": "Ú",
+        "decomposed_regex": "ú(?![̀-ͯ])|Ú(?![̀-ͯ])",
+        "decomposed_string": "ú",
+        "decomposed_upper_string": "Ú",
         "decomposed_codepoints": [
             117,
             769
@@ -2351,9 +2351,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ū(?![̀-ͯ])|Ū(?![̀-ͯ])",
-        "decomposed_string": "ū",
-        "decomposed_upper_string": "Ū",
+        "decomposed_regex": "ū(?![̀-ͯ])|Ū(?![̀-ͯ])",
+        "decomposed_string": "ū",
+        "decomposed_upper_string": "Ū",
         "decomposed_codepoints": [
             117,
             772
@@ -2381,9 +2381,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ŭ(?![̀-ͯ])|Ŭ(?![̀-ͯ])",
-        "decomposed_string": "ŭ",
-        "decomposed_upper_string": "Ŭ",
+        "decomposed_regex": "ŭ(?![̀-ͯ])|Ŭ(?![̀-ͯ])",
+        "decomposed_string": "ŭ",
+        "decomposed_upper_string": "Ŭ",
         "decomposed_codepoints": [
             117,
             774
@@ -2411,9 +2411,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ū̀(?![̀-ͯ])|Ū̀(?![̀-ͯ])",
-        "decomposed_string": "ū̀",
-        "decomposed_upper_string": "Ū̀",
+        "decomposed_regex": "ū̀(?![̀-ͯ])|Ū̀(?![̀-ͯ])",
+        "decomposed_string": "ū̀",
+        "decomposed_upper_string": "Ū̀",
         "decomposed_codepoints": [
             117,
             772,
@@ -2446,9 +2446,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ū́(?![̀-ͯ])|Ū́(?![̀-ͯ])",
-        "decomposed_string": "ū́",
-        "decomposed_upper_string": "Ū́",
+        "decomposed_regex": "ū́(?![̀-ͯ])|Ū́(?![̀-ͯ])",
+        "decomposed_string": "ū́",
+        "decomposed_upper_string": "Ū́",
         "decomposed_codepoints": [
             117,
             772,
@@ -2481,9 +2481,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ŭ̀(?![̀-ͯ])|Ŭ̀(?![̀-ͯ])",
-        "decomposed_string": "ŭ̀",
-        "decomposed_upper_string": "Ŭ̀",
+        "decomposed_regex": "ŭ̀(?![̀-ͯ])|Ŭ̀(?![̀-ͯ])",
+        "decomposed_string": "ŭ̀",
+        "decomposed_upper_string": "Ŭ̀",
         "decomposed_codepoints": [
             117,
             774,
@@ -2516,9 +2516,9 @@
         "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ŭ́(?![̀-ͯ])|Ŭ́(?![̀-ͯ])",
-        "decomposed_string": "ŭ́",
-        "decomposed_upper_string": "Ŭ́",
+        "decomposed_regex": "ŭ́(?![̀-ͯ])|Ŭ́(?![̀-ͯ])",
+        "decomposed_string": "ŭ́",
+        "decomposed_upper_string": "Ŭ́",
         "decomposed_codepoints": [
             117,
             774,
