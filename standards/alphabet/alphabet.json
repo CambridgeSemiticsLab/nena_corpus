@@ -23,9 +23,9 @@
         "base_upper_code": 66,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "labial",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "labial",
+        "phonetic_manner": "affricative",
         "phonation": "voiced"
     },
     {
@@ -52,15 +52,15 @@
         "base_upper_code": 67,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "palatal",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "palatal",
+        "phonetic_manner": "affricative",
         "phonation": "unvoiced_aspirated"
     },
     {
-        "decomposed_regex": "č(?![̀-ͯ])|Č(?![̀-ͯ])",
-        "decomposed_string": "č",
-        "decomposed_upper_string": "Č",
+        "decomposed_regex": "č(?![̀-ͯ])|Č(?![̀-ͯ])",
+        "decomposed_string": "č",
+        "decomposed_upper_string": "Č",
         "decomposed_codepoints": [
             99,
             780
@@ -85,9 +85,9 @@
         "decomposed_accent_codes": [
             780
         ],
-        "class": "consonant",
-        "point": "palatal-alveolar",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "palatal-alveolar",
+        "phonetic_manner": "affricative",
         "phonation": "unvoiced_aspirated"
     },
     {
@@ -120,15 +120,15 @@
         "decomposed_accent_codes": [
             813
         ],
-        "class": "consonant",
-        "point": "palatal",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "palatal",
+        "phonetic_manner": "affricative",
         "phonation": "unvoiced_unaspirated"
     },
     {
-        "decomposed_regex": "č̣(?![̀-ͯ])|Č̣(?![̀-ͯ])",
-        "decomposed_string": "č̣",
-        "decomposed_upper_string": "Č̣",
+        "decomposed_regex": "č̣(?![̀-ͯ])|Č̣(?![̀-ͯ])",
+        "decomposed_string": "č̣",
+        "decomposed_upper_string": "Č̣",
         "decomposed_codepoints": [
             99,
             803,
@@ -158,15 +158,15 @@
             803,
             780
         ],
-        "class": "consonant",
-        "point": "palatal-alveolar",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "palatal-alveolar",
+        "phonetic_manner": "affricative",
         "phonation": "emphatic"
     },
     {
-        "decomposed_regex": "č̭(?![̀-ͯ])|Č̭(?![̀-ͯ])",
-        "decomposed_string": "č̭",
-        "decomposed_upper_string": "Č̭",
+        "decomposed_regex": "č̭(?![̀-ͯ])|Č̭(?![̀-ͯ])",
+        "decomposed_string": "č̭",
+        "decomposed_upper_string": "Č̭",
         "decomposed_codepoints": [
             99,
             813,
@@ -196,9 +196,9 @@
             813,
             780
         ],
-        "class": "consonant",
-        "point": "palatal-alveolar",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "palatal-alveolar",
+        "phonetic_manner": "affricative",
         "phonation": "unvoiced_unaspirated"
     },
     {
@@ -225,15 +225,15 @@
         "base_upper_code": 68,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "affricative",
         "phonation": "voiced"
     },
     {
-        "decomposed_regex": "ḍ(?![̀-ͯ])|Ḍ(?![̀-ͯ])",
-        "decomposed_string": "ḍ",
-        "decomposed_upper_string": "Ḍ",
+        "decomposed_regex": "ḍ(?![̀-ͯ])|Ḍ(?![̀-ͯ])",
+        "decomposed_string": "ḍ",
+        "decomposed_upper_string": "Ḍ",
         "decomposed_codepoints": [
             100,
             803
@@ -258,9 +258,9 @@
         "decomposed_accent_codes": [
             803
         ],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "affricative",
         "phonation": "emphatic"
     },
     {
@@ -287,9 +287,9 @@
         "base_upper_code": 70,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "labial",
-        "manner": "fricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "labial",
+        "phonetic_manner": "fricative",
         "phonation": "unvoiced"
     },
     {
@@ -316,15 +316,15 @@
         "base_upper_code": 71,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "velar",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "velar",
+        "phonetic_manner": "affricative",
         "phonation": "voiced"
     },
     {
-        "decomposed_regex": "ġ(?![̀-ͯ])|Ġ(?![̀-ͯ])",
-        "decomposed_string": "ġ",
-        "decomposed_upper_string": "Ġ",
+        "decomposed_regex": "ġ(?![̀-ͯ])|Ġ(?![̀-ͯ])",
+        "decomposed_string": "ġ",
+        "decomposed_upper_string": "Ġ",
         "decomposed_codepoints": [
             103,
             775
@@ -349,9 +349,9 @@
         "decomposed_accent_codes": [
             775
         ],
-        "class": "consonant",
-        "point": "velar",
-        "manner": "fricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "velar",
+        "phonetic_manner": "fricative",
         "phonation": "voiced"
     },
     {
@@ -378,15 +378,15 @@
         "base_upper_code": 72,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "laryngeal",
-        "manner": "fricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "laryngeal",
+        "phonetic_manner": "fricative",
         "phonation": "unvoiced"
     },
     {
-        "decomposed_regex": "ḥ(?![̀-ͯ])|Ḥ(?![̀-ͯ])",
-        "decomposed_string": "ḥ",
-        "decomposed_upper_string": "Ḥ",
+        "decomposed_regex": "ḥ(?![̀-ͯ])|Ḥ(?![̀-ͯ])",
+        "decomposed_string": "ḥ",
+        "decomposed_upper_string": "Ḥ",
         "decomposed_codepoints": [
             104,
             803
@@ -411,9 +411,9 @@
         "decomposed_accent_codes": [
             803
         ],
-        "class": "consonant",
-        "point": "pharyngeal",
-        "manner": "fricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "pharyngeal",
+        "phonetic_manner": "fricative",
         "phonation": "unvoiced"
     },
     {
@@ -440,9 +440,9 @@
         "base_upper_code": 74,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "palatal-alveolar",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "palatal-alveolar",
+        "phonetic_manner": "affricative",
         "phonation": "voiced"
     },
     {
@@ -469,9 +469,9 @@
         "base_upper_code": 75,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "velar",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "velar",
+        "phonetic_manner": "affricative",
         "phonation": "unvoiced_aspirated"
     },
     {
@@ -504,9 +504,9 @@
         "decomposed_accent_codes": [
             813
         ],
-        "class": "consonant",
-        "point": "velar",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "velar",
+        "phonetic_manner": "affricative",
         "phonation": "unvoiced_unaspirated"
     },
     {
@@ -533,15 +533,15 @@
         "base_upper_code": 76,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "lateral",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "lateral",
         "phonation": "plain"
     },
     {
-        "decomposed_regex": "ḷ(?![̀-ͯ])|Ḷ(?![̀-ͯ])",
-        "decomposed_string": "ḷ",
-        "decomposed_upper_string": "Ḷ",
+        "decomposed_regex": "ḷ(?![̀-ͯ])|Ḷ(?![̀-ͯ])",
+        "decomposed_string": "ḷ",
+        "decomposed_upper_string": "Ḷ",
         "decomposed_codepoints": [
             108,
             803
@@ -566,9 +566,9 @@
         "decomposed_accent_codes": [
             803
         ],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "lateral",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "lateral",
         "phonation": "emphatic"
     },
     {
@@ -595,15 +595,15 @@
         "base_upper_code": 77,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "labial",
-        "manner": "nasal",
+        "phonetic_class": "consonant",
+        "phonetic_place": "labial",
+        "phonetic_manner": "nasal",
         "phonation": "plain"
     },
     {
-        "decomposed_regex": "ṃ(?![̀-ͯ])|Ṃ(?![̀-ͯ])",
-        "decomposed_string": "ṃ",
-        "decomposed_upper_string": "Ṃ",
+        "decomposed_regex": "ṃ(?![̀-ͯ])|Ṃ(?![̀-ͯ])",
+        "decomposed_string": "ṃ",
+        "decomposed_upper_string": "Ṃ",
         "decomposed_codepoints": [
             109,
             803
@@ -628,9 +628,9 @@
         "decomposed_accent_codes": [
             803
         ],
-        "class": "consonant",
-        "point": "labial",
-        "manner": "nasal",
+        "phonetic_class": "consonant",
+        "phonetic_place": "labial",
+        "phonetic_manner": "nasal",
         "phonation": "emphatic"
     },
     {
@@ -657,9 +657,9 @@
         "base_upper_code": 78,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "nasal",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "nasal",
         "phonation": "plain"
     },
     {
@@ -686,9 +686,9 @@
         "base_upper_code": 80,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "labial",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "labial",
+        "phonetic_manner": "affricative",
         "phonation": "unvoiced_aspirated"
     },
     {
@@ -721,9 +721,9 @@
         "decomposed_accent_codes": [
             803
         ],
-        "class": "consonant",
-        "point": "labial",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "labial",
+        "phonetic_manner": "affricative",
         "phonation": "emphatic"
     },
     {
@@ -756,9 +756,9 @@
         "decomposed_accent_codes": [
             813
         ],
-        "class": "consonant",
-        "point": "labial",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "labial",
+        "phonetic_manner": "affricative",
         "phonation": "unvoiced_unaspirated"
     },
     {
@@ -785,9 +785,9 @@
         "base_upper_code": 81,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "uvular",
-        "manner": "affricative"
+        "phonetic_class": "consonant",
+        "phonetic_place": "uvular",
+        "phonetic_manner": "affricative"
     },
     {
         "decomposed_regex": "r(?![̀-ͯ])|R(?![̀-ͯ])",
@@ -813,15 +813,15 @@
         "base_upper_code": 82,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "other",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "other",
         "phonation": "plain"
     },
     {
-        "decomposed_regex": "ṛ(?![̀-ͯ])|Ṛ(?![̀-ͯ])",
-        "decomposed_string": "ṛ",
-        "decomposed_upper_string": "Ṛ",
+        "decomposed_regex": "ṛ(?![̀-ͯ])|Ṛ(?![̀-ͯ])",
+        "decomposed_string": "ṛ",
+        "decomposed_upper_string": "Ṛ",
         "decomposed_codepoints": [
             114,
             803
@@ -846,9 +846,9 @@
         "decomposed_accent_codes": [
             803
         ],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "other",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "other",
         "phonation": "emphatic"
     },
     {
@@ -875,15 +875,15 @@
         "base_upper_code": 83,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "sibilant",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "sibilant",
         "phonation": "unvoiced"
     },
     {
-        "decomposed_regex": "š(?![̀-ͯ])|Š(?![̀-ͯ])",
-        "decomposed_string": "š",
-        "decomposed_upper_string": "Š",
+        "decomposed_regex": "š(?![̀-ͯ])|Š(?![̀-ͯ])",
+        "decomposed_string": "š",
+        "decomposed_upper_string": "Š",
         "decomposed_codepoints": [
             115,
             780
@@ -908,15 +908,15 @@
         "decomposed_accent_codes": [
             780
         ],
-        "class": "consonant",
-        "point": "palatal-alveolar",
-        "manner": "sibilant",
+        "phonetic_class": "consonant",
+        "phonetic_place": "palatal-alveolar",
+        "phonetic_manner": "sibilant",
         "phonation": "unvoiced"
     },
     {
-        "decomposed_regex": "ṣ(?![̀-ͯ])|Ṣ(?![̀-ͯ])",
-        "decomposed_string": "ṣ",
-        "decomposed_upper_string": "Ṣ",
+        "decomposed_regex": "ṣ(?![̀-ͯ])|Ṣ(?![̀-ͯ])",
+        "decomposed_string": "ṣ",
+        "decomposed_upper_string": "Ṣ",
         "decomposed_codepoints": [
             115,
             803
@@ -941,9 +941,9 @@
         "decomposed_accent_codes": [
             803
         ],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "sibilant",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "sibilant",
         "phonation": "emphatic"
     },
     {
@@ -970,15 +970,15 @@
         "base_upper_code": 84,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "affricative",
         "phonation": "unvoiced_aspirated"
     },
     {
-        "decomposed_regex": "ṭ(?![̀-ͯ])|Ṭ(?![̀-ͯ])",
-        "decomposed_string": "ṭ",
-        "decomposed_upper_string": "Ṭ",
+        "decomposed_regex": "ṭ(?![̀-ͯ])|Ṭ(?![̀-ͯ])",
+        "decomposed_string": "ṭ",
+        "decomposed_upper_string": "Ṭ",
         "decomposed_codepoints": [
             116,
             803
@@ -1003,15 +1003,15 @@
         "decomposed_accent_codes": [
             803
         ],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "affricative",
         "phonation": "emphatic"
     },
     {
-        "decomposed_regex": "ṱ(?![̀-ͯ])|Ṱ(?![̀-ͯ])",
-        "decomposed_string": "ṱ",
-        "decomposed_upper_string": "Ṱ",
+        "decomposed_regex": "ṱ(?![̀-ͯ])|Ṱ(?![̀-ͯ])",
+        "decomposed_string": "ṱ",
+        "decomposed_upper_string": "Ṱ",
         "decomposed_codepoints": [
             116,
             813
@@ -1036,9 +1036,9 @@
         "decomposed_accent_codes": [
             813
         ],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "affricative",
         "phonation": "unvoiced_unaspirated"
     },
     {
@@ -1065,9 +1065,9 @@
         "base_upper_code": 86,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "labial",
-        "manner": "fricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "labial",
+        "phonetic_manner": "fricative",
         "phonation": "voiced"
     },
     {
@@ -1094,9 +1094,9 @@
         "base_upper_code": 87,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "labial",
-        "manner": "other",
+        "phonetic_class": "consonant",
+        "phonetic_place": "labial",
+        "phonetic_manner": "other",
         "phonation": "plain"
     },
     {
@@ -1123,9 +1123,9 @@
         "base_upper_code": 88,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "velar",
-        "manner": "fricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "velar",
+        "phonetic_manner": "fricative",
         "phonation": "unvoiced"
     },
     {
@@ -1152,9 +1152,9 @@
         "base_upper_code": 89,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "palatal",
-        "manner": "other",
+        "phonetic_class": "consonant",
+        "phonetic_place": "palatal",
+        "phonetic_manner": "other",
         "phonation": "plain"
     },
     {
@@ -1181,15 +1181,15 @@
         "base_upper_code": 90,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "sibilant",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "sibilant",
         "phonation": "voiced"
     },
     {
-        "decomposed_regex": "ž(?![̀-ͯ])|Ž(?![̀-ͯ])",
-        "decomposed_string": "ž",
-        "decomposed_upper_string": "Ž",
+        "decomposed_regex": "ž(?![̀-ͯ])|Ž(?![̀-ͯ])",
+        "decomposed_string": "ž",
+        "decomposed_upper_string": "Ž",
         "decomposed_codepoints": [
             122,
             780
@@ -1214,15 +1214,15 @@
         "decomposed_accent_codes": [
             780
         ],
-        "class": "consonant",
-        "point": "palatal-alveolar",
-        "manner": "sibilant",
+        "phonetic_class": "consonant",
+        "phonetic_place": "palatal-alveolar",
+        "phonetic_manner": "sibilant",
         "phonation": "voiced"
     },
     {
-        "decomposed_regex": "ẓ(?![̀-ͯ])|Ẓ(?![̀-ͯ])",
-        "decomposed_string": "ẓ",
-        "decomposed_upper_string": "Ẓ",
+        "decomposed_regex": "ẓ(?![̀-ͯ])|Ẓ(?![̀-ͯ])",
+        "decomposed_string": "ẓ",
+        "decomposed_upper_string": "Ẓ",
         "decomposed_codepoints": [
             122,
             803
@@ -1247,9 +1247,9 @@
         "decomposed_accent_codes": [
             803
         ],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "sibilant",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "sibilant",
         "phonation": "emphatic"
     },
     {
@@ -1276,9 +1276,9 @@
         "base_upper_code": 208,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "fricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "fricative",
         "phonation": "voiced"
     },
     {
@@ -1311,9 +1311,9 @@
         "decomposed_accent_codes": [
             803
         ],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "fricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "fricative",
         "phonation": "emphatic"
     },
     {
@@ -1340,9 +1340,9 @@
         "base_upper_code": 607,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "palatal",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "palatal",
+        "phonetic_manner": "affricative",
         "phonation": "voiced"
     },
     {
@@ -1369,9 +1369,9 @@
         "base_upper_code": 702,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "laryngeal",
-        "manner": "affricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "laryngeal",
+        "phonetic_manner": "affricative",
         "phonation": "unvoiced_aspirated"
     },
     {
@@ -1398,9 +1398,9 @@
         "base_upper_code": 703,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "pharyngeal",
-        "manner": "fricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "pharyngeal",
+        "phonetic_manner": "fricative",
         "phonation": "emphatic"
     },
     {
@@ -1427,9 +1427,9 @@
         "base_upper_code": 920,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "consonant",
-        "point": "dental-alveolar",
-        "manner": "fricative",
+        "phonetic_class": "consonant",
+        "phonetic_place": "dental-alveolar",
+        "phonetic_manner": "fricative",
         "phonation": "unvoiced"
     },
     {
@@ -1456,12 +1456,12 @@
         "base_upper_code": 65,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
-        "decomposed_string": "à",
-        "decomposed_upper_string": "À",
+        "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
+        "decomposed_string": "à",
+        "decomposed_upper_string": "À",
         "decomposed_codepoints": [
             97,
             768
@@ -1486,12 +1486,12 @@
         "decomposed_accent_codes": [
             768
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
-        "decomposed_string": "á",
-        "decomposed_upper_string": "Á",
+        "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
+        "decomposed_string": "á",
+        "decomposed_upper_string": "Á",
         "decomposed_codepoints": [
             97,
             769
@@ -1516,12 +1516,12 @@
         "decomposed_accent_codes": [
             769
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ā(?![̀-ͯ])|Ā(?![̀-ͯ])",
-        "decomposed_string": "ā",
-        "decomposed_upper_string": "Ā",
+        "decomposed_regex": "ā(?![̀-ͯ])|Ā(?![̀-ͯ])",
+        "decomposed_string": "ā",
+        "decomposed_upper_string": "Ā",
         "decomposed_codepoints": [
             97,
             772
@@ -1546,12 +1546,12 @@
         "decomposed_accent_codes": [
             772
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ă(?![̀-ͯ])|Ă(?![̀-ͯ])",
-        "decomposed_string": "ă",
-        "decomposed_upper_string": "Ă",
+        "decomposed_regex": "ă(?![̀-ͯ])|Ă(?![̀-ͯ])",
+        "decomposed_string": "ă",
+        "decomposed_upper_string": "Ă",
         "decomposed_codepoints": [
             97,
             774
@@ -1576,12 +1576,12 @@
         "decomposed_accent_codes": [
             774
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ā̀(?![̀-ͯ])|Ā̀(?![̀-ͯ])",
-        "decomposed_string": "ā̀",
-        "decomposed_upper_string": "Ā̀",
+        "decomposed_regex": "ā̀(?![̀-ͯ])|Ā̀(?![̀-ͯ])",
+        "decomposed_string": "ā̀",
+        "decomposed_upper_string": "Ā̀",
         "decomposed_codepoints": [
             97,
             772,
@@ -1611,12 +1611,12 @@
             772,
             768
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ā́(?![̀-ͯ])|Ā́(?![̀-ͯ])",
-        "decomposed_string": "ā́",
-        "decomposed_upper_string": "Ā́",
+        "decomposed_regex": "ā́(?![̀-ͯ])|Ā́(?![̀-ͯ])",
+        "decomposed_string": "ā́",
+        "decomposed_upper_string": "Ā́",
         "decomposed_codepoints": [
             97,
             772,
@@ -1646,12 +1646,12 @@
             772,
             769
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ằ(?![̀-ͯ])|Ằ(?![̀-ͯ])",
-        "decomposed_string": "ằ",
-        "decomposed_upper_string": "Ằ",
+        "decomposed_regex": "ằ(?![̀-ͯ])|Ằ(?![̀-ͯ])",
+        "decomposed_string": "ằ",
+        "decomposed_upper_string": "Ằ",
         "decomposed_codepoints": [
             97,
             774,
@@ -1679,12 +1679,12 @@
             774,
             768
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ắ(?![̀-ͯ])|Ắ(?![̀-ͯ])",
-        "decomposed_string": "ắ",
-        "decomposed_upper_string": "Ắ",
+        "decomposed_regex": "ắ(?![̀-ͯ])|Ắ(?![̀-ͯ])",
+        "decomposed_string": "ắ",
+        "decomposed_upper_string": "Ắ",
         "decomposed_codepoints": [
             97,
             774,
@@ -1712,7 +1712,7 @@
             774,
             769
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
         "decomposed_regex": "e(?![̀-ͯ])|E(?![̀-ͯ])",
@@ -1738,12 +1738,12 @@
         "base_upper_code": 69,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "è(?![̀-ͯ])|È(?![̀-ͯ])",
-        "decomposed_string": "è",
-        "decomposed_upper_string": "È",
+        "decomposed_regex": "è(?![̀-ͯ])|È(?![̀-ͯ])",
+        "decomposed_string": "è",
+        "decomposed_upper_string": "È",
         "decomposed_codepoints": [
             101,
             768
@@ -1768,12 +1768,12 @@
         "decomposed_accent_codes": [
             768
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "é(?![̀-ͯ])|É(?![̀-ͯ])",
-        "decomposed_string": "é",
-        "decomposed_upper_string": "É",
+        "decomposed_regex": "é(?![̀-ͯ])|É(?![̀-ͯ])",
+        "decomposed_string": "é",
+        "decomposed_upper_string": "É",
         "decomposed_codepoints": [
             101,
             769
@@ -1798,12 +1798,12 @@
         "decomposed_accent_codes": [
             769
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ē(?![̀-ͯ])|Ē(?![̀-ͯ])",
-        "decomposed_string": "ē",
-        "decomposed_upper_string": "Ē",
+        "decomposed_regex": "ē(?![̀-ͯ])|Ē(?![̀-ͯ])",
+        "decomposed_string": "ē",
+        "decomposed_upper_string": "Ē",
         "decomposed_codepoints": [
             101,
             772
@@ -1828,12 +1828,12 @@
         "decomposed_accent_codes": [
             772
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ḕ(?![̀-ͯ])|Ḕ(?![̀-ͯ])",
-        "decomposed_string": "ḕ",
-        "decomposed_upper_string": "Ḕ",
+        "decomposed_regex": "ḕ(?![̀-ͯ])|Ḕ(?![̀-ͯ])",
+        "decomposed_string": "ḕ",
+        "decomposed_upper_string": "Ḕ",
         "decomposed_codepoints": [
             101,
             772,
@@ -1861,12 +1861,12 @@
             772,
             768
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ḗ(?![̀-ͯ])|Ḗ(?![̀-ͯ])",
-        "decomposed_string": "ḗ",
-        "decomposed_upper_string": "Ḗ",
+        "decomposed_regex": "ḗ(?![̀-ͯ])|Ḗ(?![̀-ͯ])",
+        "decomposed_string": "ḗ",
+        "decomposed_upper_string": "Ḗ",
         "decomposed_codepoints": [
             101,
             772,
@@ -1894,7 +1894,7 @@
             772,
             769
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
         "decomposed_regex": "i(?![̀-ͯ])|I(?![̀-ͯ])",
@@ -1920,12 +1920,12 @@
         "base_upper_code": 73,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ì(?![̀-ͯ])|Ì(?![̀-ͯ])",
-        "decomposed_string": "ì",
-        "decomposed_upper_string": "Ì",
+        "decomposed_regex": "ì(?![̀-ͯ])|Ì(?![̀-ͯ])",
+        "decomposed_string": "ì",
+        "decomposed_upper_string": "Ì",
         "decomposed_codepoints": [
             105,
             768
@@ -1950,12 +1950,12 @@
         "decomposed_accent_codes": [
             768
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "í(?![̀-ͯ])|Í(?![̀-ͯ])",
-        "decomposed_string": "í",
-        "decomposed_upper_string": "Í",
+        "decomposed_regex": "í(?![̀-ͯ])|Í(?![̀-ͯ])",
+        "decomposed_string": "í",
+        "decomposed_upper_string": "Í",
         "decomposed_codepoints": [
             105,
             769
@@ -1980,12 +1980,12 @@
         "decomposed_accent_codes": [
             769
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ī(?![̀-ͯ])|Ī(?![̀-ͯ])",
-        "decomposed_string": "ī",
-        "decomposed_upper_string": "Ī",
+        "decomposed_regex": "ī(?![̀-ͯ])|Ī(?![̀-ͯ])",
+        "decomposed_string": "ī",
+        "decomposed_upper_string": "Ī",
         "decomposed_codepoints": [
             105,
             772
@@ -2010,12 +2010,12 @@
         "decomposed_accent_codes": [
             772
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ī̀(?![̀-ͯ])|Ī̀(?![̀-ͯ])",
-        "decomposed_string": "ī̀",
-        "decomposed_upper_string": "Ī̀",
+        "decomposed_regex": "ī̀(?![̀-ͯ])|Ī̀(?![̀-ͯ])",
+        "decomposed_string": "ī̀",
+        "decomposed_upper_string": "Ī̀",
         "decomposed_codepoints": [
             105,
             772,
@@ -2045,12 +2045,12 @@
             772,
             768
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ī́(?![̀-ͯ])|Ī́(?![̀-ͯ])",
-        "decomposed_string": "ī́",
-        "decomposed_upper_string": "Ī́",
+        "decomposed_regex": "ī́(?![̀-ͯ])|Ī́(?![̀-ͯ])",
+        "decomposed_string": "ī́",
+        "decomposed_upper_string": "Ī́",
         "decomposed_codepoints": [
             105,
             772,
@@ -2080,7 +2080,7 @@
             772,
             769
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
         "decomposed_regex": "o(?![̀-ͯ])|O(?![̀-ͯ])",
@@ -2106,12 +2106,12 @@
         "base_upper_code": 79,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ò(?![̀-ͯ])|Ò(?![̀-ͯ])",
-        "decomposed_string": "ò",
-        "decomposed_upper_string": "Ò",
+        "decomposed_regex": "ò(?![̀-ͯ])|Ò(?![̀-ͯ])",
+        "decomposed_string": "ò",
+        "decomposed_upper_string": "Ò",
         "decomposed_codepoints": [
             111,
             768
@@ -2136,12 +2136,12 @@
         "decomposed_accent_codes": [
             768
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ó(?![̀-ͯ])|Ó(?![̀-ͯ])",
-        "decomposed_string": "ó",
-        "decomposed_upper_string": "Ó",
+        "decomposed_regex": "ó(?![̀-ͯ])|Ó(?![̀-ͯ])",
+        "decomposed_string": "ó",
+        "decomposed_upper_string": "Ó",
         "decomposed_codepoints": [
             111,
             769
@@ -2166,12 +2166,12 @@
         "decomposed_accent_codes": [
             769
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ō(?![̀-ͯ])|Ō(?![̀-ͯ])",
-        "decomposed_string": "ō",
-        "decomposed_upper_string": "Ō",
+        "decomposed_regex": "ō(?![̀-ͯ])|Ō(?![̀-ͯ])",
+        "decomposed_string": "ō",
+        "decomposed_upper_string": "Ō",
         "decomposed_codepoints": [
             111,
             772
@@ -2196,12 +2196,12 @@
         "decomposed_accent_codes": [
             772
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ṑ(?![̀-ͯ])|Ṑ(?![̀-ͯ])",
-        "decomposed_string": "ṑ",
-        "decomposed_upper_string": "Ṑ",
+        "decomposed_regex": "ṑ(?![̀-ͯ])|Ṑ(?![̀-ͯ])",
+        "decomposed_string": "ṑ",
+        "decomposed_upper_string": "Ṑ",
         "decomposed_codepoints": [
             111,
             772,
@@ -2229,12 +2229,12 @@
             772,
             768
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ṓ(?![̀-ͯ])|Ṓ(?![̀-ͯ])",
-        "decomposed_string": "ṓ",
-        "decomposed_upper_string": "Ṓ",
+        "decomposed_regex": "ṓ(?![̀-ͯ])|Ṓ(?![̀-ͯ])",
+        "decomposed_string": "ṓ",
+        "decomposed_upper_string": "Ṓ",
         "decomposed_codepoints": [
             111,
             772,
@@ -2262,7 +2262,7 @@
             772,
             769
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
         "decomposed_regex": "u(?![̀-ͯ])|U(?![̀-ͯ])",
@@ -2288,12 +2288,12 @@
         "base_upper_code": 85,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ù(?![̀-ͯ])|Ù(?![̀-ͯ])",
-        "decomposed_string": "ù",
-        "decomposed_upper_string": "Ù",
+        "decomposed_regex": "ù(?![̀-ͯ])|Ù(?![̀-ͯ])",
+        "decomposed_string": "ù",
+        "decomposed_upper_string": "Ù",
         "decomposed_codepoints": [
             117,
             768
@@ -2318,12 +2318,12 @@
         "decomposed_accent_codes": [
             768
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ú(?![̀-ͯ])|Ú(?![̀-ͯ])",
-        "decomposed_string": "ú",
-        "decomposed_upper_string": "Ú",
+        "decomposed_regex": "ú(?![̀-ͯ])|Ú(?![̀-ͯ])",
+        "decomposed_string": "ú",
+        "decomposed_upper_string": "Ú",
         "decomposed_codepoints": [
             117,
             769
@@ -2348,12 +2348,12 @@
         "decomposed_accent_codes": [
             769
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ū(?![̀-ͯ])|Ū(?![̀-ͯ])",
-        "decomposed_string": "ū",
-        "decomposed_upper_string": "Ū",
+        "decomposed_regex": "ū(?![̀-ͯ])|Ū(?![̀-ͯ])",
+        "decomposed_string": "ū",
+        "decomposed_upper_string": "Ū",
         "decomposed_codepoints": [
             117,
             772
@@ -2378,12 +2378,12 @@
         "decomposed_accent_codes": [
             772
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ŭ(?![̀-ͯ])|Ŭ(?![̀-ͯ])",
-        "decomposed_string": "ŭ",
-        "decomposed_upper_string": "Ŭ",
+        "decomposed_regex": "ŭ(?![̀-ͯ])|Ŭ(?![̀-ͯ])",
+        "decomposed_string": "ŭ",
+        "decomposed_upper_string": "Ŭ",
         "decomposed_codepoints": [
             117,
             774
@@ -2408,12 +2408,12 @@
         "decomposed_accent_codes": [
             774
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ū̀(?![̀-ͯ])|Ū̀(?![̀-ͯ])",
-        "decomposed_string": "ū̀",
-        "decomposed_upper_string": "Ū̀",
+        "decomposed_regex": "ū̀(?![̀-ͯ])|Ū̀(?![̀-ͯ])",
+        "decomposed_string": "ū̀",
+        "decomposed_upper_string": "Ū̀",
         "decomposed_codepoints": [
             117,
             772,
@@ -2443,12 +2443,12 @@
             772,
             768
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ū́(?![̀-ͯ])|Ū́(?![̀-ͯ])",
-        "decomposed_string": "ū́",
-        "decomposed_upper_string": "Ū́",
+        "decomposed_regex": "ū́(?![̀-ͯ])|Ū́(?![̀-ͯ])",
+        "decomposed_string": "ū́",
+        "decomposed_upper_string": "Ū́",
         "decomposed_codepoints": [
             117,
             772,
@@ -2478,12 +2478,12 @@
             772,
             769
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ŭ̀(?![̀-ͯ])|Ŭ̀(?![̀-ͯ])",
-        "decomposed_string": "ŭ̀",
-        "decomposed_upper_string": "Ŭ̀",
+        "decomposed_regex": "ŭ̀(?![̀-ͯ])|Ŭ̀(?![̀-ͯ])",
+        "decomposed_string": "ŭ̀",
+        "decomposed_upper_string": "Ŭ̀",
         "decomposed_codepoints": [
             117,
             774,
@@ -2513,12 +2513,12 @@
             774,
             768
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
-        "decomposed_regex": "ŭ́(?![̀-ͯ])|Ŭ́(?![̀-ͯ])",
-        "decomposed_string": "ŭ́",
-        "decomposed_upper_string": "Ŭ́",
+        "decomposed_regex": "ŭ́(?![̀-ͯ])|Ŭ́(?![̀-ͯ])",
+        "decomposed_string": "ŭ́",
+        "decomposed_upper_string": "Ŭ́",
         "decomposed_codepoints": [
             117,
             774,
@@ -2548,7 +2548,7 @@
             774,
             769
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
         "decomposed_regex": "ə(?![̀-ͯ])|Ə(?![̀-ͯ])",
@@ -2574,7 +2574,7 @@
         "base_upper_code": 399,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
         "decomposed_regex": "ə̀(?![̀-ͯ])|Ə̀(?![̀-ͯ])",
@@ -2606,7 +2606,7 @@
         "decomposed_accent_codes": [
             768
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
         "decomposed_regex": "ə́(?![̀-ͯ])|Ə́(?![̀-ͯ])",
@@ -2638,7 +2638,7 @@
         "decomposed_accent_codes": [
             769
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
         "decomposed_regex": "ɛ(?![̀-ͯ])|Ɛ(?![̀-ͯ])",
@@ -2664,7 +2664,7 @@
         "base_upper_code": 400,
         "decomposed_accent_string": "",
         "decomposed_accent_codes": [],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
         "decomposed_regex": "ɛ̀(?![̀-ͯ])|Ɛ̀(?![̀-ͯ])",
@@ -2696,7 +2696,7 @@
         "decomposed_accent_codes": [
             768
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
         "decomposed_regex": "ɛ́(?![̀-ͯ])|Ɛ́(?![̀-ͯ])",
@@ -2728,7 +2728,7 @@
         "decomposed_accent_codes": [
             769
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     },
     {
         "decomposed_regex": "ɛ̄(?![̀-ͯ])|Ɛ̄(?![̀-ͯ])",
@@ -2760,6 +2760,6 @@
         "decomposed_accent_codes": [
             772
         ],
-        "class": "vowel"
+        "phonetic_class": "vowel"
     }
 ]
