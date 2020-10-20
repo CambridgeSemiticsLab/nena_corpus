@@ -84,6 +84,26 @@
             "about": "fuzzy transcription of punctuation or other stylistic text at the end of a letter or word, excluding intonation boundary markers; see also trans_l",
             "value": "text"
         },
+        "text_nostress_end": {
+            "about": "non-stressed transcription of punctuation or other stylistic text at the end of a letter or word, excluding intonation boundary markers; see also trans_l",
+            "value": "text"
+        },
+       "text_begin": {
+            "about": "space, punctuation, or other stylistic text at the beginning a letter or word",
+            "value": "text"
+        },
+        "full_begin": {
+            "about": "full transcription of punctuation or other stylistic text at the beginning of a letter or word; see also trans_f",
+            "value": "text"
+        },
+        "lite_begin": {
+            "about": "lite transcription of punctuation or other stylistic text at the beginning of a letter or word, excluding intonation boundary markers; see also trans_l",
+            "value": "text"
+        },
+        "fuzzy_begin": {
+            "about": "fuzzy transcription of punctuation or other stylistic text at the end of a letter or word, excluding intonation boundary markers; see also trans_l",
+            "value": "text"
+        },
         "timestamp": {
             "about": "timestamp in original audio after which a given word is spoken",
             "value": "string"
@@ -159,6 +179,10 @@
         "gloss": {
             "about": "English gloss of a word lemma, if available",
             "value": "string"
+        },
+        "n_parses": {
+            "about": "number of parsings matched to a word's surface form",
+            "value": "integer"
         }
     }
 }   
