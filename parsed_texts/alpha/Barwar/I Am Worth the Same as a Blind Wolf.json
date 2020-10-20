@@ -4405,7 +4405,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": [
           {
@@ -5515,7 +5526,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": [
           {
@@ -8707,7 +8729,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -10908,7 +10941,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": [
           {
@@ -12040,7 +12084,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": [
           {
@@ -13079,7 +13134,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -14198,7 +14264,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -15268,7 +15345,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": [
           {
@@ -16357,7 +16445,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -17448,7 +17547,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -19803,7 +19913,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -20944,7 +21065,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": [
           {
@@ -22036,7 +22168,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -23168,7 +23311,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -24316,7 +24470,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": [
           {
@@ -26528,7 +26693,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -30688,7 +30864,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -32816,7 +33003,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": [
           {
@@ -33942,7 +34140,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": [
           {
@@ -35088,7 +35297,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -38256,7 +38476,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -39328,7 +39559,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": [
           {
@@ -40429,7 +40671,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -41465,7 +41718,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -42522,7 +42786,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -43597,7 +43872,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -44589,7 +44875,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": [
           {
@@ -46782,8 +47079,7 @@
             "full": " ",
             "text": " ",
             "fuzzy": " "
-          },
-          " "
+          }
         ],
         "parsings": [
           {
@@ -47903,7 +48199,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -49860,7 +50167,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": [
           {
@@ -50880,7 +51198,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -52976,7 +53305,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": [
           {
@@ -54054,7 +54394,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
@@ -55211,7 +55562,18 @@
         ],
         "beginnings": [],
         "endings": [
-          " "
+          {
+            "decomposed_regex": " ",
+            "decomposed_string": " ",
+            "class": "separator",
+            "modifies": "word",
+            "position": "end",
+            "lite": " ",
+            "text_nostress": " ",
+            "full": " ",
+            "text": " ",
+            "fuzzy": " "
+          }
         ],
         "parsings": []
       },
