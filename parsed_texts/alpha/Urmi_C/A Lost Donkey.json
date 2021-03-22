@@ -37,11 +37,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           }
         ],
         "beginnings": [],
@@ -150,11 +150,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "l(?![̀-ͯ])|L(?![̀-ͯ])",
@@ -280,11 +280,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "d(?![̀-ͯ])|D(?![̀-ͯ])",
@@ -436,11 +436,11 @@
             "phonetic_place": "palatal-alveolar",
             "phonetic_manner": "sibilant",
             "phonation": "unvoiced",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "$",
+            "text_nostress": "š",
+            "full": "s>",
+            "text": "š",
+            "fuzzy": "s"
           },
           {
             "decomposed_regex": "ə(?![̀-ͯ])|Ə(?![̀-ͯ])",
@@ -514,11 +514,11 @@
             "decomposed_regex": "ú(?![̀-ͯ])|Ú(?![̀-ͯ])",
             "decomposed_string": "ú",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "u",
+            "text_nostress": "u",
+            "full": "u'",
+            "text": "ú",
+            "fuzzy": "u"
           }
         ],
         "beginnings": [],
@@ -583,11 +583,11 @@
             "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
             "decomposed_string": "à",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a`",
+            "text": "à",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "z(?![̀-ͯ])|Z(?![̀-ͯ])",
@@ -702,11 +702,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "r(?![̀-ͯ])|R(?![̀-ͯ])",
@@ -793,11 +793,11 @@
             "decomposed_regex": "ù(?![̀-ͯ])|Ù(?![̀-ͯ])",
             "decomposed_string": "ù",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "u",
+            "text_nostress": "u",
+            "full": "u`",
+            "text": "ù",
+            "fuzzy": "u"
           },
           {
             "decomposed_regex": "k̭(?![̀-ͯ])|K̭(?![̀-ͯ])",
@@ -921,11 +921,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "r(?![̀-ͯ])|R(?![̀-ͯ])",
@@ -1025,11 +1025,11 @@
             "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
             "decomposed_string": "à",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a`",
+            "text": "à",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "k̭(?![̀-ͯ])|K̭(?![̀-ͯ])",
@@ -1176,11 +1176,11 @@
             "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
             "decomposed_string": "à",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a`",
+            "text": "à",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "r(?![̀-ͯ])|R(?![̀-ͯ])",
@@ -1304,11 +1304,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "y(?![̀-ͯ])|Y(?![̀-ͯ])",
@@ -1395,11 +1395,11 @@
             "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
             "decomposed_string": "à",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a`",
+            "text": "à",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "l(?![̀-ͯ])|L(?![̀-ͯ])",
@@ -1556,11 +1556,11 @@
             "decomposed_regex": "ā̀(?![̀-ͯ])|Ā̀(?![̀-ͯ])",
             "decomposed_string": "ā̀",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "A",
+            "text_nostress": "ā",
+            "full": "a_`",
+            "text": "ā̀",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "r(?![̀-ͯ])|R(?![̀-ͯ])",
@@ -1664,11 +1664,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "r(?![̀-ͯ])|R(?![̀-ͯ])",
@@ -1745,11 +1745,11 @@
             "decomposed_regex": "ì(?![̀-ͯ])|Ì(?![̀-ͯ])",
             "decomposed_string": "ì",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "i",
+            "text_nostress": "i",
+            "full": "i`",
+            "text": "ì",
+            "fuzzy": "i"
           },
           {
             "decomposed_regex": "k̭(?![̀-ͯ])|K̭(?![̀-ͯ])",
@@ -1931,11 +1931,11 @@
             "phonetic_place": "palatal-alveolar",
             "phonetic_manner": "affricative",
             "phonation": "unvoiced_aspirated",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "5",
+            "text_nostress": "č",
+            "full": "c>",
+            "text": "č",
+            "fuzzy": "5"
           },
           {
             "decomposed_regex": "ə̀(?![̀-ͯ])|Ə̀(?![̀-ͯ])",
@@ -2034,11 +2034,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           }
         ],
         "beginnings": [],
@@ -2147,11 +2147,11 @@
             "decomposed_regex": "í(?![̀-ͯ])|Í(?![̀-ͯ])",
             "decomposed_string": "í",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "i",
+            "text_nostress": "i",
+            "full": "i'",
+            "text": "í",
+            "fuzzy": "i"
           },
           {
             "decomposed_regex": "n(?![̀-ͯ])|N(?![̀-ͯ])",
@@ -2430,11 +2430,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "r(?![̀-ͯ])|R(?![̀-ͯ])",
@@ -2534,11 +2534,11 @@
             "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
             "decomposed_string": "à",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a`",
+            "text": "à",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "k̭(?![̀-ͯ])|K̭(?![̀-ͯ])",
@@ -2676,11 +2676,11 @@
             "phonetic_place": "palatal-alveolar",
             "phonetic_manner": "sibilant",
             "phonation": "unvoiced",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "$",
+            "text_nostress": "š",
+            "full": "s>",
+            "text": "š",
+            "fuzzy": "s"
           },
           {
             "decomposed_regex": "ə(?![̀-ͯ])|Ə(?![̀-ͯ])",
@@ -2778,11 +2778,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "l(?![̀-ͯ])|L(?![̀-ͯ])",
@@ -2917,11 +2917,11 @@
             "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
             "decomposed_string": "à",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a`",
+            "text": "à",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "r(?![̀-ͯ])|R(?![̀-ͯ])",
@@ -2997,11 +2997,11 @@
             "decomposed_regex": "ō(?![̀-ͯ])|Ō(?![̀-ͯ])",
             "decomposed_string": "ō",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "O",
+            "text_nostress": "ō",
+            "full": "o_",
+            "text": "ō",
+            "fuzzy": "o"
           },
           {
             "decomposed_regex": "d(?![̀-ͯ])|D(?![̀-ͯ])",
@@ -3020,11 +3020,11 @@
             "decomposed_regex": "ā́(?![̀-ͯ])|Ā́(?![̀-ͯ])",
             "decomposed_string": "ā́",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "A",
+            "text_nostress": "ā",
+            "full": "a_'",
+            "text": "ā́",
+            "fuzzy": "a"
           }
         ],
         "beginnings": [
@@ -3061,21 +3061,21 @@
             "phonetic_place": "palatal-alveolar",
             "phonetic_manner": "sibilant",
             "phonation": "unvoiced",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "$",
+            "text_nostress": "š",
+            "full": "s>",
+            "text": "š",
+            "fuzzy": "s"
           },
           {
             "decomposed_regex": "ù(?![̀-ͯ])|Ù(?![̀-ͯ])",
             "decomposed_string": "ù",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "u",
+            "text_nostress": "u",
+            "full": "u`",
+            "text": "ù",
+            "fuzzy": "u"
           },
           {
             "decomposed_regex": "c(?![̀-ͯ])|C(?![̀-ͯ])",
@@ -3158,11 +3158,11 @@
             "decomposed_regex": "ō(?![̀-ͯ])|Ō(?![̀-ͯ])",
             "decomposed_string": "ō",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "O",
+            "text_nostress": "ō",
+            "full": "o_",
+            "text": "ō",
+            "fuzzy": "o"
           },
           {
             "decomposed_regex": "d(?![̀-ͯ])|D(?![̀-ͯ])",
@@ -3181,11 +3181,11 @@
             "decomposed_regex": "ā́(?![̀-ͯ])|Ā́(?![̀-ͯ])",
             "decomposed_string": "ā́",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "A",
+            "text_nostress": "ā",
+            "full": "a_'",
+            "text": "ā́",
+            "fuzzy": "a"
           }
         ],
         "beginnings": [
@@ -3222,21 +3222,21 @@
             "phonetic_place": "palatal-alveolar",
             "phonetic_manner": "sibilant",
             "phonation": "unvoiced",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "$",
+            "text_nostress": "š",
+            "full": "s>",
+            "text": "š",
+            "fuzzy": "s"
           },
           {
             "decomposed_regex": "ù(?![̀-ͯ])|Ù(?![̀-ͯ])",
             "decomposed_string": "ù",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "u",
+            "text_nostress": "u",
+            "full": "u`",
+            "text": "ù",
+            "fuzzy": "u"
           },
           {
             "decomposed_regex": "c(?![̀-ͯ])|C(?![̀-ͯ])",
@@ -3344,11 +3344,11 @@
             "phonetic_place": "palatal-alveolar",
             "phonetic_manner": "sibilant",
             "phonation": "voiced",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "7",
+            "text_nostress": "ž",
+            "full": "z>",
+            "text": "ž",
+            "fuzzy": "z"
           },
           {
             "decomposed_regex": "b(?![̀-ͯ])|B(?![̀-ͯ])",
@@ -3367,11 +3367,11 @@
             "decomposed_regex": "ú(?![̀-ͯ])|Ú(?![̀-ͯ])",
             "decomposed_string": "ú",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "u",
+            "text_nostress": "u",
+            "full": "u'",
+            "text": "ú",
+            "fuzzy": "u"
           },
           {
             "decomposed_regex": "x(?![̀-ͯ])|X(?![̀-ͯ])",
@@ -3542,11 +3542,11 @@
             "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
             "decomposed_string": "à",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a`",
+            "text": "à",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "h(?![̀-ͯ])|H(?![̀-ͯ])",
@@ -3647,11 +3647,11 @@
             "phonetic_place": "palatal-alveolar",
             "phonetic_manner": "sibilant",
             "phonation": "voiced",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "7",
+            "text_nostress": "ž",
+            "full": "z>",
+            "text": "ž",
+            "fuzzy": "z"
           },
           {
             "decomposed_regex": "b(?![̀-ͯ])|B(?![̀-ͯ])",
@@ -3670,11 +3670,11 @@
             "decomposed_regex": "ú(?![̀-ͯ])|Ú(?![̀-ͯ])",
             "decomposed_string": "ú",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "u",
+            "text_nostress": "u",
+            "full": "u'",
+            "text": "ú",
+            "fuzzy": "u"
           },
           {
             "decomposed_regex": "x(?![̀-ͯ])|X(?![̀-ͯ])",
@@ -3845,11 +3845,11 @@
             "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
             "decomposed_string": "à",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a`",
+            "text": "à",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "h(?![̀-ͯ])|H(?![̀-ͯ])",
@@ -3937,11 +3937,11 @@
             "decomposed_regex": "ō(?![̀-ͯ])|Ō(?![̀-ͯ])",
             "decomposed_string": "ō",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "O",
+            "text_nostress": "ō",
+            "full": "o_",
+            "text": "ō",
+            "fuzzy": "o"
           },
           {
             "decomposed_regex": "d(?![̀-ͯ])|D(?![̀-ͯ])",
@@ -3960,11 +3960,11 @@
             "decomposed_regex": "ā́(?![̀-ͯ])|Ā́(?![̀-ͯ])",
             "decomposed_string": "ā́",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "A",
+            "text_nostress": "ā",
+            "full": "a_'",
+            "text": "ā́",
+            "fuzzy": "a"
           }
         ],
         "beginnings": [
@@ -4001,21 +4001,21 @@
             "phonetic_place": "palatal-alveolar",
             "phonetic_manner": "sibilant",
             "phonation": "unvoiced",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "$",
+            "text_nostress": "š",
+            "full": "s>",
+            "text": "š",
+            "fuzzy": "s"
           },
           {
             "decomposed_regex": "ú(?![̀-ͯ])|Ú(?![̀-ͯ])",
             "decomposed_string": "ú",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "u",
+            "text_nostress": "u",
+            "full": "u'",
+            "text": "ú",
+            "fuzzy": "u"
           },
           {
             "decomposed_regex": "c(?![̀-ͯ])|C(?![̀-ͯ])",
@@ -4086,11 +4086,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "n(?![̀-ͯ])|N(?![̀-ͯ])",
@@ -4204,11 +4204,11 @@
             "decomposed_regex": "í(?![̀-ͯ])|Í(?![̀-ͯ])",
             "decomposed_string": "í",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "i",
+            "text_nostress": "i",
+            "full": "i'",
+            "text": "í",
+            "fuzzy": "i"
           },
           {
             "decomposed_regex": "r(?![̀-ͯ])|R(?![̀-ͯ])",
@@ -4275,11 +4275,11 @@
             "phonetic_place": "palatal-alveolar",
             "phonetic_manner": "sibilant",
             "phonation": "unvoiced",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "$",
+            "text_nostress": "š",
+            "full": "s>",
+            "text": "š",
+            "fuzzy": "s"
           },
           {
             "decomposed_regex": "ə́(?![̀-ͯ])|Ə́(?![̀-ͯ])",
@@ -4402,11 +4402,11 @@
             "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
             "decomposed_string": "à",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a`",
+            "text": "à",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "h(?![̀-ͯ])|H(?![̀-ͯ])",
@@ -4495,11 +4495,11 @@
             "decomposed_regex": "í(?![̀-ͯ])|Í(?![̀-ͯ])",
             "decomposed_string": "í",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "i",
+            "text_nostress": "i",
+            "full": "i'",
+            "text": "í",
+            "fuzzy": "i"
           },
           {
             "decomposed_regex": "r(?![̀-ͯ])|R(?![̀-ͯ])",
@@ -4566,11 +4566,11 @@
             "phonetic_place": "palatal-alveolar",
             "phonetic_manner": "sibilant",
             "phonation": "unvoiced",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "$",
+            "text_nostress": "š",
+            "full": "s>",
+            "text": "š",
+            "fuzzy": "s"
           },
           {
             "decomposed_regex": "ə́(?![̀-ͯ])|Ə́(?![̀-ͯ])",
@@ -4693,11 +4693,11 @@
             "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
             "decomposed_string": "à",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a`",
+            "text": "à",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "h(?![̀-ͯ])|H(?![̀-ͯ])",
@@ -4786,11 +4786,11 @@
             "phonetic_place": "palatal-alveolar",
             "phonetic_manner": "sibilant",
             "phonation": "voiced",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "7",
+            "text_nostress": "ž",
+            "full": "z>",
+            "text": "ž",
+            "fuzzy": "z"
           },
           {
             "decomposed_regex": "b(?![̀-ͯ])|B(?![̀-ͯ])",
@@ -4809,11 +4809,11 @@
             "decomposed_regex": "ú(?![̀-ͯ])|Ú(?![̀-ͯ])",
             "decomposed_string": "ú",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "u",
+            "text_nostress": "u",
+            "full": "u'",
+            "text": "ú",
+            "fuzzy": "u"
           },
           {
             "decomposed_regex": "x(?![̀-ͯ])|X(?![̀-ͯ])",
@@ -4984,11 +4984,11 @@
             "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
             "decomposed_string": "à",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a`",
+            "text": "à",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "h(?![̀-ͯ])|H(?![̀-ͯ])",
@@ -5080,11 +5080,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "š(?![̀-ͯ])|Š(?![̀-ͯ])",
@@ -5093,11 +5093,11 @@
             "phonetic_place": "palatal-alveolar",
             "phonetic_manner": "sibilant",
             "phonation": "unvoiced",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "$",
+            "text_nostress": "š",
+            "full": "s>",
+            "text": "š",
+            "fuzzy": "s"
           },
           {
             "decomposed_regex": "ə(?![̀-ͯ])|Ə(?![̀-ͯ])",
@@ -5148,11 +5148,11 @@
             "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
             "decomposed_string": "à",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a`",
+            "text": "à",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "r(?![̀-ͯ])|R(?![̀-ͯ])",
@@ -5273,11 +5273,11 @@
             "decomposed_regex": "ú(?![̀-ͯ])|Ú(?![̀-ͯ])",
             "decomposed_string": "ú",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "u",
+            "text_nostress": "u",
+            "full": "u'",
+            "text": "ú",
+            "fuzzy": "u"
           },
           {
             "decomposed_regex": "d(?![̀-ͯ])|D(?![̀-ͯ])",
@@ -5354,11 +5354,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "r(?![̀-ͯ])|R(?![̀-ͯ])",
@@ -5448,11 +5448,11 @@
             "decomposed_regex": "ì(?![̀-ͯ])|Ì(?![̀-ͯ])",
             "decomposed_string": "ì",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "i",
+            "text_nostress": "i",
+            "full": "i`",
+            "text": "ì",
+            "fuzzy": "i"
           },
           {
             "decomposed_regex": "k̭(?![̀-ͯ])|K̭(?![̀-ͯ])",
@@ -5563,11 +5563,11 @@
             "decomposed_regex": "í(?![̀-ͯ])|Í(?![̀-ͯ])",
             "decomposed_string": "í",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "i",
+            "text_nostress": "i",
+            "full": "i'",
+            "text": "í",
+            "fuzzy": "i"
           },
           {
             "decomposed_regex": "n(?![̀-ͯ])|N(?![̀-ͯ])",
@@ -5631,11 +5631,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "t(?![̀-ͯ])|T(?![̀-ͯ])",
@@ -5702,11 +5702,11 @@
             "phonetic_place": "palatal-alveolar",
             "phonetic_manner": "sibilant",
             "phonation": "voiced",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "7",
+            "text_nostress": "ž",
+            "full": "z>",
+            "text": "ž",
+            "fuzzy": "z"
           },
           {
             "decomposed_regex": "b(?![̀-ͯ])|B(?![̀-ͯ])",
@@ -5725,11 +5725,11 @@
             "decomposed_regex": "ú(?![̀-ͯ])|Ú(?![̀-ͯ])",
             "decomposed_string": "ú",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "u",
+            "text_nostress": "u",
+            "full": "u'",
+            "text": "ú",
+            "fuzzy": "u"
           },
           {
             "decomposed_regex": "x(?![̀-ͯ])|X(?![̀-ͯ])",
@@ -5842,11 +5842,11 @@
             "decomposed_regex": "ú(?![̀-ͯ])|Ú(?![̀-ͯ])",
             "decomposed_string": "ú",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "u",
+            "text_nostress": "u",
+            "full": "u'",
+            "text": "ú",
+            "fuzzy": "u"
           },
           {
             "decomposed_regex": "k̭(?![̀-ͯ])|K̭(?![̀-ͯ])",
@@ -6017,11 +6017,11 @@
             "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
             "decomposed_string": "à",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a`",
+            "text": "à",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "h(?![̀-ͯ])|H(?![̀-ͯ])",
@@ -6109,11 +6109,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "r(?![̀-ͯ])|R(?![̀-ͯ])",
@@ -6190,11 +6190,11 @@
             "phonetic_place": "palatal-alveolar",
             "phonetic_manner": "sibilant",
             "phonation": "voiced",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "7",
+            "text_nostress": "ž",
+            "full": "z>",
+            "text": "ž",
+            "fuzzy": "z"
           },
           {
             "decomposed_regex": "b(?![̀-ͯ])|B(?![̀-ͯ])",
@@ -6213,11 +6213,11 @@
             "decomposed_regex": "ú(?![̀-ͯ])|Ú(?![̀-ͯ])",
             "decomposed_string": "ú",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "u",
+            "text_nostress": "u",
+            "full": "u'",
+            "text": "ú",
+            "fuzzy": "u"
           },
           {
             "decomposed_regex": "x(?![̀-ͯ])|X(?![̀-ͯ])",
@@ -6330,11 +6330,11 @@
             "decomposed_regex": "ú(?![̀-ͯ])|Ú(?![̀-ͯ])",
             "decomposed_string": "ú",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "u",
+            "text_nostress": "u",
+            "full": "u'",
+            "text": "ú",
+            "fuzzy": "u"
           },
           {
             "decomposed_regex": "k̭(?![̀-ͯ])|K̭(?![̀-ͯ])",
@@ -6469,11 +6469,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "n(?![̀-ͯ])|N(?![̀-ͯ])",
@@ -6537,11 +6537,11 @@
             "decomposed_regex": "ḕ(?![̀-ͯ])|Ḕ(?![̀-ͯ])",
             "decomposed_string": "ḕ",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "e",
+            "text_nostress": "ē",
+            "full": "e_`",
+            "text": "ḕ",
+            "fuzzy": "e"
           },
           {
             "decomposed_regex": "n(?![̀-ͯ])|N(?![̀-ͯ])",
@@ -6702,11 +6702,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "r(?![̀-ͯ])|R(?![̀-ͯ])",
@@ -6852,11 +6852,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "v(?![̀-ͯ])|V(?![̀-ͯ])",
@@ -6956,11 +6956,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "n(?![̀-ͯ])|N(?![̀-ͯ])",
@@ -7153,11 +7153,11 @@
             "decomposed_regex": "à(?![̀-ͯ])|À(?![̀-ͯ])",
             "decomposed_string": "à",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a`",
+            "text": "à",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "r(?![̀-ͯ])|R(?![̀-ͯ])",
@@ -7245,11 +7245,11 @@
             "decomposed_regex": "á(?![̀-ͯ])|Á(?![̀-ͯ])",
             "decomposed_string": "á",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "a",
+            "text_nostress": "a",
+            "full": "a'",
+            "text": "á",
+            "fuzzy": "a"
           },
           {
             "decomposed_regex": "y(?![̀-ͯ])|Y(?![̀-ͯ])",
@@ -7419,11 +7419,11 @@
             "decomposed_regex": "ì(?![̀-ͯ])|Ì(?![̀-ͯ])",
             "decomposed_string": "ì",
             "phonetic_class": "vowel",
-            "lite": "",
-            "text_nostress": "",
-            "full": "",
-            "text": "",
-            "fuzzy": ""
+            "lite": "i",
+            "text_nostress": "i",
+            "full": "i`",
+            "text": "ì",
+            "fuzzy": "i"
           },
           {
             "decomposed_regex": "v(?![̀-ͯ])|V(?![̀-ͯ])",
