@@ -144,7 +144,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -232,7 +232,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "man, person; family relative",
-            "lex": "naša",
+            "lemma": "naša",
             "nu": "PL"
           }
         ]
@@ -322,7 +322,7 @@
             "gn": "M",
             "nu": "SG",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾawwa"
+            "lemma": "ʾawwa"
           }
         ]
       },
@@ -727,7 +727,7 @@
               "MODI"
             ],
             "gloss": "a little (quantity); a few (§14.9.7.)",
-            "lex": "xačča"
+            "lemma": "xačča"
           }
         ]
       },
@@ -838,7 +838,7 @@
           {
             "pos": "ADVB",
             "gloss": "finally; afterwards, then; recently",
-            "lex": "xarθa"
+            "lemma": "xarθa"
           }
         ]
       },
@@ -1293,7 +1293,7 @@
           {
             "pos": "PART",
             "gloss": "preverbal particle",
-            "lex": "qəm"
+            "lemma": "qəm"
           }
         ]
       },
@@ -1606,7 +1606,7 @@
               "MODI"
             ],
             "gloss": "a little (quantity); a few (§14.9.7.)",
-            "lex": "xačča"
+            "lemma": "xačča"
           }
         ]
       },
@@ -1682,7 +1682,7 @@
             "nu": "PL",
             "nu_class": "TANT",
             "gloss": "water",
-            "lex": "miya"
+            "lemma": "miya"
           }
         ]
       },
@@ -1908,7 +1908,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "irrigation channel; groove; scar.",
-            "lex": "šaqiθa",
+            "lemma": "šaqiθa",
             "nu": "PL"
           }
         ]
@@ -1972,7 +1972,7 @@
           {
             "pos": "PART",
             "gloss": "preverbal particle",
-            "lex": "qəm"
+            "lemma": "qəm"
           }
         ]
       },
@@ -2161,7 +2161,7 @@
           {
             "pos": "ADVB",
             "gloss": "there",
-            "lex": "tama"
+            "lemma": "tama"
           }
         ]
       },
@@ -2514,7 +2514,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "irrigation channel; groove; scar.",
-            "lex": "šaqiθa",
+            "lemma": "šaqiθa",
             "nu": "PL"
           }
         ]
@@ -2568,12 +2568,12 @@
             "gn": "M",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾaw.2"
+            "lemma": "ʾaw.2"
           },
           {
             "pos": "PART",
             "gloss": "vocative particle",
-            "lex": "ʾo"
+            "lemma": "ʾo"
           }
         ]
       },
@@ -2652,7 +2652,7 @@
               "MODI"
             ],
             "gloss": "other, another; more; again; discourse particle.",
-            "lex": "xena"
+            "lemma": "xena"
           }
         ]
       },
@@ -2867,7 +2867,7 @@
           {
             "pos": "ADVB",
             "gloss": "finally; afterwards, then; recently",
-            "lex": "xarθa"
+            "lemma": "xarθa"
           }
         ]
       },
@@ -3149,7 +3149,7 @@
           {
             "pos": "PART",
             "gloss": "presentative particle; but; otherwise (§18.1.5.).",
-            "lex": "ʾina"
+            "lemma": "ʾina"
           }
         ]
       },
@@ -3374,7 +3374,7 @@
           {
             "pos": "ADVB",
             "gloss": "beyond; onwards",
-            "lex": "hodəx"
+            "lemma": "hodəx"
           }
         ]
       },
@@ -3518,7 +3518,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "irrigation channel; groove; scar.",
-            "lex": "šaqiθa",
+            "lemma": "šaqiθa",
             "nu": "PL"
           }
         ]
@@ -3651,7 +3651,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -3762,28 +3762,28 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           }
         ]
@@ -3955,7 +3955,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "side",
-            "lex": "gota",
+            "lemma": "gota",
             "nu": "PL"
           }
         ]
@@ -4042,28 +4042,28 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           }
         ]
@@ -4370,7 +4370,7 @@
           {
             "pos": "ADVB",
             "gloss": "beyond; onwards",
-            "lex": "hodəx"
+            "lemma": "hodəx"
           }
         ]
       },
@@ -4526,7 +4526,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "irrigation channel; groove; scar.",
-            "lex": "šaqiθa",
+            "lemma": "šaqiθa",
             "nu": "PL"
           }
         ]
@@ -4763,7 +4763,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -4874,7 +4874,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "scorpion",
-            "lex": "ʾaqərwa"
+            "lemma": "ʾaqərwa"
           }
         ]
       },
@@ -4949,7 +4949,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "back; waist",
-            "lex": "xaṣa",
+            "lemma": "xaṣa",
             "nu": "PL"
           }
         ]
@@ -5197,7 +5197,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "back; waist",
-            "lex": "xaṣa",
+            "lemma": "xaṣa",
             "nu": "PL"
           }
         ]
@@ -5329,7 +5329,7 @@
           {
             "pos": "PART",
             "gloss": "and",
-            "lex": "w"
+            "lemma": "w"
           }
         ]
       },
@@ -5644,7 +5644,7 @@
             "nu": "PL",
             "nu_class": "TANT",
             "gloss": "water",
-            "lex": "miya"
+            "lemma": "miya"
           }
         ]
       },
@@ -5823,7 +5823,7 @@
           {
             "pos": "ADVB",
             "gloss": "here",
-            "lex": "laxxa"
+            "lemma": "laxxa"
           }
         ]
       },
@@ -6036,7 +6036,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "man, person; family relative",
-            "lex": "naša",
+            "lemma": "naša",
             "nu": "PL"
           }
         ]
@@ -6252,7 +6252,7 @@
           {
             "pos": "ADVB",
             "gloss": "here",
-            "lex": "tamma"
+            "lemma": "tamma"
           }
         ]
       },
@@ -6362,7 +6362,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "scorpion",
-            "lex": "ʾaqərwa"
+            "lemma": "ʾaqərwa"
           }
         ]
       },
@@ -6681,28 +6681,28 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           }
         ]
@@ -6903,7 +6903,7 @@
           {
             "pos": "PART",
             "gloss": "intensifying particle (§17.9.2.)",
-            "lex": "xo"
+            "lemma": "xo"
           }
         ]
       },
@@ -7137,7 +7137,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "child",
-            "lex": "yala",
+            "lemma": "yala",
             "nu": "PL"
           }
         ]
@@ -7193,7 +7193,7 @@
           {
             "pos": "PART",
             "gloss": "and",
-            "lex": "w"
+            "lemma": "w"
           }
         ]
       },
@@ -7337,7 +7337,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -7800,7 +7800,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "child",
-            "lex": "yala",
+            "lemma": "yala",
             "nu": "PL"
           }
         ]
@@ -8061,7 +8061,7 @@
             "gn": "F",
             "nu": "SG",
             "gloss": "far deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾăyaha"
+            "lemma": "ʾăyaha"
           }
         ]
       },
@@ -8171,7 +8171,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "scorpion",
-            "lex": "ʾaqərwa"
+            "lemma": "ʾaqərwa"
           }
         ]
       },
@@ -8352,7 +8352,7 @@
             "gn": "F",
             "nu": "SG",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾayya"
+            "lemma": "ʾayya"
           }
         ]
       },
@@ -8438,28 +8438,28 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           }
         ]
@@ -8755,7 +8755,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "scorpion",
-            "lex": "ʾaqərwa"
+            "lemma": "ʾaqərwa"
           }
         ]
       },
@@ -8854,14 +8854,14 @@
           {
             "pos": "MODI",
             "gloss": "which?",
-            "lex": "ʾay"
+            "lemma": "ʾay"
           },
           {
             "pos": "PRON",
             "gn": "F",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾay.2"
+            "lemma": "ʾay.2"
           }
         ]
       },
@@ -9006,7 +9006,7 @@
           {
             "pos": "ADVB",
             "gloss": "beyond; onwards",
-            "lex": "hodəx"
+            "lemma": "hodəx"
           }
         ]
       },
@@ -9106,7 +9106,7 @@
             "nu": "PL",
             "nu_class": "TANT",
             "gloss": "water",
-            "lex": "miya"
+            "lemma": "miya"
           }
         ]
       },
@@ -9297,7 +9297,7 @@
           {
             "pos": "ADVB",
             "gloss": "here",
-            "lex": "laxxa"
+            "lemma": "laxxa"
           }
         ]
       },
@@ -9951,7 +9951,7 @@
             "gn": "F",
             "nu": "SG",
             "gloss": "far deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾăyaha"
+            "lemma": "ʾăyaha"
           }
         ]
       },
@@ -10085,7 +10085,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "scorpion",
-            "lex": "ʾaqərwa"
+            "lemma": "ʾaqərwa"
           }
         ]
       },
@@ -10172,7 +10172,7 @@
           {
             "pos": "ADVB",
             "gloss": "finally; afterwards, then; recently",
-            "lex": "xarθa"
+            "lemma": "xarθa"
           }
         ]
       },
@@ -10223,7 +10223,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -10275,14 +10275,14 @@
           {
             "pos": "PART",
             "gloss": "almost, about to; connective particle (§15.1.1.11., §18.1.6.).",
-            "lex": "ga"
+            "lemma": "ga"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "time, instance",
             "lang": "K.",
-            "lex": "ga.2",
+            "lemma": "ga.2",
             "nu": "PL"
           }
         ]
@@ -10615,7 +10615,7 @@
           {
             "pos": "ADJV",
             "gloss": "thanked",
-            "lex": "škira"
+            "lemma": "škira"
           }
         ]
       },
@@ -10761,19 +10761,19 @@
             "pos": "PART",
             "gloss": "vocative particle",
             "lang": "A.",
-            "lex": "ya"
+            "lemma": "ya"
           },
           {
             "pos": "PART",
             "gloss": "which?",
             "lang": "A.",
-            "lex": "ya.2"
+            "lemma": "ya.2"
           },
           {
             "pos": "PART",
             "gloss": "or",
             "lang": "K.",
-            "lex": "yan"
+            "lemma": "yan"
           }
         ]
       },
@@ -10895,7 +10895,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "God (§5.3.)",
-            "lex": "ʾalaha"
+            "lemma": "ʾalaha"
           }
         ]
       },
@@ -10959,7 +10959,7 @@
           {
             "pos": "PART",
             "gloss": "if (§19.5.); either/or (§19.5.6.1.); interrogative particle.",
-            "lex": "ʾən"
+            "lemma": "ʾən"
           }
         ]
       },
@@ -11034,7 +11034,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "you",
-            "lex": "ʾati"
+            "lemma": "ʾati"
           }
         ]
       },
@@ -11492,7 +11492,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "road; way.",
-            "lex": "ʾurxa"
+            "lemma": "ʾurxa"
           }
         ]
       },
@@ -11685,7 +11685,7 @@
             "gn": "F",
             "nu": "SG",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾayya"
+            "lemma": "ʾayya"
           }
         ]
       },
@@ -11771,28 +11771,28 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "frog",
-            "lex": "pəqqa",
+            "lemma": "pəqqa",
             "nu": "PL"
           }
         ]
@@ -12169,7 +12169,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "side",
-            "lex": "gota",
+            "lemma": "gota",
             "nu": "PL"
           }
         ]
@@ -12359,7 +12359,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "irrigation channel; groove; scar.",
-            "lex": "šaqiθa",
+            "lemma": "šaqiθa",
             "nu": "PL"
           }
         ]
@@ -12573,7 +12573,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "scorpion",
-            "lex": "ʾaqərwa"
+            "lemma": "ʾaqərwa"
           }
         ]
       },
@@ -12683,7 +12683,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "back; waist",
-            "lex": "xaṣa",
+            "lemma": "xaṣa",
             "nu": "PL"
           }
         ]
@@ -13059,7 +13059,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "side",
-            "lex": "gota",
+            "lemma": "gota",
             "nu": "PL"
           }
         ]
@@ -13111,7 +13111,7 @@
           {
             "pos": "PART",
             "gloss": "and",
-            "lex": "w"
+            "lemma": "w"
           }
         ]
       },
@@ -13708,19 +13708,19 @@
             "pos": "PART",
             "gloss": "vocative particle",
             "lang": "A.",
-            "lex": "ya"
+            "lemma": "ya"
           },
           {
             "pos": "PART",
             "gloss": "which?",
             "lang": "A.",
-            "lex": "ya.2"
+            "lemma": "ya.2"
           },
           {
             "pos": "PART",
             "gloss": "or",
             "lang": "K.",
-            "lex": "yan"
+            "lemma": "yan"
           }
         ]
       },
@@ -13842,7 +13842,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "God (§5.3.)",
-            "lex": "ʾalaha"
+            "lemma": "ʾalaha"
           }
         ]
       },
@@ -13907,7 +13907,7 @@
             "pos": "PART",
             "gloss": "always; again; still; as soon as; directly; just, only; the same; surely (§15.11.).",
             "lang": "K.",
-            "lex": "har"
+            "lemma": "har"
           }
         ]
       },
@@ -14018,7 +14018,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "will (of God)",
-            "lex": "ʾəjbona"
+            "lemma": "ʾəjbona"
           }
         ]
       },
@@ -14326,12 +14326,12 @@
             "gn": "M",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾaw.2"
+            "lemma": "ʾaw.2"
           },
           {
             "pos": "PART",
             "gloss": "vocative particle",
-            "lex": "ʾo"
+            "lemma": "ʾo"
           }
         ]
       },
@@ -14464,12 +14464,12 @@
             "gn": "F",
             "gloss": "side, direction",
             "lang": "K.",
-            "lex": "la"
+            "lemma": "la"
           },
           {
             "pos": "PART",
             "gloss": "no (variants laʾ, laʾa), not; neither/nor; asseverative particle.",
-            "lex": "la.2"
+            "lemma": "la.2"
           }
         ]
       },
@@ -14532,7 +14532,7 @@
           {
             "pos": "PART",
             "gloss": "preverbal particle",
-            "lex": "qəm"
+            "lemma": "qəm"
           }
         ]
       },
@@ -14769,7 +14769,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "scorpion",
-            "lex": "ʾaqərwa"
+            "lemma": "ʾaqərwa"
           }
         ]
       },
@@ -14822,12 +14822,12 @@
             "gn": "M",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾaw.2"
+            "lemma": "ʾaw.2"
           },
           {
             "pos": "PART",
             "gloss": "vocative particle",
-            "lex": "ʾo"
+            "lemma": "ʾo"
           }
         ]
       },
@@ -15238,7 +15238,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -15446,7 +15446,7 @@
             "gn": "MF",
             "gloss": "hour",
             "lang": "K./A.",
-            "lex": "saʾət"
+            "lemma": "saʾət"
           }
         ]
       },
@@ -15497,7 +15497,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -15587,7 +15587,7 @@
             "gn": "MF",
             "gloss": "hour",
             "lang": "K./A.",
-            "lex": "saʾət"
+            "lemma": "saʾət"
           }
         ]
       },
@@ -15690,7 +15690,7 @@
               "MODI"
             ],
             "gloss": "other, another; more; again; discourse particle.",
-            "lex": "xena"
+            "lemma": "xena"
           }
         ]
       },
@@ -15754,14 +15754,14 @@
           {
             "pos": "PART",
             "gloss": "or",
-            "lex": "ʾaw"
+            "lemma": "ʾaw"
           },
           {
             "pos": "PRON",
             "gn": "M",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾaw.2"
+            "lemma": "ʾaw.2"
           }
         ]
       },
@@ -15836,7 +15836,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "night",
-            "lex": "lɛle"
+            "lemma": "lɛle"
           }
         ]
       },
@@ -15949,7 +15949,7 @@
             "variable": "INVAR",
             "gloss": "comfortable, at ease, content",
             "lang": "K./A.",
-            "lex": "raḥat"
+            "lemma": "raḥat"
           }
         ]
       },
@@ -16221,7 +16221,7 @@
             "pos": "PART",
             "gloss": "always; again; still; as soon as; directly; just, only; the same; surely (§15.11.).",
             "lang": "K.",
-            "lex": "har"
+            "lemma": "har"
           }
         ]
       },
@@ -16387,7 +16387,7 @@
           {
             "pos": "ADJV",
             "gloss": "dead",
-            "lex": "miθa",
+            "lemma": "miθa",
             "nu": "PL",
             "gn": "F"
           }
@@ -16499,7 +16499,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "scorpion",
-            "lex": "ʾaqərwa"
+            "lemma": "ʾaqərwa"
           }
         ]
       },
@@ -16948,7 +16948,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "ox",
-            "lex": "tawra",
+            "lemma": "tawra",
             "nu": "PL"
           }
         ]
@@ -17982,7 +17982,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "house; home; verse (of poetry/song)",
-            "lex": "bɛθa",
+            "lemma": "bɛθa",
             "st": "C",
             "nu": "PL"
           }
@@ -18720,7 +18720,7 @@
           {
             "pos": "PART",
             "gloss": "presentative particle",
-            "lex": "ha"
+            "lemma": "ha"
           }
         ]
       },
@@ -19057,7 +19057,7 @@
           {
             "pos": "PART",
             "gloss": "not any (§14.9.17.)",
-            "lex": "ču"
+            "lemma": "ču"
           }
         ]
       },
@@ -19145,7 +19145,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "thing",
-            "lex": "məndi",
+            "lemma": "məndi",
             "nu": "PL"
           }
         ]
@@ -19558,7 +19558,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "house; home; verse (of poetry/song)",
-            "lex": "bɛθa",
+            "lemma": "bɛθa",
             "st": "C",
             "nu": "PL"
           }
@@ -19692,7 +19692,7 @@
           {
             "pos": "PART",
             "gloss": "intensifying particle (§17.9.2.)",
-            "lex": "xo"
+            "lemma": "xo"
           }
         ]
       },
@@ -19926,7 +19926,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "child",
-            "lex": "yala",
+            "lemma": "yala",
             "nu": "PL"
           }
         ]
@@ -20059,7 +20059,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -20253,7 +20253,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "snake",
-            "lex": "xuwwe",
+            "lemma": "xuwwe",
             "nu": "PL"
           }
         ]
@@ -20305,7 +20305,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -20394,7 +20394,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "snake",
-            "lex": "xuwwe",
+            "lemma": "xuwwe",
             "nu": "PL"
           }
         ]
@@ -20550,7 +20550,7 @@
           {
             "pos": "ADVB",
             "gloss": "there",
-            "lex": "tama"
+            "lemma": "tama"
           }
         ]
       },
@@ -21125,7 +21125,7 @@
             "gn": "F",
             "nu": "SG",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾayya"
+            "lemma": "ʾayya"
           }
         ]
       },
@@ -21235,7 +21235,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "scorpion",
-            "lex": "ʾaqərwa"
+            "lemma": "ʾaqərwa"
           }
         ]
       },
@@ -21582,7 +21582,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "hole",
-            "lex": "boya",
+            "lemma": "boya",
             "nu": "PL"
           }
         ]
@@ -21799,7 +21799,7 @@
           {
             "pos": "PART",
             "gloss": "preverbal particle",
-            "lex": "qəm"
+            "lemma": "qəm"
           }
         ]
       },
@@ -21955,12 +21955,12 @@
             "gn": "M",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾaw.2"
+            "lemma": "ʾaw.2"
           },
           {
             "pos": "PART",
             "gloss": "vocative particle",
-            "lex": "ʾo"
+            "lemma": "ʾo"
           }
         ]
       },
@@ -22072,7 +22072,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "snake",
-            "lex": "xuwwe",
+            "lemma": "xuwwe",
             "nu": "PL"
           }
         ]
@@ -22205,7 +22205,7 @@
           {
             "pos": "PART",
             "gloss": "if (§19.5.); either/or (§19.5.6.1.); interrogative particle.",
-            "lex": "ʾən"
+            "lemma": "ʾən"
           }
         ]
       },
@@ -22280,7 +22280,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -22725,7 +22725,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "scorpion",
-            "lex": "ʾaqərwa"
+            "lemma": "ʾaqərwa"
           }
         ]
       },
@@ -22814,7 +22814,7 @@
             "gn": "M",
             "nu": "SG",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾawwa"
+            "lemma": "ʾawwa"
           }
         ]
       },
@@ -22902,7 +22902,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "snake",
-            "lex": "xuwwe",
+            "lemma": "xuwwe",
             "nu": "PL"
           }
         ]
@@ -23671,7 +23671,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "house; home; verse (of poetry/song)",
-            "lex": "bɛθa",
+            "lemma": "bɛθa",
             "st": "C",
             "nu": "PL"
           }

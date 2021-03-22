@@ -123,7 +123,7 @@
             "gn": "F",
             "gloss": "crow",
             "lang": "K.",
-            "lex": "qarəkke"
+            "lemma": "qarəkke"
           }
         ]
       },
@@ -357,7 +357,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -433,7 +433,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "day; sun.",
-            "lex": "yoma",
+            "lemma": "yoma",
             "nu": "PL",
             "st": "A"
           }
@@ -499,14 +499,14 @@
           {
             "pos": "MODI",
             "gloss": "which?",
-            "lex": "ʾay"
+            "lemma": "ʾay"
           },
           {
             "pos": "PRON",
             "gn": "F",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾay.2"
+            "lemma": "ʾay.2"
           }
         ]
       },
@@ -732,7 +732,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "tree",
-            "lex": "ʾilana",
+            "lemma": "ʾilana",
             "nu": "PL"
           }
         ]
@@ -856,7 +856,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "mouth (of body or vessel); end of a spade",
-            "lex": "pumma"
+            "lemma": "pumma"
           }
         ]
       },
@@ -956,7 +956,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "cheese",
-            "lex": "gupta"
+            "lemma": "gupta"
           }
         ]
       },
@@ -1103,7 +1103,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -1226,7 +1226,7 @@
           {
             "pos": "ADJV",
             "gloss": "cunning",
-            "lex": "pandana"
+            "lemma": "pandana"
           }
         ]
       },
@@ -1572,7 +1572,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "mischievous trick",
-            "lex": "nxilθa"
+            "lemma": "nxilθa"
           }
         ]
       },
@@ -1893,7 +1893,7 @@
             "gn": "F",
             "gloss": "enthusiasm, zeal",
             "lang": "A.",
-            "lex": "xera"
+            "lemma": "xera"
           }
         ]
       },
@@ -2177,7 +2177,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "cheese",
-            "lex": "gupta"
+            "lemma": "gupta"
           }
         ]
       },
@@ -2313,7 +2313,7 @@
           {
             "pos": "PART",
             "gloss": "if (§19.5.); either/or (§19.5.6.1.); interrogative particle.",
-            "lex": "ʾən"
+            "lemma": "ʾən"
           }
         ]
       },
@@ -2631,7 +2631,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -2711,7 +2711,7 @@
               "MODI"
             ],
             "gloss": "other, another; more; again; discourse particle.",
-            "lex": "xena"
+            "lemma": "xena"
           }
         ]
       },
@@ -3241,7 +3241,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "voice; utterance; song; sound.",
-            "lex": "qala",
+            "lemma": "qala",
             "nu": "PL"
           }
         ]
@@ -3330,7 +3330,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "cheese",
-            "lex": "gupta"
+            "lemma": "gupta"
           }
         ]
       },
@@ -3476,7 +3476,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "mouth (of body or vessel); end of a spade",
-            "lex": "pumma"
+            "lemma": "pumma"
           }
         ]
       },
@@ -3657,7 +3657,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -3895,7 +3895,7 @@
           {
             "pos": "PART",
             "gloss": "unless, only if, except, but, particle of insistence; or not (§19.5.5.).",
-            "lex": "ʾəlla"
+            "lemma": "ʾəlla"
           }
         ]
       },
@@ -4009,7 +4009,7 @@
           {
             "pos": "ADJV",
             "gloss": "mad",
-            "lex": "šeðana",
+            "lemma": "šeðana",
             "gn": "F"
           }
         ]
@@ -4073,7 +4073,7 @@
           {
             "pos": "PART",
             "gloss": "preverbal particle",
-            "lex": "qəm"
+            "lemma": "qəm"
           }
         ]
       },
@@ -4251,7 +4251,7 @@
           {
             "pos": "PART",
             "gloss": "preverbal particle",
-            "lex": "qəm"
+            "lemma": "qəm"
           }
         ]
       },
@@ -4491,7 +4491,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "sorrow",
-            "lex": "pəšmanta"
+            "lemma": "pəšmanta"
           }
         ]
       },
@@ -4570,7 +4570,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -4761,7 +4761,7 @@
           {
             "pos": "ADJV",
             "gloss": "mad",
-            "lex": "šeðana",
+            "lemma": "šeðana",
             "gn": "F"
           }
         ]
@@ -4815,12 +4815,12 @@
             "gn": "F",
             "gloss": "side, direction",
             "lang": "K.",
-            "lex": "la"
+            "lemma": "la"
           },
           {
             "pos": "PART",
             "gloss": "no (variants laʾ, laʾa), not; neither/nor; asseverative particle.",
-            "lex": "la.2"
+            "lemma": "la.2"
           }
         ]
       },
@@ -5004,7 +5004,7 @@
           {
             "pos": "MODI",
             "gloss": "every; all, all of (§14.9.2.).",
-            "lex": "kul"
+            "lemma": "kul"
           }
         ]
       },
@@ -5115,7 +5115,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "speech",
-            "lex": "maxkɛθa"
+            "lemma": "maxkɛθa"
           }
         ]
       },
@@ -5237,7 +5237,7 @@
           {
             "pos": "ADJV",
             "gloss": "pleasant, beautiful; delicious; healthy; sharp.",
-            "lex": "basima",
+            "lemma": "basima",
             "gn": "F",
             "nu": "PL"
           }
@@ -5314,7 +5314,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -5505,7 +5505,7 @@
           {
             "pos": "ADJV",
             "gloss": "mad",
-            "lex": "šeðana",
+            "lemma": "šeðana",
             "gn": "F"
           }
         ]
@@ -5559,12 +5559,12 @@
             "gn": "F",
             "gloss": "side, direction",
             "lang": "K.",
-            "lex": "la"
+            "lemma": "la"
           },
           {
             "pos": "PART",
             "gloss": "no (variants laʾ, laʾa), not; neither/nor; asseverative particle.",
-            "lex": "la.2"
+            "lemma": "la.2"
           }
         ]
       },
@@ -5748,7 +5748,7 @@
           {
             "pos": "MODI",
             "gloss": "every; all, all of (§14.9.2.).",
-            "lex": "kul"
+            "lemma": "kul"
           }
         ]
       },
@@ -5859,7 +5859,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "speech",
-            "lex": "maxkɛθa"
+            "lemma": "maxkɛθa"
           }
         ]
       },
@@ -5969,7 +5969,7 @@
           {
             "pos": "ADJV",
             "gloss": "pleasant, beautiful; delicious; healthy; sharp.",
-            "lex": "basima",
+            "lemma": "basima",
             "gn": "F",
             "nu": "PL"
           }

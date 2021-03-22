@@ -87,7 +87,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -439,7 +439,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "night",
-            "lex": "lɛle"
+            "lemma": "lɛle"
           }
         ]
       },
@@ -754,7 +754,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -867,7 +867,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "thing",
-            "lex": "məndi",
+            "lemma": "məndi",
             "nu": "PL"
           }
         ]
@@ -943,7 +943,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "night",
-            "lex": "lɛle"
+            "lemma": "lɛle"
           }
         ]
       },
@@ -1296,7 +1296,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -1409,7 +1409,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "tall willow tree",
-            "lex": "xurta",
+            "lemma": "xurta",
             "nu": "PL"
           }
         ]
@@ -1498,7 +1498,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "tall willow tree",
-            "lex": "xurta",
+            "lemma": "xurta",
             "nu": "PL"
           }
         ]
@@ -1665,7 +1665,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "tree",
-            "lex": "ʾilana",
+            "lemma": "ʾilana",
             "nu": "PL"
           }
         ]
@@ -1777,7 +1777,7 @@
           {
             "pos": "ADJV",
             "gloss": "long",
-            "lex": "rixa.2",
+            "lemma": "rixa.2",
             "gn": "F"
           }
         ]
@@ -1880,7 +1880,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "vine",
-            "lex": "daliθa",
+            "lemma": "daliθa",
             "nu": "PL"
           }
         ]
@@ -2049,7 +2049,7 @@
           {
             "pos": "PART",
             "gloss": "unless, only if, except, but, particle of insistence; or not (§19.5.5.).",
-            "lex": "ʾəlla"
+            "lemma": "ʾəlla"
           }
         ]
       },
@@ -2216,7 +2216,7 @@
           {
             "pos": "ADJV",
             "gloss": "full",
-            "lex": "ṃəḷya",
+            "lemma": "ṃəḷya",
             "gn": "F"
           }
         ]
@@ -2329,7 +2329,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "grape",
-            "lex": "ʾənwa",
+            "lemma": "ʾənwa",
             "nu": "PL"
           }
         ]
@@ -2381,7 +2381,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -2470,7 +2470,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "tall willow tree",
-            "lex": "xurta",
+            "lemma": "xurta",
             "nu": "PL"
           }
         ]
@@ -2687,7 +2687,7 @@
             "pos": "PRON",
             "nu": "PL",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾani"
+            "lemma": "ʾani"
           }
         ]
       },
@@ -2775,7 +2775,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "grape",
-            "lex": "ʾənwa",
+            "lemma": "ʾənwa",
             "nu": "PL"
           }
         ]
@@ -2887,7 +2887,7 @@
           {
             "pos": "ADVB",
             "gloss": "thus; like that; the same; so much.",
-            "lex": "hadəx"
+            "lemma": "hadəx"
           }
         ]
       },
@@ -2985,7 +2985,7 @@
           {
             "pos": "ADJV",
             "gloss": "black",
-            "lex": "koma",
+            "lemma": "koma",
             "nu": "PL",
             "gn": "F"
           }
@@ -3098,7 +3098,7 @@
           {
             "pos": "ADJV",
             "gloss": "cooked; ripe",
-            "lex": "bšila",
+            "lemma": "bšila",
             "nu": "PL"
           }
         ]
@@ -3255,7 +3255,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -3389,12 +3389,12 @@
             "gn": "F",
             "gloss": "side, direction",
             "lang": "K.",
-            "lex": "la"
+            "lemma": "la"
           },
           {
             "pos": "PART",
             "gloss": "no (variants laʾ, laʾa), not; neither/nor; asseverative particle.",
-            "lex": "la.2"
+            "lemma": "la.2"
           }
         ]
       },
@@ -3877,7 +3877,7 @@
             "pos": "PRON",
             "nu": "PL",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾani"
+            "lemma": "ʾani"
           }
         ]
       },
@@ -3965,7 +3965,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "grape",
-            "lex": "ʾənwa",
+            "lemma": "ʾənwa",
             "nu": "PL"
           }
         ]
@@ -4157,12 +4157,12 @@
             "gn": "F",
             "gloss": "side, direction",
             "lang": "K.",
-            "lex": "la"
+            "lemma": "la"
           },
           {
             "pos": "PART",
             "gloss": "no (variants laʾ, laʾa), not; neither/nor; asseverative particle.",
-            "lex": "la.2"
+            "lemma": "la.2"
           }
         ]
       },
@@ -4628,7 +4628,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "grape",
-            "lex": "ʾənwa",
+            "lemma": "ʾənwa",
             "nu": "PL"
           }
         ]
@@ -4932,7 +4932,7 @@
           {
             "pos": "ADJV",
             "gloss": "pleasant, beautiful; delicious; healthy; sharp.",
-            "lex": "basima",
+            "lemma": "basima",
             "gn": "F",
             "nu": "PL"
           }
@@ -5079,7 +5079,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "maternal uncle",
-            "lex": "xala"
+            "lemma": "xala"
           }
         ]
       }
@@ -5138,7 +5138,7 @@
             "gn": "F",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾay.2"
+            "lemma": "ʾay.2"
           }
         ]
       },
@@ -5189,14 +5189,14 @@
           {
             "pos": "PART",
             "gloss": "almost, about to; connective particle (§15.1.1.11., §18.1.6.).",
-            "lex": "ga"
+            "lemma": "ga"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "time, instance",
             "lang": "K.",
-            "lex": "ga.2",
+            "lemma": "ga.2",
             "nu": "PL"
           }
         ]
@@ -5286,7 +5286,7 @@
             "gn": "F",
             "gloss": "meaning",
             "lang": "K./A.",
-            "lex": "manay"
+            "lemma": "manay"
           }
         ]
       },
@@ -5533,7 +5533,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "grape",
-            "lex": "ʾənwa",
+            "lemma": "ʾənwa",
             "nu": "PL"
           }
         ]
@@ -5655,7 +5655,7 @@
           {
             "pos": "ADJV",
             "gloss": "bitter, sour",
-            "lex": "xamuṣa",
+            "lemma": "xamuṣa",
             "nu": "PL"
           }
         ]
@@ -5744,7 +5744,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "grape",
-            "lex": "ʾənwa",
+            "lemma": "ʾənwa",
             "nu": "PL"
           }
         ]
@@ -5879,12 +5879,12 @@
             "gn": "F",
             "gloss": "side, direction",
             "lang": "K.",
-            "lex": "la"
+            "lemma": "la"
           },
           {
             "pos": "PART",
             "gloss": "no (variants laʾ, laʾa), not; neither/nor; asseverative particle.",
-            "lex": "la.2"
+            "lemma": "la.2"
           }
         ]
       },
@@ -6214,7 +6214,7 @@
           {
             "pos": "ADVB",
             "gloss": "thus; like that; the same; so much.",
-            "lex": "hadəx"
+            "lemma": "hadəx"
           }
         ]
       },
@@ -6390,7 +6390,7 @@
           {
             "pos": "ADJV",
             "gloss": "bitter, sour",
-            "lex": "xamuṣa",
+            "lemma": "xamuṣa",
             "nu": "PL"
           }
         ]
@@ -6455,7 +6455,7 @@
           {
             "pos": "PART",
             "gloss": "if (§19.5.); either/or (§19.5.6.1.); interrogative particle.",
-            "lex": "ʾən"
+            "lemma": "ʾən"
           }
         ]
       },
@@ -6896,7 +6896,7 @@
           {
             "pos": "ADJV",
             "gloss": "bitter, sour",
-            "lex": "xamuṣa",
+            "lemma": "xamuṣa",
             "nu": "PL"
           }
         ]

@@ -144,7 +144,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -267,7 +267,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "miller",
-            "lex": "ṭaxana"
+            "lemma": "ṭaxana"
           }
         ]
       },
@@ -365,7 +365,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "miller",
-            "lex": "ṭaxana"
+            "lemma": "ṭaxana"
           }
         ]
       },
@@ -473,7 +473,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -586,14 +586,14 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "guest",
-            "lex": "ʾarxa",
+            "lemma": "ʾarxa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "water-mill",
-            "lex": "ʾarxe",
+            "lemma": "ʾarxe",
             "nu": "PL"
           }
         ]
@@ -682,14 +682,14 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "guest",
-            "lex": "ʾarxa",
+            "lemma": "ʾarxa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "water-mill",
-            "lex": "ʾarxe",
+            "lemma": "ʾarxe",
             "nu": "PL"
           }
         ]
@@ -939,7 +939,7 @@
           {
             "pos": "PART",
             "gloss": "only; no more; if only; only if; but.",
-            "lex": "bas"
+            "lemma": "bas"
           }
         ]
       },
@@ -1279,7 +1279,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -1710,7 +1710,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -1751,7 +1751,7 @@
           {
             "pos": "PART",
             "gloss": "and",
-            "lex": "w"
+            "lemma": "w"
           }
         ]
       },
@@ -2185,7 +2185,7 @@
               "PREP"
             ],
             "gloss": "how? how could it be? like, just as; when",
-            "lex": "dax"
+            "lemma": "dax"
           }
         ]
       },
@@ -2479,7 +2479,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "you",
-            "lex": "ʾati"
+            "lemma": "ʾati"
           }
         ]
       },
@@ -2578,7 +2578,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -2654,7 +2654,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -2811,7 +2811,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "man, person; family relative",
-            "lex": "naša",
+            "lemma": "naša",
             "nu": "PL"
           }
         ]
@@ -3008,7 +3008,7 @@
             "gn": "F",
             "nu": "SG",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾayya"
+            "lemma": "ʾayya"
           }
         ]
       },
@@ -3120,14 +3120,14 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "guest",
-            "lex": "ʾarxa",
+            "lemma": "ʾarxa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "water-mill",
-            "lex": "ʾarxe",
+            "lemma": "ʾarxe",
             "nu": "PL"
           }
         ]
@@ -3437,7 +3437,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -3478,7 +3478,7 @@
           {
             "pos": "PART",
             "gloss": "and",
-            "lex": "w"
+            "lemma": "w"
           }
         ]
       },
@@ -3632,7 +3632,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -3846,7 +3846,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "mountain; region of mountains",
-            "lex": "ṭura",
+            "lemma": "ṭura",
             "nu": "PL"
           }
         ]
@@ -4016,7 +4016,7 @@
             "gn": "M",
             "gloss": "type of black bird",
             "lang": "K.",
-            "lex": "č̣ara",
+            "lemma": "č̣ara",
             "nu": "PL"
           }
         ]
@@ -4231,7 +4231,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "partridge",
-            "lex": "qəqwana",
+            "lemma": "qəqwana",
             "nu": "PL"
           }
         ]
@@ -4574,7 +4574,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "thing",
-            "lex": "məndi",
+            "lemma": "məndi",
             "nu": "PL"
           }
         ]
@@ -4719,7 +4719,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "mountain; region of mountains",
-            "lex": "ṭura",
+            "lemma": "ṭura",
             "nu": "PL"
           }
         ]
@@ -4922,7 +4922,7 @@
           {
             "pos": "ADVB",
             "gloss": "here",
-            "lex": "ʾaxxa"
+            "lemma": "ʾaxxa"
           }
         ]
       },
@@ -4973,7 +4973,7 @@
           {
             "pos": "PART",
             "gloss": "and",
-            "lex": "w"
+            "lemma": "w"
           }
         ]
       },
@@ -5341,7 +5341,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -5382,7 +5382,7 @@
           {
             "pos": "PART",
             "gloss": "and",
-            "lex": "w"
+            "lemma": "w"
           }
         ]
       },
@@ -5583,7 +5583,7 @@
           {
             "pos": "PRON",
             "gloss": "reciprocal pronoun (§14.6.)",
-            "lex": "ġðaðe"
+            "lemma": "ġðaðe"
           }
         ]
       },
@@ -5650,7 +5650,7 @@
           {
             "pos": "PART",
             "gloss": "particle expressing prominence (§15.1.5.2., §15.7.)",
-            "lex": "də"
+            "lemma": "də"
           }
         ]
       },
@@ -6139,7 +6139,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -6239,7 +6239,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "day; sun.",
-            "lex": "yoma",
+            "lemma": "yoma",
             "nu": "PL",
             "st": "A"
           }
@@ -6329,7 +6329,7 @@
           {
             "pos": "NUMR",
             "gloss": "two",
-            "lex": "tre",
+            "lemma": "tre",
             "gn": "F"
           }
         ]
@@ -6441,7 +6441,7 @@
           {
             "pos": "NUMR",
             "gloss": "three",
-            "lex": "ṭḷaθa",
+            "lemma": "ṭḷaθa",
             "gn": "F"
           }
         ]
@@ -6493,7 +6493,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -6606,7 +6606,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "month",
-            "lex": "yarxa",
+            "lemma": "yarxa",
             "nu": "PL"
           }
         ]
@@ -6658,7 +6658,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -6931,7 +6931,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -7368,7 +7368,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -7559,7 +7559,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "village",
-            "lex": "maθa",
+            "lemma": "maθa",
             "nu": "PL"
           }
         ]
@@ -7799,7 +7799,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "large comb for carding wool",
-            "lex": "masərqa",
+            "lemma": "masərqa",
             "nu": "PL"
           }
         ]
@@ -8290,7 +8290,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "large comb for carding wool",
-            "lex": "masərqa",
+            "lemma": "masərqa",
             "nu": "PL"
           }
         ]
@@ -8346,7 +8346,7 @@
               "PRON"
             ],
             "gloss": "what? (§7.5., §14.9.13.)",
-            "lex": "ma"
+            "lemma": "ma"
           }
         ]
       },
@@ -8812,7 +8812,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "master, owner",
-            "lex": "mara",
+            "lemma": "mara",
             "nu": "PL"
           }
         ]
@@ -8868,7 +8868,7 @@
               "PRON"
             ],
             "gloss": "what? (§7.5., §14.9.13.)",
-            "lex": "ma"
+            "lemma": "ma"
           }
         ]
       },
@@ -9106,7 +9106,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "you",
-            "lex": "ʾati"
+            "lemma": "ʾati"
           }
         ]
       },
@@ -9632,7 +9632,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "large comb for carding wool",
-            "lex": "masərqa",
+            "lemma": "masərqa",
             "nu": "PL"
           }
         ]
@@ -10042,7 +10042,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -10304,7 +10304,7 @@
             "gn": "M",
             "nu": "SG",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾawwa"
+            "lemma": "ʾawwa"
           }
         ]
       },
@@ -10493,7 +10493,7 @@
           {
             "pos": "PART",
             "gloss": "and",
-            "lex": "w"
+            "lemma": "w"
           }
         ]
       },
@@ -10649,7 +10649,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "village",
-            "lex": "maθa",
+            "lemma": "maθa",
             "nu": "PL"
           }
         ]
@@ -10737,14 +10737,14 @@
           {
             "pos": "MODI",
             "gloss": "every; all, all of (§14.9.2.).",
-            "lex": "kul"
+            "lemma": "kul"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "mosquito net",
             "lang": "A.",
-            "lex": "kulla"
+            "lemma": "kulla"
           }
         ]
       },
@@ -11178,7 +11178,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "wool",
-            "lex": "ʾamṛa"
+            "lemma": "ʾamṛa"
           }
         ]
       },
@@ -11266,7 +11266,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "wool",
-            "lex": "ʾamṛa"
+            "lemma": "ʾamṛa"
           }
         ]
       },
@@ -11399,7 +11399,7 @@
           {
             "pos": "PART",
             "gloss": "not any (§14.9.17.)",
-            "lex": "ču"
+            "lemma": "ču"
           }
         ]
       },
@@ -11488,7 +11488,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "thing",
-            "lex": "məndi",
+            "lemma": "məndi",
             "nu": "PL"
           }
         ]
@@ -11601,7 +11601,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "lie, falsehood; fiction",
-            "lex": "dugla",
+            "lemma": "dugla",
             "nu": "PL"
           }
         ]
@@ -11689,14 +11689,14 @@
           {
             "pos": "MODI",
             "gloss": "every; all, all of (§14.9.2.).",
-            "lex": "kul"
+            "lemma": "kul"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "mosquito net",
             "lang": "A.",
-            "lex": "kulla"
+            "lemma": "kulla"
           }
         ]
       },
@@ -11771,7 +11771,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "man, person; family relative",
-            "lex": "naša",
+            "lemma": "naša",
             "nu": "PL"
           }
         ]
@@ -12313,7 +12313,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "wool",
-            "lex": "ʾamṛa"
+            "lemma": "ʾamṛa"
           }
         ]
       },
@@ -12597,7 +12597,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "storeroom (for produce)",
-            "lex": "ʾanbar",
+            "lemma": "ʾanbar",
             "nu": "PL"
           }
         ]
@@ -12690,7 +12690,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -12823,19 +12823,19 @@
             "pos": "PART",
             "gloss": "vocative particle",
             "lang": "A.",
-            "lex": "ya"
+            "lemma": "ya"
           },
           {
             "pos": "PART",
             "gloss": "which?",
             "lang": "A.",
-            "lex": "ya.2"
+            "lemma": "ya.2"
           },
           {
             "pos": "PART",
             "gloss": "or",
             "lang": "K.",
-            "lex": "yan"
+            "lemma": "yan"
           }
         ]
       },
@@ -12933,7 +12933,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "God (§5.3.)",
-            "lex": "ʾalaha"
+            "lemma": "ʾalaha"
           }
         ]
       },
@@ -13008,7 +13008,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -13176,7 +13176,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -13393,7 +13393,7 @@
             "gn": "F",
             "gloss": "town",
             "lang": "K.",
-            "lex": "bažər"
+            "lemma": "bažər"
           }
         ]
       },
@@ -13482,7 +13482,7 @@
             "gn": "F",
             "nu": "SG",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾayya"
+            "lemma": "ʾayya"
           }
         ]
       },
@@ -13594,7 +13594,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "town",
-            "lex": "mðita"
+            "lemma": "mðita"
           }
         ]
       },
@@ -13762,7 +13762,7 @@
           {
             "pos": "PART",
             "gloss": "thus, like this, so, such",
-            "lex": "hatxa"
+            "lemma": "hatxa"
           }
         ]
       },
@@ -13874,7 +13874,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "thing",
-            "lex": "məndi",
+            "lemma": "məndi",
             "nu": "PL"
           }
         ]
@@ -14041,7 +14041,7 @@
           {
             "pos": "PART",
             "gloss": "and",
-            "lex": "w"
+            "lemma": "w"
           }
         ]
       },
@@ -14314,7 +14314,7 @@
             "gn": "M",
             "nu": "SG",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾawwa"
+            "lemma": "ʾawwa"
           }
         ]
       },
@@ -14426,7 +14426,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "thing",
-            "lex": "məndi",
+            "lemma": "məndi",
             "nu": "PL"
           }
         ]
@@ -14492,7 +14492,7 @@
             "pos": "PART",
             "gloss": "always; again; still; as soon as; directly; just, only; the same; surely (§15.11.).",
             "lang": "K.",
-            "lex": "har"
+            "lemma": "har"
           }
         ]
       },
@@ -14604,7 +14604,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "lie, falsehood; fiction",
-            "lex": "dugla",
+            "lemma": "dugla",
             "nu": "PL"
           }
         ]
@@ -14760,7 +14760,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -14849,7 +14849,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "Saturday; week",
-            "lex": "šabθa",
+            "lemma": "šabθa",
             "nu": "PL"
           }
         ]
@@ -14961,7 +14961,7 @@
           {
             "pos": "ADVB",
             "gloss": "beyond; onwards",
-            "lex": "hodəx"
+            "lemma": "hodəx"
           }
         ]
       },
@@ -15012,7 +15012,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -15089,7 +15089,7 @@
             "gn": "F",
             "gloss": "breath; time, instance; yes.",
             "lang": "K.",
-            "lex": "bena"
+            "lemma": "bena"
           }
         ]
       },
@@ -15168,7 +15168,7 @@
               "MODI"
             ],
             "gloss": "other, another; more; again; discourse particle.",
-            "lex": "xena"
+            "lemma": "xena"
           }
         ]
       },
@@ -15454,7 +15454,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -15506,7 +15506,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -15583,7 +15583,7 @@
             "gn": "F",
             "gloss": "breath; time, instance; yes.",
             "lang": "K.",
-            "lex": "bena"
+            "lemma": "bena"
           }
         ]
       },
@@ -15662,7 +15662,7 @@
               "MODI"
             ],
             "gloss": "other, another; more; again; discourse particle.",
-            "lex": "xena"
+            "lemma": "xena"
           }
         ]
       },
@@ -15853,7 +15853,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "large comb for carding wool",
-            "lex": "masərqa",
+            "lemma": "masərqa",
             "nu": "PL"
           }
         ]
@@ -15907,7 +15907,7 @@
           {
             "pos": "PART",
             "gloss": "and",
-            "lex": "w"
+            "lemma": "w"
           }
         ]
       },
@@ -16172,7 +16172,7 @@
             "gn": "M",
             "gloss": "wool of the long haired angora goat (čura, čurra)",
             "lang": "K.",
-            "lex": "marrəs"
+            "lemma": "marrəs"
           }
         ]
       },
@@ -16274,7 +16274,7 @@
             "gn": "M",
             "gloss": "wool of the long haired angora goat (čura, čurra)",
             "lang": "K.",
-            "lex": "marrəs"
+            "lemma": "marrəs"
           }
         ]
       },
@@ -16430,14 +16430,14 @@
           {
             "pos": "PART",
             "gloss": "or",
-            "lex": "ʾaw"
+            "lemma": "ʾaw"
           },
           {
             "pos": "PRON",
             "gn": "M",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾaw.2"
+            "lemma": "ʾaw.2"
           }
         ]
       },
@@ -16512,7 +16512,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "man, person; family relative",
-            "lex": "naša",
+            "lemma": "naša",
             "nu": "PL"
           }
         ]
@@ -16690,14 +16690,14 @@
           {
             "pos": "PART",
             "gloss": "or",
-            "lex": "ʾaw"
+            "lemma": "ʾaw"
           },
           {
             "pos": "PRON",
             "gn": "M",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾaw.2"
+            "lemma": "ʾaw.2"
           }
         ]
       },
@@ -16799,7 +16799,7 @@
             "gn": "M",
             "gloss": "wool of the long haired angora goat (čura, čurra)",
             "lang": "K.",
-            "lex": "marrəs"
+            "lemma": "marrəs"
           }
         ]
       },
@@ -17106,7 +17106,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "evening; late afternoon",
-            "lex": "ʾaṣərta"
+            "lemma": "ʾaṣərta"
           }
         ]
       },
@@ -17417,7 +17417,7 @@
             "gn": "M",
             "gloss": "wool of the long haired angora goat (čura, čurra)",
             "lang": "K.",
-            "lex": "marrəs"
+            "lemma": "marrəs"
           }
         ]
       },
@@ -17668,7 +17668,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "large comb for carding wool",
-            "lex": "masərqa",
+            "lemma": "masərqa",
             "nu": "PL"
           }
         ]
@@ -17921,7 +17921,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "man, person; family relative",
-            "lex": "naša",
+            "lemma": "naša",
             "nu": "PL"
           }
         ]
@@ -17977,7 +17977,7 @@
               "PRON"
             ],
             "gloss": "what? (§7.5., §14.9.13.)",
-            "lex": "ma"
+            "lemma": "ma"
           }
         ]
       },
@@ -18479,7 +18479,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "hundred",
-            "lex": "ʾəmma"
+            "lemma": "ʾəmma"
           }
         ]
       },
@@ -18543,7 +18543,7 @@
           {
             "pos": "NUMR",
             "gloss": "two",
-            "lex": "tre",
+            "lemma": "tre",
             "gn": "F"
           }
         ]
@@ -18677,7 +18677,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "man, person; family relative",
-            "lex": "naša",
+            "lemma": "naša",
             "nu": "PL"
           }
         ]
@@ -18860,7 +18860,7 @@
             "gn": "M",
             "gloss": "wool of the long haired angora goat (čura, čurra)",
             "lang": "K.",
-            "lex": "marrəs"
+            "lemma": "marrəs"
           }
         ]
       },
@@ -19168,7 +19168,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -19442,7 +19442,7 @@
             "gn": "M",
             "nu": "SG",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾawwa"
+            "lemma": "ʾawwa"
           }
         ]
       },
@@ -19530,7 +19530,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "thing",
-            "lex": "məndi",
+            "lemma": "məndi",
             "nu": "PL"
           }
         ]
@@ -19618,7 +19618,7 @@
           {
             "pos": "PART",
             "gloss": "thus, like this, so, such",
-            "lex": "hatxa"
+            "lemma": "hatxa"
           }
         ]
       },
@@ -19813,7 +19813,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -19914,7 +19914,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "month",
-            "lex": "yarxa",
+            "lemma": "yarxa",
             "nu": "PL"
           }
         ]
@@ -20056,7 +20056,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -20133,7 +20133,7 @@
             "gn": "F",
             "gloss": "breath; time, instance; yes.",
             "lang": "K.",
-            "lex": "bena"
+            "lemma": "bena"
           }
         ]
       },
@@ -20212,7 +20212,7 @@
               "MODI"
             ],
             "gloss": "other, another; more; again; discourse particle.",
-            "lex": "xena"
+            "lemma": "xena"
           }
         ]
       },
@@ -20382,7 +20382,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -20539,7 +20539,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -20752,7 +20752,7 @@
           {
             "pos": "ADJV",
             "gloss": "pleasant, beautiful; delicious; healthy; sharp.",
-            "lex": "basima",
+            "lemma": "basima",
             "gn": "F",
             "nu": "PL"
           }
@@ -20805,7 +20805,7 @@
           {
             "pos": "PART",
             "gloss": "particle expressing prominence (§15.1.5.2., §15.7.)",
-            "lex": "də"
+            "lemma": "də"
           }
         ]
       },
@@ -21322,7 +21322,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "cup measure for grain",
-            "lex": "rapəkθa",
+            "lemma": "rapəkθa",
             "nu": "PL"
           }
         ]
@@ -21504,7 +21504,7 @@
             "gn": "M",
             "gloss": "corn plant",
             "lang": "K./A.",
-            "lex": "daxla"
+            "lemma": "daxla"
           }
         ]
       },
@@ -21591,7 +21591,7 @@
           {
             "pos": "PART",
             "gloss": "thus, like this, so, such",
-            "lex": "hatxa"
+            "lemma": "hatxa"
           }
         ]
       },
@@ -22026,7 +22026,7 @@
               "MODI"
             ],
             "gloss": "how many/much? some, several; so much/many; however much, as much as; when; as for (§14.9.9., §19.3.5.)",
-            "lex": "kəma"
+            "lemma": "kəma"
           }
         ]
       },
@@ -22184,7 +22184,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "cup measure for grain",
-            "lex": "rapəkθa",
+            "lemma": "rapəkθa",
             "nu": "PL"
           }
         ]
@@ -22332,7 +22332,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -22607,7 +22607,7 @@
             "gn": "F",
             "gloss": "town",
             "lang": "K.",
-            "lex": "bažər"
+            "lemma": "bažər"
           }
         ]
       },
@@ -22775,7 +22775,7 @@
           {
             "pos": "PART",
             "gloss": "thus, like this, so, such",
-            "lex": "hatxa"
+            "lemma": "hatxa"
           }
         ]
       },
@@ -22874,7 +22874,7 @@
             "pos": "NOUN",
             "nu": "PL",
             "gloss": "money",
-            "lex": "zuze"
+            "lemma": "zuze"
           }
         ]
       },
@@ -22963,7 +22963,7 @@
             "gn": "M",
             "nu": "SG",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾawwa"
+            "lemma": "ʾawwa"
           }
         ]
       },
@@ -23140,7 +23140,7 @@
           {
             "pos": "PART",
             "gloss": "thus, like this, so, such",
-            "lex": "hatxa"
+            "lemma": "hatxa"
           }
         ]
       },
@@ -23239,7 +23239,7 @@
             "pos": "NOUN",
             "nu": "PL",
             "gloss": "money",
-            "lex": "zuze"
+            "lemma": "zuze"
           }
         ]
       },
@@ -23374,7 +23374,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "cup measure for grain",
-            "lex": "rapəkθa",
+            "lemma": "rapəkθa",
             "nu": "PL"
           }
         ]
@@ -23602,7 +23602,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "cup measure for grain",
-            "lex": "rapəkθa",
+            "lemma": "rapəkθa",
             "nu": "PL"
           }
         ]
@@ -23702,7 +23702,7 @@
             "pos": "NOUN",
             "nu": "PL",
             "gloss": "money",
-            "lex": "zuze"
+            "lemma": "zuze"
           }
         ]
       },
@@ -23793,7 +23793,7 @@
               "MODI"
             ],
             "gloss": "other, another; more; again; discourse particle.",
-            "lex": "xena"
+            "lemma": "xena"
           }
         ]
       },
@@ -24193,7 +24193,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "man, person; family relative",
-            "lex": "naša",
+            "lemma": "naša",
             "nu": "PL"
           }
         ]
@@ -24401,7 +24401,7 @@
             "gn": "F",
             "gloss": "community, nation",
             "lang": "K./A.",
-            "lex": "məllət"
+            "lemma": "məllət"
           }
         ]
       },
@@ -24488,14 +24488,14 @@
           {
             "pos": "MODI",
             "gloss": "every; all, all of (§14.9.2.).",
-            "lex": "kul"
+            "lemma": "kul"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "mosquito net",
             "lang": "A.",
-            "lex": "kulla"
+            "lemma": "kulla"
           }
         ]
       },
@@ -24699,14 +24699,14 @@
           {
             "pos": "MODI",
             "gloss": "every; all, all of (§14.9.2.).",
-            "lex": "kul"
+            "lemma": "kul"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "mosquito net",
             "lang": "A.",
-            "lex": "kulla"
+            "lemma": "kulla"
           }
         ]
       },
@@ -24943,7 +24943,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "storeroom (for produce)",
-            "lex": "ʾanbar",
+            "lemma": "ʾanbar",
             "nu": "PL"
           }
         ]
@@ -25043,7 +25043,7 @@
             "pos": "NOUN",
             "nu": "PL",
             "gloss": "money",
-            "lex": "zuze"
+            "lemma": "zuze"
           }
         ]
       },
@@ -25155,7 +25155,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "lie, falsehood; fiction",
-            "lex": "dugla",
+            "lemma": "dugla",
             "nu": "PL"
           }
         ]
@@ -25207,7 +25207,7 @@
           {
             "pos": "PART",
             "gloss": "not any (§14.9.17.)",
-            "lex": "ču"
+            "lemma": "ču"
           }
         ]
       },
@@ -25272,7 +25272,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "thing",
-            "lex": "məndi",
+            "lemma": "məndi",
             "nu": "PL"
           }
         ]
@@ -25458,7 +25458,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -25571,7 +25571,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "month",
-            "lex": "yarxa",
+            "lemma": "yarxa",
             "nu": "PL"
           }
         ]
@@ -26036,7 +26036,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "miller",
-            "lex": "ṭaxana"
+            "lemma": "ṭaxana"
           }
         ]
       },
@@ -26319,14 +26319,14 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "guest",
-            "lex": "ʾarxa",
+            "lemma": "ʾarxa",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "water-mill",
-            "lex": "ʾarxe",
+            "lemma": "ʾarxe",
             "nu": "PL"
           }
         ]
@@ -26719,7 +26719,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -27329,7 +27329,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -27634,14 +27634,14 @@
           {
             "pos": "MODI",
             "gloss": "which?",
-            "lex": "ʾay"
+            "lemma": "ʾay"
           },
           {
             "pos": "PRON",
             "gn": "F",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾay.2"
+            "lemma": "ʾay.2"
           }
         ]
       },
@@ -27812,7 +27812,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -27888,7 +27888,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -28443,7 +28443,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "job, profession, business; affair, thing",
-            "lex": "šula",
+            "lemma": "šula",
             "nu": "PL"
           }
         ]
@@ -28828,7 +28828,7 @@
             "gn": "F",
             "gloss": "shepherd’s stick; walking stick",
             "lang": "K.",
-            "lex": "kupala",
+            "lemma": "kupala",
             "nu": "PL"
           }
         ]
@@ -29589,7 +29589,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "betrothal",
-            "lex": "ṭaləbuθa"
+            "lemma": "ṭaləbuθa"
           }
         ]
       },
@@ -29804,7 +29804,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "betrothal",
-            "lex": "ṭaləbuθa"
+            "lemma": "ṭaləbuθa"
           }
         ]
       },
@@ -29892,7 +29892,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "request",
-            "lex": "ṭlaba"
+            "lemma": "ṭlaba"
           }
         ]
       },
@@ -30004,7 +30004,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "woman; wife",
-            "lex": "baxta",
+            "lemma": "baxta",
             "nu": "PL"
           }
         ]
@@ -31040,7 +31040,7 @@
           {
             "pos": "PART",
             "gloss": "when.",
-            "lex": "ʾiman"
+            "lemma": "ʾiman"
           }
         ]
       },
@@ -31242,7 +31242,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "wedding",
-            "lex": "xlula"
+            "lemma": "xlula"
           }
         ]
       },
@@ -31419,7 +31419,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -31532,7 +31532,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "Saturday; week",
-            "lex": "šabθa",
+            "lemma": "šabθa",
             "nu": "PL"
           }
         ]
@@ -31848,7 +31848,7 @@
           {
             "pos": "PART",
             "gloss": "preverbal particle",
-            "lex": "qəm"
+            "lemma": "qəm"
           }
         ]
       },
@@ -32042,12 +32042,12 @@
             "gn": "M",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾaw.2"
+            "lemma": "ʾaw.2"
           },
           {
             "pos": "PART",
             "gloss": "vocative particle",
-            "lex": "ʾo"
+            "lemma": "ʾo"
           }
         ]
       },
@@ -32623,7 +32623,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -32872,7 +32872,7 @@
             "gn": "F",
             "gloss": "respect; good will; favour",
             "lang": "K./A.",
-            "lex": "xaṭər"
+            "lemma": "xaṭər"
           }
         ]
       },
@@ -32994,7 +32994,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "God (§5.3.)",
-            "lex": "ʾalaha"
+            "lemma": "ʾalaha"
           }
         ]
       },
@@ -33069,7 +33069,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -33492,7 +33492,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -33687,7 +33687,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "night",
-            "lex": "lɛle"
+            "lemma": "lɛle"
           }
         ]
       },
@@ -33787,7 +33787,7 @@
           {
             "pos": "NUMR",
             "gloss": "eight",
-            "lex": "tmanya"
+            "lemma": "tmanya"
           }
         ]
       },
@@ -33862,7 +33862,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "day; sun.",
-            "lex": "yoma",
+            "lemma": "yoma",
             "nu": "PL",
             "st": "A"
           },
@@ -33870,7 +33870,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "day; sun.",
-            "lex": "yoma",
+            "lemma": "yoma",
             "nu": "PL",
             "st": "A"
           },
@@ -33878,7 +33878,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "day; sun.",
-            "lex": "yoma",
+            "lemma": "yoma",
             "nu": "PL",
             "st": "A"
           }
@@ -34198,7 +34198,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "drum.",
-            "lex": "dawla"
+            "lemma": "dawla"
           }
         ]
       },
@@ -34239,7 +34239,7 @@
           {
             "pos": "PART",
             "gloss": "and",
-            "lex": "w"
+            "lemma": "w"
           }
         ]
       },
@@ -34340,7 +34340,7 @@
             "gn": "F",
             "gloss": "pipe",
             "lang": "K.",
-            "lex": "zorna"
+            "lemma": "zorna"
           }
         ]
       },
@@ -34391,7 +34391,7 @@
           {
             "pos": "PART",
             "gloss": "and",
-            "lex": "w"
+            "lemma": "w"
           }
         ]
       },
@@ -34959,7 +34959,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -35116,7 +35116,7 @@
             "pos": "PRON",
             "nu": "PL",
             "gloss": "you",
-            "lex": "ʾaxtu"
+            "lemma": "ʾaxtu"
           }
         ]
       },
@@ -35180,7 +35180,7 @@
           {
             "pos": "MODI",
             "gloss": "each, every; whoever (§14.9.1.)",
-            "lex": "kut"
+            "lemma": "kut"
           }
         ]
       },
@@ -35451,7 +35451,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -35840,7 +35840,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "wedding",
-            "lex": "xlula"
+            "lemma": "xlula"
           }
         ]
       },
@@ -35915,7 +35915,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "goatskin or lambskin (spread on floor to sit on)",
-            "lex": "ṣala",
+            "lemma": "ṣala",
             "nu": "PL"
           }
         ]
@@ -36412,7 +36412,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -36619,14 +36619,14 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "sheep; goat",
-            "lex": "ʾərba",
+            "lemma": "ʾərba",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "M",
             "gloss": "sheep; goat",
-            "lex": "ʾərba",
+            "lemma": "ʾərba",
             "nu": "PL"
           }
         ]
@@ -36759,7 +36759,7 @@
           {
             "pos": "NUMR",
             "gloss": "two",
-            "lex": "tre",
+            "lemma": "tre",
             "gn": "F"
           }
         ]
@@ -36847,7 +36847,7 @@
           {
             "pos": "NUMR",
             "gloss": "three",
-            "lex": "ṭḷaθa",
+            "lemma": "ṭḷaθa",
             "gn": "F"
           }
         ]
@@ -36936,7 +36936,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "thousand",
-            "lex": "ʾalpa",
+            "lemma": "ʾalpa",
             "nu": "PL"
           }
         ]
@@ -37107,14 +37107,14 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "sheep; goat",
-            "lex": "ʾərba",
+            "lemma": "ʾərba",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "M",
             "gloss": "sheep; goat",
-            "lex": "ʾərba",
+            "lemma": "ʾərba",
             "nu": "PL"
           }
         ]
@@ -37178,7 +37178,7 @@
           {
             "pos": "PART",
             "gloss": "preverbal particle",
-            "lex": "qəm"
+            "lemma": "qəm"
           }
         ]
       },
@@ -37333,7 +37333,7 @@
             "pos": "PRON",
             "nu": "PL",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾani"
+            "lemma": "ʾani"
           }
         ]
       },
@@ -37682,7 +37682,7 @@
             "pos": "PRON",
             "nu": "PL",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾani"
+            "lemma": "ʾani"
           }
         ]
       },
@@ -37794,14 +37794,14 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "sheep; goat",
-            "lex": "ʾərba",
+            "lemma": "ʾərba",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "M",
             "gloss": "sheep; goat",
-            "lex": "ʾərba",
+            "lemma": "ʾərba",
             "nu": "PL"
           }
         ]
@@ -37986,7 +37986,7 @@
               "PRON"
             ],
             "gloss": "so-and-so; such-and-such",
-            "lex": "fəllən"
+            "lemma": "fəllən"
           }
         ]
       },
@@ -38085,7 +38085,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "man, person; family relative",
-            "lex": "naša",
+            "lemma": "naša",
             "nu": "PL"
           }
         ]
@@ -38222,7 +38222,7 @@
           {
             "pos": "PART",
             "gloss": "only; no more; if only; only if; but.",
-            "lex": "bas"
+            "lemma": "bas"
           }
         ]
       },
@@ -38472,7 +38472,7 @@
           {
             "pos": "PART",
             "gloss": "if (§19.5.); either/or (§19.5.6.1.); interrogative particle.",
-            "lex": "ʾən"
+            "lemma": "ʾən"
           }
         ]
       },
@@ -38664,7 +38664,7 @@
             "pos": "PRON",
             "nu": "PL",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾani"
+            "lemma": "ʾani"
           }
         ]
       },
@@ -38752,14 +38752,14 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "sheep; goat",
-            "lex": "ʾərba",
+            "lemma": "ʾərba",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "M",
             "gloss": "sheep; goat",
-            "lex": "ʾərba",
+            "lemma": "ʾərba",
             "nu": "PL"
           }
         ]
@@ -39272,7 +39272,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -39323,7 +39323,7 @@
           {
             "pos": "PART",
             "gloss": "not any (§14.9.17.)",
-            "lex": "ču"
+            "lemma": "ču"
           }
         ]
       },
@@ -39388,7 +39388,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "thing",
-            "lex": "məndi",
+            "lemma": "məndi",
             "nu": "PL"
           }
         ]
@@ -39442,12 +39442,12 @@
             "gn": "F",
             "gloss": "side, direction",
             "lang": "K.",
-            "lex": "la"
+            "lemma": "la"
           },
           {
             "pos": "PART",
             "gloss": "no (variants laʾ, laʾa), not; neither/nor; asseverative particle.",
-            "lex": "la.2"
+            "lemma": "la.2"
           }
         ]
       },
@@ -39903,7 +39903,7 @@
           {
             "pos": "PART",
             "gloss": "only; no more; if only; only if; but.",
-            "lex": "bas"
+            "lemma": "bas"
           }
         ]
       },
@@ -40376,7 +40376,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -40440,7 +40440,7 @@
           {
             "pos": "PART",
             "gloss": "preverbal particle",
-            "lex": "qəm"
+            "lemma": "qəm"
           }
         ]
       },
@@ -40619,7 +40619,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "sky",
-            "lex": "šəmme"
+            "lemma": "šəmme"
           }
         ]
       },
@@ -40921,7 +40921,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "wedding",
-            "lex": "xlula"
+            "lemma": "xlula"
           }
         ]
       },
@@ -41077,7 +41077,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -41316,7 +41316,7 @@
             "pos": "PRON",
             "nu": "PL",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾani"
+            "lemma": "ʾani"
           }
         ]
       },
@@ -41404,14 +41404,14 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "sheep; goat",
-            "lex": "ʾərba",
+            "lemma": "ʾərba",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "M",
             "gloss": "sheep; goat",
-            "lex": "ʾərba",
+            "lemma": "ʾərba",
             "nu": "PL"
           }
         ]
@@ -41845,7 +41845,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -42165,7 +42165,7 @@
             "pos": "PRON",
             "nu": "PL",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾani"
+            "lemma": "ʾani"
           }
         ]
       },
@@ -42253,14 +42253,14 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "sheep; goat",
-            "lex": "ʾərba",
+            "lemma": "ʾərba",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "M",
             "gloss": "sheep; goat",
-            "lex": "ʾərba",
+            "lemma": "ʾərba",
             "nu": "PL"
           }
         ]
@@ -42347,7 +42347,7 @@
           {
             "pos": "ADJV",
             "gloss": "huge; numerous",
-            "lex": "šima.2",
+            "lemma": "šima.2",
             "nu": "PL"
           }
         ]
@@ -42588,7 +42588,7 @@
           {
             "pos": "PART",
             "gloss": "and",
-            "lex": "w"
+            "lemma": "w"
           }
         ]
       },
@@ -42663,7 +42663,7 @@
             "pos": "PRON",
             "nu": "PL",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾani"
+            "lemma": "ʾani"
           }
         ]
       },
@@ -43005,7 +43005,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -43107,7 +43107,7 @@
             "gn": "M",
             "gloss": "flock (of sheep)",
             "lang": "K.",
-            "lex": "kawta"
+            "lemma": "kawta"
           }
         ]
       },
@@ -43323,7 +43323,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "buffalo",
-            "lex": "gameša",
+            "lemma": "gameša",
             "nu": "PL"
           }
         ]
@@ -43459,14 +43459,14 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "cow",
-            "lex": "tawərta",
+            "lemma": "tawərta",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "cow",
-            "lex": "tawərta",
+            "lemma": "tawərta",
             "nu": "PL"
           }
         ]
@@ -43770,7 +43770,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -43826,7 +43826,7 @@
               "PRON"
             ],
             "gloss": "what? (§7.5., §14.9.13.)",
-            "lex": "ma"
+            "lemma": "ma"
           }
         ]
       },
@@ -44464,7 +44464,7 @@
           {
             "pos": "PART",
             "gloss": "if (§19.5.); either/or (§19.5.6.1.); interrogative particle.",
-            "lex": "ʾən"
+            "lemma": "ʾən"
           }
         ]
       },
@@ -44724,7 +44724,7 @@
           {
             "pos": "ADVB",
             "gloss": "here",
-            "lex": "ʾaxxa"
+            "lemma": "ʾaxxa"
           }
         ]
       },
@@ -44811,7 +44811,7 @@
           {
             "pos": "MODI",
             "gloss": "some, a few, a little (quantity) (§14.9.10.)",
-            "lex": "xakma"
+            "lemma": "xakma"
           }
         ]
       },
@@ -44886,7 +44886,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "man, person; family relative",
-            "lex": "naša",
+            "lemma": "naša",
             "nu": "PL"
           }
         ]
@@ -44998,7 +44998,7 @@
           {
             "pos": "ADVB",
             "gloss": "here",
-            "lex": "ʾaxxa"
+            "lemma": "ʾaxxa"
           }
         ]
       },
@@ -45062,7 +45062,7 @@
           {
             "pos": "PART",
             "gloss": "if (§19.5.); either/or (§19.5.6.1.); interrogative particle.",
-            "lex": "ʾən"
+            "lemma": "ʾən"
           }
         ]
       },
@@ -45384,7 +45384,7 @@
             "pos": "PRON",
             "nu": "PL",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾanna"
+            "lemma": "ʾanna"
           }
         ]
       },
@@ -45587,7 +45587,7 @@
             "gn": "F",
             "gloss": "stamp, seal",
             "lang": "K./A.",
-            "lex": "mur"
+            "lemma": "mur"
           }
         ]
       },
@@ -45638,14 +45638,14 @@
           {
             "pos": "PART",
             "gloss": "almost, about to; connective particle (§15.1.1.11., §18.1.6.).",
-            "lex": "ga"
+            "lemma": "ga"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "time, instance",
             "lang": "K.",
-            "lex": "ga.2",
+            "lemma": "ga.2",
             "nu": "PL"
           }
         ]
@@ -45734,7 +45734,7 @@
             "pos": "PRON",
             "nu": "PL",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾanna"
+            "lemma": "ʾanna"
           }
         ]
       },
@@ -46042,7 +46042,7 @@
           {
             "pos": "PART",
             "gloss": "also, even; connective particle (§18.1.3.).",
-            "lex": "ʾap"
+            "lemma": "ʾap"
           }
         ]
       },
@@ -46117,7 +46117,7 @@
             "pos": "PRON",
             "nu": "PL",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾani"
+            "lemma": "ʾani"
           }
         ]
       },
@@ -46369,7 +46369,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "man, person; family relative",
-            "lex": "naša",
+            "lemma": "naša",
             "nu": "PL"
           }
         ]
@@ -46559,7 +46559,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "lord, prince",
-            "lex": "mira",
+            "lemma": "mira",
             "nu": "PL"
           }
         ]
@@ -46635,7 +46635,7 @@
             "pos": "PRON",
             "nu": "PL",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾani"
+            "lemma": "ʾani"
           }
         ]
       },
@@ -47068,7 +47068,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -47285,7 +47285,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -47361,7 +47361,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "master, owner",
-            "lex": "mara",
+            "lemma": "mara",
             "nu": "PL"
           }
         ]
@@ -47437,7 +47437,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -47614,7 +47614,7 @@
           {
             "pos": "PART",
             "gloss": "thus, like this, so, such",
-            "lex": "hatxa"
+            "lemma": "hatxa"
           }
         ]
       },
@@ -47771,7 +47771,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -47916,7 +47916,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -48017,7 +48017,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "land, country; homeland",
-            "lex": "ʾaθṛa"
+            "lemma": "ʾaθṛa"
           }
         ]
       },
@@ -48185,7 +48185,7 @@
           {
             "pos": "PART",
             "gloss": "thus, like this, so, such",
-            "lex": "hatxa"
+            "lemma": "hatxa"
           }
         ]
       },
@@ -48320,12 +48320,12 @@
             "gn": "M",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾaw.2"
+            "lemma": "ʾaw.2"
           },
           {
             "pos": "PART",
             "gloss": "vocative particle",
-            "lex": "ʾo"
+            "lemma": "ʾo"
           }
         ]
       },
@@ -48702,7 +48702,7 @@
             "pos": "PART",
             "gloss": "always; again; still; as soon as; directly; just, only; the same; surely (§15.11.).",
             "lang": "K.",
-            "lex": "har"
+            "lemma": "har"
           }
         ]
       },
@@ -48756,7 +48756,7 @@
             "tense": "IMP",
             "gloss": "come!",
             "lang": "Urm.",
-            "lex": "to"
+            "lemma": "to"
           }
         ]
       },
@@ -49098,7 +49098,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -49305,7 +49305,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "camel",
-            "lex": "gumla",
+            "lemma": "gumla",
             "nu": "PL"
           }
         ]
@@ -49359,7 +49359,7 @@
             "gn": "F",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾay.2"
+            "lemma": "ʾay.2"
           }
         ]
       },
@@ -49410,14 +49410,14 @@
           {
             "pos": "PART",
             "gloss": "almost, about to; connective particle (§15.1.1.11., §18.1.6.).",
-            "lex": "ga"
+            "lemma": "ga"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "time, instance",
             "lang": "K.",
-            "lex": "ga.2",
+            "lemma": "ga.2",
             "nu": "PL"
           }
         ]
@@ -49538,14 +49538,14 @@
           {
             "pos": "ADJV",
             "gloss": "first",
-            "lex": "qamaya",
+            "lemma": "qamaya",
             "nu": "PL",
             "gn": "F"
           },
           {
             "pos": "ADVB",
             "gloss": "at first",
-            "lex": "qamaye"
+            "lemma": "qamaye"
           }
         ]
       },
@@ -49877,7 +49877,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "camel",
-            "lex": "gumla",
+            "lemma": "gumla",
             "nu": "PL"
           }
         ]
@@ -50139,7 +50139,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "camel",
-            "lex": "gumla",
+            "lemma": "gumla",
             "nu": "PL"
           }
         ]
@@ -50355,7 +50355,7 @@
               "MODI"
             ],
             "gloss": "how many/much? some, several; so much/many; however much, as much as; when; as for (§14.9.9., §19.3.5.)",
-            "lex": "kəma"
+            "lemma": "kəma"
           }
         ]
       },
@@ -50624,7 +50624,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "camel",
-            "lex": "gumla",
+            "lemma": "gumla",
             "nu": "PL"
           }
         ]
@@ -50989,7 +50989,7 @@
           {
             "pos": "PART",
             "gloss": "preverbal particle",
-            "lex": "qəm"
+            "lemma": "qəm"
           }
         ]
       },
@@ -51132,12 +51132,12 @@
             "gn": "M",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾaw.2"
+            "lemma": "ʾaw.2"
           },
           {
             "pos": "PART",
             "gloss": "vocative particle",
-            "lex": "ʾo"
+            "lemma": "ʾo"
           }
         ]
       },
@@ -51304,7 +51304,7 @@
           {
             "pos": "PART",
             "gloss": "if (§19.5.); either/or (§19.5.6.1.); interrogative particle.",
-            "lex": "ʾən"
+            "lemma": "ʾən"
           }
         ]
       },
@@ -51539,7 +51539,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -51639,7 +51639,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "man, person; family relative",
-            "lex": "naša",
+            "lemma": "naša",
             "nu": "PL"
           }
         ]
@@ -52340,7 +52340,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "man, person; family relative",
-            "lex": "naša",
+            "lemma": "naša",
             "nu": "PL"
           }
         ]
@@ -53611,7 +53611,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -53814,14 +53814,14 @@
           {
             "pos": "MODI",
             "gloss": "which?",
-            "lex": "ʾay"
+            "lemma": "ʾay"
           },
           {
             "pos": "PRON",
             "gn": "F",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾay.2"
+            "lemma": "ʾay.2"
           }
         ]
       },
@@ -54210,7 +54210,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "blood",
-            "lex": "dəmma"
+            "lemma": "dəmma"
           }
         ]
       },
@@ -54332,7 +54332,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -54384,7 +54384,7 @@
           {
             "pos": "PART",
             "gloss": "and",
-            "lex": "w"
+            "lemma": "w"
           }
         ]
       },
@@ -55098,7 +55098,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -55548,7 +55548,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -56622,7 +56622,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -56677,7 +56677,7 @@
               "PRON"
             ],
             "gloss": "what? (§7.5., §14.9.13.)",
-            "lex": "ma"
+            "lemma": "ma"
           }
         ]
       },
@@ -56915,7 +56915,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -58968,7 +58968,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "stack of twigs and leaves for animal fodder in winter",
-            "lex": "garuwa"
+            "lemma": "garuwa"
           }
         ]
       },
@@ -59184,7 +59184,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "leaves; gathering of leaves (for winter)",
-            "lex": "ṭarpa"
+            "lemma": "ṭarpa"
           }
         ]
       },
@@ -59282,7 +59282,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "stack of twigs and leaves for animal fodder in winter",
-            "lex": "garuwa"
+            "lemma": "garuwa"
           }
         ]
       },
@@ -59380,7 +59380,7 @@
           {
             "pos": "ADJV",
             "gloss": "big; great; old.",
-            "lex": "goṛa",
+            "lemma": "goṛa",
             "nu": "PL",
             "gn": "F"
           }
@@ -60135,7 +60135,7 @@
           {
             "pos": "PART",
             "gloss": "preverbal particle",
-            "lex": "qəm"
+            "lemma": "qəm"
           }
         ]
       },
@@ -60431,14 +60431,14 @@
           {
             "pos": "MODI",
             "gloss": "every; all, all of (§14.9.2.).",
-            "lex": "kul"
+            "lemma": "kul"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "mosquito net",
             "lang": "A.",
-            "lex": "kulla"
+            "lemma": "kulla"
           }
         ]
       },
@@ -60491,12 +60491,12 @@
             "gn": "M",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾaw.2"
+            "lemma": "ʾaw.2"
           },
           {
             "pos": "PART",
             "gloss": "vocative particle",
-            "lex": "ʾo"
+            "lemma": "ʾo"
           }
         ]
       },
@@ -60584,7 +60584,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "leaves; gathering of leaves (for winter)",
-            "lex": "ṭarpa"
+            "lemma": "ṭarpa"
           }
         ]
       },
@@ -60890,14 +60890,14 @@
           {
             "pos": "MODI",
             "gloss": "every; all, all of (§14.9.2.).",
-            "lex": "kul"
+            "lemma": "kul"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "mosquito net",
             "lang": "A.",
-            "lex": "kulla"
+            "lemma": "kulla"
           }
         ]
       },
@@ -60960,7 +60960,7 @@
           {
             "pos": "PART",
             "gloss": "preverbal particle",
-            "lex": "qəm"
+            "lemma": "qəm"
           }
         ]
       },
@@ -61221,7 +61221,7 @@
               "MODI"
             ],
             "gloss": "how many/much? some, several; so much/many; however much, as much as; when; as for (§14.9.9., §19.3.5.)",
-            "lex": "kəma"
+            "lemma": "kəma"
           }
         ]
       },
@@ -61516,12 +61516,12 @@
             "gn": "F",
             "gloss": "side, direction",
             "lang": "K.",
-            "lex": "la"
+            "lemma": "la"
           },
           {
             "pos": "PART",
             "gloss": "no (variants laʾ, laʾa), not; neither/nor; asseverative particle.",
-            "lex": "la.2"
+            "lemma": "la.2"
           }
         ]
       },
@@ -61921,7 +61921,7 @@
           {
             "pos": "PART",
             "gloss": "preverbal particle",
-            "lex": "qəm"
+            "lemma": "qəm"
           }
         ]
       },
@@ -62099,7 +62099,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fire; Hell fire",
-            "lex": "nura"
+            "lemma": "nura"
           }
         ]
       },
@@ -62221,7 +62221,7 @@
           {
             "pos": "NUMR",
             "gloss": "twenty",
-            "lex": "ʾəsri"
+            "lemma": "ʾəsri"
           }
         ]
       },
@@ -62400,14 +62400,14 @@
           {
             "pos": "MODI",
             "gloss": "which?",
-            "lex": "ʾay"
+            "lemma": "ʾay"
           },
           {
             "pos": "PRON",
             "gn": "F",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾay.2"
+            "lemma": "ʾay.2"
           }
         ]
       },
@@ -62482,7 +62482,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "master, owner",
-            "lex": "mara",
+            "lemma": "mara",
             "nu": "PL"
           }
         ]
@@ -62811,7 +62811,7 @@
             "pos": "PART",
             "gloss": "almost",
             "lang": "A.",
-            "lex": "qəssa"
+            "lemma": "qəssa"
           }
         ]
       },
@@ -62967,7 +62967,7 @@
           {
             "pos": "PART",
             "gloss": "preverbal particle",
-            "lex": "qəm"
+            "lemma": "qəm"
           }
         ]
       },
@@ -63322,7 +63322,7 @@
             "gn": "M",
             "gloss": "corpse",
             "lang": "K.",
-            "lex": "tarəkka"
+            "lemma": "tarəkka"
           }
         ]
       },
@@ -63968,7 +63968,7 @@
             "gn": "F",
             "gloss": "spoon (made of wood); flat trowel",
             "lang": "K.",
-            "lex": "čamča",
+            "lemma": "čamča",
             "nu": "PL"
           }
         ]
@@ -64103,7 +64103,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "gold; gold coin",
-            "lex": "dawa",
+            "lemma": "dawa",
             "nu": "PL"
           }
         ]
@@ -64342,7 +64342,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "gold; gold coin",
-            "lex": "dawa",
+            "lemma": "dawa",
             "nu": "PL"
           }
         ]
@@ -64476,7 +64476,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "tea",
-            "lex": "čay"
+            "lemma": "čay"
           }
         ]
       },
@@ -64610,7 +64610,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "gold; gold coin",
-            "lex": "dawa",
+            "lemma": "dawa",
             "nu": "PL"
           }
         ]
@@ -64967,7 +64967,7 @@
             "gn": "F",
             "nu": "SG",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾayya"
+            "lemma": "ʾayya"
           }
         ]
       },
@@ -65183,7 +65183,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "teller, recounter",
-            "lex": "ʾamara",
+            "lemma": "ʾamara",
             "nu": "PL"
           }
         ]
@@ -65772,7 +65772,7 @@
           {
             "pos": "PART",
             "gloss": "and",
-            "lex": "w"
+            "lemma": "w"
           }
         ]
       },
@@ -65927,7 +65927,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -66179,7 +66179,7 @@
           {
             "pos": "MODI",
             "gloss": "every; all, all of (§14.9.2.).",
-            "lex": "kul"
+            "lemma": "kul"
           }
         ]
       },
@@ -66507,7 +66507,7 @@
             "gn": "F",
             "gloss": "spoon (made of wood); flat trowel",
             "lang": "K.",
-            "lex": "čamča",
+            "lemma": "čamča",
             "nu": "PL"
           }
         ]
@@ -66668,7 +66668,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "knife",
-            "lex": "skinta",
+            "lemma": "skinta",
             "nu": "PL"
           }
         ]
@@ -66836,7 +66836,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "vessel, container",
-            "lex": "ʾamana",
+            "lemma": "ʾamana",
             "nu": "PL"
           }
         ]
@@ -66972,7 +66972,7 @@
             "gn": "M",
             "gloss": "cup",
             "lang": "A.",
-            "lex": "kuba"
+            "lemma": "kuba"
           }
         ]
       },
@@ -67059,14 +67059,14 @@
           {
             "pos": "MODI",
             "gloss": "every; all, all of (§14.9.2.).",
-            "lex": "kul"
+            "lemma": "kul"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "mosquito net",
             "lang": "A.",
-            "lex": "kulla"
+            "lemma": "kulla"
           }
         ]
       },
@@ -67541,7 +67541,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -68276,7 +68276,7 @@
           {
             "pos": "NUMR",
             "gloss": "eight",
-            "lex": "tmanya"
+            "lemma": "tmanya"
           }
         ]
       },
@@ -68374,7 +68374,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "day; sun.",
-            "lex": "yoma",
+            "lemma": "yoma",
             "nu": "PL",
             "st": "A"
           },
@@ -68382,7 +68382,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "day; sun.",
-            "lex": "yoma",
+            "lemma": "yoma",
             "nu": "PL",
             "st": "A"
           },
@@ -68390,7 +68390,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "day; sun.",
-            "lex": "yoma",
+            "lemma": "yoma",
             "nu": "PL",
             "st": "A"
           }
@@ -68534,7 +68534,7 @@
           {
             "pos": "ADVB",
             "gloss": "there",
-            "lex": "tama"
+            "lemma": "tama"
           }
         ]
       },
@@ -68646,7 +68646,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "wedding",
-            "lex": "xlula"
+            "lemma": "xlula"
           }
         ]
       },
@@ -69217,7 +69217,7 @@
               "MODI"
             ],
             "gloss": "other, another; more; again; discourse particle.",
-            "lex": "xena"
+            "lemma": "xena"
           }
         ]
       },
@@ -69292,7 +69292,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -69598,7 +69598,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "mountain; region of mountains",
-            "lex": "ṭura",
+            "lemma": "ṭura",
             "nu": "PL"
           }
         ]
@@ -69674,7 +69674,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "maternal uncle",
-            "lex": "xala"
+            "lemma": "xala"
           }
         ]
       },
@@ -69774,7 +69774,7 @@
             "gn": "M",
             "gloss": "type of black bird",
             "lang": "K.",
-            "lex": "č̣ara",
+            "lemma": "č̣ara",
             "nu": "PL"
           }
         ]
@@ -69850,7 +69850,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "maternal uncle",
-            "lex": "xala"
+            "lemma": "xala"
           }
         ]
       },
@@ -70008,7 +70008,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "thing",
-            "lex": "məndi",
+            "lemma": "məndi",
             "nu": "PL"
           }
         ]
@@ -70120,7 +70120,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "evening; late afternoon",
-            "lex": "ʾaṣərta"
+            "lemma": "ʾaṣərta"
           }
         ]
       },
@@ -70326,7 +70326,7 @@
               "MODI"
             ],
             "gloss": "a little (quantity); a few (§14.9.7.)",
-            "lex": "xačča"
+            "lemma": "xačča"
           }
         ]
       },
@@ -70377,7 +70377,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -70465,7 +70465,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "day; sun.",
-            "lex": "yoma",
+            "lemma": "yoma",
             "nu": "PL",
             "st": "A"
           }
@@ -70659,7 +70659,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -71230,7 +71230,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "neck of a shirt",
-            "lex": "ziqa"
+            "lemma": "ziqa"
           }
         ]
       },
@@ -71353,7 +71353,7 @@
               "PRON"
             ],
             "gloss": "what? (§7.5., §14.9.13.)",
-            "lex": "ma"
+            "lemma": "ma"
           }
         ]
       },
@@ -71929,7 +71929,7 @@
               "PRON"
             ],
             "gloss": "what? (§7.5., §14.9.13.)",
-            "lex": "ma"
+            "lemma": "ma"
           }
         ]
       },
@@ -72102,7 +72102,7 @@
               "MODI"
             ],
             "gloss": "a little (quantity); a few (§14.9.7.)",
-            "lex": "xačča"
+            "lemma": "xačča"
           }
         ]
       },
@@ -72189,7 +72189,7 @@
           {
             "pos": "ADJV",
             "gloss": "ill",
-            "lex": "mərya",
+            "lemma": "mərya",
             "nu": "PL"
           }
         ]
@@ -72672,14 +72672,14 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "leg; foot",
-            "lex": "ʾaqla",
+            "lemma": "ʾaqla",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "leg; foot",
-            "lex": "ʾaqla",
+            "lemma": "ʾaqla",
             "nu": "PL"
           }
         ]
@@ -73149,7 +73149,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "miller",
-            "lex": "ṭaxana"
+            "lemma": "ṭaxana"
           }
         ]
       },
@@ -73460,7 +73460,7 @@
             "gn": "F",
             "nu": "SG",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾayya"
+            "lemma": "ʾayya"
           }
         ]
       },
@@ -74125,14 +74125,14 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "leg; foot",
-            "lex": "ʾaqla",
+            "lemma": "ʾaqla",
             "nu": "PL"
           },
           {
             "pos": "NOUN",
             "gn": "F",
             "gloss": "leg; foot",
-            "lex": "ʾaqla",
+            "lemma": "ʾaqla",
             "nu": "PL"
           }
         ]
@@ -74423,7 +74423,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "woman; wife",
-            "lex": "baxta",
+            "lemma": "baxta",
             "nu": "PL"
           }
         ]
@@ -74613,7 +74613,7 @@
           {
             "pos": "PART",
             "gloss": "asseverative particle; why?; remonstrating particle (§17.9.1.).",
-            "lex": "nəmu"
+            "lemma": "nəmu"
           }
         ]
       },
@@ -74664,7 +74664,7 @@
           {
             "pos": "PART",
             "gloss": "intensifying particle (§17.9.2.)",
-            "lex": "xo"
+            "lemma": "xo"
           }
         ]
       },
@@ -74843,7 +74843,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "miller",
-            "lex": "ṭaxana"
+            "lemma": "ṭaxana"
           }
         ]
       },
@@ -75363,7 +75363,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "woman; wife",
-            "lex": "baxta",
+            "lemma": "baxta",
             "nu": "PL"
           }
         ]
@@ -75496,7 +75496,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "house; home; verse (of poetry/song)",
-            "lex": "bɛθa",
+            "lemma": "bɛθa",
             "st": "C",
             "nu": "PL"
           }
@@ -76136,14 +76136,14 @@
           {
             "pos": "PART",
             "gloss": "or",
-            "lex": "ʾaw"
+            "lemma": "ʾaw"
           },
           {
             "pos": "PRON",
             "gn": "M",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾaw.2"
+            "lemma": "ʾaw.2"
           }
         ]
       },
@@ -76254,7 +76254,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "miller",
-            "lex": "ṭaxana"
+            "lemma": "ṭaxana"
           }
         ]
       },
@@ -76910,7 +76910,7 @@
           {
             "pos": "PART",
             "gloss": "thus, like this, so, such",
-            "lex": "hatxa"
+            "lemma": "hatxa"
           }
         ]
       },
@@ -77193,7 +77193,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -77293,7 +77293,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "day; sun.",
-            "lex": "yoma",
+            "lemma": "yoma",
             "nu": "PL",
             "st": "A"
           }
@@ -77383,7 +77383,7 @@
           {
             "pos": "NUMR",
             "gloss": "two",
-            "lex": "tre",
+            "lemma": "tre",
             "gn": "F"
           }
         ]
@@ -77435,7 +77435,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -77548,7 +77548,7 @@
             "pos": "NOUN",
             "gn": "F",
             "gloss": "Saturday; week",
-            "lex": "šabθa",
+            "lemma": "šabθa",
             "nu": "PL"
           }
         ]
@@ -77600,7 +77600,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -77713,7 +77713,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "month",
-            "lex": "yarxa",
+            "lemma": "yarxa",
             "nu": "PL"
           }
         ]
@@ -77953,12 +77953,12 @@
             "gn": "M",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾaw.2"
+            "lemma": "ʾaw.2"
           },
           {
             "pos": "PART",
             "gloss": "vocative particle",
-            "lex": "ʾo"
+            "lemma": "ʾo"
           }
         ]
       },
@@ -78608,12 +78608,12 @@
             "gn": "F",
             "gloss": "side, direction",
             "lang": "K.",
-            "lex": "la"
+            "lemma": "la"
           },
           {
             "pos": "PART",
             "gloss": "no (variants laʾ, laʾa), not; neither/nor; asseverative particle.",
-            "lex": "la.2"
+            "lemma": "la.2"
           }
         ]
       },
@@ -78827,7 +78827,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -78880,12 +78880,12 @@
             "gn": "F",
             "gloss": "side, direction",
             "lang": "K.",
-            "lex": "la"
+            "lemma": "la"
           },
           {
             "pos": "PART",
             "gloss": "no (variants laʾ, laʾa), not; neither/nor; asseverative particle.",
-            "lex": "la.2"
+            "lemma": "la.2"
           }
         ]
       },
@@ -79075,7 +79075,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -79152,7 +79152,7 @@
             "gn": "F",
             "gloss": "breath; time, instance; yes.",
             "lang": "K.",
-            "lex": "bena"
+            "lemma": "bena"
           }
         ]
       },
@@ -79346,7 +79346,7 @@
             "gn": "F",
             "nu": "SG",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾayya"
+            "lemma": "ʾayya"
           }
         ]
       },
@@ -79887,12 +79887,12 @@
             "gn": "F",
             "gloss": "side, direction",
             "lang": "K.",
-            "lex": "la"
+            "lemma": "la"
           },
           {
             "pos": "PART",
             "gloss": "no (variants laʾ, laʾa), not; neither/nor; asseverative particle.",
-            "lex": "la.2"
+            "lemma": "la.2"
           }
         ]
       },
@@ -80122,7 +80122,7 @@
           {
             "pos": "ADVB",
             "gloss": "here",
-            "lex": "ʾaxxa"
+            "lemma": "ʾaxxa"
           }
         ]
       },
@@ -80268,7 +80268,7 @@
           {
             "pos": "ADVB",
             "gloss": "here",
-            "lex": "tamma"
+            "lemma": "tamma"
           }
         ]
       },
@@ -80815,7 +80815,7 @@
           {
             "pos": "PART",
             "gloss": "also, even; connective particle (§18.1.3.).",
-            "lex": "ʾap"
+            "lemma": "ʾap"
           }
         ]
       },
@@ -80904,7 +80904,7 @@
             "gn": "F",
             "nu": "SG",
             "gloss": "speaker deixis demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾayya"
+            "lemma": "ʾayya"
           }
         ]
       },
@@ -80980,7 +80980,7 @@
             "gn": "F",
             "gloss": "breath; time, instance; yes.",
             "lang": "K.",
-            "lex": "bena"
+            "lemma": "bena"
           }
         ]
       },
@@ -81254,7 +81254,7 @@
             "gn": "F",
             "gloss": "value",
             "lang": "A.",
-            "lex": "qima"
+            "lemma": "qima"
           }
         ]
       },
@@ -81710,7 +81710,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -81972,12 +81972,12 @@
             "gn": "F",
             "gloss": "side, direction",
             "lang": "K.",
-            "lex": "la"
+            "lemma": "la"
           },
           {
             "pos": "PART",
             "gloss": "no (variants laʾ, laʾa), not; neither/nor; asseverative particle.",
-            "lex": "la.2"
+            "lemma": "la.2"
           }
         ]
       },
@@ -82169,7 +82169,7 @@
           {
             "pos": "ADVB",
             "gloss": "here",
-            "lex": "laxxa"
+            "lemma": "laxxa"
           }
         ]
       },
@@ -82244,7 +82244,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "you",
-            "lex": "ʾati"
+            "lemma": "ʾati"
           }
         ]
       },
@@ -82413,7 +82413,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "trick, prank",
-            "lex": "leba",
+            "lemma": "leba",
             "nu": "PL"
           }
         ]
@@ -82965,7 +82965,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "miller",
-            "lex": "ṭaxana"
+            "lemma": "ṭaxana"
           }
         ]
       },
@@ -83581,7 +83581,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -83657,7 +83657,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -83731,7 +83731,7 @@
           {
             "pos": "PART",
             "gloss": "how? how could it?",
-            "lex": "maṭo"
+            "lemma": "maṭo"
           }
         ]
       },
@@ -84619,7 +84619,7 @@
               "PREP"
             ],
             "gloss": "how? how could it be? like, just as; when",
-            "lex": "dax"
+            "lemma": "dax"
           }
         ]
       },
@@ -84694,7 +84694,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -85346,7 +85346,7 @@
               "PREP"
             ],
             "gloss": "how? how could it be? like, just as; when",
-            "lex": "dax"
+            "lemma": "dax"
           }
         ]
       },
@@ -85654,7 +85654,7 @@
           {
             "pos": "PART",
             "gloss": "also, even; connective particle (§18.1.3.).",
-            "lex": "ʾap"
+            "lemma": "ʾap"
           }
         ]
       },
@@ -85729,7 +85729,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -85793,14 +85793,14 @@
           {
             "pos": "MODI",
             "gloss": "which?",
-            "lex": "ʾay"
+            "lemma": "ʾay"
           },
           {
             "pos": "PRON",
             "gn": "F",
             "nu": "SG",
             "gloss": "default demonstrative (§7.4., §14.3.2.)",
-            "lex": "ʾay.2"
+            "lemma": "ʾay.2"
           }
         ]
       },
@@ -85935,7 +85935,7 @@
           {
             "pos": "PART",
             "gloss": "still; (not) yet; (no) longer (§15.10.).",
-            "lex": "heš"
+            "lemma": "heš"
           }
         ]
       },
@@ -86229,7 +86229,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "miller",
-            "lex": "ṭaxana"
+            "lemma": "ṭaxana"
           }
         ]
       },
@@ -86502,7 +86502,7 @@
           {
             "pos": "PART",
             "gloss": "intensifying particle (§17.9.2.)",
-            "lex": "xo"
+            "lemma": "xo"
           }
         ]
       },
@@ -86681,7 +86681,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "miller",
-            "lex": "ṭaxana"
+            "lemma": "ṭaxana"
           }
         ]
       },
@@ -87096,7 +87096,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "king",
-            "lex": "malka",
+            "lemma": "malka",
             "nu": "PL"
           }
         ]
@@ -87278,7 +87278,7 @@
           {
             "pos": "PART",
             "gloss": "and",
-            "lex": "w"
+            "lemma": "w"
           }
         ]
       },
@@ -87434,7 +87434,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -87511,7 +87511,7 @@
             "gn": "F",
             "gloss": "breath; time, instance; yes.",
             "lang": "K.",
-            "lex": "bena"
+            "lemma": "bena"
           }
         ]
       },
@@ -87590,7 +87590,7 @@
               "MODI"
             ],
             "gloss": "other, another; more; again; discourse particle.",
-            "lex": "xena"
+            "lemma": "xena"
           }
         ]
       },
@@ -87827,7 +87827,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -87916,7 +87916,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "month",
-            "lex": "yarxa",
+            "lemma": "yarxa",
             "nu": "PL"
           }
         ]
@@ -87968,7 +87968,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -88045,7 +88045,7 @@
             "gn": "F",
             "gloss": "breath; time, instance; yes.",
             "lang": "K.",
-            "lex": "bena"
+            "lemma": "bena"
           }
         ]
       },
@@ -88124,7 +88124,7 @@
               "MODI"
             ],
             "gloss": "other, another; more; again; discourse particle.",
-            "lex": "xena"
+            "lemma": "xena"
           }
         ]
       },
@@ -88211,7 +88211,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -88348,7 +88348,7 @@
               "PRON"
             ],
             "gloss": "what? (§7.5., §14.9.13.)",
-            "lex": "ma"
+            "lemma": "ma"
           }
         ]
       },
@@ -88566,7 +88566,7 @@
               "PRON"
             ],
             "gloss": "what? (§7.5., §14.9.13.)",
-            "lex": "ma"
+            "lemma": "ma"
           }
         ]
       },
@@ -88723,7 +88723,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "fox",
-            "lex": "tela",
+            "lemma": "tela",
             "nu": "PL"
           }
         ]
@@ -88879,7 +88879,7 @@
           {
             "pos": "ADJV",
             "gloss": "asleep",
-            "lex": "dmixa",
+            "lemma": "dmixa",
             "gn": "F",
             "nu": "PL"
           }
@@ -89450,7 +89450,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "wood; piece of wood",
-            "lex": "qɛsa",
+            "lemma": "qɛsa",
             "nu": "PL"
           }
         ]
@@ -89746,7 +89746,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "house; home; verse (of poetry/song)",
-            "lex": "bɛθa",
+            "lemma": "bɛθa",
             "st": "C",
             "nu": "PL"
           }
@@ -89953,7 +89953,7 @@
           {
             "pos": "NUMR",
             "gloss": "eight",
-            "lex": "tmanya"
+            "lemma": "tmanya"
           }
         ]
       },
@@ -90028,7 +90028,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "day; sun.",
-            "lex": "yoma",
+            "lemma": "yoma",
             "nu": "PL",
             "st": "A"
           },
@@ -90036,7 +90036,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "day; sun.",
-            "lex": "yoma",
+            "lemma": "yoma",
             "nu": "PL",
             "st": "A"
           },
@@ -90044,7 +90044,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "day; sun.",
-            "lex": "yoma",
+            "lemma": "yoma",
             "nu": "PL",
             "st": "A"
           }
@@ -90226,7 +90226,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "night",
-            "lex": "lɛle"
+            "lemma": "lɛle"
           }
         ]
       },
@@ -90485,7 +90485,7 @@
           {
             "pos": "NUMR",
             "gloss": "one; a (§14.1.)",
-            "lex": "xa",
+            "lemma": "xa",
             "gn": "F"
           }
         ]
@@ -90808,7 +90808,7 @@
           {
             "pos": "NUMR",
             "gloss": "eight",
-            "lex": "tmanya"
+            "lemma": "tmanya"
           }
         ]
       },
@@ -90883,7 +90883,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "day; sun.",
-            "lex": "yoma",
+            "lemma": "yoma",
             "nu": "PL",
             "st": "A"
           },
@@ -90891,7 +90891,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "day; sun.",
-            "lex": "yoma",
+            "lemma": "yoma",
             "nu": "PL",
             "st": "A"
           },
@@ -90899,7 +90899,7 @@
             "pos": "NOUN",
             "gn": "M",
             "gloss": "day; sun.",
-            "lex": "yoma",
+            "lemma": "yoma",
             "nu": "PL",
             "st": "A"
           }
@@ -91347,7 +91347,7 @@
             "pos": "PRON",
             "gn": "C",
             "gloss": "I",
-            "lex": "ʾana"
+            "lemma": "ʾana"
           }
         ]
       },
@@ -91536,7 +91536,7 @@
           {
             "pos": "ADVB",
             "gloss": "there",
-            "lex": "tama"
+            "lemma": "tama"
           }
         ]
       },
@@ -91703,7 +91703,7 @@
           {
             "pos": "ADVB",
             "gloss": "here",
-            "lex": "laxxa"
+            "lemma": "laxxa"
           }
         ]
       }
