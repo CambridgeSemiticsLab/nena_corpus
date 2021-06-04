@@ -1,0 +1,11 @@
+{
+    "version": "alpha",
+    "nena_indir": "../texts/alpha",
+    "tf_outdir": "",
+    "metadata": "../standards/metadata.json",
+    "alphabet": "../standards/alphabet/alphabet.json",
+    "punctuation": "../standards/punctuation/punctuation.json",
+    "transcriptions": "../standards/transcriptions",
+    "foreign_langs": "../standards/languages/foreign_languages.json",
+    ""
+}
