@@ -1,6 +1,9 @@
+import sys
 import json
+import collections
 from tf.fabric import Fabric
 from tf.convert.walker import CV
+import unicodedata as ucd
 
 class NenaTfBuilder:
     """Construct Text-Fabric graph resource from parsed NENA files."""
@@ -25,13 +28,24 @@ class NenaTfBuilder:
         # load JSON data and initialize TF objects
         self.dialect2data = dialect2data
         self.configs = self.load_configs(configfile)
-        self.metadata = self.configs['metadata']
         self.Fabric = Fabric(
             locations=self.configs['tf_outdir'],
             **TF_kwargs
         )
         self.cv = CV(self.Fabric)
-        self.message = self.Fabric.tmObj # timestamped messages
+        self.msg = self.Fabric.tmObj # timestamped messages
+
+        # prepare metadata for the TF builder
+        self.metadata = self.configs['metadata']
+        self.metadata.update(self.configs['tf_config'])
+        self.metadata['object_features'] = {
+            k:v for k,v in self.metadata['object_features'].items() 
+                if k not in self.metadata['ignore_features']
+        }
+        self.metadata['intFeatures'] = {
+            f for f,fd in self.metadata['object_features'].items() 
+                if fd['value'] == 'integer'
+        }
 
         # prepare dictionary with all character data
         self.chardata = self.configs['alphabet']
@@ -57,7 +71,17 @@ class NenaTfBuilder:
 
     def get_char_data(self, char_string, dialect):
         """Retrieve data for a letter/punct from the configs."""
-        cdata = self.chardata.get(char_string, {})
+
+        # send back those cases that are already data
+        if type(char_string) == dict:
+            return char_string
+
+        # retrieve the data using the lower-case representation
+        char_lower = ''.join(c.lower() for c in char_string)
+        cdata = self.chardata.get(char_lower, {}).get('attributes', {})
+        if not cdata:
+            self.msg.indent(2)
+            self.msg.info(f'\tforeign letter {char_string} encountered...')
         cdata.update(
             self.get_transcriptions(char_string, dialect)
         )
@@ -160,6 +184,9 @@ class NenaTfBuilder:
                 nodes[node_type] = cv.node(node_type)
         
         # parse all data for every dialect
+        msg = self.msg
+        msg.indent(0, reset=True)
+        msg.info('indexing all dialects / texts...')
         for dialect, texts in self.dialect2data.items():
             
             # make dialect node / features
@@ -168,9 +195,13 @@ class NenaTfBuilder:
             
             # make text node / features
             for text in texts:
-        
+
                 nodes['text'] = cv.node('text')
                 text_attributes, paragraphs = text
+                title = text_attributes['title']
+
+                msg.indent(1)
+                msg.info(f'indexing {dialect}, {title}...') 
                 
                 for feature, value in text_attributes.items():
                     if feature == 'speakers':
@@ -250,12 +281,15 @@ class NenaTfBuilder:
                             # current process allows multiple parsings to co-exist
                             # thus we construct a composite parse-string for each feature
                             parse_values = collections.defaultdict(list)
-                            word_features['n_parses'] = len(element['parsings'])
-                            for parse in element['parsings']:
+
+                            # Note: grammatical parsing is currently disabled, but this
+                            # is the place to add it: 
+                            #word_features['n_parses'] = len(element['parsings'])
+                            #for parse in element['parsings']:
                                 # gather feature / val strings to be joined on '|' (see next codeblock)
-                                keep_parse = self.dict_intersect(parse, features)
-                                for feat, val in keep_parse.items():
-                                    parse_values[feat].append(val)
+                                #keep_parse = self.dict_intersect(parse, features)
+                                #for feat, val in keep_parse.items():
+                                    #parse_values[feat].append(val)
                             
                             # join multiple parse strings on '|'
                             # add the new strings to word features
@@ -320,9 +354,12 @@ class NenaTfBuilder:
                     
                     # do a sanity check for un-closed intons, subsentences, sentences
                     # possibly due to lack of proper punctuation in the source text (to be fixed later)
-                    title = text_attributes['title']
                     for obj in {'stress', 'inton', 'sentence', 'subsentence'} & cv.activeTypes():
-                        sys.stderr.write(f'force-closing {obj} in {title}, §{ith_paragraph}.{ith_element}\n')
+                        msg.indent(2)
+                        msg.info(
+                            f'\tforce-closing {obj} '
+                            f'in §{ith_paragraph}.{ith_element}'
+                        )
                         cv.terminate(nodes[obj])
                     
                     # check for active line on last paragraph of a text

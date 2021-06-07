@@ -1,8 +1,9 @@
 {
     "version": "alpha",
-    "nena_indir": "../texts/alpha",
-    "tf_outdir": "../tf",
+    "nena_indir": "../texts/{version}",
+    "tf_outdir": "../tf/{version}",
     "parse_debug": "parser.out",
+    "tf_config": "definitions/tf_config.json",
     "metadata": "definitions/metadata.json",
     "alphabet": "definitions/alphabet.json",
     "punct_begin": "definitions/punct_begin.json",

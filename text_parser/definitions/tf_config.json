@@ -10,6 +10,9 @@
         "fmt:text-trans-fuzzy": "word#{fuzzy}{fuzzy_end}"
     },
     "ignore_features": [
+        "pos", "lemma", "variable", "st", "gn",
+        "nu", "nu_class", "trns", "syn", "stem",
+        "tense", "gloss", "n_parses",
         "full_begin", "fuzzy_begin", "lite_begin",
         "stem", "syn", "text_begin", "timestamp", "trns"
     ] 
