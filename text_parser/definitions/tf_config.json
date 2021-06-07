@@ -1,0 +1,16 @@
+{
+    "slot_type": "letter",
+    "otext": {
+        "sectionTypes": "dialect,text,line",
+        "sectionFeatures": "dialect,title,line_number",
+        "fmt:text-orig-full": "word#{text}{text_end}",
+        "fmt:text-orig-lite": "word#{lite}{lite_end}",
+        "fmt:text-trans-full": "word#{full}{full_end}",
+        "fmt:text-trans-lite": "word#{lite}{lite_end}",
+        "fmt:text-trans-fuzzy": "word#{fuzzy}{fuzzy_end}"
+    },
+    "ignore_features": [
+        "full_begin", "fuzzy_begin", "lite_begin",
+        "stem", "syn", "text_begin", "timestamp", "trns"
+    ] 
+}

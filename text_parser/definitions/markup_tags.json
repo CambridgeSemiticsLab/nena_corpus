@@ -1,0 +1,13 @@
+{
+
+    "text_meta": "([a-zA-Z0-9_]+)\\s*::\\s*(.*)",
+    "newlines": "\\n\\s*\\n\\s*",
+    "newline": "\\n\\s*",
+    "span_tag": "\\((.*?)\\)\\s*",
+    "timestamp": "\\d+:\\d+\\d*",
+    "linenum": "\\d+",
+    "speaker": "\\D\\D",
+    "lang_start": "<([A-Za-z?]+):\\s*",
+    "lang_end": ">",
+    "foreign_letter": "[a-zA-ZðÐɟəƏɛƐʾʿθΘ][\\u0300-\\u033d]*"
+}

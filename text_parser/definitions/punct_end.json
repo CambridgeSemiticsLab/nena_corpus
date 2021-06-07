@@ -1,0 +1,106 @@
+{
+  " ": {
+    "regex": " ",
+    "attributes": {
+      "class": "separator",
+      "position": "end",
+      "modifies": "word"
+    }
+  },
+  "-": {
+    "regex": "-",
+    "attributes": {
+      "class": "connector",
+      "position": "end",
+      "modifies": "stress group"
+    }
+  },
+  "=": {
+    "regex": "=",
+    "attributes": {
+      "class": "connector",
+      "position": "end",
+      "modifies": "stress group"
+    }
+  },
+  "\u02c8": {
+    "regex": "\u02c8",
+    "attributes": {
+      "class": "separator",
+      "position": "end",
+      "modifies": "intonation group"
+    }
+  },
+  ",": {
+    "regex": ",",
+    "attributes": {
+      "class": "separator",
+      "position": "end",
+      "modifies": "subsentence"
+    }
+  },
+  "...": {
+    "regex": "\\.\\.\\.",
+    "attributes": {
+      "class": "separator",
+      "position": "end",
+      "modifies": "subsentence"
+    }
+  },
+  ":": {
+    "regex": ":",
+    "attributes": {
+      "class": "separator",
+      "position": "end",
+      "modifies": "subsentence"
+    }
+  },
+  "\u2014": {
+    "regex": "\u2014",
+    "attributes": {
+      "class": "separator",
+      "position": "end",
+      "modifies": "subsentence"
+    }
+  },
+  ";": {
+    "regex": ";",
+    "attributes": {
+      "class": "separator",
+      "position": "end",
+      "modifies": "subsentence"
+    }
+  },
+  ".": {
+    "regex": "(?<!\\.)\\.(?!\\.)",
+    "attributes": {
+      "class": "separator",
+      "position": "end",
+      "modifies": "sentence"
+    }
+  },
+  "?": {
+    "regex": "\\?",
+    "attributes": {
+      "class": "separator",
+      "position": "end",
+      "modifies": "sentence"
+    }
+  },
+  "!": {
+    "regex": "!",
+    "attributes": {
+      "class": "separator",
+      "position": "end",
+      "modifies": "sentence"
+    }
+  },
+  "\" ": {
+    "regex": "\" ",
+    "attributes": {
+      "class": "separator",
+      "position": "end",
+      "modifies": "sentence"
+    }
+  }
+}

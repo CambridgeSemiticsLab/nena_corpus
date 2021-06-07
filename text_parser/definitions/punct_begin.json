@@ -1,0 +1,18 @@
+{
+  "\u207a": {
+    "regex": "\u207a",
+    "attributes": {
+      "class": "phonetic",
+      "position": "begin",
+      "modifies": "stress group"
+    }
+  },
+  "\"": {
+    "regex": "\"",
+    "attributes": {
+      "class": "separator",
+      "position": "begin",
+      "modifies": "text"
+    }
+  }
+}

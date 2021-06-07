@@ -1,11 +1,14 @@
 {
     "version": "alpha",
     "nena_indir": "../texts/alpha",
-    "tf_outdir": "",
-    "metadata": "../standards/metadata.json",
-    "alphabet": "../standards/alphabet/alphabet.json",
-    "punctuation": "../standards/punctuation/punctuation.json",
-    "transcriptions": "../standards/transcriptions",
-    "foreign_langs": "../standards/languages/foreign_languages.json",
-    ""
+    "tf_outdir": "../tf",
+    "parse_debug": "parser.out",
+    "metadata": "definitions/metadata.json",
+    "alphabet": "definitions/alphabet.json",
+    "punct_begin": "definitions/punct_begin.json",
+    "punct_end": "definitions/punct_end.json",
+    "transcriptions": "definitions/transcriptions.json",
+    "dialects": "definitions/dialects.json",
+    "foreign_langs": "definitions/foreign_languages.json",
+    "markup_tags": "markup_tags.json"
 }
