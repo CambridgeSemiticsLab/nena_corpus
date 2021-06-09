@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: The Adventures of Two Brothers
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A42
 place:: Guylasar, Armenia
 speakers:: MG=Manya Givoyev
+corpus_id:: 49
 
 (1) ʾána xak̭yánnux məttə̀ltaˈ xá məttə̀lta b-xák̭yan.ˈ ⁺ràba ⁺bəddáyənˈ ⁺ràba.ˈ
 p-xak̭yánnux məttə̀lta.ˈ (2) ʾə̀tvaˈ lə̀tvaˈ mən-ʾaláha ⁺ɟúra hə́č-məndi lə̀tvaˈ xá

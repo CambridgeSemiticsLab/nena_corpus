@@ -1,10 +1,11 @@
-dialect:: Barwar
+dialect:: barwar
 title:: The Cooking Pot
-encoding:: UTF8
+encoding:: UTF-8
 source:: bar text a1-A7.html
 text_id:: A5
 place:: Dure
 speakers:: YY=Yuwəl Yuḥanna
+corpus_id:: 62
 
 (1) málla Naṣrádin xá-ga băyéwa mbašə́lwa pàča.ˈ líθwale quṣàrta.ˈ mə́re ṭla-báxte
 dìyeˈ qu-sɛ́ kəs-d-anna-šwàwənˈ mɛ́θɛ ða-quṣàrtaˈ mbášləx xáčča páča.ˈ zìlla,ˈ

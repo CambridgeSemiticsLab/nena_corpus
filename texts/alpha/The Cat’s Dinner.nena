@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: The Cat’s Dinner
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A11
 place:: +Hassar +Baba-čanɟa, N
 speakers:: YD=Yulia Davudi
+corpus_id:: 61
 
 (1) xá-yuma ⁺málla ⁺Nasrádən mùyyəvaˈ xàˈ ⁺bàtmanˈ ⁺bùsra.ˈ ⁺bátman ʾìlaˈ
 líšān-tùrcət ⁺bátman,ˈ ⁺yánə tré ⁺ṱlà cilóyə,ˈ ⁺ʾarp̭à cilóyə.ˈ ⁺bùsra múyyəva

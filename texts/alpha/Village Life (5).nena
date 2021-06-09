@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: Village Life (5)
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: B15
 place:: Guylasar, Armenia
 speakers:: NA=Nadia Aloverdova
+corpus_id:: 117
 
 (1) ⁺ʾaturáyət dìyyanˈ k̭ámta k̭át bəxxàyəva láxxaˈ ʾə́tvalan ⁺bùk̭raˈ xamúvva
 tavəryáy ʾərbìyyəˈ móriša bə́ššəva ⁺bùk̭raˈ ⁺bérāš bitàyəva.ˈ tavəryátə

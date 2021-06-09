@@ -10,7 +10,7 @@
 @value=categorical
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2021-06-07T17:06:43Z
+@dateWritten=2021-06-09T16:42:09Z
 
 713308	Dure
 Dure
@@ -64,69 +64,69 @@ Dure
 Dure
 Dure
 ʾƐn-Nune
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
 Babari, S
-+Hassar +Baba-čanɟa, N
-Spurġān, N
++Hassar +Baba-čanɟa, N
+Spurġān, N
 Guylasar, Armenia
 Canda, Georgia
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
-+Spurġān, N
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Spurġān, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
 Zumallan, N
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
 Zumallan, N
 Zumallan, N
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
 Zumallan, N
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
 Zumallan, N
 Canda, Georgia
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
 Mushawa, N
 Guylasar, Armenia
 Guylasar, Armenia
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
 Guylasar, Armenia
 Zumallan, N
 Zumallan, N
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
 Canda, Georgia
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
 Canda, Georgia
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
 Babari, S
 Arzni, Armenia
 Guylasar, Armenia
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
 Arzni, Armenia
 Canda, Georgia
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
 Arzni, Armenia
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
 +Hassar +Baba-canɟa, N
 Babari, S
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
 Arzni, Armenia
 Zumallan, N
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
 Canda, Georgia
 Guylasar, Armenia
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
 Zumallan, N
 Gulpashan, S
 Guylasar, Armenia
@@ -134,7 +134,7 @@ Canda, Georgia
 Mushava, N
 Zumallan, N
 Zumallan, N
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
-+Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N
++Hassar +Baba-čanɟa, N

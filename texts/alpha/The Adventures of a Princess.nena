@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: The Adventures of a Princess
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A43
 place:: Guylasar, Armenia
 speakers:: MG=Manya Givoyev
+corpus_id:: 50
 
 (1) xak̭yánnux ... xìna.ˈ ʾə́tva lə́tva xá màlca,ˈ xá màlca,ˈ xá dána hə́nna ...
 malə̀cta mə́drə.ˈ ʾə́tvalun xà-dana bráta.ˈ cu-šìtaˈ c-azíva ⁺yàylaġˈ ⁺yáylaġ

@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: The Old Man and the Fish
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A54
 place:: Canda, Georgia
 speakers:: MG=Maryam Gwirgis
+corpus_id:: 86
 
 (1) ʾə́tva lə̀tvaˈ ʾə́tva xá náša sàva.ˈ ʾə́tvāl xá čullùxtaˈ ʾə́tvalə xá brùnaˈ
 hám=da ɟánu báxtu ʾu-hám=da ʾo-brúnu bəxxáyəva ɟu-dé čullùxta.ˈ xá ⁺čolə

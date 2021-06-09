@@ -1,8 +1,8 @@
 {
     "full": {
         "dialect2set": {
-            "Barwar": "1", 
-            "Urmi_C": "1"
+            "barwar": "1", 
+            "urmi_c": "1"
         },
         "1": {
             "b": "b",
@@ -113,8 +113,8 @@
     },
     "lite": {
         "dialect2set": {
-            "Barwar": "1",
-            "Urmi_C": "1"
+            "barwar": "1",
+            "urmi_c": "1"
         },
         "1": {
             "b": "b",
@@ -225,16 +225,16 @@
     },
     "text": {
         "dialect2set": {
-            "Barwar": "1",
-            "Urmi_C": "1"
+            "barwar": "1",
+            "urmi_c": "1"
         },
         "1": {
         }
     },
     "text_nostress": {
         "dialect2set": {
-            "Barwar": "1",
-            "Urmi_C": "1"
+            "barwar": "1",
+            "urmi_c": "1"
         },
         "1": {
             "b": "b",
@@ -346,8 +346,8 @@
 
     "fuzzy": {
         "dialect2set": {
-            "Barwar": "1",
-            "Urmi_C": "2"
+            "barwar": "1",
+            "urmi_c": "2"
         },
         "1": {
             "b": "b",

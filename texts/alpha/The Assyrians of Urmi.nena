@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: The Assyrians of Urmi
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: B1
 place:: Zumallan, N
 speakers:: YY=Yosəp bet Yosəp
+corpus_id:: 53
 
 (1) màrənaˈ Tə́k̭lat ⁺Palàsarˈ muyyílə nàšəˈ muttílə ɟu-ʾÙrmi.ˈ b-⁺dánət k̭át
  ⁺ʾiranàyə bitáyənaˈ ʾé cmayútət ⁺ʾaturáyə har-⁺táma pyàšəla,ˈ ʾe-dánət K̭ùrəš

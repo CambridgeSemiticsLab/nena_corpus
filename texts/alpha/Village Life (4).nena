@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: Village Life (4)
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: B14
 place:: Gulpashan, S
 speakers:: JP=Jacob Petrus, GK=Geoffrey Khan
+corpus_id:: 116
 
 (1) cúllə bətvátət màta,ˈ ɟu-mavàtə,ˈ cut-bètaˈ ʾə́tvalə xá tanùyra,ˈ tanùyraˈ
 k̭át ... zòda ɟávuˈ làxma ci-páyyi,ˈ yán ⁺k̭usàrta ci-bášli ɟàvo,ˈ ⁺k̭usàrta.ˈ

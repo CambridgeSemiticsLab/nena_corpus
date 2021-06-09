@@ -1,10 +1,11 @@
-dialect:: Barwar
+dialect:: barwar
 title:: The King With Forty Sons
-encoding:: UTF8
+encoding:: UTF-8
 source:: bar text A9-A13.html
 text_id:: A12
 place:: Dure
 speakers:: YK=Yuwarəš Xošăba Kena
+corpus_id:: 75
 
 (1) ʾíθwa xa-màlkaˈ ʾíθwale ʾárbi bnòne.ˈ brṓn-diye ʾo-zòraˈ ʾítwale ʾarbì
 šə́nne.ˈ zílle ṭla-babe-dìyeˈ mə́re ʾànaˈ ʾúmrile ʾarbì šə́nne.ˈ ʾína ʾánna

@@ -1,10 +1,11 @@
-dialect:: Barwar
+dialect:: barwar
 title:: The Lion King
-encoding:: UTF8
+encoding:: UTF-8
 source:: bar text a46-A47.html
 text_id:: A46
 place:: ʾƐn-Nune
 speakers:: GD=Gwərgəs Dawið
+corpus_id:: 77
 
 (1) ʾíθwa xa-ʾàrya.ˈ ḥakəm t-xa-wəlàya-wewa.ˈ wíða-wewa muwáfăqa mə́nnət ...
 t-heywàneˈ kút-yom xa-hèywənˈ lázəm mɛθɛ̀waleˈ ta-ṱ-axə̀lwaleˈ páyəšwa ràḥatˈ

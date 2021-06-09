@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: St. Zayya’s Cake Dough
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: B11
 place:: Zumallan, N
 speakers:: VO=Victor Orshan
+corpus_id:: 44
 
 (1) šlàma ⁺ʾallóxun.ˈ ʾána šə́mmi ʾílə Və́ktur ʾÙršanˈ ʾána
 ʾət-māt-Zumàllan=ivən.ˈ Zumàllanˈ xá mən-matvátət ⁺mašṱáxət ʾÙrmila.ˈ npə́ltəla

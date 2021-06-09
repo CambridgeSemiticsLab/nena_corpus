@@ -1,11 +1,12 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: The Wife Who Learns How to Work
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A35
 version:: Version 1
 place:: Babari, S
 speakers:: NG=Nancy George
+corpus_id:: 104
 
 (1) xá-yuma mə́drə xá yàlaˈ bábu myàtələˈ xá yə́mma vàyulə.ˈ xína lə́tvalə ʾaxúna
 xàta.ˈ mára yə̀mmiˈ bábi k̭a-díyyi mùlpələˈ ʾána mujjúrra ʾánnə tòrə lablə́nnun,ˈ

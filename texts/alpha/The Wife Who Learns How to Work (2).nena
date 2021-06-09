@@ -1,11 +1,12 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: The Wife Who Learns How to Work (2)
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 version:: Version 2
 place:: +Hassar +Baba-canɟa, N
 continued_from:: The Wife Who Learns How to Work
 speakers:: YD=Yulia Davudi
+corpus_id:: 103
 
 (1) xá-yuma xa-bràtaˈ mən-madràsaˈ bálcət ṱ-avívala ʾəštassár šə̀nnəˈ bərrə́xšəna
  ⁺ṱalbìlaˈ k̭a-brunè.ˈ bába yə́mmət bráta màrənaˈ k̭át hə́č mə́ndi lèla ⁺bəddá,ˈ hə́č

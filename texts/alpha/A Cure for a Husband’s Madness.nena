@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: A Cure for a Husband’s Madness
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A36
 place:: Babari, S
 speakers:: NG=Nancy George
+corpus_id:: 2
 
 (1) xá yàlaˈ yə́mmu myàtəlaˈ ʾína ⁺rába šap̭ìra yála víyyələ.ˈ yə́mmu myàtəla,ˈ
 bàbu pyášələ.ˈ ʾá yàlaˈ bábu márələ ʾána ɟắri màlpən k̭átuxˈ ʾátən ⁺ʾámsət

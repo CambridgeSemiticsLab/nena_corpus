@@ -1,10 +1,11 @@
-dialect:: Barwar
+dialect:: barwar
 title:: A Tale of a Prince and a Princess
-encoding:: UTF8
+encoding:: UTF-8
 source:: bar text a1-A7.html
 text_id:: A4
 place:: Dure
 speakers:: YY=Yuwəl Yuḥanna
+corpus_id:: 15
 
 (1) ʾíθwa lìθwaˈ biš-m-aláha góṛa lìθwa,ˈ ʾíθwa xa-màlka.ˈ ʾaw-málka ʾíθwale
 xa-bròna,ˈ yăk̭àna.ˈ xà mən-yománeˈ ʾáw-bronət màlkaˈ mə́re ṭla-bábe díye bắyən

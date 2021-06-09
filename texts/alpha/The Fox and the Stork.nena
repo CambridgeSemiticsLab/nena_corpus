@@ -1,10 +1,11 @@
-dialect:: Barwar
+dialect:: barwar
 title:: The Fox and the Stork
-encoding:: UTF8
+encoding:: UTF-8
 source:: bar text A45.html
 text_id:: A45
 place:: Dure
 speakers:: Nʾ=Nawiya ʾOdišo
+corpus_id:: 71
 
 (1) hadíya mtánənnux ða-qəṣṣə̀ttaˈ tunìθaˈ ʾíle šə́mma dìyaˈ tála ʾu-làqləq.ˈ
 xa-yòmaˈ taʾla čídle ʾárxa qa-làqləq.ˈ dréle ʾixála qa-ṱ-àxəlˈ gu-ʾamána làṭṭa,ˈ

@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: Problems Lighting a Fire
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A23
 place:: +Hassar +Baba-čanɟa, N
 speakers:: YD=Yulia Davudi
+corpus_id:: 41
 
 (1) xá-yuma ⁺malla ⁺Nasràdənˈ ⁺rába váyələ cpìna.ˈ márələ k̭at-cùt-yumˈ báxti
  ⁺bəšyárəla nùyraˈ ʾà-saparˈ ʾána ɟáni ⁺báyyən núyra ⁺šèrənˈ ʾu-bášlən xá

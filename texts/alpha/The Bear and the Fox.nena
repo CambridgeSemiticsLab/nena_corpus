@@ -1,10 +1,11 @@
-dialect:: Barwar
+dialect:: barwar
 title:: The Bear and the Fox
-encoding:: UTF8
+encoding:: UTF-8
 source:: bar text a19-A23.html
 text_id:: A20
 place:: Dure
 speakers:: Dʾ=Dawið ʾAdam
+corpus_id:: 57
 
 (1) xà-yomaˈ də́bba xðára-wawa gu-ṭuràne.ˈ tfíqla b-xa-tèla.ˈ ʾo-tèlaˈ mə́re há
 lɛ̀kət zála,ˈ ya-gáni də̀bba?ˈ b-álaha xðárən báθər rə̀sqiˈ bálki xa-mə́ndi táfəq

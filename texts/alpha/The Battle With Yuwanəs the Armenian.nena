@@ -1,10 +1,11 @@
-dialect:: Barwar
+dialect:: barwar
 title:: The Battle With Yuwanəs the Armenian
-encoding:: UTF8
+encoding:: UTF-8
 source:: bar text a50-A52.html
 text_id:: A52
 place:: ʾƐn-Nune
 speakers:: AS=Awiko Sulaqa
+corpus_id:: 56
 
 (1) xá-bena Yuwánəs ʾaramnàyaˈ θéle mxéle tàlənˈ l-tálən be-sáwən Tòma.ˈ slibíle
 ʾərwèy,ˈ gaméše diyèy,ˈ gúmle diyèy.ˈ kúlla slibìle.ˈ xáθət sáwən Tòmaˈ

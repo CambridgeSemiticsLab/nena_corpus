@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: The Adventures of Ashur
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A39
 place:: Mushawa, N
 speakers:: YP=Yonan Petrus
+corpus_id:: 48
 
 (1) ʾə́tva lə̀tvaˈ ʾə́tva lə̀tvaˈ ʾə́tva xa-màlca.ˈ ʾáha málca ʾə́tvalə ⁺ṱlá bnùnə.ˈ
 šə́mmət do-brúnu súra ʾíva ⁺ʾÀšur.ˈ ʾáha màlcaˈ ʾə́tvalə xa-báxca ⁺ràba šap̭ə́rta,ˈ

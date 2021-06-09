@@ -1,10 +1,11 @@
-dialect:: Barwar
+dialect:: barwar
 title:: The Crow and the Cheese
-encoding:: UTF8
+encoding:: UTF-8
 source:: bar text A49.html
 text_id:: A49
 place:: Dure
 speakers:: Lʾ=Leya ʾOraha
+corpus_id:: 65
 
 (1) qarə́kke ṱ-íla kùmtaˈ 
 xá-yoma ʾay-tìwtaˈ 

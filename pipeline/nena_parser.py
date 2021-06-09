@@ -53,9 +53,9 @@ class Configs:
     keyed by the name of the patterns (e.g. self.piped_regex['alphabet'])
     """
 
-    def __init__(self, configfile):
+    def __init__(self, configdict):
         # load config file
-        self.config = self.load_json(configfile)
+        self.config = configdict 
         self.definitions = self.load_all_jsons(self.config)
         self.piped_regex = self.pipe_regexs(self.definitions)
         self.compiled_regex = self.compile_regexs(self.definitions)
@@ -92,7 +92,7 @@ class Configs:
             piped_regexs[key] = piped
         return piped_regexs
 
-def NenaLexerParser(configfile):
+def NenaLexerParser(configdict):
     """Wrapper for Lexer and Parser instantiations.
 
     Sly Lexer and Parser objects infer several of their parameters directly
@@ -122,7 +122,7 @@ def NenaLexerParser(configfile):
     """
 
     # read in and pre-process all of the necessary configs
-    configs = Configs(configfile)
+    configs = Configs(configdict)
     defs = configs.definitions
     ppr = configs.piped_regex
     cpr = configs.compiled_regex
@@ -138,8 +138,7 @@ def NenaLexerParser(configfile):
        
         def error(self, t):
             """Give warning for bad characters"""
-            print(f"Illegal character {repr(t.value[0])} @ index {self.index}")
-            self.index += 1
+            raise Exception(f"Illegal character {repr(t.value[0])} @ index {self.index}")
         
         # set of token names as required by Sly the Lexer class;
         # NB that these variables have not yet been defined (!)

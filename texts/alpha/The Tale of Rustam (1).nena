@@ -1,10 +1,11 @@
-dialect:: Barwar
+dialect:: barwar
 title:: The Tale of Rustam (1)
-encoding:: UTF8
+encoding:: UTF-8
 source:: bar text a28.html
 text_id:: A28
 place:: Dure
 speakers:: Dʾ=Dawið ʾAdam
+corpus_id:: 101
 
 (1) ʾíθwa xa-Rùstam.ˈ šə́mmət bábe díye Zā̀l-wewa.ˈ ʾáwwa síqa-wewa l-ṭùraˈ
 l-ṣɛ̀da.ˈ ʾə́θyɛle Tătár-i Slemán-i Sə̀ndiˈ mən-ʾÌrən.ˈ ʾə́θyɛle gu-ṭùraˈ xə̀zyɛleˈ

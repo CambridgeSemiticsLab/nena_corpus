@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: Stomach Trouble
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A25
 place:: +Hassar +Baba-čanɟa, N
 speakers:: YD=Yulia Davudi
+corpus_id:: 46
 
 (1) xá-yuma ⁺màllaˈ bèta tívəvaˈ léva xíša pəlxàna.ˈ báxtu tìla,ˈ mə́rra
 k̭at-k̭amú=ivət píša bètaˈ lḕt xíša pəlxána?ˈ císu ⁺mràyəva,ˈ ʾú ... ʾə́tvalə

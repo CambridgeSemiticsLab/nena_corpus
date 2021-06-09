@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: Weddings
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: B8
 place:: +Hassar +Baba-čanɟa, N
 speakers:: YD=Yulia Davudi
+corpus_id:: 122
 
 (1) xá-dana yàlaˈ xa-bràtaˈ ci-⁺bayyíva ⁺ʾuydàləˈ xazzíva ⁺ʾuydàlə.ˈ mən-k̭ámta
 bába yə̀mmaˈ ɟắri másalan tanìvaˈ bnátət ⁺pə́llən-cas ⁺spày=ina,ˈ masalan bnátət

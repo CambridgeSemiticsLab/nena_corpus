@@ -1,10 +1,11 @@
-dialect:: Barwar
+dialect:: barwar
 title:: The Crafty Hireling
-encoding:: UTF8
+encoding:: UTF-8
 source:: bar text a30.html
 text_id:: A30
 place:: ʾƐn-Nune
 speakers:: MB=Mišayel Barčəm
+corpus_id:: 64
 
 (1) ʾíθwa lìθwaˈ biš-m-álaha góṛa čú-mdi lìθwa.ˈ ʾíθwa xà-naša,ˈ ʾíθwale
 trè-bnone.ˈ rába píšle taqṣīr-ḥā̀l.ˈ láš-iyewa mṣáya xằyewa.ˈ mə́re ta-bnóne dìyeˈ

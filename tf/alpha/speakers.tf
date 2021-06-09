@@ -10,36 +10,36 @@
 @value=string
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2021-06-07T17:06:43Z
+@dateWritten=2021-06-09T16:42:09Z
 
-713308	Yuwəl Yuḥanna
-Yuwəl Yuḥanna
-Yuwarəš Xošăba Kena
-Yuwəl Yuḥanna
-Xošebo ʾOdišo
-Yuwarəš Xošăba Kena
+713308	Yuwəl Yuḥanna
+Yuwəl Yuḥanna
+Yuwarəš Xošăba Kena
+Yuwəl Yuḥanna
+Xošebo ʾOdišo
+Yuwarəš Xošăba Kena
 Nanəs Bənyamən
-Yuwarəš Xošăba Kena
+Yuwarəš Xošăba Kena
 Gwərgəs Dawið
 Kena Kena
 Dawið Gwərgəs
 Dawid Adam
 Bənyamən Bənyamən
-Yuwarəš Xošăba Kena
+Yuwarəš Xošăba Kena
 Awiko Sulaqa
 Dawið ʾAdam
-Xošebo ʾOdišo
+Xošebo ʾOdišo
 Bənyamən Bənyamən
-Yuwəl Yuḥanna
-Mišayel Barčəm
+Yuwəl Yuḥanna
+Mišayel Barčəm
 Leya ʾOraha
 Dawið ʾAdam
 Bənyamən Bənyamən
 Awiko Sulaqa
-Nawiya ʾOdišo
+Nawiya ʾOdišo
 Awiko Sulaqa
-Blandina Barwari
-Yuwarəš Xošăba Kena
+Blandina barwari
+Yuwarəš Xošăba Kena
 Dawið ʾAdam
 Gwərgəs Dawið
 Awiko Sulaqa
@@ -47,23 +47,23 @@ Dawið ʾAdam
 Dawið ʾAdam
 Dawið ʾAdam
 Dawið ʾAdam
-Yuwəl Yuḥanna
+Yuwəl Yuḥanna
 Dawið ʾAdam
-Yuwarəš Xošăba Kena
-Yuwəl Yuḥanna
+Yuwarəš Xošăba Kena
+Yuwəl Yuḥanna
 Awiko Sulaqa
 Gwərgəs Dawið
 Dawið ʾAdam
 Dawið ʾAdam
 Dawið ʾAdam
-Xošebo ʾOdišo
+Xošebo ʾOdišo
 Dawið ʾAdam
 Dawið ʾAdam
 Bənyamən Bənyamən
-Xošebo ʾOdišo
-Yuwəl Yuḥanna
+Xošebo ʾOdišo
+Yuwəl Yuḥanna
 Dawið ʾAdam
-Xošebo ʾOdišo
+Xošebo ʾOdišo
 Yulia Davudi
 Nancy George
 Yulia Davudi

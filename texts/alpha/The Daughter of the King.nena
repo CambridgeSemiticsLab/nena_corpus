@@ -1,10 +1,11 @@
-dialect:: Barwar
+dialect:: barwar
 title:: The Daughter of the King
-encoding:: UTF8
+encoding:: UTF-8
 source:: bar text a19-A23.html
 text_id:: A21
 place:: Dure
 speakers:: Dʾ=Dawið ʾAdam
+corpus_id:: 66
 
 (1) ʾíθwa xa-màlka.ˈ ʾíθwale xa-bràta,ˈ gu-bɛ́θa har-y-oyáwa dmìxtaˈ ʾu-xàla,ˈ
 dmíxta-w xàla.ˈ ʾítwala xa-qaráwət gòṛta.ˈ mɛθíwala xadamyáθa díya ʾixàla,ˈ

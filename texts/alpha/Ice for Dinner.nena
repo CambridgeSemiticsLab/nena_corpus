@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: Ice for Dinner
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A12
 place:: +Hassar +Baba-čanɟa, N
 speakers:: YD=Yulia Davudi
+corpus_id:: 30
 
 (1) xá-yuma mə́drə ⁺málla Nasrádən màyələˈ ⁺jíɟar mə́n <?:culliyè>,ˈ cəlliyyàtəˈ
 ʾáxnan tanáxla,ˈ cəlliyyày.ˈ màyələˈ bèta.ˈ báxtu váyəla tə́vta ⁺ʾal-hàvuz,ˈ mànə

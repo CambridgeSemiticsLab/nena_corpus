@@ -10,7 +10,7 @@
 @value=string
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2021-06-07T17:06:44Z
+@dateWritten=2021-06-09T16:42:10Z
 
 713308	A6
 A7

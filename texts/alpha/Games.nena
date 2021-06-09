@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: Games
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: B9
 place:: Zumallan, N
 speakers:: AB=Alice Bet-Yosəp
+corpus_id:: 25
 
 (1) ʾànaˈ ⁺báyyan tànyanˈ šə́mmanət xácma ⁺ṱālyàtəˈ b-surútan k̭át ⁺ṱúləx
 ɟu-mavàtə.ˈ šəmmané ʾàtxa bitáyəna.ˈ (2) ʾe-k̭ámeta tayànnaˈ mutxərrálux k̭àyˈ

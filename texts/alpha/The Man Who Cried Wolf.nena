@@ -1,10 +1,11 @@
-dialect:: Barwar
+dialect:: barwar
 title:: The Man Who Cried Wolf
-encoding:: UTF8
+encoding:: UTF-8
 source:: bar text a48.html
 text_id:: A48
 place:: Dure
 speakers:: Dʾ=Dawið ʾAdam
+corpus_id:: 81
 
 (1) ʾíθwa xa-nàšaˈ gu-ða-màθa,ˈ rába rába duglàna-wewa.ˈ mdagə́lwa mən-nàše,ˈ
 y-ámər hàtxɛle wíða fə́llən,ˈ hàtxɛle wíða fə́llən.ˈ rába məndiyáne y-awə̀ðwala,ˈ

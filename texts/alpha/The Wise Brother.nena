@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: The Wise Brother
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A48
 place:: Arzni, Armenia
 speakers:: AM=Arsen Mikhaylov
+corpus_id:: 106
 
 (1) masálo ʾíla hàdaˈ dá məttə̀ltaˈ dáx ṱ-í ʾàna šə́myon mə̀nˈ nanùnti,ˈ mən-yə̀mmiˈ
 mən-sàvan.ˈ ⁺manáyu ʾíla bàsˈ tré ⁺p̭arsùpəˈ tré ʾaxunvàtə.ˈ xá-mənne váyələ

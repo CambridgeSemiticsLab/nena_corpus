@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: Vineyards
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: B13
 place:: Zumallan, N
 speakers:: VO=Victor Orshan
+corpus_id:: 120
 
 (1) xá dánət bne-mátət Zumàllanˈ c-odíva ⁺ʾaccarùytaˈ ci-⁺zarrìvaˈ ya-ʾə́tvalun
 baxčánə carmànə.ˈ ʾína k̭a-maštétət dánnə baxčánə carmànəˈ màjbur=ivaˈ ⁺ṱalbíva

@@ -1,10 +1,11 @@
-dialect:: Barwar
+dialect:: barwar
 title:: Gozali and Nozali
-encoding:: UTF8
+encoding:: UTF-8
 source:: bar text a8.html
 text_id:: A8
 place:: ʾƐn-Nune
 speakers:: NB=Nanəs Bənyamən
+corpus_id:: 26
 
 (1) ʾána šmíyənwa xa-tunìθaˈ y-amríwala Gozáli ʾu-Nozàli,ˈ šə́mma díya yáʿni
 tuníθət Gozáli ʾu-Nozàli.ˈ dáx ʾiwáwa ʾàyya?ˈ ʾi-mšárəxwa tuníθa y-amrìwaˈ (2)

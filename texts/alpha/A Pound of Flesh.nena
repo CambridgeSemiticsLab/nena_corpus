@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: A Pound of Flesh
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A7
 place:: +Hassar +Baba-čanɟa, N
 speakers:: YD=Yulia Davudi
+corpus_id:: 12
 
 (1) k̭ámta ʾə́tva xa-dána nàšaˈ xə́šlə cəs-⁺hàjiˈ šk̭ə́llə-mənnu zùyzə.ˈ mə̀rrəˈ
  ⁺hàji,ˈ <P:ʾəhtəyā̀j> ʾə́tliˈ <P:ʾəhtəyā̀j>ˈ snìk̭ənˈ ⁺ʾal-ʾalpá ⁺dinárə

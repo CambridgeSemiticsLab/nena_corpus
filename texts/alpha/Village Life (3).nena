@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: Village Life (3)
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: B10
 place:: Zumallan, N
 speakers:: AB=Alice Bet-Yosəp, GK=Geoffrey Khan
+corpus_id:: 115
 
 (1) sə́tva k̭arbúnələ bí čiriyyavàtəˈ <?:Octòber>.ˈ k̭a-⁺ṱùsa,ˈ bá ṱúsa b-<?:Octóber>
 cúllə mə́ndi ⁺mavùruna,ˈ pìcə,ˈ ⁺ṱùnta.ˈ ʾíta ʾánnə ⁺ʾànvəvaˈ cúllə

@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: The Loan of a Cooking Pot
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A8
 place:: +Hassar +Baba-čanɟa, N
 speakers:: YD=Yulia Davudi
+corpus_id:: 80
 
 (1) xá-yuma ⁺málla ⁺Nasràdənˈ bərrə̀xšələˈ bəšk̭álələ ⁺k̭usárta déna mən-švàvu.ˈ
 màrələˈ hálli xá-dana ⁺k̭usàrtaˈ ⁺báyyən bášlən ɟávo bušàla.ˈ ⁺k̭usárta ⁺ɟúrta

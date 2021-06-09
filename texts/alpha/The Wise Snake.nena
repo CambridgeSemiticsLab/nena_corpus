@@ -1,10 +1,11 @@
-dialect:: Barwar
+dialect:: barwar
 title:: The Wise Snake
-encoding:: UTF8
+encoding:: UTF-8
 source:: bar text a1-A7.html
 text_id:: A1
 place:: Dure
 speakers:: YY=Yuwəl Yuḥanna
+corpus_id:: 108
 
 (1) ʾána ʾíwən Yúwəl Yuḥànnaˈ ʾÌsḥaqˈ t-máθət Dùre,ˈ t-Bɛ̀rwər.ˈ ʾáyya hóla
 θàya,ˈ hóla màra:ˈ

@@ -8,7 +8,7 @@ import unicodedata as ucd
 class NenaTfBuilder:
     """Construct Text-Fabric graph resource from parsed NENA files."""
     
-    def __init__(self, dialect2data, configfile, **TF_kwargs):
+    def __init__(self, dialect2data, configdict, **TF_kwargs):
         """Load json data from input dir to prepare for TF conversion.
         
         Args:
@@ -27,7 +27,7 @@ class NenaTfBuilder:
 
         # load JSON data and initialize TF objects
         self.dialect2data = dialect2data
-        self.configs = self.load_configs(configfile)
+        self.configs = self.load_configs(configdict)
         outdir = self.configs['tf_outdir'].format(version=self.configs['version'])
         self.Fabric = Fabric(
             locations=outdir,
@@ -53,12 +53,8 @@ class NenaTfBuilder:
         self.chardata.update(self.configs['punct_begin'])
         self.chardata.update(self.configs['punct_end'])
 
-    def load_configs(self, configfile):
+    def load_configs(self, configs):
         """Load (sub)configs into dict."""
-
-        # load config data
-        with open(configfile, 'r') as infile:
-            configs = json.load(infile)
 
         # load sub-configs
         sconfigs = {}

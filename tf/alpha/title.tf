@@ -10,10 +10,10 @@
 @value=string
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2021-06-07T17:06:45Z
+@dateWritten=2021-06-09T16:42:11Z
 
 713308	A Hundred Gold Coins
-A Man Called Čuxo
+A Man Called Čuxo
 A Tale of Two Kings
 A Tale of a Prince and a Princess
 Baby Leliθa
@@ -23,7 +23,7 @@ I Am Worth the Same as a Blind Wolf
 Man Is Treacherous
 Measure for Measure
 Nanno and Jəndo
-Qaṭina Rescues His Nephew From Leliθa
+Qaṭina Rescues His Nephew From Leliθa
 Sour Grapes
 Tales From the 1001 Nights
 The Battle With Yuwanəs the Armenian
@@ -40,7 +40,7 @@ The Fox and the Stork
 The Giant’s Cave
 The Girl and the Seven Brothers
 The King With Forty Sons
-The Leliθa From č̭āl
+The Leliθa From č̭āl
 The Lion King
 The Lion With a Swollen Leg
 The Man Who Cried Wolf
@@ -54,8 +54,8 @@ The Selfish Neighbour
 The Sisisambər Plant
 The Story With No End
 The Tale of Farxo and Səttiya
-The Tale of Mămo and Zine
-The Tale of Mərza Pămət
+The Tale of Mămo and Zine
+The Tale of Mərza Pămət
 The Tale of Nasimo
 The Tale of Parizada, Warda and Nargis
 The Tale of Rustam (1)
@@ -63,7 +63,7 @@ The Tale of Rustam (2)
 The Wise Daughter of the King
 The Wise Snake
 The Wise Young Man
-Šošət Xere
+Šošət Xere
 A Close Shave
 A Cure for a Husband’s Madness
 A Donkey Knows Best

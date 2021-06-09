@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: The Man Who Wanted to Complain to God
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A49
 place:: Arzni, Armenia
 speakers:: SD=Sophia Danielova
+corpus_id:: 82
 
 (1) ʾə́tva lə́tva xá nàšaˈ ʾó ⁺ʾarp̭á yā́l sū̀r ʾə́tvalə.ˈ cú-dax vàdəva,ˈ lèʾva
  ⁺myása ríša xamìva.ˈ mára k̭émən k̭a-ʾázən k̭a-⁺marya ʾaláha xaltána šəccàyat

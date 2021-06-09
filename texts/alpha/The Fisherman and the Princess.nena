@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: The Fisherman and the Princess
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A34
 place:: Babari, S
 speakers:: NG=Nancy George
+corpus_id:: 68
 
 (1) xá yàlaˈ bábu myàtələ.ˈ xá yə́mma sòta váyulə.ˈ ʾá márəla k̭àtuˈ ʾádiyya xína
  ⁺ɟùra víyyət.ˈ c-⁺ámsət ʾázət pàlxət.ˈ ʾá yála bərrə́šxələ pəlxánələ hál

@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: Am I Dead?
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A13
 place:: +Hassar +Baba-čanɟa, N
 speakers:: YD=Yulia Davudi
+corpus_id:: 19
 
 (1) xá-ɟa xína mə́drə ⁺málla ⁺Nasràdənˈ bərrə̀xšələˈ k̭a-bàxtu márələˈ k̭àtˈ
 ʾən-ʾána mə̀tli,ˈ ⁺páġri mù p̭ṱ-ávə?ˈ mára mù p̭ṱ-ávə ⁺páġrux?ˈ ʾàxčiˈ ṱ-ávə

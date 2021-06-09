@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: The Little Prince and the Snake
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A46
 place:: Guylasar, Armenia
 speakers:: NA=Nadia Aloverdova
+corpus_id:: 79
 
 (1) vàyələ,ˈ lḕl váyaˈ xá dána màlca váyələ.ˈ yá málca váyulə xá brùna.ˈ brúnu
 b-surúytu ⁺róba baxyàna váyələ.ˈ léna ⁺myása k̭álu ⁺k̭aṱṱìlə.ˈ ⁺róba riɟaváy

@@ -1,10 +1,11 @@
-dialect:: Barwar
+dialect:: barwar
 title:: Dəmdəma
-encoding:: UTF8
+encoding:: UTF-8
 source:: bar text A9-A13.html
 text_id:: A11
 place:: Dure
 speakers:: YK=Yuwarəš Xošăba Kena
+corpus_id:: 23
 
 (1) ʾíθwa xa-Xáno Lapzèrin.ˈ b-ʾắṣəl díye ʾiwéwa qărăčàya.ˈ ʾína rába gabbàra,ˈ
 xɛlàna-wewa.ˈ zílle xa-béna ʾárya θéle ṭálbe dìye,ˈ ʾáwwa qṭìlle ṭla-ʾárya,ˈ

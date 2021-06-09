@@ -1,10 +1,11 @@
-dialect:: Barwar
+dialect:: barwar
 title:: The Tale of Mămo and Zine
-encoding:: UTF8
+encoding:: UTF-8
 source:: bar text a26.html
 text_id:: A26
 place:: Dure
 speakers:: Dʾ=Dawið ʾAdam
+corpus_id:: 97
 
 (1) hadíya mšárəx qəṣṣə́ttət Mắmo-w Zìne.ˈ Mằmoˈ ʾíwewa gu-ʾAlā̀nˈ ʾu-Zìneˈ ʾiwáwa
 gu-Jazíre Bòta.ˈ jə̀nneˈ t-šmàyyaˈ qímla wídla tàgbir.ˈ jmíla lə̀-ġðaðeˈ mə̀raˈ

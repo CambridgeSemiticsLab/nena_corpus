@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: The Dead Rise and Return
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A6
 place:: +Hassar +Baba-čanɟa, N
 speakers:: YD=Yulia Davudi
+corpus_id:: 67
 
 (1) xa-bàxta ʾə́tva.ˈ tàlmaˈ tálma ⁺bəddáyət mù=ilə?ˈ mìyya dári ɟávu.ˈ tàlma,ˈ
 ʾə́tvalə k̭átta ⁺xòla.ˈ mattíval ⁺ʾal-⁺rušané baxtàtə,ˈ c-azíva mən-šak̭íta mìyya

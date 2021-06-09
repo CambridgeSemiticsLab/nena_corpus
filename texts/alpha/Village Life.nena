@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: Village Life
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: B2
 place:: Mushava, N
 speakers:: YP=Yonan Petrus, GK=Geoffrey Khan
+corpus_id:: 119
 
 (1) ⁺ṱlə́bloxun but-⁺zrùta k̭atóxun xácma məndyánə tánənˈ mən-Mùšáva,ˈ ʾìnaˈ ʾáha
 mə́ndit ʾána ⁺báyyən tanə̀nnəˈ bədvák̭ələ mən-cúllə matvátət dìyyanˈ k̭at-ʾə́tvalan

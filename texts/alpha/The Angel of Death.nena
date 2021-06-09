@@ -1,10 +1,11 @@
-dialect:: Urmi_C
+dialect:: urmi_c
 title:: The Angel of Death
-encoding:: UTF8
+encoding:: UTF-8
 source:: cu vol 4 texts.html
 text_id:: A24
 place:: +Hassar +Baba-čanɟa, N
 speakers:: YD=Yulia Davudi
+corpus_id:: 51
 
 (1) xà-yumaˈ ⁺málla ⁺mə̀ryəvaˈ ⁺rába xə̀rba.ˈ ⁺rába xə̀rba ⁺mə́ryəva,ˈ bitáyəva
 k̭at-mā̀tva.ˈ k̭a-bàxtu márələˈ <P:ayāl-jā̀n>,ˈ <P:ayāl-jā́n> ⁺yánə ⁺báxti
