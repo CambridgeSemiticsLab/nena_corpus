@@ -5,8 +5,9 @@ import traceback
 from pathlib import Path
 from nena_parser import NenaLexerParser
 from build_tf import NenaTfBuilder
-#from build_docs import DocsBuilder
+from build_docs import DocsBuilder
 import unicodedata as ucd
+from tf.client.make.build import Make
 
 class CorpusPipeline:
 
@@ -152,7 +153,8 @@ class CorpusPipeline:
 
     def build_docs(self, outpath):
         """Automatically build documentation on the corpus."""
-        pass
+        docs_builder = DocsBuilder(self.configs, outpath)
+        docs_builder.compile_doc()
 
     def build_layered_search(self, outpath):
         """Build layered search tool from TF files."""

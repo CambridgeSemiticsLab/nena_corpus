@@ -69,9 +69,12 @@ class NenaTfBuilder:
             if v.endswith('.json'):
                 with open(v, 'r') as infile:
                     sconfigs[k] = json.load(infile) 
-        configs.update(sconfigs)
 
-        return configs
+        # write to a copy of the dict 2 preserve original
+        configs2 = {k:v for k,v in configs.items()}
+        configs2.update(sconfigs)
+
+        return configs2
 
     def get_char_data(self, char_string, dialect):
         """Retrieve data for a letter/punct from the configs."""
