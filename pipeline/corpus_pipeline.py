@@ -7,7 +7,7 @@ from nena_parser import NenaLexerParser
 from build_tf import NenaTfBuilder
 from build_docs import DocsBuilder
 import unicodedata as ucd
-from tf.client.make.build import Make
+from tf.client.make.build import makeSearchClients
 
 class CorpusPipeline:
 
@@ -52,7 +52,7 @@ class CorpusPipeline:
             )
         )
 
-    def build_corpus(self, inpath, outpath):
+    def build_corpus(self, inpath, outdir):
         """Parse and index (TF) the nena corpus."""
         
         # parse the .nena files 
@@ -60,13 +60,13 @@ class CorpusPipeline:
         
         # index the data with Text-Fabric;
         # produces .tf files
-        self.build_tf(dialect2data, outpath)
+        self.build_tf(dialect2data, outdir)
 
         # build docs
-        self.build_docs(outpath)
+        self.build_docs(outdir)
 
         # build search tool
-        self.build_layered_search(outpath)
+        self.build_layered_search(outdir)
 
     def parse_nena(self, inpath):
         """Parse .nena markup files."""
@@ -136,26 +136,42 @@ class CorpusPipeline:
         metadata = dict(re.findall(meta_re, nenastring))
         return metadata
 
-    def build_tf(self, dialect2data, outpath):
+    def build_tf(self, dialect2data, outdir):
         """Index the parsed .nena data into a Text-Fabric resource."""
         # instance an error list
         errlog = self.errors['tf_builder'] = []
         try:
+            print()
+            print('Indexing new corpus data...')
             tfbuilder = NenaTfBuilder(
                 dialect2data, 
-                outpath,
+                outdir,
                 self.configs, 
             )
             tfbuilder.build()
+            print('\tSUCCESS! TF corpus built.')
         except Exception as e:
             traceback = self.get_traceback(e)
             errlog.append(f'TEXT FABRIC INDEXING FAILED; REASON: {traceback}')
 
-    def build_docs(self, outpath):
+    def build_docs(self, outdir):
         """Automatically build documentation on the corpus."""
-        docs_builder = DocsBuilder(self.configs, outpath)
+        print()
+        print('Loading TF data and building documentation...')
+        docs_builder = DocsBuilder(self.configs, outdir)
         docs_builder.compile_doc()
+        print('\tdone!')
 
-    def build_layered_search(self, outpath):
+    def build_layered_search(self, outdir):
         """Build layered search tool from TF files."""
-        pass
+        print()
+        print('Building search tool...')
+        search_dir = Path(outdir).joinpath('search_tool')
+        tf_dir = Path(outdir).joinpath('tf')
+        makeSearchClients(
+            'nena', 
+            str(search_dir), 
+            self.configs['search_configs'], 
+            dataDir=str(tf_dir)
+        )
+        print('\tdone!')

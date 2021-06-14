@@ -2,7 +2,7 @@
     "version": "alpha",
     "parse_debug": "parser.out",
     "tf_config": "definitions/tf_config.json",
-    "search_config": "definitions/search_config",
+    "search_configs": "definitions/search_configs",
     "doc_template": "definitions/doc_template.md",
     "metadata": "definitions/metadata.json",
     "alphabet": "definitions/alphabet.json",

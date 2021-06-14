@@ -1,0 +1,197 @@
+
+<html> 
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<link rel="shortcut icon" href="favicon.ico">
+		<title>nena-phono search</title>
+    <link rel="stylesheet" href="css/ls.css"></script>
+    <link rel="stylesheet" href="css/phono.css"></script>
+    <script defer src="jslib/jquery.js"></script>
+    <script defer src="corpus/config.js"></script>
+    <script defer src="all.js"></script>
+    <script defer src="corpus/init.js"></script>
+    <script defer src="corpus/links.js"></script>
+    <script defer src="corpus/up.js"></script>
+    <script defer src="corpus/texts-word-manner.js"></script>
+<script defer src="corpus/texts-word-full.js"></script>
+<script defer src="corpus/posinfo-word-fuzzy.js"></script>
+<script defer src="corpus/texts-word-cls.js"></script>
+<script defer src="corpus/texts-word-lite.js"></script>
+<script defer src="corpus/texts-word-text.js"></script>
+<script defer src="corpus/posinfo-line-number.js"></script>
+<script defer src="corpus/texts-word-fuzzy.js"></script>
+<script defer src="corpus/texts-word-place.js"></script>
+<script defer src="corpus/posinfo-word-text.js"></script>
+<script defer src="corpus/posinfo-word-lite.js"></script>
+<script defer src="corpus/texts-text-title.js"></script>
+<script defer src="corpus/posinfo-word-full.js"></script>
+<script defer src="corpus/posinfo-text-title.js"></script>
+<script defer src="corpus/texts-text-tid.js"></script>
+<script defer src="corpus/posinfo-text-place.js"></script>
+<script defer src="corpus/posinfo-text-tid.js"></script>
+<script defer src="corpus/texts-word-lang.js"></script>
+<script defer src="corpus/texts-line-number.js"></script>
+<script defer src="corpus/texts-word-voice.js"></script>
+<script defer src="corpus/posinfo-word-speaker.js"></script>
+<script defer src="corpus/texts-text-place.js"></script>
+<script defer src="corpus/texts-text-dialect.js"></script>
+<script defer src="corpus/posinfo-word-lang.js"></script>
+<script defer src="corpus/posinfo-word-cls.js"></script>
+<script defer src="corpus/texts-word-speaker.js"></script>
+<script defer src="corpus/posinfo-text-dialect.js"></script>
+	</head>
+	<body>
+    <div class="page">
+      <div class="leftcol">
+        <div class="progress" id="progress">
+          Loading corpus nena for phono search interface ...<br>
+        </div>
+        <a
+           id="corpuslink" href="#"
+           class="logo right"
+        ><img alt="corpus logo" id="logo" src="png/phono.png"></a>
+        <div id="titleplace"></div>
+        <div id="jobsplace"></div>
+        <form>
+        <div id="query">
+          <table id="querytable">
+            <tbody id="querybody">
+            </tbody>
+          </table>
+        </div>
+        <div id="results">
+          <div id="execute">
+            <button
+                type="submit" accesskey="g" title="Enter or Ctr-Opt-G go search"
+                class="dirty" id="go"
+            >go search</button>
+            <button
+                type="button" class="medium active" id="exportr"
+                title="export all results to tab-separated file"
+            >↓</button>
+          </div>
+          <div id="runerror" class="error">
+          </div>
+          <div id="resultoverview" class="cols">
+            <div id="stats">
+              <table>
+                <colgroup>
+                  <col align="left">
+                  <col align="right">
+                </colgroup>
+                <thead id="statshead">
+                  <tr>
+                    <th class="a-l">level</th>
+                    <th class="a-r">total</th>
+                    <th class="a-r">results</th>
+                </tr>
+                </thead>
+                <tbody id="statsbody">
+                </tbody>
+              </table>
+            </div>
+            <div>
+              <div id="settingsplace"></div>
+              <div id="keyboardplace"></div>
+            </div>
+            <div id="ifsetting"></div>
+          </div>
+        </div>
+        <div id="provenance">
+          <table>
+            <tbody>
+              <tr>
+                <td>help</td>
+                <td><a id="lsdoclink" href="#"></a> ; <a id="cheatsheetlink" href="#"></a></td>
+              </tr>
+              <tr>
+                <td>writing</td>
+                <td><a id="writinglink" href="#"></a> </td>
+              </tr>
+              <tr>
+                <td>docs</td>
+                <td><a id="datadoclink" href="#"></a> </td>
+              </tr>
+              <tr>
+                <td>related</td>
+                <td><a id="relatedlink" href="#"></a> </td>
+              </tr>
+              <tr>
+                <td>data version</td>
+                <td><a id="datalink" href="#"></a> </td>
+              </tr>
+              <tr>
+                <td>app version</td>
+                <td><span id="appversion"></span></td>
+              </tr>
+            </tbody>
+          </table>
+          <p><a id="issuelink" href="#" class="medium active"></a>
+            please copy the version above this line
+          </p>
+        </div>
+      </div>
+      </form>
+      <div class="midcol">
+        <div id="setterw">
+          <div>focus:</div>
+          <input
+            accesskey="m" title="Ctr-Opt-M manual input"
+            type="number"
+            name="setter" id="setter"
+            min="1" max="1" step="1"
+            value="1"
+          >
+        </div>
+        <div class="upnav">
+          <button
+              type="button" accesskey="p" title="Ctr-Opt-P previous one"
+              class="small" id="minp"
+          >↑</button>
+          <button
+              type="button" accesskey="b" title="Ctr-Opt-B backward screen"
+              class="small" id="min2p"
+          >↑↑</button>
+          <button
+              type="button" accesskey="s" title="Ctr-Opt-S start of results"
+              class="small" id="mina"
+          >┳</button>
+        </div>
+        <div class="downnav">
+          <button
+              type="button" accesskey="n" title="Ctr-Opt-N next one"
+              class="small" id="maxp"
+          >↓</button>
+          <button
+              type="button" accesskey="f" title="Ctr-Opt-F forward screen"
+              class="small" id="max2p"
+          >↓↓</button>
+          <button
+              type="button" accesskey="e" title="Ctr-Opt-E end of results"
+              class="small" id="maxa"
+          >┻</button>
+        </div>
+        <div id="totalw">
+          total: <span id="total">0</span>
+        </div>
+        <div id="sliderw" class="swrapper">
+          <input
+            type="range"
+            name="slider" id="slider"
+            min="1" max="1" step="1"
+            value="1"
+          >
+        </div>
+      </div>
+      <div class="rightcol">
+        <table id="resultstable">
+          <thead id="resultshead">
+          </thead>
+          <tbody id="resultsbody">
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>
+</html>
