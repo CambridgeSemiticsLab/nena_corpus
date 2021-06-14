@@ -4,39 +4,46 @@ import collections
 from tf.fabric import Fabric
 from tf.convert.walker import CV
 import unicodedata as ucd
+from pathlib import Path
 
 class NenaTfBuilder:
     """Construct Text-Fabric graph resource from parsed NENA files."""
     
-    def __init__(self, dialect2data, configdict, **TF_kwargs):
+    def __init__(self, dialect2data, outpath, configdict, **TF_kwargs):
         """Load json data from input dir to prepare for TF conversion.
         
         Args:
-            input_dir: pathlib Path which is a directory that contains
-                subdirectories named after the respective dialects in the
-                text corpus. Each subdirectory should contain parsed JSON
-                texts ready for analysis.
-            output_dir: directory to save the .tf files
-            metadata: dictionary containing metadata on the corpus needed
-                to construct the TF graph
-            Fabric: Text-Fabric module for saving/outputing data
-            CV: Text-Fabric CV module for constructing text graphs
+            dialect2data: parsed data in the form of a list of two-lists;
+                where element 0 in two-list is metadata dict, and element 1
+                is a list of parsed data for TF; these are produced by the
+                nena parser
+            outpath: location for the TF files to go; they are saved in their
+                own subdirectory under "tf"
+            configdict: config files for Text-Fabric NENA corpus
             **TF_kwargs: optional kwargs to pass to Text-Fabric loader
         """
-
 
         # load JSON data and initialize TF objects
         self.dialect2data = dialect2data
         self.configs = self.load_configs(configdict)
-        outdir = self.configs['tf_outdir'].format(version=self.configs['version'])
+
+        # configure the outpath
+        outpath = Path(outpath).joinpath('tf')
+        if not outpath.exists():
+            outpath.mkdir()
+
+        # load up and configure TF classes
         self.Fabric = Fabric(
-            locations=outdir,
+            locations=str(outpath),
             **TF_kwargs
         )
         self.cv = CV(self.Fabric)
         self.msg = self.Fabric.tmObj # timestamped messages
 
-        # prepare metadata for the TF builder
+        # prepare metadata for the TF builder;
+        # some features need to be ignored since they are currently not
+        # in use due to the need for further development;
+        # in other cases, the features need to be assigned as integers for TF
         self.metadata = self.configs['metadata']
         self.metadata.update(self.configs['tf_config'])
         self.metadata['object_features'] = {
@@ -56,7 +63,7 @@ class NenaTfBuilder:
     def load_configs(self, configs):
         """Load (sub)configs into dict."""
 
-        # load sub-configs
+        # load various config files
         sconfigs = {}
         for k,v in configs.items():
             if v.endswith('.json'):
@@ -85,18 +92,38 @@ class NenaTfBuilder:
         return cdata
     
     def get_transcriptions(self, char_string, dialect):
-        """Retrieve letter/punct transcriptions."""
-        trans_data = {}
+        """Retrieve letter/punct transcriptions.
+
+            Args:
+                char_string: unique combination of unicode characters that
+                    has a phonetic / semantic value in the NENA alphabet. Can
+                    also include punctuation
+                dialect: dialect code used for looking up unique dialect transcription
+                    settings; see for example urmi_c which has its own unique 
+                    transcriptions for the `fuzzy` transcription
+        """
+
+        # dict to contain:
+        # transcription_name: transcribed value
+        # for the various transcription types (names)
+        trans_data = {} 
+
+        # iterate through all unique transcriptions and retrieve the 
+        # transcription assigned to this unique char_string (char combo)
         for tname, tdata in self.configs['transcriptions'].items():
-            try:
-                dialect_set = tdata['dialect2set'][dialect]
-            except KeyError:
-                raise Exception(
-                    f'Dialect {dialect} is not '
-                    'configured in transcriptions.json!'
-                )
-            # NB the default string below, to handle non-mapped characters
+
+            # retrieve unique dialect set for the transcription if configured for 
+            # this dialect; otherwise get the default dialect set
+            dialect_set = tdata['dialect2set'].get(dialect)
+            if dialect_set == None:
+                dialect_set = tdata['dialect2set']['default']
+
+            # get the transcription for the character(s);
+            # .get is used to pass through un-transcribed chars as-is;
+            # thus any char combination without a transcription in the 
+            # table is returned unchanged
             trans_data[tname] = tdata[dialect_set].get(char_string, char_string)
+
         return trans_data
         
     # NB: deprecated now that data is fed in as an arg
@@ -220,8 +247,10 @@ class NenaTfBuilder:
                     
                     # track span features and add them to words as words are made
                     # span feature values can be altered when triggered by new span tags
+                    speakers = text_attributes.get('speakers', {'?':'?'})
+                    first_speaker = list(speakers.values())[0]
                     span_feats = {
-                        'speaker': list(text_attributes['speakers'].values())[0],
+                        'speaker': first_speaker,
                         'lang': 'NENA',
                         'timestamp': None,
                     }

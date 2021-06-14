@@ -14,6 +14,6 @@
         "nu", "nu_class", "trns", "syn", "stem",
         "tense", "gloss", "n_parses",
         "full_begin", "fuzzy_begin", "lite_begin",
-        "stem", "syn", "text_begin", "timestamp", "trns"
+        "stem", "syn", "text_begin", "trns"
     ] 
 }
